@@ -226,6 +226,7 @@ async def main():
         print("making git commit")
         subprocess.run(["/usr/bin/env", "git", "add", "-A"], check=True)
         subprocess.run(["/usr/bin/env", "git", "commit", "-a", "-m", f"{processed_items} items changed"], check=True)
+        subprocess.run(["/usr/bin/env", "git", "push"], check=True)
 
 if __name__ == "__main__":
     asyncio.run(main())
