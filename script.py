@@ -213,10 +213,11 @@ async def product_download(
         raise
 
 async def main():
-    await cve_download("NVD", "rest/json/cves/2.0", "vulnerabilities", "cve", "id", "lastModStartDate", "lastModEndDate")
-    await cve_download("CVE_history", "rest/json/cvehistory/2.0", "cveChanges", "change", "cveId", "changeStartDate", "changeEndDate")
-    await product_download("CPE", "rest/json/cpes/2.0", "products", "cpe", "cpeName", "cpeNameId", "lastModStartDate", "lastModEndDate")
-    await product_download("MacthCriteria", "rest/json/cpematch/2.0", "matchStrings", "matchString", "criteria", "matchCriteriaId", "lastModStartDate", "lastModEndDate")
+    async with asyncio.TaskGroup() as tg:
+        tg.create_task(cve_download("NVD", "rest/json/cves/2.0", "vulnerabilities", "cve", "id", "lastModStartDate", "lastModEndDate"))
+        tg.create_task(cve_download("CVE_history", "rest/json/cvehistory/2.0", "cveChanges", "change", "cveId", "changeStartDate", "changeEndDate"))
+        tg.create_task(product_download("CPE", "rest/json/cpes/2.0", "products", "cpe", "cpeName", "cpeNameId", "lastModStartDate", "lastModEndDate"))
+        tg.create_task(product_download("MacthCriteria", "rest/json/cpematch/2.0", "matchStrings", "matchString", "criteria", "matchCriteriaId", "lastModStartDate", "lastModEndDate"))
 
 if __name__ == "__main__":
     asyncio.run(main())
