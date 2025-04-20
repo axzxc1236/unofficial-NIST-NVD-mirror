@@ -1,16 +1,17 @@
 #! /usr/bin/env -S uv run --script
 # "This product uses the NVD API but is not endorsed or certified by the NVD."
 # Original Python script is licensed under MIT license, created by axzxc1236
+import asyncio
 import orjson
 import re
 import requests
+import subprocess
 import threading
 import traceback
 import queue
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from time import sleep
-import asyncio
 
 CVE_pattern = re.compile(r"CVE-(?P<year>\d+)-(?P<number>\d+)")
 
@@ -123,7 +124,7 @@ async def cve_download(
         entry_id_key: str,
         since_parameter_name: str,
         until_parameter_name: str
-        ):
+        ) -> int:
     since = None
     if Path(f"{tag}/since").exists():
         with Path(f"{tag}/since").open() as timestamp_file:
@@ -154,6 +155,7 @@ async def cve_download(
         if not worker.critical_failure:
             with Path(f"{tag}/since").open(mode="w") as timestamp_file:
                 timestamp_file.write(str(worker.until_timestamp))
+        return processed_items
     except:
         worker.queue.shutdown()
         raise
@@ -181,7 +183,7 @@ async def product_download(
         match_criteria_key: str,
         since_parameter_name: str,
         until_parameter_name: str
-    ):
+    ) -> int:
     since = None
     if Path(f"{tag}/since").exists():
         with Path(f"{tag}/since").open() as timestamp_file:
@@ -208,16 +210,22 @@ async def product_download(
         if not worker.critical_failure:
             with Path(f"{tag}/since").open(mode="w") as timestamp_file:
                 timestamp_file.write(str(worker.until_timestamp))
+        return processed_items
     except:
         worker.queue.shutdown()
         raise
 
 async def main():
     async with asyncio.TaskGroup() as tg:
-        tg.create_task(cve_download("NVD", "rest/json/cves/2.0", "vulnerabilities", "cve", "id", "lastModStartDate", "lastModEndDate"))
-        tg.create_task(cve_download("CVE_history", "rest/json/cvehistory/2.0", "cveChanges", "change", "cveId", "changeStartDate", "changeEndDate"))
-        tg.create_task(product_download("CPE", "rest/json/cpes/2.0", "products", "cpe", "cpeName", "cpeNameId", "lastModStartDate", "lastModEndDate"))
-        tg.create_task(product_download("MacthCriteria", "rest/json/cpematch/2.0", "matchStrings", "matchString", "criteria", "matchCriteriaId", "lastModStartDate", "lastModEndDate"))
+        task1 = tg.create_task(cve_download("NVD", "rest/json/cves/2.0", "vulnerabilities", "cve", "id", "lastModStartDate", "lastModEndDate"))
+        task2 = tg.create_task(cve_download("CVE_history", "rest/json/cvehistory/2.0", "cveChanges", "change", "cveId", "changeStartDate", "changeEndDate"))
+        task3 = tg.create_task(product_download("CPE", "rest/json/cpes/2.0", "products", "cpe", "cpeName", "cpeNameId", "lastModStartDate", "lastModEndDate"))
+        task4 = tg.create_task(product_download("MacthCriteria", "rest/json/cpematch/2.0", "matchStrings", "matchString", "criteria", "matchCriteriaId", "lastModStartDate", "lastModEndDate"))
+    processed_items = task1.result() + task2.result() + task3.result() + task4.result()
+    if processed_items:
+        print("making git commit")
+        subprocess.run(["/usr/bin/env", "git", "add", "-A"], check=True)
+        subprocess.run(["/usr/bin/env", "git", "commit", "-a", "-m", f"{processed_items} items changed"], check=True)
 
 if __name__ == "__main__":
     asyncio.run(main())
