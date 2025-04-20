@@ -148,12 +148,11 @@ async def cve_download(
                     # include timestamp in filename becuase a CVE might have multiple changes
                     timestamp = int(datetime.fromisoformat(entry[layer2_data_key]["created"]).astimezone(timezone.utc).timestamp())
                     json_filepath = f"{tag}/{cve_year}/{crossed_number}/{cve_id.group(0)}-{timestamp}.json"
-                print(json_filepath)
                 with Path(json_filepath).open(mode="wb") as result_file:
                     result_file.write(orjson.dumps(entry[layer2_data_key], option=orjson.OPT_INDENT_2))
             print(f"[{datetime.now()}][{tag}] saved {len(list_of_entries)} items.")
             processed_items += len(list_of_entries)
-        if not worker.critical_failure:
+        if not worker.critical_failure and processed_items:
             with Path(f"{tag}/since").open(mode="w") as timestamp_file:
                 timestamp_file.write(str(worker.until_timestamp))
         return processed_items
@@ -208,7 +207,7 @@ async def product_download(
                     result_file.write(orjson.dumps(entry[layer2_data_key], option=orjson.OPT_INDENT_2))
             print(f"[{datetime.now()}][{tag}] saved {len(list_of_entries)} items.")
             processed_items += len(list_of_entries)
-        if not worker.critical_failure:
+        if not worker.critical_failure and processed_items:
             with Path(f"{tag}/since").open(mode="w") as timestamp_file:
                 timestamp_file.write(str(worker.until_timestamp))
         return processed_items
