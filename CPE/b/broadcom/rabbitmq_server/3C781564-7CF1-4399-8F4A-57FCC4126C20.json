@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:broadcom:rabbitmq_server:3.8.10:beta1:*:*:*:*:*:*",
+  "cpeNameId": "3C781564-7CF1-4399-8F4A-57FCC4126C20",
+  "lastModified": "2025-04-02T14:13:38.760",
+  "created": "2025-04-02T12:40:32.280",
+  "titles": [
+    {
+      "title": "Broadcom RabbitMQ Server 3.8.10 Beta 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.rabbitmq.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.broadcom.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/rabbitmq/rabbitmq-server",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/rabbitmq/rabbitmq-server/tags",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:vmware:rabbitmq:3.8.10:beta1:*:*:*:*:*:*",
+      "cpeNameId": "6B48DB1F-EC40-440F-B626-D3141931950E"
+    }
+  ]
+}

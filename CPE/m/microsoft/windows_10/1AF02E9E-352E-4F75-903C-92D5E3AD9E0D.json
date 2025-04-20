@@ -1,0 +1,35 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:22h2:*:*:*:*:*:arm64:*",
+  "cpeNameId": "1AF02E9E-352E-4F75-903C-92D5E3AD9E0D",
+  "lastModified": "2022-12-09T18:15:16.973",
+  "created": "2022-11-16T16:27:06.520",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 22H2 on ARM64",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/release-health/status-windows-10-22h2",
+      "type": "Product"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10_22h2:-:*:*:*:*:*:arm64:*",
+      "cpeNameId": "9BAECDB2-614D-4E9C-9936-190C30246F03"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:22h2:*:*:*:*:*:*:*",
+      "cpeNameId": "3BA75D8C-1E28-4EBA-BBD8-4C8DDB2B458B"
+    }
+  ]
+}

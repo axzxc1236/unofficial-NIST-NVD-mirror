@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:openbsd:openssh:2.9:p2:*:*:*:*:*:*",
+  "cpeNameId": "E3F0E575-74D9-4A9B-860B-1CA45FCFDA40",
+  "lastModified": "2022-08-04T15:08:27.340",
+  "created": "2019-10-04T18:46:10.133",
+  "titles": [
+    {
+      "title": "OpenBSD OpenSSH 2.9 p2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.openssh.com/releasenotes.html",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.openbsd.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.openssh.com/",
+      "type": "Project"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:openbsd:openssh:2.9p1:*:*:*:*:*:*:*",
+      "cpeNameId": "F1D67E4D-11F0-46C1-B756-BB69554A7273"
+    }
+  ]
+}

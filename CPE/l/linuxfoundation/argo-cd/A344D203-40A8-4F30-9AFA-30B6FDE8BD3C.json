@@ -1,0 +1,37 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:linuxfoundation:argo-cd:0.9.0:*:*:*:*:*:*:*",
+  "cpeNameId": "A344D203-40A8-4F30-9AFA-30B6FDE8BD3C",
+  "lastModified": "2024-08-07T15:43:47.567",
+  "created": "2021-03-03T16:40:08.330",
+  "titles": [
+    {
+      "title": "The Linux Foundation Argo CD 0.9.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.linuxfoundation.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://argo-cd.readthedocs.io/en/stable/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/argoproj/argo-cd/pull/5563",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/argoproj/argo-cd/releases",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:argoproj:argo_cd:0.9.0:*:*:*:*:*:*:*",
+      "cpeNameId": "C10FB01D-8AB4-4700-9ED8-3F14B5618FCC"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:kernel:util-linux:2.31:*:*:*:*:*:*:*",
+  "cpeNameId": "6039E95D-EFE5-4C6E-9E34-8056A53E0C5B",
+  "lastModified": "2020-09-10T18:08:27.263",
+  "created": "2019-01-04T14:14:11.677",
+  "titles": [
+    {
+      "title": "Kernel util-linux 2.31",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://www.kernel.org/pub/linux/utils/util-linux/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/karelzak/util-linux/releases",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:kernel:util-linux:2.31:-:*:*:*:*:*:*",
+      "cpeNameId": "6089617B-CC44-49BC-B27A-F2787742FD8E"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:util-linux_project:util-linux:2.31:*:*:*:*:*:*:*",
+      "cpeNameId": "69CF09BE-D097-46AF-B10C-0473E8671FD4"
+    }
+  ]
+}

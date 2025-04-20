@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:linuxfoundation:harbor:1.8.0:-:*:*:*:*:*:*",
+  "cpeNameId": "79C179D6-E929-40DC-88D1-D4381EC9ED0F",
+  "lastModified": "2020-04-01T15:03:30.117",
+  "created": "2020-04-01T15:03:30.117",
+  "titles": [
+    {
+      "title": "The Linux Foundation Harbor 1.8.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/goharbor/harbor/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.linuxfoundation.org/projects/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:goharbor:harbor:1.8.0:-:*:*:*:*:*:*",
+      "cpeNameId": "6878E65E-C905-4CD9-A2CB-FF2E1F4BAD6A"
+    },
+    {
+      "cpeName": "cpe:2.3:a:cncf:harbor:1.8.0:-:*:*:*:*:*:*",
+      "cpeNameId": "D9CDF5A0-E938-47CC-ACE0-F5C35B9361FF"
+    }
+  ]
+}

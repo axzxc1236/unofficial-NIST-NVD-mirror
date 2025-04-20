@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:jenkins:jenkins:1.409.1:*:*:*:lts:*:*:*",
+  "cpeNameId": "1ED6694F-7F55-4CEE-AC7E-4D914F9FABC8",
+  "lastModified": "2016-06-13T11:56:39.500",
+  "created": "2016-06-13T11:56:39.500",
+  "titles": [
+    {
+      "title": "Jenkins 1.409.1 Long Term Support (LTS)",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://jenkins.io/changelog-old/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/jenkinsci/jenkins",
+      "type": "Product"
+    },
+    {
+      "ref": "https://jenkins.io/index.html",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://jenkins.io/changelog/",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cloudbees:jenkins:1.409.1:-:lts:*:*:*:*:*",
+      "cpeNameId": "D88F2712-CB36-480F-844D-4EF1FE0AED61"
+    },
+    {
+      "cpeName": "cpe:2.3:a:cloudbees:jenkins:1.409.1:*:lts:*:*:*:*:*",
+      "cpeNameId": "5E524041-E1EA-42BF-BF3E-FB015267746C"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:1909:*:*:*:*:*:*:*",
+  "cpeNameId": "3FAE00A7-2E12-4E04-9266-0278DB5C3718",
+  "lastModified": "2022-12-02T17:02:36.483",
+  "created": "2020-01-14T16:44:15.403",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 1909",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.microsoft.com/en-us/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://support.microsoft.com/en-us/help/4529964/windows-10-update-history",
+      "type": "Product"
+    },
+    {
+      "ref": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1467",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:1909:*:*:*:*:*:arm64:*",
+      "cpeNameId": "1E7DA53F-E8F6-42D4-A5D5-CC397DA89B92"
+    },
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:1909:*:*:*:*:*:x64:*",
+      "cpeNameId": "A916F8D7-1F1D-4720-AEF7-C2773E73F664"
+    },
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:1909:*:*:*:*:*:x86:*",
+      "cpeNameId": "3AB38A7B-218B-41F2-9CB9-E7E4F4DFF539"
+    }
+  ]
+}

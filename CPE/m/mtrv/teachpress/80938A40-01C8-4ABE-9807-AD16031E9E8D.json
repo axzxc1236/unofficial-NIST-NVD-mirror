@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mtrv:teachpress:8.1.7:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "80938A40-01C8-4ABE-9807-AD16031E9E8D",
+  "lastModified": "2023-12-26T16:42:30.180",
+  "created": "2023-12-26T16:42:30.180",
+  "titles": [
+    {
+      "title": "MTRV teachPress 8.1.7 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://patchstack.com/database/vulnerability/teachpress/wordpress-teachpress-plugin-8-1-8-cross-site-scripting-xss-vulnerability?_s_id=cve",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://mtrv.wordpress.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/teachpress/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/teachpress/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:teachpress_project:teachpress:8.1.7:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "9B1854CE-92B2-4DD7-99E4-2D438D123BF2"
+    }
+  ]
+}

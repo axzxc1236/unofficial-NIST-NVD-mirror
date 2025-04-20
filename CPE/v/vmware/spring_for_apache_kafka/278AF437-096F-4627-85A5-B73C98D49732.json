@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:vmware:spring_for_apache_kafka:2.4.4:*:*:*:*:*:*:*",
+  "cpeNameId": "278AF437-096F-4627-85A5-B73C98D49732",
+  "lastModified": "2023-10-18T17:45:52.183",
+  "created": "2023-10-18T17:45:52.183",
+  "titles": [
+    {
+      "title": "VMware Spring for Apache Kafka 2.4.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/spring-projects/spring-kafka",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/spring-projects/spring-kafka/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://spring.io/projects/spring-kafka",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:vmware:spring:2.4.4:*:*:*:*:apache_kafka:*:*",
+      "cpeNameId": "23C75FE5-1E22-40AC-9830-79CC8371DD25"
+    }
+  ]
+}

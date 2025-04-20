@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:profilepress:profilepress:3.1.1:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "E32A691F-AEC7-4049-B1FB-B294B8969F52",
+  "lastModified": "2023-05-26T19:38:24.680",
+  "created": "2021-08-06T15:11:21.627",
+  "titles": [
+    {
+      "title": "ProfilePress 3.1.1 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://plugins.svn.wordpress.org/wp-user-avatar/trunk/changelog.txt",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/wp-user-avatar/#developers",
+      "type": "Product"
+    },
+    {
+      "ref": "https://profilepress.net/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:properfraction:profilepress:3.1.1:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "26D91C14-2CC7-4AB6-8A6F-12C96685CADE"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:profilepress:wp-user-avatar:3.1.1:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "DF39AEFB-4255-48D4-A13D-FCE12273F233"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:rack_project:rack:2.2.4:*:*:*:*:ruby:*:*",
+  "cpeNameId": "D6DC5652-C517-4C46-999E-748FA83AB32C",
+  "lastModified": "2025-02-13T15:37:38.553",
+  "created": "2023-02-16T18:59:23.800",
+  "titles": [
+    {
+      "title": "Rack Project Rack 2.2.4 for Ruby",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/rack/rack/tags",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://discuss.rubyonrails.org/t/cve-2022-44571-possible-denial-of-service-vulnerability-in-rack-content-disposition-parsing/82126",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:rack:rack:2.2.4:*:*:*:*:ruby:*:*",
+      "cpeNameId": "78CAA374-E06E-429E-9970-26763FB85F20"
+    }
+  ]
+}

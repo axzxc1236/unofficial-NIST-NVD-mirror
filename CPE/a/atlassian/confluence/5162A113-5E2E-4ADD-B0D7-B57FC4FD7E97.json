@@ -1,0 +1,35 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:atlassian:confluence:2.8:-:*:*:*:*:*:*",
+  "cpeNameId": "5162A113-5E2E-4ADD-B0D7-B57FC4FD7E97",
+  "lastModified": "2021-12-13T15:50:08.580",
+  "created": "2020-07-21T15:32:29.717",
+  "titles": [
+    {
+      "title": "Atlassian Confluence 2.8",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.atlassian.com/software/confluence",
+      "type": "Product"
+    },
+    {
+      "ref": "https://confluence.atlassian.com/conf714/confluence-release-notes-1087525906.html",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:atlassian:confluence_server:2.8:-:*:*:*:*:*:*",
+      "cpeNameId": "8DF2738D-AB10-4154-A9B2-56E1E84D7507"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:atlassian:confluence:2.8:*:*:*:*:*:*:*",
+      "cpeNameId": "04A7E7C0-DB98-4463-9357-97B902B71EA1"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:kubernetes:kubernetes:1.18.3:beta0:*:*:*:*:*:*",
+  "cpeNameId": "F4643068-1EC1-4EC7-AD27-B9D0AF02D8D3",
+  "lastModified": "2020-12-15T16:02:16.017",
+  "created": "2020-12-15T16:02:16.017",
+  "titles": [
+    {
+      "title": "Kubernetes 1.18.3 Beta 0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/kubernetes/kubernetes/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/kubernetes/kubernetes/issues/92315",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:kubernetes:kubernetes:18.3:beta0:*:*:*:*:*:*",
+      "cpeNameId": "699D4C5E-6271-432B-AD01-E10E3E61726E"
+    }
+  ]
+}

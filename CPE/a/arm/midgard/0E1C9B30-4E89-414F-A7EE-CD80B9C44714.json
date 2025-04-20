@@ -1,0 +1,35 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:arm:midgard:r30p0-01eac0:*:*:*:*:*:*:*",
+  "cpeNameId": "0E1C9B30-4E89-414F-A7EE-CD80B9C44714",
+  "lastModified": "2025-04-07T12:47:09.813",
+  "created": "2022-03-13T02:03:38.217",
+  "titles": [
+    {
+      "title": "ARM Midgard r30p0-01eac0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://developer.arm.com/support/arm-security-updates/mali-gpu-kernel-driver",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://developer.arm.com/tools-and-software/graphics-and-gaming/mali-drivers/midgard-kernel",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r30p0-01eac0:*:*:*:*:*:*:*",
+      "cpeNameId": "2D8D82F9-F0C6-4B01-B603-BCA2B4973191"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:arm:midguard:r30p0-01eac0:*:*:*:*:*:*:*",
+      "cpeNameId": "4C4C3B7E-2905-4F72-866E-DFC265D3FA1F"
+    }
+  ]
+}

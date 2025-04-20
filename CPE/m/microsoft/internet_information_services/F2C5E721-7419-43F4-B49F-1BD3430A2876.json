@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:internet_information_services:8.0:*:*:*:*:*:*:*",
+  "cpeNameId": "F2C5E721-7419-43F4-B49F-1BD3430A2876",
+  "lastModified": "2020-11-23T19:49:19.693",
+  "created": "2020-11-23T19:49:19.693",
+  "titles": [
+    {
+      "title": "Microsoft Internet Information Services (IIS) 8.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.iis.net/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://docs.microsoft.com/en-US/iis/get-started/whats-new-in-iis-10-version-1709/new-features-introduced-in-iis-10-1709",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:internet_information_server:8.0:*:*:*:*:*:*:*",
+      "cpeNameId": "2703C479-5AAB-460B-9E5C-8B5438DAE17C"
+    }
+  ]
+}

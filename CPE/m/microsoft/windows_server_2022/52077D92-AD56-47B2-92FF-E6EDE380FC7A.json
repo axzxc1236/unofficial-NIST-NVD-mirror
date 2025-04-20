@@ -1,0 +1,31 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:azure:*:*:*",
+  "cpeNameId": "52077D92-AD56-47B2-92FF-E6EDE380FC7A",
+  "lastModified": "2023-10-14T21:13:14.933",
+  "created": "2022-02-14T21:13:35.020",
+  "titles": [
+    {
+      "title": "Microsoft Windows Server 2022 Azure Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://docs.microsoft.com/en-us/windows-server/get-started/editions-comparison-windows-server-2022",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:azure:*:x64:*",
+      "cpeNameId": "55BC9535-EB28-4139-928A-FAB40528CC68"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:-:*:*:*",
+      "cpeNameId": "136B5F56-807F-45A9-9C6F-F990BEFD5237"
+    }
+  ]
+}

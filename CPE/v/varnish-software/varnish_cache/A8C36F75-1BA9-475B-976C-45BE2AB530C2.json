@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:varnish-software:varnish_cache:6.0.5:*:*:*:lts:*:*:*",
+  "cpeNameId": "A8C36F75-1BA9-475B-976C-45BE2AB530C2",
+  "lastModified": "2022-08-02T19:24:58.967",
+  "created": "2022-08-02T18:29:19.907",
+  "titles": [
+    {
+      "title": "Varnish Software Varnish Cache 6.0.5 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://varnish-cache.org/security/VSV00008.html#vsv00008",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://varnish-cache.org/index.html",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.varnish-software.com/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:varnish-cache:varnish_cache:6.0.5:*:*:*:lts:*:*:*",
+      "cpeNameId": "75429C04-D375-457D-BC2C-976226869A9E"
+    },
+    {
+      "cpeName": "cpe:2.3:a:varnish-cache:varnish_cache:6.0.5:*:*:*:-:*:*:*",
+      "cpeNameId": "69F7D884-9DE8-4A11-A9BB-750E26DF28D8"
+    },
+    {
+      "cpeName": "cpe:2.3:a:varnish-software:varnich_cache:6.0.5:*:*:*:-:*:*:*",
+      "cpeNameId": "C048F75E-B2F1-4099-A483-803CE774C6CC"
+    }
+  ]
+}

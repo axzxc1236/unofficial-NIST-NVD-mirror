@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:jenkins:openid:1.0:*:*:*:*:jenkins:*:*",
+  "cpeNameId": "5B13D7CC-9E81-4E5A-9AF0-3A98A9C45390",
+  "lastModified": "2025-01-28T17:16:05.017",
+  "created": "2020-07-14T17:10:58.017",
+  "titles": [
+    {
+      "title": "Jenkins OpenID 1.0 for Jenkins",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://plugins.jenkins.io/openid/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/jenkinsci/openid-plugin/",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:jenkins:openid_connect_authentication:1.0:*:*:*:*:jenkins:*:*",
+      "cpeNameId": "02D0177B-4A71-4ECA-AA9B-AA1F8F3860F3"
+    }
+  ]
+}

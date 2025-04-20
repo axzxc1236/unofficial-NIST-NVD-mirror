@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:opentext:brava\\!_desktop:-:*:*:*:*:*:*:*",
+  "cpeNameId": "77507E3E-0768-4468-A52C-8C62B3A48AF0",
+  "lastModified": "2023-09-21T19:06:02.910",
+  "created": "2023-09-21T19:06:02.910",
+  "titles": [
+    {
+      "title": "OpenText Brava! Desktop ",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.opentext.com/products/brava",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.cvedetails.com/vulnerability-list/vendor_id-2032/product_id-96672/opec-1/Opentext-Brava-Desktop.html",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=remote+code+execution+vulnerability+exists+in+Remote+Desktop",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:opentext:brava\\!_desktop:16.6.3.84:*:*:*:*:*:*:*",
+      "cpeNameId": "6F0A940E-FA54-4275-AAE9-0115AD51712F"
+    },
+    {
+      "cpeName": "cpe:2.3:a:opentext:brava\\!_desktop:16.6.4.55:*:*:*:*:*:*:*",
+      "cpeNameId": "E742D68C-4D13-42C9-8745-7EF03768CD25"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:10.15.1:*:*:*:lts:*:*:*",
+  "cpeNameId": "C27365FE-6675-46E9-B765-E3829B46BD3D",
+  "lastModified": "2024-03-07T21:32:09.957",
+  "created": "2019-03-04T15:01:11.623",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 10.15.1 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/download/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V10.md",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:10.15.1:*:*:*:-:*:*:*",
+      "cpeNameId": "C5D1E36B-2ADC-458E-80EA-AA8DF5005AB1"
+    }
+  ]
+}

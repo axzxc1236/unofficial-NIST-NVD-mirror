@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:jenkins:klocwork_analysis:1.14:*:*:*:*:jenkins:*:*",
+  "cpeNameId": "5ABAE5EF-9A53-404F-AA8C-DADE8D309BEB",
+  "lastModified": "2020-09-02T17:59:45.480",
+  "created": "2020-09-02T17:59:45.480",
+  "titles": [
+    {
+      "title": "Jenkins Klocwork Analysis 1.14 for Jenkins",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/jenkinsci/klocwork-plugin/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://plugins.jenkins.io/klocwork/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.jenkins.io/security/advisory/2020-09-01/#SECURITY-1831",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:jenkins:klocwork_analysis:1.14:*:*:*:*:*:*:*",
+      "cpeNameId": "89046957-3C2D-47AA-A727-642384443B5C"
+    }
+  ]
+}

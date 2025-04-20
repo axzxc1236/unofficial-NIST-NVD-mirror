@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:oracle:jdk:10:*:*:*:*:*:*:*",
+  "cpeNameId": "C435F0F3-4CC6-4514-A73E-ACABB6E6B79D",
+  "lastModified": "2023-11-21T20:26:20.697",
+  "created": "2020-03-19T13:00:24.280",
+  "titles": [
+    {
+      "title": "Oracle Java Development Kit (JDK) 10",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.oracle.com/technetwork/java/javase/10u-relnotes-4108739.html",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.oracle.com/java/technologies/downloads/archive/",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:oracle:jdk:1.10.0:*:*:*:*:*:*:*",
+      "cpeNameId": "046ECD42-B550-43A3-8657-BF18B8FEA970"
+    }
+  ]
+}

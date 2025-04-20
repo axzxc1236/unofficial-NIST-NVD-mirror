@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:20.0.5:-:*:*:*:*:*:*",
+  "cpeNameId": "F6069AE3-51E0-4F2B-B4CA-DA9A131C8691",
+  "lastModified": "2021-06-08T16:26:20.757",
+  "created": "2021-06-08T15:57:11.310",
+  "titles": [
+    {
+      "title": "Nextcloud Server 20.0.5",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nextcloud/server/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-396j-vqpr-qg45",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://nextcloud.com/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:20.0.5:*:*:*:*:*:*:*",
+      "cpeNameId": "FBC0AF98-6481-495C-BE27-B6F5913AD322"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:linux:linux_kernel:5.15:rc4:*:*:*:*:*:*",
+  "cpeNameId": "D2702E38-FC04-4035-9742-46E5C2C32FF5",
+  "lastModified": "2022-06-22T15:55:37.900",
+  "created": "2022-01-28T14:52:46.853",
+  "titles": [
+    {
+      "title": "Linux Kernel 5.15 Release Candidate 4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/torvalds/linux/tags?after=v5.16-rc2",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:linux:linux_kernel:5.15:rc4:*:*:*:*:*:*",
+      "cpeNameId": "CCD36DA2-42FA-4595-9B6D-1FD5ECC5DA16"
+    }
+  ]
+}

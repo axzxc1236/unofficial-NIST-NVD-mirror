@@ -1,0 +1,31 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:cloudfoundry:uaa:2.2.4.1:*:*:*:*:*:*:*",
+  "cpeNameId": "3B0DAE61-BE11-46F0-9ACA-EC5FB293888D",
+  "lastModified": "2021-08-17T12:42:22.780",
+  "created": "2021-05-25T12:54:45.233",
+  "titles": [
+    {
+      "title": "Cloud Foundry UAA 2.2.4.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/cloudfoundry/uaa",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cloudfoundry:user_account_and_authentication:2.2.4.1:*:*:*:*:*:*:*",
+      "cpeNameId": "81DE2B0B-52CF-4D49-9043-0B625C56A5A5"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:pivotal:uaa:2.2.4.1:*:*:*:*:*:*:*",
+      "cpeNameId": "FF131316-6D45-4C58-AD34-358756A12D34"
+    }
+  ]
+}

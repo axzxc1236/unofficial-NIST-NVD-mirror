@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:es:iperf3:3.2:-:*:*:*:*:*:*",
+  "cpeNameId": "E36C84FD-7422-40BE-B776-6D1FBF9D1F1C",
+  "lastModified": "2025-01-15T19:12:52.123",
+  "created": "2025-01-15T18:43:43.940",
+  "titles": [
+    {
+      "title": "Energy Sciences Network (ESnet) iperf3 3.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://software.es.net/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://downloads.es.net/pub/iperf/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/esnet/iperf/tags",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:es:iperf3:3.2:*:*:*:*:*:*:*",
+      "cpeNameId": "96ABB1A5-1541-4AE3-B8E6-E749277CAB0D"
+    },
+    {
+      "cpeName": "cpe:2.3:a:iperf3_project:iperf3:3.2:-:*:*:*:*:*:*",
+      "cpeNameId": "518AF0E2-A673-40C1-9C73-D2BB071E49BF"
+    }
+  ]
+}

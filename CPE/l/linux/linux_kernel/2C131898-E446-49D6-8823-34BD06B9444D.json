@@ -1,0 +1,31 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:linux:linux_kernel:2.6.7:*:*:*:*:*:*:*",
+  "cpeNameId": "2C131898-E446-49D6-8823-34BD06B9444D",
+  "lastModified": "2021-06-01T14:14:47.707",
+  "created": "2007-08-23T21:16:59.567",
+  "titles": [
+    {
+      "title": "Linux Kernel 2.6.7",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/torvalds/linux",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:linux:linux_kernel:2.6.7:-:*:*:*:*:*:*",
+      "cpeNameId": "FA35726E-503D-4326-B400-8342B3F34C56"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:linux:kernel:2.6.7:*:*:*:*:*:*:*",
+      "cpeNameId": "A0EA8E26-C936-441E-9E74-4D64C4042386"
+    }
+  ]
+}

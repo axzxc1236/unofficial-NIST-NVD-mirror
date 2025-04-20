@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:elastic:kibana:6.0.0:-:*:*:*:*:*:*",
+  "cpeNameId": "43292333-EAAD-43D1-9841-162D10718F4D",
+  "lastModified": "2020-08-14T16:11:32.610",
+  "created": "2020-08-14T16:11:32.610",
+  "titles": [
+    {
+      "title": "Elastic Kibana 6.0.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/elastic/kibana",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.elastic.co/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:elasticsearch:kibana:6.0.0:-:*:*:*:*:*:*",
+      "cpeNameId": "80EC062C-63F9-4E97-A462-9B3C21698F07"
+    },
+    {
+      "cpeName": "cpe:2.3:a:elasticsearch:kibana:6.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "F6DA054C-73E9-4DF3-9C66-31D58011ED12"
+    }
+  ]
+}

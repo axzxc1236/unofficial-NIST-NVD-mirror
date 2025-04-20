@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:.net:5.0:preview3:*:*:*:*:*:*",
+  "cpeNameId": "D99F841A-82C3-40A6-B05C-41E6EB727863",
+  "lastModified": "2023-10-15T16:43:04.443",
+  "created": "2023-10-15T16:43:04.443",
+  "titles": [
+    {
+      "title": "Microsoft .NET 5.0 Preview3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.microsoft.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/dotnet/core/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://dotnet.microsoft.com/en-us/download/dotnet",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:.net_core:5.0:preview3:*:*:*:*:*:*",
+      "cpeNameId": "D8F2B4C3-5D1F-444B-9C25-85561A7C35AC"
+    }
+  ]
+}

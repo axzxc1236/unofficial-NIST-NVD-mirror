@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:octopus:tentacle:5.0.0:-:*:*:*:*:*:*",
+  "cpeNameId": "0A5C9114-E788-4F83-AC18-B5729B7AC74C",
+  "lastModified": "2021-11-29T18:39:16.403",
+  "created": "2021-11-29T18:26:04.547",
+  "titles": [
+    {
+      "title": "Octopus Tentacle 5.0.0 ",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://octopus.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://advisories.octopus.com/adv/2021-11---Local-privilege-escalation-in-Octopus-Tentacle-(CVE-2021-31822).2283732993.html",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/OctopusDeploy/OctopusTentacle/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://octopus.com/downloads/tentacle",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:octopus:tentacle:5.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "F5F7044D-C10B-4EED-8E8B-806651391404"
+    }
+  ]
+}

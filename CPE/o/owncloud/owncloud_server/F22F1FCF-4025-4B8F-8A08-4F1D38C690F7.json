@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:owncloud:owncloud_server:10.5.0:-:*:*:*:*:*:*",
+  "cpeNameId": "F22F1FCF-4025-4B8F-8A08-4F1D38C690F7",
+  "lastModified": "2025-03-31T11:54:14.930",
+  "created": "2025-03-31T11:54:14.930",
+  "titles": [
+    {
+      "title": "ownCloud Server (ownCloud Core) 10.5.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://owncloud.org/changelog/server/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://owncloud.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/owncloud/docs/tags",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/owncloud/core",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:owncloud:owncloud:10.5:*:*:*:*:*:*:*",
+      "cpeNameId": "24394C11-E456-4F6C-8935-E216D615D67A"
+    },
+    {
+      "cpeName": "cpe:2.3:a:owncloud:owncloud:10.5.0:-:*:*:*:*:*:*",
+      "cpeNameId": "D298D189-50D9-4C7B-9337-2DEA7F8A713D"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:microsoft:windows_11_22h2:-:*:*:*:*:*:x64:*",
+  "cpeNameId": "E4604687-B03E-478C-B119-226D2BF51448",
+  "lastModified": "2023-10-12T16:45:00.307",
+  "created": "2022-12-15T19:13:28.213",
+  "titles": [
+    {
+      "title": "Microsoft Windows 11 22H2 on x64",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-44682",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_11_22h2:-:*:*:*:*:*:*:*",
+      "cpeNameId": "6AAC801E-A7F4-40A8-854E-68A47DE3C447"
+    },
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_11:22h2:*:*:*:*:*:x64:*",
+      "cpeNameId": "CCCFCAB0-20D8-46F2-9F3A-A6805715832B"
+    }
+  ]
+}

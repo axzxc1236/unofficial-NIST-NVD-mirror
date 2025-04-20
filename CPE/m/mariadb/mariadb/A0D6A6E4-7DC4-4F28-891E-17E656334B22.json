@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mariadb:mariadb:1.0.2:*:*:*:*:node.js:*:*",
+  "cpeNameId": "A0D6A6E4-7DC4-4F28-891E-17E656334B22",
+  "lastModified": "2020-11-16T14:22:36.570",
+  "created": "2020-11-16T14:22:36.570",
+  "titles": [
+    {
+      "title": "MariaDB 1.0.2 for Node.js",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://mariadb.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/mariadb-corporation/mariadb-connector-nodejs",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.npmjs.com/package/mariadb",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:mariadb_project:mariadb:1.0.2:*:*:*:*:node.js:*:*",
+      "cpeNameId": "D13080E6-5E61-4A2D-87F1-0AF108A6BAAF"
+    }
+  ]
+}

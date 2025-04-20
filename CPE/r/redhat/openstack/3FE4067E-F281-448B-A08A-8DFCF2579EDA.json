@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:redhat:openstack:13:*:*:*:*:*:*:*",
+  "cpeNameId": "3FE4067E-F281-448B-A08A-8DFCF2579EDA",
+  "lastModified": "2021-08-04T17:14:33.593",
+  "created": "2020-09-01T11:44:47.953",
+  "titles": [
+    {
+      "title": "Red Hat OpenStack 13",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://access.redhat.com/security/cve/CVE-2020-14364",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/16.2-beta/",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:redhat:openstack:13.0:*:*:*:*:*:*:*",
+      "cpeNameId": "222619CC-5E99-432A-9136-9B40C1DCA5BA"
+    }
+  ]
+}

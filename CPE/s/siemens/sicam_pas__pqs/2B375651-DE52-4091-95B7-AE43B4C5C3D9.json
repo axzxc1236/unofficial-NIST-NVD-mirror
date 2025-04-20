@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:siemens:sicam_pas\\/pqs:7.0:*:*:*:*:*:*:*",
+  "cpeNameId": "2B375651-DE52-4091-95B7-AE43B4C5C3D9",
+  "lastModified": "2023-10-13T16:45:09.597",
+  "created": "2023-10-13T16:45:09.597",
+  "titles": [
+    {
+      "title": "Siemens SICAM PAS/PQS 7.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.siemens.com/global/en.html",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/substation-automation/substation-automation-system-sicam-pas.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/power-quality-measurement/collection-and-archiving-sicam-pqs.html",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:siemens:sicam_pqs:7.0:*:*:*:*:*:*:*",
+      "cpeNameId": "D6049144-5447-4BF3-92ED-805FE654968B"
+    },
+    {
+      "cpeName": "cpe:2.3:a:siemens:sicam_pas:7.0:*:*:*:*:*:*:*",
+      "cpeNameId": "C1112D05-CE61-4EED-9E1A-334337A81066"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:github:enterprise_server:3.3.0:-:*:*:*:*:*:*",
+  "cpeNameId": "25F40DD2-0424-4EA0-939D-794D2FDA775D",
+  "lastModified": "2022-08-09T17:34:14.090",
+  "created": "2022-08-05T18:09:14.850",
+  "titles": [
+    {
+      "title": "Github Enterprise Server 3.3.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://docs.github.com/en/enterprise-server@3.3/admin/release-notes",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/CVEProject/cvelist/blob/master/2022/23xxx/CVE-2022-23733.json",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:github:enterprise_server:3.3.0:*:*:*:*:*:*:*",
+      "cpeNameId": "EA51E2C9-CFF7-4055-BF38-518AEE60A2D2"
+    }
+  ]
+}

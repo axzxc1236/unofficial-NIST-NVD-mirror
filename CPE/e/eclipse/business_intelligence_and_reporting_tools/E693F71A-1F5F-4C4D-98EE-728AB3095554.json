@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:eclipse:business_intelligence_and_reporting_tools:4.7.0:*:*:*:*:*:*:*",
+  "cpeNameId": "E693F71A-1F5F-4C4D-98EE-728AB3095554",
+  "lastModified": "2021-07-14T13:45:00.887",
+  "created": "2020-12-17T13:36:57.013",
+  "titles": [
+    {
+      "title": "Eclipse Business Intelligence and Reporting Tools (BIRT) 4.7.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/eclipse/birt/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://bugs.eclipse.org/bugs/show_bug.cgi?id=546816",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:eclipse:birt:4.7.0:*:*:*:*:*:*:*",
+      "cpeNameId": "BBA3D3B6-0585-4B12-ADB9-FDEC45537A1C"
+    }
+  ]
+}

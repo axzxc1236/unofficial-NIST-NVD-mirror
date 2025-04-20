@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:8.15.1:*:*:*:lts:*:*:*",
+  "cpeNameId": "3DBB84F4-0C89-4755-A639-4BEDA1957EC4",
+  "lastModified": "2024-03-07T21:59:37.087",
+  "created": "2019-03-04T15:01:11.530",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 8.15.1 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/download/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V8.md",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:8.15.1:*:*:*:-:*:*:*",
+      "cpeNameId": "62C3C28B-35E5-449B-AB07-7561F6241130"
+    }
+  ]
+}

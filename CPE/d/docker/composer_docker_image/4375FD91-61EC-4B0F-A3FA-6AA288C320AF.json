@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:docker:composer_docker_image:1.5.1:*:*:*:*:*:*:*",
+  "cpeNameId": "4375FD91-61EC-4B0F-A3FA-6AA288C320AF",
+  "lastModified": "2021-07-08T14:25:20.200",
+  "created": "2021-05-12T17:46:44.977",
+  "titles": [
+    {
+      "title": "Docker Composer Docker Image 1.5.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/koharin/koharin2/blob/main/CVE-2020-35184",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://hub.docker.com/_/composer",
+      "type": "Product"
+    },
+    {
+      "ref": "https://hub.docker.com/_/composer?tab=tags&page=1&ordering=last_updated",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:docker:composer:1.5.1:*:*:*:*:*:*:*",
+      "cpeNameId": "05783C25-5D12-4D3C-AAF2-9FF134867FE4"
+    }
+  ]
+}

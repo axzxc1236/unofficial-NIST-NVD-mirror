@@ -1,0 +1,43 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:20h2:*:*:*:*:*:*:*",
+  "cpeNameId": "10BCB413-8D06-48DC-ADC7-CFA703C45ADA",
+  "lastModified": "2022-12-02T17:24:42.673",
+  "created": "2021-10-14T15:04:46.300",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 20H2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.microsoft.com/en-us/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://docs.microsoft.com/en-us/windows/whats-new/whats-new-windows-10-version-20h2",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:20h2:*:*:*:*:*:x64:*",
+      "cpeNameId": "01DD07DF-136A-4D28-8F43-C76811F40F0D"
+    },
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:20h2:*:*:*:*:*:x86:*",
+      "cpeNameId": "30F87BB8-67A2-451C-B782-64F8F800DC2A"
+    },
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:20h2:*:*:*:*:*:arm64:*",
+      "cpeNameId": "A05B17B6-DF56-4865-B8DD-4C70E43887B8"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server:20h2:*:*:*:*:*:*:*",
+      "cpeNameId": "E720CEC2-5B2D-4023-B14A-6C45D077B862"
+    }
+  ]
+}

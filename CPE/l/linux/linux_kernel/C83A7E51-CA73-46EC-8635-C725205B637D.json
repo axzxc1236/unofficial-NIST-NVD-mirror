@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:linux:linux_kernel:5.16:-:*:*:*:*:*:*",
+  "cpeNameId": "C83A7E51-CA73-46EC-8635-C725205B637D",
+  "lastModified": "2023-06-05T20:37:24.040",
+  "created": "2022-01-28T00:48:13.620",
+  "titles": [
+    {
+      "title": "Linux Kernel 5.16",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.3",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/torvalds/linux/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.kernel.org/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:linux:linux_kernel:5.16.0:*:*:*:*:*:*:*",
+      "cpeNameId": "081E7EC8-3E8E-48D4-8187-1B96F6BE062F"
+    }
+  ]
+}

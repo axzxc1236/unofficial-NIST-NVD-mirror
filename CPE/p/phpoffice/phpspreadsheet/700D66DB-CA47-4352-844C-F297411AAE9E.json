@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:phpoffice:phpspreadsheet:-:*:*:*:*:*:*:*",
+  "cpeNameId": "700D66DB-CA47-4352-844C-F297411AAE9E",
+  "lastModified": "2024-09-04T17:45:30.340",
+  "created": "2024-09-04T17:45:30.340",
+  "titles": [
+    {
+      "title": "PHPOffice PhpSpreadsheet",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/PHPOffice/PhpSpreadsheet/security/advisories/GHSA-ghg6-32f9-2jp7",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/PHPOffice/PhpSpreadsheet",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/PHPOffice/PhpSpreadsheet/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:phpspreadsheet_project:phpspreadsheet:-:*:*:*:*:*:*:*",
+      "cpeNameId": "AF9C2607-A865-4CB1-A4CA-ECAF57F6A990"
+    }
+  ]
+}

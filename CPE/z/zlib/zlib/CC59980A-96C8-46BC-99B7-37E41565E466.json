@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:zlib:zlib:1.1:*:*:*:*:*:*:*",
+  "cpeNameId": "CC59980A-96C8-46BC-99B7-37E41565E466",
+  "lastModified": "2022-06-22T16:40:44.440",
+  "created": "2022-06-22T16:35:54.557",
+  "titles": [
+    {
+      "title": "zlib 1.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://www.zlib.net/ChangeLog.txt",
+      "type": "Version"
+    },
+    {
+      "ref": "http://www.zlib.net/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/madler/zlib",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:gnu:zlib:1.1:*:*:*:*:*:*:*",
+      "cpeNameId": "CA7F765D-F9AF-4351-B5EC-F81E517BB1A8"
+    }
+  ]
+}

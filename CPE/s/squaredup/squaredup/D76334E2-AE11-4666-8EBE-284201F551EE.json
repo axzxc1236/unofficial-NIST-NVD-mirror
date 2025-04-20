@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:squaredup:squaredup:-:*:*:*:azure:*:*:*",
+  "cpeNameId": "D76334E2-AE11-4666-8EBE-284201F551EE",
+  "lastModified": "2021-12-09T14:09:43.287",
+  "created": "2021-12-07T15:00:15.670",
+  "titles": [
+    {
+      "title": "SquaredUp Azure Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://support.squaredup.com/hc/en-us/articles/4410635415569-CVE-2020-9388-API-Endpoints-are-not-protected-against-CSRF",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://support.squaredup.com/hc/en-us/articles/4407742528017-Release-Notes-for-SquaredUp-for-Azure",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:squaredup:squaredup:-:*:*:*:*:azure:*:*",
+      "cpeNameId": "8D2A28ED-A618-4B6D-BC69-5763BB4E9D37"
+    }
+  ]
+}

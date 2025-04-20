@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:-:*:*:*:*:*:*",
+  "cpeNameId": "F363FC39-AC08-484D-AA46-7DFE448BC1E3",
+  "lastModified": "2020-02-20T18:30:20.147",
+  "created": "2020-02-20T18:30:20.147",
+  "titles": [
+    {
+      "title": "Linux Containers LXC 2.0.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/lxc/lxc/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://bugs.launchpad.net/ubuntu/+source/lxc/+bug/1661447",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "6BDEABCE-0C3C-4DCC-A551-940B73A671A3"
+    }
+  ]
+}

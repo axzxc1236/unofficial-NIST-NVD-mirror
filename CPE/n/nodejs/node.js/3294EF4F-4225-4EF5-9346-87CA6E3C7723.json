@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:12.14.1:*:*:*:lts:*:*:*",
+  "cpeNameId": "3294EF4F-4225-4EF5-9346-87CA6E3C7723",
+  "lastModified": "2024-03-07T21:39:05.487",
+  "created": "2020-02-13T15:21:43.377",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 12.14.1 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nodejs/node/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://nodejs.org/en/blog/vulnerability/february-2020-security-releases/",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V12.md",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:12.14.1:*:*:*:-:*:*:*",
+      "cpeNameId": "61E977D1-3489-42B0-A249-7B3C08A59F4F"
+    }
+  ]
+}

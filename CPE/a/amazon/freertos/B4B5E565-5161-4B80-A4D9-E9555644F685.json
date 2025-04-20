@@ -1,0 +1,35 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:amazon:freertos:1.2.2:*:*:*:*:*:*:*",
+  "cpeNameId": "B4B5E565-5161-4B80-A4D9-E9555644F685",
+  "lastModified": "2021-02-24T13:50:12.603",
+  "created": "2019-10-16T13:33:40.680",
+  "titles": [
+    {
+      "title": "Amazon FreeRTOS 1.2.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/aws/amazon-freertos/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://aws.amazon.com/freertos/",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:amazon:freertos:1.2.2:-:*:*:*:*:*:*",
+      "cpeNameId": "AC68374A-39F0-4C42-88E6-0AF3AE6B021C"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:amazon:amazon_freertos:1.2.2:*:*:*:*:*:*:*",
+      "cpeNameId": "621DBD86-2FD5-4071-81FB-330841093DBC"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:failure_project:failure:-:*:*:*:*:*:*:*",
+  "cpeNameId": "81689333-3BF3-4E32-A6BB-D3B5DB4FBBDF",
+  "lastModified": "2021-01-07T13:47:15.060",
+  "created": "2020-09-23T17:29:52.890",
+  "titles": [
+    {
+      "title": "Failure Project Failure",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/rust-lang-nursery/failure/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://rustsec.org/advisories/RUSTSEC-2020-0036.html",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:failure_project:failure:-:*:*:*:*:rust:*:*",
+      "cpeNameId": "C2D12DD6-2A5E-4FDC-A68E-95C79BA74A81"
+    }
+  ]
+}

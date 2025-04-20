@@ -1,0 +1,35 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:1809:*:*:*:*:*:arm64:*",
+  "cpeNameId": "28365D70-C39B-4D84-BA35-98DFE89C0EAB",
+  "lastModified": "2022-12-09T18:15:16.973",
+  "created": "2019-10-28T19:30:12.423",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 1809 on ARM64",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.catalog.update.microsoft.com/Search.aspx?q=windows%2010%201809",
+      "type": "Version"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10_1809:-:*:*:*:*:*:arm64:*",
+      "cpeNameId": "5F3036E3-74FF-4855-A8E5-E820CEA2CA46"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:1809:*:*:*:*:*:*:*",
+      "cpeNameId": "CA511899-F083-4A52-90ED-3B935080FA9E"
+    }
+  ]
+}

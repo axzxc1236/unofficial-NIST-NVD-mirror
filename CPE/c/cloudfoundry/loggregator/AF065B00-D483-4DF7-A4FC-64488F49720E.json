@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cloudfoundry:loggregator:100:*:*:*:*:*:*:*",
+  "cpeNameId": "AF065B00-D483-4DF7-A4FC-64488F49720E",
+  "lastModified": "2020-05-04T17:32:50.100",
+  "created": "2020-05-04T17:32:50.100",
+  "titles": [
+    {
+      "title": "Cloud Foundry Loggregator 100",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/cloudfoundry/loggregator-release/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.cloudfoundry.org/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cloud_foundry:loggregator:100:*:*:*:*:*:*:*",
+      "cpeNameId": "8F60214B-DAB1-4F25-B45B-25113CDEC201"
+    }
+  ]
+}

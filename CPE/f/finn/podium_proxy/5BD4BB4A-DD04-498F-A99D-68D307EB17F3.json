@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:finn:podium_proxy:4.2.8:*:*:*:*:node.js:*:*",
+  "cpeNameId": "5BD4BB4A-DD04-498F-A99D-68D307EB17F3",
+  "lastModified": "2022-07-07T14:16:18.793",
+  "created": "2022-07-07T14:12:47.063",
+  "titles": [
+    {
+      "title": "FINN Podium Proxy 4.2.8 for Node.js",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.finn.no/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://podium-lib.io/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.npmjs.com/package/@podium/layout",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/podium-lib/proxy/security/advisories/GHSA-3hjg-vc7r-rcrw",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:finn:podium_layout:4.2.8:*:*:*:*:node.js:*:*",
+      "cpeNameId": "BB9E0666-BF66-4019-AB4A-6BAF4798E2BF"
+    }
+  ]
+}

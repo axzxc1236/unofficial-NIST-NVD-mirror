@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:amazon:amazon_web_services_freertos:1.4.0:*:*:*:*:*:*:*",
+  "cpeNameId": "CAD2504F-B3EE-4256-8C19-42991ACD6567",
+  "lastModified": "2022-11-02T14:30:15.700",
+  "created": "2019-01-02T18:40:30.907",
+  "titles": [
+    {
+      "title": "Amazon Web Services FreeRTOS 1.4.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/aws/amazon-freertos",
+      "type": "Version"
+    },
+    {
+      "ref": "https://aws.amazon.com/freertos/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:amazon:freertos:1.4.0:*:*:*:*:*:*:*",
+      "cpeNameId": "D320278C-275A-4C74-B257-C8848E72AE51"
+    }
+  ]
+}

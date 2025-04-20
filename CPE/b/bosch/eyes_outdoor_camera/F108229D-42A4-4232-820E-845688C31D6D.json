@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:bosch:eyes_outdoor_camera:-:*:*:*:*:*:*:*",
+  "cpeNameId": "F108229D-42A4-4232-820E-845688C31D6D",
+  "lastModified": "2021-08-13T13:46:53.993",
+  "created": "2021-08-13T13:46:16.660",
+  "titles": [
+    {
+      "title": "Bosch Eyes Outdoor Camera",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.bosch-smarthome.com/uk/en/products/smart-single-solutions/eyes-outdoor-camera",
+      "type": "Product"
+    },
+    {
+      "ref": "https://psirt.bosch.com/security-advisories/BOSCH-2018-1203.html",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:h:bosch:eyes-indoor_camera:-:*:*:*:*:*:*:*",
+      "cpeNameId": "F4AEC9C2-2381-4908-BCE1-71212A65DB55"
+    }
+  ]
+}

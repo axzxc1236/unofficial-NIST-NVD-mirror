@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:protobuf_project:protobuf:2.5.0:*:*:*:*:*:*:*",
+  "cpeNameId": "CF3417CC-971A-46F3-9DC2-5591E19A5519",
+  "lastModified": "2019-09-06T16:20:24.940",
+  "created": "2019-09-05T14:18:45.673",
+  "titles": [
+    {
+      "title": "Protobuf Project Protobuf 2.5.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/stepancheg/rust-protobuf/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://rustsec.org/advisories/RUSTSEC-2019-0003.html",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:rust-protobuf_project:rust-protobuf:2.5.0:*:*:*:*:*:*:*",
+      "cpeNameId": "495FD85C-99F2-45B5-AC68-8EA7C846D959"
+    }
+  ]
+}

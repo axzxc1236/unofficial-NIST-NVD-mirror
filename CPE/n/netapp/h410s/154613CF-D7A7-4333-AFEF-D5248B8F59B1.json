@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:netapp:h410s:-:*:*:*:*:*:*:*",
+  "cpeNameId": "154613CF-D7A7-4333-AFEF-D5248B8F59B1",
+  "lastModified": "2023-11-09T13:59:45.620",
+  "created": "2020-12-28T12:32:01.157",
+  "titles": [
+    {
+      "title": "NetApp H410S",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://security.netapp.com/advisory/ntap-20200511-0006/",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:h:netapp:baseboard_management_controller_h410s:-:*:*:*:*:*:*:*",
+      "cpeNameId": "50BDD597-77D4-4023-8255-4AFACA704A18"
+    },
+    {
+      "cpeName": "cpe:2.3:a:netapp:hci_baseboard_management_controller:h410s:*:*:*:*:*:*:*",
+      "cpeNameId": "1398A689-94BD-431D-93B8-9A962C5A580F"
+    }
+  ]
+}

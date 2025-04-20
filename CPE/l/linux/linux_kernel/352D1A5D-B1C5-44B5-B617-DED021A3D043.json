@@ -1,0 +1,31 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:linux:linux_kernel:2.6.15:*:*:*:*:*:*:*",
+  "cpeNameId": "352D1A5D-B1C5-44B5-B617-DED021A3D043",
+  "lastModified": "2021-06-01T14:21:28.467",
+  "created": "2007-08-23T21:16:59.567",
+  "titles": [
+    {
+      "title": "Linux Kernel 2.6.15",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/torvalds/linux",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:linux:linux_kernel:2.6.15:-:*:*:*:*:*:*",
+      "cpeNameId": "C8E4BD45-7319-449E-90FC-3F43570BFC6C"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:linux:kernel:2.6.15:*:*:*:*:*:*:*",
+      "cpeNameId": "CC49C541-062F-4313-8D38-F7A789E6A897"
+    }
+  ]
+}

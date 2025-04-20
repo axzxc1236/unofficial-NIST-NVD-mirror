@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:microsoft:windows_server_2008:-:-:*:*:datacenter:*:x86:*",
+  "cpeNameId": "96B17CF8-1BFA-4158-9A28-1B90079E9090",
+  "lastModified": "2019-05-02T14:43:52.670",
+  "created": "2019-05-02T14:43:52.670",
+  "titles": [
+    {
+      "title": "Microsoft Windows Server 2008 Datacenter Edition on x86",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://support.microsoft.com/en-us/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2",
+      "type": "Version"
+    },
+    {
+      "ref": "https://support.microsoft.com/en-us/lifecycle/search?alpha=Windows%20Server%202008",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.microsoft.com/en-us/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server_2008:-:gold:datacenter:*:*:*:*:*",
+      "cpeNameId": "21B42963-6597-47B8-A8B2-5635FA5125F0"
+    }
+  ]
+}

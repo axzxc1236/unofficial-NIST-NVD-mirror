@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:linux:linux_kernel:5.8:rc2:*:*:*:*:*:*",
+  "cpeNameId": "3238D662-CCC8-4AB2-8157-A26CCE26D2D5",
+  "lastModified": "2023-06-05T20:39:01.240",
+  "created": "2023-06-05T20:13:30.340",
+  "titles": [
+    {
+      "title": "Linux Kernel 5.8 Release Candidate 2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/torvalds/linux/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.kernel.org/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:linux:linux_kernel:5.8.0:rc2:*:*:*:*:*:*",
+      "cpeNameId": "65ED0818-2628-4C3E-9153-7964EBEBE623"
+    }
+  ]
+}

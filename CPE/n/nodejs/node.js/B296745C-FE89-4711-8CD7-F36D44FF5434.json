@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:4.5.0:*:*:*:lts:*:*:*",
+  "cpeNameId": "B296745C-FE89-4711-8CD7-F36D44FF5434",
+  "lastModified": "2024-03-07T21:48:04.147",
+  "created": "2019-02-11T16:39:14.377",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 4.5.0 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nodejs/node",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V4.md",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:4.5.0:*:*:*:-:*:*:*",
+      "cpeNameId": "C2345249-1507-48BE-8E87-E7C105A0CCBA"
+    }
+  ]
+}

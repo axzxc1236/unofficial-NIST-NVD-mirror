@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:gnupg:libksba:0.9.0:*:*:*:*:*:*:*",
+  "cpeNameId": "34DB9A05-D669-4018-95AD-12F3B61E4DD4",
+  "lastModified": "2023-05-18T18:08:03.173",
+  "created": "2023-05-18T18:05:22.830",
+  "titles": [
+    {
+      "title": "GnuPG libksba 0.9.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://dev.gnupg.org/source/libksba/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/gpg/libksba/tags",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://dev.gnupg.org/source/libksba/tags/master/ChangeLog",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:libksba_project:libksba:0.9.0:*:*:*:*:*:*:*",
+      "cpeNameId": "6B038340-3901-496C-81A9-2FF6792C068B"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:arm:trusted_firmware-m:1.4.0:rc2:*:*:*:*:*:*",
+  "cpeNameId": "92B1E2C9-953E-44D5-BEB3-C8AC8C6AA636",
+  "lastModified": "2024-11-27T20:03:18.813",
+  "created": "2024-11-27T20:03:18.813",
+  "titles": [
+    {
+      "title": "ARM Trusted Firmware-M 1.4.0 Release Candidate 2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.trustedfirmware.org/projects/tf-m/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://developer.arm.com/Tools%20and%20Software/Trusted%20Firmware-M",
+      "type": "Product"
+    },
+    {
+      "ref": "https://git.trustedfirmware.org/plugins/gitiles/TF-M/trusted-firmware-m.git/+refs",
+      "type": "Version"
+    },
+    {
+      "ref": "https://trustedfirmware-m.readthedocs.io/en/latest/releases/index.html",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:arm:trusted_firmware-m:1.4.0:rc2:*:*:*:*:*:*",
+      "cpeNameId": "BDEEA8C5-4641-4207-895E-165AE19E44AF"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:pivotal_software:cloud_foundry_uaa_bosh:24.3:*:*:*:*:*:*:*",
+  "cpeNameId": "3502C2F8-EE91-401C-8960-1273330A6FBD",
+  "lastModified": "2021-08-06T13:05:19.230",
+  "created": "2017-03-14T20:14:27.380",
+  "titles": [
+    {
+      "title": "Pivotal Software Cloud Foundry (PCF) User Account and Authentication (UAA) BOSH 24.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/cloudfoundry/uaa-release/tree/v3",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/cloudfoundry/bosh",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/cloudfoundry/cf-release/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/cloudfoundry/uaa/releases?after=3.9.5",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:24.3:*:*:*:*:*:*:*",
+      "cpeNameId": "095EBC22-6B54-41AE-8F07-9CB7E387ADC6"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:redislabs:redis:2.4.0:-:*:*:*:*:*:*",
+  "cpeNameId": "82605E8A-718E-4B8A-B825-9A3A7492A013",
+  "lastModified": "2020-06-22T19:55:13.707",
+  "created": "2020-06-22T19:55:13.707",
+  "titles": [
+    {
+      "title": "Redis Labs Redis 2.4.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://redislabs.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/antirez/redis/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://redis.io/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/antirez/redis/tags?after=3.2.2",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:redislabs:redis:2.4.0:*:*:*:*:*:*:*",
+      "cpeNameId": "4673FEC0-4C8F-4BF6-9A63-C87C34D6C81D"
+    }
+  ]
+}

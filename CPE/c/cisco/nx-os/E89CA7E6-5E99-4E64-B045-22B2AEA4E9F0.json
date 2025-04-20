@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:cisco:nx-os:7.1\\(1\\)n1\\(1\\):*:*:*:*:*:*:*",
+  "cpeNameId": "E89CA7E6-5E99-4E64-B045-22B2AEA4E9F0",
+  "lastModified": "2022-04-06T12:06:47.743",
+  "created": "2016-03-23T15:04:43.057",
+  "titles": [
+    {
+      "title": "Cisco NX-OS Software for Nexus 5000 Series 7.1(1)N1(1)",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://www.cisco.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160302-n5ksnmp",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:nx-os:7.1\\(1\\)n1\\(1\\):*:*:*:*:nexus_5000_series:*:*",
+      "cpeNameId": "DF087447-4DAE-4C4A-9E1A-E7486460F17B"
+    },
+    {
+      "cpeName": "cpe:2.3:a:cisco:nx-os:7.1\\(1\\)n1\\(1\\):*:*:*:*:nexus_6000_series:*:*",
+      "cpeNameId": "956ECE29-4121-4064-AB89-34673D95F74C"
+    }
+  ]
+}

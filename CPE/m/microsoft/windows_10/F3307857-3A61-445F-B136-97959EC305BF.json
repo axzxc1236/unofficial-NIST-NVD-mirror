@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:1607:*:*:*:*:*:x64:*",
+  "cpeNameId": "F3307857-3A61-445F-B136-97959EC305BF",
+  "lastModified": "2022-12-09T18:15:16.973",
+  "created": "2016-08-16T14:06:38.087",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 1607 64-bit",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://technet.microsoft.com/library/security/MS16-102",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.microsoft.com/en-us/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10_1607:-:*:*:*:*:*:x64:*",
+      "cpeNameId": "9500FA7C-51BD-4984-90DD-6813913ABFC4"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:1607:*:*:*:*:*:*:*",
+      "cpeNameId": "F018E358-C9B5-4588-9638-D0226723145C"
+    }
+  ]
+}

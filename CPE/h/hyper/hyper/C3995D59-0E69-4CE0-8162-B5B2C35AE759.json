@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:hyper:hyper:0.1.4:*:*:*:*:*:*:*",
+  "cpeNameId": "C3995D59-0E69-4CE0-8162-B5B2C35AE759",
+  "lastModified": "2021-01-07T14:04:21.957",
+  "created": "2019-08-28T16:15:23.030",
+  "titles": [
+    {
+      "title": "Hyper 0.1.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/hyperium/hyper/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://rustsec.org/advisories/RUSTSEC-2017-0002.html",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:hyper:hyper:0.1.4:*:*:*:*:rust:*:*",
+      "cpeNameId": "C227C217-9A51-4F8A-814D-65C7DC624D13"
+    }
+  ]
+}

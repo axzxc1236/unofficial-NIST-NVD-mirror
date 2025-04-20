@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:22h2:*:*:*:*:*:x64:*",
+  "cpeNameId": "231EB375-7027-42D1-86D5-A54EEC8A8798",
+  "lastModified": "2022-12-09T18:15:16.973",
+  "created": "2022-11-10T13:03:16.967",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 22H2 on x64",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-38015",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/release-health/status-windows-10-22h2",
+      "type": "Product"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10_22h2:-:*:*:*:*:*:x64:*",
+      "cpeNameId": "A09335E2-B42F-4820-B487-57A4BF0CEE98"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:22h2:*:*:*:*:*:*:*",
+      "cpeNameId": "3BA75D8C-1E28-4EBA-BBD8-4C8DDB2B458B"
+    }
+  ]
+}

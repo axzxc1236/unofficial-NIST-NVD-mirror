@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mattermost:mattermost_server:5.21.0:*:*:*:*:*:*:*",
+  "cpeNameId": "A3CAD0AF-A66A-47E3-987E-C27F635C9347",
+  "lastModified": "2020-06-19T19:30:23.060",
+  "created": "2020-06-19T19:30:23.060",
+  "titles": [
+    {
+      "title": "Mattermost Server 5.21.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://mattermost.com/security-updates/",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/mattermost",
+      "type": "Version"
+    },
+    {
+      "ref": "https://docs.mattermost.com/administration/version-archive.html?src=dl",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:mattermost:server:5.21.0:*:*:*:*:*:*:*",
+      "cpeNameId": "EAFF1763-9B53-4EB5-BC34-CB7413583925"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:mysql:mysql:4.1.8:-:*:*:*:*:*:*",
+  "cpeNameId": "844EEF49-71B2-41F4-923D-961CB7E403E1",
+  "lastModified": "2019-12-17T17:12:23.030",
+  "created": "2019-12-17T16:05:58.097",
+  "titles": [
+    {
+      "title": "MySQL 4.1.8",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mysql.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.oracle.com/mysql/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/mysql/mysql-server/releases",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:oracle:mysql:4.1.8:-:*:*:*:*:*:*",
+      "cpeNameId": "C69A5D75-BBB6-4A44-9484-9263610570F6"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:mysql:mysql:4.1.8:*:*:*:*:*:*:*",
+      "cpeNameId": "D16AC924-77CD-48DA-862D-4DFE3117A2E4"
+    }
+  ]
+}

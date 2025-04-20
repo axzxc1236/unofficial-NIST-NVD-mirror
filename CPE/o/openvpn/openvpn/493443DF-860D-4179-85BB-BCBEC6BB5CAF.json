@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:openvpn:openvpn:2.3.0:alpha1:*:*:community:*:*:*",
+  "cpeNameId": "493443DF-860D-4179-85BB-BCBEC6BB5CAF",
+  "lastModified": "2023-11-27T20:07:36.010",
+  "created": "2023-11-27T20:07:36.010",
+  "titles": [
+    {
+      "title": "OpenVPN 2.3.0 Alpha 1 Community Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/OpenVPN/openvpn/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://community.openvpn.net/openvpn/wiki/ChangesInOpenvpn23",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/OpenVPN/openvpn",
+      "type": "Product"
+    },
+    {
+      "ref": "https://openvpn.net/open-source-or-access-server/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:openvpn:openvpn:2.3.0:alpha1:*:*:*:*:*:*",
+      "cpeNameId": "F5858AD5-D3A2-4BE9-B7B1-3F1F37B2E3F8"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:freedesktop:systemd:51:*:*:*:*:*:*:*",
+  "cpeNameId": "5629E383-D946-4298-AF48-8816D29C1A5C",
+  "lastModified": "2022-01-28T19:09:42.747",
+  "created": "2022-01-28T18:58:58.093",
+  "titles": [
+    {
+      "title": "freedesktop systemd 51",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/systemd/systemd",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:systemd_project:systemd:51:*:*:*:*:*:*:*",
+      "cpeNameId": "D9BB0017-2A76-4009-AE64-88B6903D503E"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:freedesktop:systemd:051:*:*:*:*:*:*:*",
+      "cpeNameId": "6D9961A5-14BD-40DB-8B8B-F018E2135F86"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_server_2016:2004:*:*:*:*:*:*:*",
+  "cpeNameId": "F8077C95-0ACC-41C2-9DCA-780418F91579",
+  "lastModified": "2023-05-22T14:36:47.827",
+  "created": "2020-07-23T16:47:32.157",
+  "titles": [
+    {
+      "title": "Microsoft Windows Server 2016 2004",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1253",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4557957",
+      "type": "Version"
+    },
+    {
+      "ref": "https://support.microsoft.com/en-us/topic/windows-10-update-history-7dd3071a-3906-fa2c-c342-f7f86728a6e3",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server_2004:-:*:*:*:*:*:x64:*",
+      "cpeNameId": "9E6ACC06-04A9-4052-887B-4A5AC8932A2D"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server:2004:*:*:*:*:*:*:*",
+      "cpeNameId": "3BC84D85-4C5A-4E9C-952A-55EB1978EEE8"
+    }
+  ]
+}

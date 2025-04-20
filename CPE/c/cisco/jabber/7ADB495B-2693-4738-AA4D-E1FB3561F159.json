@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cisco:jabber:-:*:*:*:*:macos:*:*",
+  "cpeNameId": "7ADB495B-2693-4738-AA4D-E1FB3561F159",
+  "lastModified": "2020-05-04T13:43:08.193",
+  "created": "2020-05-04T13:43:08.193",
+  "titles": [
+    {
+      "title": "Cisco Jabber for macOS",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.cisco.com/c/en/us/support/unified-communications/jabber-mac/tsd-products-support-series-home.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.cisco.com/c/en/us/products/unified-communications/jabber/index.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvq04288",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190904-jcf-codex",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-webex-info-disc-OHqg982",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:jabber:-:*:*:*:*:mac_os:*:*",
+      "cpeNameId": "FC6D17C0-0B87-4457-B386-11E0D0C8FB97"
+    }
+  ]
+}

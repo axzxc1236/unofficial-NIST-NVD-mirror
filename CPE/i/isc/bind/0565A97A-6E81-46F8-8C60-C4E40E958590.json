@@ -1,0 +1,43 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:isc:bind:9.3.1:b2:*:*:*:*:*:*",
+  "cpeNameId": "0565A97A-6E81-46F8-8C60-C4E40E958590",
+  "lastModified": "2021-05-05T15:29:31.610",
+  "created": "2016-04-01T17:21:02.307",
+  "titles": [
+    {
+      "title": "ISC BIND 9.3.1 B2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.isc.org/downloads/bind/",
+      "type": "Product"
+    },
+    {
+      "ref": "http://ftp.isc.org/isc/bind9/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://kb.isc.org/docs/en/aa-00959",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/isc-projects/bind9/releases",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:isc:bind:9.3.1:b2:*:*:-:*:*:*",
+      "cpeNameId": "38B18994-43B5-4561-99C9-652D30423BFA"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:isc:bind:9.3.1:beta2:*:*:*:*:*:*",
+      "cpeNameId": "AAE61801-7972-477F-A709-F2099623E517"
+    }
+  ]
+}

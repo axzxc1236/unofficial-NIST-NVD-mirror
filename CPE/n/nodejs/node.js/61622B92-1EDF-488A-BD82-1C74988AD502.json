@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:10.13.0:*:*:*:lts:*:*:*",
+  "cpeNameId": "61622B92-1EDF-488A-BD82-1C74988AD502",
+  "lastModified": "2024-03-07T21:32:09.957",
+  "created": "2019-02-11T16:39:23.610",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 10.13.0 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nodejs/node",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V10.md",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:10.13.0:*:*:*:-:*:*:*",
+      "cpeNameId": "B0694985-EFCD-48AD-9432-6D938DBC9789"
+    }
+  ]
+}

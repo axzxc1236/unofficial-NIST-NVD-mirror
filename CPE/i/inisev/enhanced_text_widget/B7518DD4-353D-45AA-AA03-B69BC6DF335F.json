@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:inisev:enhanced_text_widget:-:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "B7518DD4-353D-45AA-AA03-B69BC6DF335F",
+  "lastModified": "2025-04-03T12:44:19.590",
+  "created": "2025-04-03T12:44:19.590",
+  "titles": [
+    {
+      "title": "Inisev Enhanced Text Widget for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://inisev.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/enhanced-text-widget/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/enhanced-text-widget/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://plugins.svn.wordpress.org/enhanced-text-widget/tags/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.wordfence.com/threat-intel/vulnerabilities/detail/inisev-plugins-various-versions-missing-authorization-on-handle-installation-function",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:themecheck:enhanced_text_widget:-:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "E57EE6F7-580A-4C8C-84EA-EE65BCF5210A"
+    }
+  ]
+}

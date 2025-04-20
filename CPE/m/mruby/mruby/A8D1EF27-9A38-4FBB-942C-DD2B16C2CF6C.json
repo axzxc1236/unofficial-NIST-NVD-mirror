@@ -1,0 +1,41 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:mruby:mruby:3.2:*:*:*:*:*:*:*",
+  "cpeNameId": "A8D1EF27-9A38-4FBB-942C-DD2B16C2CF6C",
+  "lastModified": "2023-01-17T20:29:22.787",
+  "created": "2022-04-14T16:52:52.293",
+  "titles": [
+    {
+      "title": "mruby 3.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/CVEProject/cvelist/blob/master/2022/1xxx/CVE-2022-1276.json",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/mruby/mruby/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://huntr.dev/bounties/6ea041d1-e2aa-472c-bf3e-da5fa8726c25/",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/mruby/mruby",
+      "type": "Project"
+    },
+    {
+      "ref": "https://mruby.org/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:mruby:mruby:3.2:*:*:*:*:ruby:*:*",
+      "cpeNameId": "E4B83677-973B-43D9-AE4D-D0A6482E37F2"
+    }
+  ]
+}

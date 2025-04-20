@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:nextcloud:mail:3.1.0:*:*:*:*:*:*:*",
+  "cpeNameId": "A287119C-26A8-454A-84E2-F0037A22847E",
+  "lastModified": "2024-11-20T14:49:09.773",
+  "created": "2023-10-19T17:41:35.307",
+  "titles": [
+    {
+      "title": "Nextcloud Mail 3.1.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-8j9x-fmww-qr37",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/nextcloud/mail/blob/main/CHANGELOG.md",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:3.1.0:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "D6B6DB74-1489-4459-BDE7-81EC4B1F6358"
+    }
+  ]
+}

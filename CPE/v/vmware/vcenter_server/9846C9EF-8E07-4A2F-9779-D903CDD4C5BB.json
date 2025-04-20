@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:vmware:vcenter_server:6.5:update1:*:*:*:*:*:*",
+  "cpeNameId": "9846C9EF-8E07-4A2F-9779-D903CDD4C5BB",
+  "lastModified": "2021-08-24T10:43:54.470",
+  "created": "2021-08-24T10:37:40.110",
+  "titles": [
+    {
+      "title": "VMware vCenter Server 6.5 Update 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://docs.vmware.com/en/VMware-vSphere/6.5/rn/vsphere-vcenter-server-65u3p-release-notes.html",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://customerconnect.vmware.com/downloads/details?downloadGroup=VC65U1&productId=614&rPId=17343",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:vmware:vcenter_server:6.5:1:*:*:*:*:*:*",
+      "cpeNameId": "725DCCE9-9838-47BD-9F85-00641E415EA9"
+    },
+    {
+      "cpeName": "cpe:2.3:a:vmware:vcenter_server:6.5:u1:*:*:*:*:*:*",
+      "cpeNameId": "AFEFBCB5-DEEC-4E8F-8CBA-C01A508265CA"
+    }
+  ]
+}

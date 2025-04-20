@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nextcloud:mail:1.12.8:*:*:*:*:nextcloud:*:*",
+  "cpeNameId": "F5FC9429-107D-4659-A8B1-42D4A361CA66",
+  "lastModified": "2024-11-20T14:49:09.773",
+  "created": "2024-11-20T14:49:09.773",
+  "titles": [
+    {
+      "title": "Nextcloud Mail 1.12.8 for Nextcloud",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://apps.nextcloud.com/apps/mail",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/nextcloud/mail/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nextcloud/mail",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:nextcloud_mail:1.12.8:*:*:*:*:*:*:*",
+      "cpeNameId": "C49CBC25-2A0E-48FD-884F-522C98F81FF3"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:1.12.8:*:*:*:*:*:*:*",
+      "cpeNameId": "E1BEFB51-282D-4BC8-9649-5802FBE54DB2"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:debian:advanced_package_tool:1.6:alpha7:*:*:*:*:*:*",
+  "cpeNameId": "C9CF6A11-EE82-4502-9728-7F4146C665B6",
+  "lastModified": "2019-09-23T12:30:26.700",
+  "created": "2019-09-23T12:30:26.700",
+  "titles": [
+    {
+      "title": "Debian Advanced Package Tool (APT) 1.6 Alpha 7",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://launchpad.net/debian/+source/apt/+changelog",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://salsa.debian.org/apt-team/apt/-/tags?sort=updated_desc",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:debian:apt:1.6:alpha7:*:*:*:*:*:*",
+      "cpeNameId": "C75C2AE2-55D4-4292-9214-B6F47415E117"
+    }
+  ]
+}

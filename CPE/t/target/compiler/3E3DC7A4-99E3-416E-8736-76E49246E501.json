@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:target:compiler:0.2.0:rc1:*:*:*:*:*:*",
+  "cpeNameId": "3E3DC7A4-99E3-416E-8736-76E49246E501",
+  "lastModified": "2021-04-08T13:15:07.840",
+  "created": "2021-01-14T15:07:07.600",
+  "titles": [
+    {
+      "title": "Target Compiler 0.2.0 Release Candidate 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/go-vela/compiler/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/go-vela/compiler/security/advisories/GHSA-gv2h-gf8m-r68j",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:go-vela:compiler:0.2.0:rc1:*:*:*:*:*:*",
+      "cpeNameId": "2B7D31C0-B7F5-41CD-8CDF-3A3810605921"
+    }
+  ]
+}

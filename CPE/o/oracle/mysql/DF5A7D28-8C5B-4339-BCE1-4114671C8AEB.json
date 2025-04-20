@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:oracle:mysql:5.0.64:*:*:*:*:*:*:*",
+  "cpeNameId": "DF5A7D28-8C5B-4339-BCE1-4114671C8AEB",
+  "lastModified": "2019-04-25T11:55:47.783",
+  "created": "2019-04-25T11:55:47.783",
+  "titles": [
+    {
+      "title": "Oracle MySQL 5.0.64",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/mysql/mysql-server/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "http://www.oracle.com/us/products/mysql/overview/index.html",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.mysql.com/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:mysql:mysql:5.0.64:*:*:*:*:*:*:*",
+      "cpeNameId": "2118A83D-0795-4CBC-96DE-036C36C9A36D"
+    }
+  ]
+}

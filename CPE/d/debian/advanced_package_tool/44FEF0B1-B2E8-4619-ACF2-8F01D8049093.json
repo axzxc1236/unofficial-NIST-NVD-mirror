@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:debian:advanced_package_tool:1.1.1:*:*:*:*:*:*:*",
+  "cpeNameId": "44FEF0B1-B2E8-4619-ACF2-8F01D8049093",
+  "lastModified": "2019-09-23T12:29:58.793",
+  "created": "2019-09-23T12:29:58.793",
+  "titles": [
+    {
+      "title": "Debian Advanced Package Tool (APT) 1.1.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://launchpad.net/debian/+source/apt/+changelog",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://salsa.debian.org/apt-team/apt/-/tags?sort=updated_desc",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:debian:apt:1.1.1:*:*:*:*:*:*:*",
+      "cpeNameId": "690DA347-0DEE-4179-8243-CB0C037C70FF"
+    }
+  ]
+}

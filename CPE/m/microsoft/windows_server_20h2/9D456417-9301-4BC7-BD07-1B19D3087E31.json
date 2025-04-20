@@ -1,0 +1,37 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_server_20h2:-:*:*:*:*:*:*:*",
+  "cpeNameId": "9D456417-9301-4BC7-BD07-1B19D3087E31",
+  "lastModified": "2023-10-14T21:33:13.750",
+  "created": "2023-09-22T13:06:58.723",
+  "titles": [
+    {
+      "title": "Microsoft Windows Server 20H2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-35743",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://support.microsoft.com/en-us/topic/windows-10-update-history-7dd3071a-3906-fa2c-c342-f7f86728a6e3",
+      "type": "Product"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/lifecycle/products/windows-server-semiannual-channel",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.microsoft.com/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server_20h2:-:*:*:*:*:*:x64:*",
+      "cpeNameId": "409B6740-02C4-43A4-B939-7CFA74CD497A"
+    }
+  ]
+}

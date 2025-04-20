@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:pgadmin:pgadmin_4:1.5:*:*:*:*:postgresql:*:*",
+  "cpeNameId": "50CE69CB-BF0A-4ABD-8647-E4B6A6FE0C72",
+  "lastModified": "2025-03-17T16:46:06.550",
+  "created": "2025-03-17T16:43:51.127",
+  "titles": [
+    {
+      "title": "pgAdmin 1.5 for PostgreSQL",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.pgadmin.org/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/pgadmin-org/pgadmin4/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.pgadmin.org/docs/pgadmin4/latest/",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:pgadmin:pgadmin:1.5:*:*:*:*:postgresql:*:*",
+      "cpeNameId": "518C1456-E0DD-47B0-9DB7-9EF830658091"
+    },
+    {
+      "cpeName": "cpe:2.3:a:postgresql:pgadmin_4:1.5:*:*:*:*:*:*:*",
+      "cpeNameId": "1A1E7A8E-C04F-4FEC-9A13-FFB2270B68DA"
+    }
+  ]
+}

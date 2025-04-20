@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:arm:trusted_firmware-a:2.0:-:*:*:-:*:*:*",
+  "cpeNameId": "6003E10E-24B8-4A6D-9D27-9809F798A24E",
+  "lastModified": "2024-11-27T20:03:18.813",
+  "created": "2024-11-27T20:03:18.813",
+  "titles": [
+    {
+      "title": "ARM Trusted Firmware-A (TF-A) 2.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.arm.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/ARM-software/arm-trusted-firmware",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/ARM-software/arm-trusted-firmware/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:arm:trusted_firmware-a:2.0:-:*:*:*:*:*:*",
+      "cpeNameId": "9322B271-05AA-4FC5-BBC9-09678C033421"
+    }
+  ]
+}

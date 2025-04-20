@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:18.0.5:-:*:*:*:*:*:*",
+  "cpeNameId": "B7AE8D89-EC6F-46FF-98BC-6A0CE874ECE7",
+  "lastModified": "2022-09-27T14:09:17.993",
+  "created": "2022-03-10T16:27:12.500",
+  "titles": [
+    {
+      "title": "Nextcloud Server 18.0.5",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nextcloud/server",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nextcloud.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://nextcloud.com/changelog/",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:nextcloud_server:18.0.5:*:*:*:*:*:*:*",
+      "cpeNameId": "60A1061D-FD74-433F-A313-08EDD8F4A362"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:nextcloud:18.0.5:-:*:*:*:*:*:*",
+      "cpeNameId": "8CC473BC-791F-47E5-9F06-75C132F6991E"
+    }
+  ]
+}

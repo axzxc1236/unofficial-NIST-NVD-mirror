@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:vmware:spring_framework:5.1.0:-:*:*:*:*:*:*",
+  "cpeNameId": "E869D5C1-DA0C-4EB2-BEE0-60609D989D84",
+  "lastModified": "2022-04-11T17:24:32.300",
+  "created": "2022-04-01T19:59:31.027",
+  "titles": [
+    {
+      "title": "VMware Spring Framework 5.1.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.vmware.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://spring.io/projects/spring-framework",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/spring-projects/spring-framework/tags?after=v5.1.0.RELEASE",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:pivotal_software:spring_framework:5.1.0:-:*:*:*:*:*:*",
+      "cpeNameId": "49120954-6E39-430A-891E-FFB9B91530C0"
+    },
+    {
+      "cpeName": "cpe:2.3:a:pivotal_software:spring_framework:5.1:*:*:*:*:*:*:*",
+      "cpeNameId": "D46B0993-AB8C-4E81-A296-ECFAFFB68990"
+    }
+  ]
+}

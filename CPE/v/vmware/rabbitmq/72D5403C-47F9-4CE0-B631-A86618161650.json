@@ -1,0 +1,37 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:vmware:rabbitmq:3.8.14:*:*:*:*:*:*:*",
+  "cpeNameId": "72D5403C-47F9-4CE0-B631-A86618161650",
+  "lastModified": "2025-04-02T14:13:38.760",
+  "created": "2021-05-24T13:59:54.267",
+  "titles": [
+    {
+      "title": "VMware RabbitMQ 3.8.14",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/rabbitmq/rabbitmq-server/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://tanzu.vmware.com/security/cve-2021-22117",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://rabbitmq.com/changelog.html",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://rabbitmq.com/",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:broadcom:rabbitmq_server:3.8.14:*:*:*:*:*:*:*",
+      "cpeNameId": "1FEFDDA7-9B36-4651-BCEA-B26ECCB6274E"
+    }
+  ]
+}

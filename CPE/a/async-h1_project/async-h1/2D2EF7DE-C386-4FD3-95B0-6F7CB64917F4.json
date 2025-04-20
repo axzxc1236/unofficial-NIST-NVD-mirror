@@ -1,0 +1,33 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:async-h1_project:async-h1:-:*:*:*:*:rust:*:*",
+  "cpeNameId": "2D2EF7DE-C386-4FD3-95B0-6F7CB64917F4",
+  "lastModified": "2021-02-10T19:52:13.277",
+  "created": "2021-02-01T19:21:17.287",
+  "titles": [
+    {
+      "title": "async-h1 Project async-h1 for Rust",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://crates.io/crates/async-h1/versions",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/http-rs/async-h1/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://rustsec.org/advisories/RUSTSEC-2020-0093.html",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:rust-lang:async-h1:-:*:*:*:*:rust:*:*",
+      "cpeNameId": "AC91BFCB-6EDC-4C1B-80C0-9577B2F143BE"
+    }
+  ]
+}

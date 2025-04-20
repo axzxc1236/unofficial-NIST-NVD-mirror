@@ -1,0 +1,43 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:jenkins:jenkins:1.523:*:*:*:*:*:*:*",
+  "cpeNameId": "29E86276-F9D2-420C-96A1-C30FC59525AF",
+  "lastModified": "2019-05-08T16:28:39.173",
+  "created": "2016-06-13T10:55:18.090",
+  "titles": [
+    {
+      "title": "Jenkins 1.523",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://jenkins.io/index.html",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://jenkins.io/changelog-old/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://jenkins.io/changelog/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/jenkinsci/jenkins",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:jenkins:jenkins:1.523:*:*:*:-:*:*:*",
+      "cpeNameId": "22442B45-0C23-4D32-B0DD-AA14416C6D30"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cloudbees:jenkins:1.523:*:*:*:*:*:*:*",
+      "cpeNameId": "C365B5A9-36A8-4DDA-9C04-B7916C6C4A96"
+    }
+  ]
+}

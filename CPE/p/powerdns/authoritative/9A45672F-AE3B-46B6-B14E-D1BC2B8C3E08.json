@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:powerdns:authoritative:4.1.0:-:*:*:*:*:*:*",
+  "cpeNameId": "9A45672F-AE3B-46B6-B14E-D1BC2B8C3E08",
+  "lastModified": "2019-08-02T12:54:23.100",
+  "created": "2019-08-02T12:54:23.100",
+  "titles": [
+    {
+      "title": "PowerDNS Authoritative 4.1.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.powerdns.com/auth.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/PowerDNS/pdns/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://doc.powerdns.com/authoritative/changelog/index.html",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:powerdns:authoritative:4.1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "DE6761EF-67F6-4169-AC04-46752BEF1372"
+    }
+  ]
+}

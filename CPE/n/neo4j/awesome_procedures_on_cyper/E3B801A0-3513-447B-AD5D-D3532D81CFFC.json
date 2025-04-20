@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:neo4j:awesome_procedures_on_cyper:3.5.0.4:*:*:*:*:*:*:*",
+  "cpeNameId": "E3B801A0-3513-447B-AD5D-D3532D81CFFC",
+  "lastModified": "2023-01-23T15:40:02.270",
+  "created": "2023-01-23T15:04:47.843",
+  "titles": [
+    {
+      "title": "Neo4j Awesome Procedures On Cyper 3.5.0.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/neo4j-contrib/neo4j-apoc-procedures/security/advisories/GHSA-5v8v-gwmw-qw97",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/neo4j-contrib/neo4j-apoc-procedures/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/neo4j-contrib/neo4j-apoc-procedures",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:neo4j-contrib:neo4j-apoc-procedures:3.5.0.4:*:*:*:*:*:*:*",
+      "cpeNameId": "274121F2-CD44-4131-8DA1-DE79BF5B0C01"
+    }
+  ]
+}

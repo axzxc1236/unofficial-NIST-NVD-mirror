@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:pgadmin:pgadmin_4:2.0:rc2:*:*:*:postgresql:*:*",
+  "cpeNameId": "1865299D-8F3A-428E-8A9F-C1FA6191C02A",
+  "lastModified": "2025-03-17T16:46:06.550",
+  "created": "2025-03-17T16:43:51.127",
+  "titles": [
+    {
+      "title": "pgAdmin 2.0 Release Candidate 2 for PostgreSQL",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.pgadmin.org/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/pgadmin-org/pgadmin4/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.pgadmin.org/docs/pgadmin4/latest/",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:pgadmin:pgadmin:2.0:rc2:*:*:*:postgresql:*:*",
+      "cpeNameId": "FF58BA4D-6117-4AF1-8AB2-0E6EFA4D967F"
+    },
+    {
+      "cpeName": "cpe:2.3:a:postgresql:pgadmin_4:2.0:rc2:*:*:*:*:*:*",
+      "cpeNameId": "5F18F155-CDE5-4C03-B3CF-5F0F3706FD57"
+    }
+  ]
+}

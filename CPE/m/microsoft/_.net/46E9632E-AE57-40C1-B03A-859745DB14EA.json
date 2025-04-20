@@ -1,0 +1,37 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:microsoft:.net:3.5:*:*:*:*:*:*:*",
+  "cpeNameId": "46E9632E-AE57-40C1-B03A-859745DB14EA",
+  "lastModified": "2023-10-15T16:18:44.963",
+  "created": "2021-05-25T13:50:15.613",
+  "titles": [
+    {
+      "title": "Microsoft .net 3.5",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://us-cert.cisa.gov/ics/advisories/icsa-21-133-04",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.microsoft.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies",
+      "type": "Version"
+    },
+    {
+      "ref": "https://dotnet.microsoft.com/en-us/download/dotnet-framework",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:.net_framework:3.5:*:*:*:*:*:*:*",
+      "cpeNameId": "826518A5-FE7F-4BBB-A99C-8F731165A0FC"
+    }
+  ]
+}

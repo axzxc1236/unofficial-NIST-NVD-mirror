@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mio_project:mio:0.7.3:*:*:*:*:rust:*:*",
+  "cpeNameId": "7BCC83BA-794A-41BF-B577-72C699DF24C7",
+  "lastModified": "2021-01-07T12:56:12.300",
+  "created": "2021-01-07T12:56:12.300",
+  "titles": [
+    {
+      "title": "Mio Project Mio 0.7.3 for Rust",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/tokio-rs/mio/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://rustsec.org/advisories/RUSTSEC-2020-0081.html",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:mio_project:mio:0.7.3:*:*:*:*:*:*:*",
+      "cpeNameId": "3259B70A-0D0A-4D6B-84BC-7324F871FBB6"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:.net_core:1.0:rc1:*:*:*:*:*:*",
+  "cpeNameId": "66C195F4-9025-43B3-B629-D3DCE26ADF57",
+  "lastModified": "2023-10-15T16:46:22.237",
+  "created": "2021-05-18T14:48:34.710",
+  "titles": [
+    {
+      "title": "Microsoft .NET Core 1.0 Release Candidate 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/dotnet/core/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.microsoft.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://dotnet.microsoft.com/en-us/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:.net_core:1.0.0:rc1:*:*:*:*:*:*",
+      "cpeNameId": "0FC63577-DE57-48C2-B9FD-ABC695AA1A4E"
+    }
+  ]
+}

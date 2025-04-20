@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:powershell_core:6.1:*:*:*:*:*:*:*",
+  "cpeNameId": "D73004A7-05BC-44F2-AD88-291845505D96",
+  "lastModified": "2021-09-30T16:07:29.797",
+  "created": "2018-09-07T20:07:55.187",
+  "titles": [
+    {
+      "title": "Microsoft Powershell Core 6.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://blogs.msdn.microsoft.com/powershell/2018/01/24/powershell-core-6-1-roadmap/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1721",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.tenforums.com/tutorials/126551-install-powershell-core-windows.html",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:powershell_core:6.1:*:*:*:*:*:*:*",
+      "cpeNameId": "5E129470-1CEA-4470-957B-B86C172AAA67"
+    }
+  ]
+}

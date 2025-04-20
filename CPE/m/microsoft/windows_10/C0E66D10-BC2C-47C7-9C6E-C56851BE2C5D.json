@@ -1,0 +1,35 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:21h2:*:*:*:*:*:x86:*",
+  "cpeNameId": "C0E66D10-BC2C-47C7-9C6E-C56851BE2C5D",
+  "lastModified": "2022-12-09T18:15:16.973",
+  "created": "2021-12-22T02:13:09.367",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 21H2 on x86",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-43227",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10_21h2:-:*:*:*:*:*:x86:*",
+      "cpeNameId": "635C646F-9133-4274-B3CE-704FB4D6ACC0"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:21h2:*:*:*:*:*:*:*",
+      "cpeNameId": "467F3C5C-3DDB-45A2-9333-C849F93C7EF5"
+    }
+  ]
+}

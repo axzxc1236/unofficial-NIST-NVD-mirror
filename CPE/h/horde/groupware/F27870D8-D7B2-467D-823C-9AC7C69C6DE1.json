@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:horde:groupware:5.2.22:*:*:*:-:*:*:*",
+  "cpeNameId": "F27870D8-D7B2-467D-823C-9AC7C69C6DE1",
+  "lastModified": "2019-06-18T17:06:40.957",
+  "created": "2019-06-18T17:06:40.957",
+  "titles": [
+    {
+      "title": "Horde Groupware 5.2.22",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/horde/groupware/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "http://www.horde.org/apps/groupware",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.horde.org/apps/groupware/docs/RELEASE_NOTES",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/starnightcyber/Miscellaneous/blob/master/Horde/README.md",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://nvd-admin.nist.gov/admin/consoles/client/index.webadmin.html#/vuln/detail/CVE-2017-16907?tab=REFERENCES",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:horde:groupware:5.2.22:*:*:*:*:*:*:*",
+      "cpeNameId": "CA8A3F0D-81F7-4A26-91D3-28BE2BCC5485"
+    }
+  ]
+}

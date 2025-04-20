@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:apple:ipados:14.7:*:*:*:*:*:*:*",
+  "cpeNameId": "006D92CC-71E7-4B4A-87C8-E6CD76ED840C",
+  "lastModified": "2023-01-09T16:41:58.197",
+  "created": "2021-09-14T15:27:06.507",
+  "titles": [
+    {
+      "title": "Apple iPad OS 14.7",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://developer.apple.com/documentation/ios-ipados-release-notes",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://exchange.xforce.ibmcloud.com/vulnerabilities/242415",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:apple:ipad_os:14.7:*:*:*:*:*:*:*",
+      "cpeNameId": "C13141F6-EE11-47ED-A1EA-D7D8219F6CC0"
+    }
+  ]
+}

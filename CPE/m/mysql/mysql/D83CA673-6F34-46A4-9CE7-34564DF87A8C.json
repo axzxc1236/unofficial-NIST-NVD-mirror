@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:mysql:mysql:5.0.20:-:*:*:*:*:*:*",
+  "cpeNameId": "D83CA673-6F34-46A4-9CE7-34564DF87A8C",
+  "lastModified": "2019-12-17T17:13:37.190",
+  "created": "2019-12-17T16:06:00.613",
+  "titles": [
+    {
+      "title": "MySQL 5.0.20",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mysql.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.oracle.com/mysql/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/mysql/mysql-server/releases",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:oracle:mysql:5.0.20:-:*:*:*:*:*:*",
+      "cpeNameId": "CB19CC96-3D94-4F34-9B8D-4475CAC5CECA"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:mysql:mysql:5.0.20:*:*:*:*:*:*:*",
+      "cpeNameId": "C176A168-2616-43F9-A8B3-33BFBC2220D2"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:roundcube:webmail:0.2:-:*:*:*:*:*:*",
+  "cpeNameId": "8E96AECA-B3A0-4D76-9363-CBA620F51BE5",
+  "lastModified": "2022-03-10T14:29:39.777",
+  "created": "2019-06-18T15:03:48.793",
+  "titles": [
+    {
+      "title": "RoundCube Webmail 0.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://roundcube.net/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/roundcube/roundcubemail",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:roundcube:webmail:0.2:*:*:*:*:*:*:*",
+      "cpeNameId": "14D722C9-BF03-4635-B811-1230181F7E9C"
+    },
+    {
+      "cpeName": "cpe:2.3:a:roundcube:roundcube:0.2:-:*:*:*:*:*:*",
+      "cpeNameId": "A5DFA886-3217-447A-B0B0-DF8ABFD8DFB5"
+    }
+  ]
+}

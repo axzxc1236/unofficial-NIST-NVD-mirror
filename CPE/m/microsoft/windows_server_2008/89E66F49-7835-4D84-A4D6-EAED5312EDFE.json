@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:microsoft:windows_server_2008:-:*:*:*:-:*:itanium:*",
+  "cpeNameId": "89E66F49-7835-4D84-A4D6-EAED5312EDFE",
+  "lastModified": "2022-05-23T17:40:47.380",
+  "created": "2020-09-28T12:58:56.217",
+  "titles": [
+    {
+      "title": "Microsoft Windows Server 2008 on Itanium",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://cloudblogs.microsoft.com/windowsserver/2010/04/02/windows-server-2008-r2-to-phase-out-itanium/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server_2008:-:*:itanium:*:*:*:*:*",
+      "cpeNameId": "6D8EC7CD-B179-42F7-A927-4031D9D8BBE6"
+    },
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server:2008:*:*:*:*:*:itanium:*",
+      "cpeNameId": "1E72721D-8572-4CBB-8EEA-2004614507B5"
+    },
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server:2008:*:ia64:*:*:*:*:*",
+      "cpeNameId": "B0301B31-4ED5-4E41-A867-E3137EBDE0E0"
+    }
+  ]
+}

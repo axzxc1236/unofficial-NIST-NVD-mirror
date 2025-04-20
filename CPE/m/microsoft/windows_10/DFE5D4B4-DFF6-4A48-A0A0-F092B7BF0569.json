@@ -1,0 +1,43 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:-:*:*:*:*:*:x64:*",
+  "cpeNameId": "DFE5D4B4-DFF6-4A48-A0A0-F092B7BF0569",
+  "lastModified": "2022-12-13T18:06:14.753",
+  "created": "2015-08-17T14:02:13.653",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 64-bit",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.microsoft.com/en-us/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.microsoft.com/en-us/windows/features",
+      "type": "Product"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10_1507:-:*:*:*:*:*:x64:*",
+      "cpeNameId": "4938AC37-7B3E-44A9-8021-84AA97101E0E"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:-:gold:*:*:*:*:x64:*",
+      "cpeNameId": "D793D77A-BC89-433E-B308-A46CD9C110CD"
+    },
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:-:*:*:*:*:*:*:*",
+      "cpeNameId": "F8B1BC07-CA3C-4F5B-8830-6A39E621229A"
+    }
+  ]
+}

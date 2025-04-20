@@ -1,0 +1,25 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:linux:linux_kernel:5.15:rc3:*:*:*:*:*:*",
+  "cpeNameId": "6DBE44D0-670B-4B11-93BC-5CE160AE79A0",
+  "lastModified": "2022-06-22T15:55:37.900",
+  "created": "2022-01-28T14:52:46.853",
+  "titles": [
+    {
+      "title": "Linux Kernel 5.15 Release Candidate 3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/torvalds/linux/tags?after=v5.16-rc2",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:linux:linux_kernel:5.15:rc3:*:*:*:*:*:*",
+      "cpeNameId": "8AFE2028-4751-47E4-BF70-30E0A92A47BC"
+    }
+  ]
+}

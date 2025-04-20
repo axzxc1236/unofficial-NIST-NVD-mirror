@@ -1,0 +1,33 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:pivotal_software:cloud_foundry_uaa_release:7:*:*:*:*:*:*:*",
+  "cpeNameId": "87027444-650D-4CE8-A13F-5CBC3EFA793D",
+  "lastModified": "2021-08-06T14:47:03.650",
+  "created": "2017-06-07T17:38:51.363",
+  "titles": [
+    {
+      "title": "Pivotal Software Cloud Foundry UAA Release 7",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://docs.pivotal.io/pivotalcf/1-6/concepts/architecture/uaa.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/cloudfoundry/uaa-release",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/cloudfoundry/uaa/tree/2.7.4.1",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:7:*:*:*:*:*:*:*",
+      "cpeNameId": "96485DB3-0EA4-42A8-A1BC-0EE52E5BC73D"
+    }
+  ]
+}

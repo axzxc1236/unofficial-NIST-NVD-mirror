@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:oracle:mysql:5.0.74:sp1:*:*:*:*:*:*",
+  "cpeNameId": "DA569F17-130C-4DC4-9E1B-A7DB315C39EA",
+  "lastModified": "2019-12-17T15:32:04.453",
+  "created": "2019-12-17T15:32:04.453",
+  "titles": [
+    {
+      "title": "Oracle MySQL 5.0.74 Service Pack 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mysql.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "http://www.oracle.com/us/products/mysql/overview/index.html",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/mysql/mysql-server/releases",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:mysql:mysql:5.0.74:sp1:*:*:*:*:*:*",
+      "cpeNameId": "4580FF3F-372B-4B3C-A511-900640313058"
+    }
+  ]
+}

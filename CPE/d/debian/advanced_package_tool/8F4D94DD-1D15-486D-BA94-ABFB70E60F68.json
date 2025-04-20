@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:debian:advanced_package_tool:1.6.7:*:*:*:*:*:*:*",
+  "cpeNameId": "8F4D94DD-1D15-486D-BA94-ABFB70E60F68",
+  "lastModified": "2020-01-08T15:32:42.217",
+  "created": "2020-01-08T15:32:42.217",
+  "titles": [
+    {
+      "title": "Debian Advanced Package Tool (APT) 1.6.7",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://launchpad.net/debian/+source/apt/+changelog",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://salsa.debian.org/apt-team/apt/-/tags?sort=updated_desc",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:debian:apt:1.6.7:*:*:*:*:*:*:*",
+      "cpeNameId": "97416159-B293-43A6-9168-AED528BE8296"
+    }
+  ]
+}

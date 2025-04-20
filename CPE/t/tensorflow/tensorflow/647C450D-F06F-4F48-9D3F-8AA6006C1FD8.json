@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:tensorflow:tensorflow:2.1.3:*:*:*:*:*:*:*",
+  "cpeNameId": "647C450D-F06F-4F48-9D3F-8AA6006C1FD8",
+  "lastModified": "2021-08-17T13:22:52.530",
+  "created": "2020-12-15T14:47:05.570",
+  "titles": [
+    {
+      "title": "TensorFlow 2.1.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/tensorflow/tensorflow/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/tensorflow/tensorflow/security/advisories/GHSA-c9f3-9wfr-wgh7",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:google:tensorflow:2.1.3:*:*:*:*:*:*:*",
+      "cpeNameId": "51110391-2E46-4978-8520-47BC35BB3F61"
+    }
+  ]
+}

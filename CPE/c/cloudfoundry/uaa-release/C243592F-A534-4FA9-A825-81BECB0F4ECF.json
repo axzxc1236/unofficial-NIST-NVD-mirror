@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cloudfoundry:uaa-release:2:*:*:*:*:*:*:*",
+  "cpeNameId": "C243592F-A534-4FA9-A825-81BECB0F4ECF",
+  "lastModified": "2021-05-25T12:45:11.460",
+  "created": "2021-05-25T12:43:13.677",
+  "titles": [
+    {
+      "title": "Cloud Foundry UAA release 2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/cloudfoundry/uaa-release",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/cloudfoundry/uaa-release/tags",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.cloudfoundry.org/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:pivotal:uaa-release:2:*:*:*:*:*:*:*",
+      "cpeNameId": "1D253349-0198-4770-96B5-BDDD0FC27E53"
+    }
+  ]
+}

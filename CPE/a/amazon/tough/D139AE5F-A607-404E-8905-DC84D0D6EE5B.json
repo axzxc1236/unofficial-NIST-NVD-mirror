@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:amazon:tough:-:*:*:*:*:rust:*:*",
+  "cpeNameId": "D139AE5F-A607-404E-8905-DC84D0D6EE5B",
+  "lastModified": "2021-10-20T15:17:45.733",
+  "created": "2021-10-20T15:16:53.017",
+  "titles": [
+    {
+      "title": "Amazon Tough for Rust",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/awslabs/tough/security/advisories/GHSA-5q2r-92f9-4m49",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://crates.io/crates/tough/versions",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:amazon:tough:-:*:*:*:*:*:*:*",
+      "cpeNameId": "373333F7-23D9-49C7-B0E9-9F46397851CC"
+    }
+  ]
+}

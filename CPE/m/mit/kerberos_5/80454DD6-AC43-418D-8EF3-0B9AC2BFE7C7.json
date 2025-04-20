@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mit:kerberos_5:1.14:-:*:*:*:*:*:*",
+  "cpeNameId": "80454DD6-AC43-418D-8EF3-0B9AC2BFE7C7",
+  "lastModified": "2020-01-21T16:02:04.430",
+  "created": "2020-01-21T16:02:04.430",
+  "titles": [
+    {
+      "title": "Mit Kerberos 5 1.14",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/krb5/krb5",
+      "type": "Version"
+    },
+    {
+      "ref": "https://kerberos.org/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://web.mit.edu/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://web.mit.edu/kerberos/historical.html",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:mit:kerberos_5:1.14:*:*:*:*:*:*:*",
+      "cpeNameId": "D0171893-321F-4248-9F62-1A3C3E552949"
+    }
+  ]
+}

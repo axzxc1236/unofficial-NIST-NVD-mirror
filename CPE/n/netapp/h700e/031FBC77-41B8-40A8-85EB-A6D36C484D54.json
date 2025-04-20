@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:netapp:h700e:-:*:*:*:*:*:*:*",
+  "cpeNameId": "031FBC77-41B8-40A8-85EB-A6D36C484D54",
+  "lastModified": "2023-11-09T13:59:45.620",
+  "created": "2020-12-28T12:32:02.563",
+  "titles": [
+    {
+      "title": "NetApp H700E",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://security.netapp.com/advisory/ntap-20200511-0006/",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:h:netapp:baseboard_management_controller_h700e:-:*:*:*:*:*:*:*",
+      "cpeNameId": "C8895F40-BCE9-417E-B87C-D4AAA5933A18"
+    },
+    {
+      "cpeName": "cpe:2.3:a:netapp:hci_baseboard_management_controller:h700e:*:*:*:*:*:*:*",
+      "cpeNameId": "5033BFC7-F967-46FF-9CBF-FED7D70BAA91"
+    }
+  ]
+}

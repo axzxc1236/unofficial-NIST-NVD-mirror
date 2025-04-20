@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:antonkueltz:fastecdsa:1.2.1:*:*:*:*:*:*:*",
+  "cpeNameId": "ADFA3B31-A008-4EBC-915C-149BD9EE3E62",
+  "lastModified": "2025-02-12T18:29:07.000",
+  "created": "2025-02-12T18:29:07.000",
+  "titles": [
+    {
+      "title": "Antonkueltz Fastecdsa 1.2.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/AntonKueltz/fastecdsa/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://gist.github.com/keltecc/49da037072276f21b005a8337c15db26",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://security.snyk.io/vuln/SNYK-PYTHON-FASTECDSA-6262045",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:fastecdsa_project:fastecdsa:1.2.1:*:*:*:*:*:*:*",
+      "cpeNameId": "18454C0F-B178-4853-8A69-81F8402C3C7B"
+    }
+  ]
+}

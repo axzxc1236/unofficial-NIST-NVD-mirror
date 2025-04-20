@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:puppet:puppet_enterprise:3.2.3:*:*:*:*:*:*:*",
+  "cpeNameId": "E9BBA7AE-9294-454F-AFB4-89C369DC97DC",
+  "lastModified": "2022-01-24T16:43:54.417",
+  "created": "2019-07-10T15:39:32.983",
+  "titles": [
+    {
+      "title": "Puppet Enterprise 3.2.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://puppet.com/misc/version-history",
+      "type": "Version"
+    },
+    {
+      "ref": "https://puppet.com/misc/pe-files/previous-releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://puppet.com/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:puppetlabs:puppet_enterprise:3.2.3:*:*:*:*:*:*:*",
+      "cpeNameId": "03DF8EC7-F483-43B6-A7A0-A32F08F764EA"
+    },
+    {
+      "cpeName": "cpe:2.3:a:puppet:puppet:3.2.3:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "F69C0F29-CE1D-4C81-99B6-6AA0E6D1F4F9"
+    }
+  ]
+}

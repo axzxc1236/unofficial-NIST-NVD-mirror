@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:intel:microcode:-:*:*:*:*:*:*:*",
+  "cpeNameId": "81E64B9A-C82A-4BCA-AF34-C4E87DB12A2D",
+  "lastModified": "2021-07-02T15:52:56.263",
+  "created": "2020-11-18T17:51:20.987",
+  "titles": [
+    {
+      "title": "Intel Microcode",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00381.html",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:intel:microcode:-:*:*:*:*:*:*:*",
+      "cpeNameId": "55B8AA97-69D4-4278-8317-F8CE88DA2A51"
+    }
+  ]
+}

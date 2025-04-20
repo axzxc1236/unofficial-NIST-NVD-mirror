@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:port389:389-ds-base:-:*:*:*:*:*:*:*",
+  "cpeNameId": "F0820716-1488-41DD-918C-1D55291209F6",
+  "lastModified": "2022-10-28T01:18:19.567",
+  "created": "2021-06-01T17:56:11.010",
+  "titles": [
+    {
+      "title": "Port389 389-ds-base (389 Directory Server)",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/389ds/389-ds-base/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.port389.org/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:redhat:389_directory_server:-:*:*:*:*:*:*:*",
+      "cpeNameId": "312C6D6A-4A64-44E2-9025-70543496A02E"
+    }
+  ]
+}

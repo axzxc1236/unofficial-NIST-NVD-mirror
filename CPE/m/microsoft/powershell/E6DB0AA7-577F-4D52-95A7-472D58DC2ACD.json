@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:microsoft:powershell:7.0:*:*:*:*:*:*:*",
+  "cpeNameId": "E6DB0AA7-577F-4D52-95A7-472D58DC2ACD",
+  "lastModified": "2022-03-23T14:23:28.960",
+  "created": "2020-07-27T16:28:21.623",
+  "titles": [
+    {
+      "title": "Microsoft PowerShell 7.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://docs.microsoft.com/en-us/powershell/scripting/whats-new/what-s-new-in-powershell-70?view=powershell-7",
+      "type": "Version"
+    },
+    {
+      "ref": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1108",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:powershell:7.0:-:*:*:*:*:*:*",
+      "cpeNameId": "1952FD0B-FFB5-4BF0-8554-BEA752A36D4A"
+    }
+  ]
+}

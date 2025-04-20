@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:trustwave:modsecurity:2.5.0:*:*:*:*:*:*:*",
+  "cpeNameId": "761CC7C7-EE8C-46FA-A67A-59A3A395C536",
+  "lastModified": "2021-02-10T16:27:04.217",
+  "created": "2021-02-10T15:54:02.480",
+  "titles": [
+    {
+      "title": "Trustwave ModSecurity 2.5.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/SpiderLabs/ModSecurity/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.modsecurity.org/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.trustwave.com/en-us/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:trustwave:modsecurity:2.5.0:-:*:*:*:*:*:*",
+      "cpeNameId": "2DD22C57-46F1-4D6E-BCB4-61731E0BC930"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:modsecurity:modsecurity:2.5.0:*:*:*:*:*:*:*",
+      "cpeNameId": "05ED6C74-C5A2-454B-9B4A-FB9977A2AA2E"
+    }
+  ]
+}

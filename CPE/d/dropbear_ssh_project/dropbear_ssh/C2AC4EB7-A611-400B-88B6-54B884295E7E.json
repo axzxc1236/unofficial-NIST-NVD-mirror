@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:0.47:*:*:*:*:*:*:*",
+  "cpeNameId": "C2AC4EB7-A611-400B-88B6-54B884295E7E",
+  "lastModified": "2018-09-20T11:49:11.123",
+  "created": "2018-09-20T11:49:11.123",
+  "titles": [
+    {
+      "title": "Dropbear SSH Project Dropbear SSH 0.47",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://secure.ucc.asn.au/hg/dropbear/tags",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://matt.ucc.asn.au/dropbear/CHANGES",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:matt_johnston:dropbear_ssh_server:0.47:*:*:*:*:*:*:*",
+      "cpeNameId": "FC4F63D7-975E-4C90-9C37-849E8F4E1284"
+    }
+  ]
+}

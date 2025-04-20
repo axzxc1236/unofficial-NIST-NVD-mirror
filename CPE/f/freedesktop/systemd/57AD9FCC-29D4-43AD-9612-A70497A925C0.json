@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:freedesktop:systemd:42:*:*:*:*:*:*:*",
+  "cpeNameId": "57AD9FCC-29D4-43AD-9612-A70497A925C0",
+  "lastModified": "2022-01-28T19:09:42.747",
+  "created": "2019-04-29T17:00:58.560",
+  "titles": [
+    {
+      "title": "freedesktop Systemd 42",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/systemd/systemd/tags",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.freedesktop.org/wiki/Software/systemd/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/systemd/systemd",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:systemd_project:systemd:42:*:*:*:*:*:*:*",
+      "cpeNameId": "958030E4-2FEB-47B1-8C42-8BDC2ADBD470"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:freedesktop:systemd:042:*:*:*:*:*:*:*",
+      "cpeNameId": "28D29AF9-9000-469A-BC6E-14AB71DBA9CE"
+    }
+  ]
+}

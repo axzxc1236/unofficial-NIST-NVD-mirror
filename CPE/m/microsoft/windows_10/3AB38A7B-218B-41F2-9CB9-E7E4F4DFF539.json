@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:1909:*:*:*:*:*:x86:*",
+  "cpeNameId": "3AB38A7B-218B-41F2-9CB9-E7E4F4DFF539",
+  "lastModified": "2022-12-09T18:15:16.973",
+  "created": "2020-09-16T14:27:32.670",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 1909 on x86",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.catalog.update.microsoft.com/Search.aspx?q=kb4524570",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1405",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10_1909:-:*:*:*:*:*:x86:*",
+      "cpeNameId": "38A6A1E5-4328-40A7-8D6E-43F9E73D78B2"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:1909:*:*:*:*:*:*:*",
+      "cpeNameId": "3FAE00A7-2E12-4E04-9266-0278DB5C3718"
+    }
+  ]
+}

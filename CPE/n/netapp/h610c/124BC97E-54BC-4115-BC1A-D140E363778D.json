@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:netapp:h610c:-:*:*:*:*:*:*:*",
+  "cpeNameId": "124BC97E-54BC-4115-BC1A-D140E363778D",
+  "lastModified": "2023-11-09T13:59:45.620",
+  "created": "2021-09-03T17:13:38.907",
+  "titles": [
+    {
+      "title": "NetApp H610C",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://security.netapp.com/advisory/ntap-20210805-0010/",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:h:netapp:baseboard_management_controller_h610c:-:*:*:*:*:*:*:*",
+      "cpeNameId": "EE3891E3-2D31-4088-8007-14B0737DAF71"
+    },
+    {
+      "cpeName": "cpe:2.3:a:netapp:hci_baseboard_management_controller:h610c:*:*:*:*:*:*:*",
+      "cpeNameId": "EC38B052-E2E4-437D-BB45-EE7EB6A6F44E"
+    }
+  ]
+}

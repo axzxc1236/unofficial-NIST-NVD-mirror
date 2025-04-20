@@ -1,0 +1,34 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:microsoft:internet_information_server:1.0:*:*:*:*:*:*:*",
+  "cpeNameId": "1AA4AE00-5160-4963-8FC4-5258C322A78C",
+  "lastModified": "2020-11-23T19:49:20.223",
+  "created": "2007-08-23T21:16:59.567",
+  "titles": [
+    {
+      "title": "Microsoft IIS 1.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://support.microsoft.com/en-us/help/224609/how-to-obtain-versions-of-internet-information-server-iis",
+      "type": "Change Log"
+    },
+    {
+      "ref": "http://www.iis.net/learn/get-started/whats-new-in-iis-8"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:internet_information_services:1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "49DF8626-3EB0-42AD-9097-61CC6D2E9128"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:iis:1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "7AA7911B-5DEE-4FC2-8412-3A81EC4CC458"
+    }
+  ]
+}

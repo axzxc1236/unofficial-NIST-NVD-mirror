@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:genivi:diagnostic_log_and_trace:2.6.2:*:*:*:*:*:*:*",
+  "cpeNameId": "AEDE286D-3053-415C-A572-85FD1EA6073E",
+  "lastModified": "2021-12-21T16:31:33.990",
+  "created": "2021-02-11T18:39:21.867",
+  "titles": [
+    {
+      "title": "GENIVI Diagnostic Log and Trace 2.6.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.genivi.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/GENIVI/dlt-daemon",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:dlt-daemon_project:dlt-daemon:2.6.2:*:*:*:*:*:*:*",
+      "cpeNameId": "A0EF929D-8BF8-42C2-9BCD-F9FD0E3E831E"
+    }
+  ]
+}

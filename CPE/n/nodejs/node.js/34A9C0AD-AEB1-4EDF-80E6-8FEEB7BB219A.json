@@ -1,0 +1,53 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:11.1.0:*:*:*:-:*:*:*",
+  "cpeNameId": "34A9C0AD-AEB1-4EDF-80E6-8FEEB7BB219A",
+  "lastModified": "2024-03-07T21:36:06.627",
+  "created": "2020-02-10T17:54:09.490",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 11.1.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/download/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/en/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://nodejs.org/download/docs/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://nodejs.org/docs/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V11.md",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:11.1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "BC3C7CDF-3835-4647-8665-C34B64FBD546"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:11.1.0:*:*:*:lts:*:*:*",
+      "cpeNameId": "AED88104-C789-4702-8690-E9DF3B5B3376"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:microsoft:windows_server_2022:10.0.20348.1724:*:*:*:standard:*:x64:*",
+  "cpeNameId": "D748A56F-DB7B-4FC6-A9E1-0DC7C3E57015",
+  "lastModified": "2023-10-14T21:19:46.013",
+  "created": "2023-10-14T21:19:46.013",
+  "titles": [
+    {
+      "title": "Microsoft Windows Server 2022 10.0.20348.1724 Standard Edition on X64",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://docs.microsoft.com/en-us/windows-server/get-started/whats-new-in-windows-server-2022",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.microsoft.com",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24898",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server_2022:10.0.20348.1724:*:*:*:*:*:*:*",
+      "cpeNameId": "1E824DAD-543D-400F-8A4F-409848C2C082"
+    }
+  ]
+}

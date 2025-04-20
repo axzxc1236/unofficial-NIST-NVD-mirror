@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.0:rc1:*:*:*:*:*:*",
+  "cpeNameId": "2DBF9495-DAD3-4732-B709-FC2BE4DDEB26",
+  "lastModified": "2022-03-30T17:14:22.033",
+  "created": "2022-03-30T17:12:49.037",
+  "titles": [
+    {
+      "title": "PostgreSQL JDBC Driver 42.3.0 Release Candidate 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.postgresql.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://jdbc.postgresql.org/documentation/changelog.html",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://jdbc.postgresql.org/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/pgjdbc/pgjdbc/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:postgresql:pgjdbc:42.3.0:rc1:*:*:*:*:*:*",
+      "cpeNameId": "5BADFB2E-24A0-414F-93F7-E5F04B41B413"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:valvesoftware:steam_client:-:*:*:*:*:*:*:*",
+  "cpeNameId": "E39B1A67-4A97-4275-B6DB-2F886AE3C49A",
+  "lastModified": "2022-02-07T19:09:08.330",
+  "created": "2019-08-16T17:39:24.260",
+  "titles": [
+    {
+      "title": "Valve Software Steam Client",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://store.steampowered.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.valvesoftware.com/en/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://hackerone.com/reports/583184",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:valvesoftware:steam:-:*:*:*:*:*:*:*",
+      "cpeNameId": "B962342D-3003-46CC-A356-FEE20B986AFF"
+    }
+  ]
+}

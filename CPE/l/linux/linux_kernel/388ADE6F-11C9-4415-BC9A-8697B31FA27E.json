@@ -1,0 +1,31 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:linux:linux_kernel:2.6.13:*:*:*:*:*:*:*",
+  "cpeNameId": "388ADE6F-11C9-4415-BC9A-8697B31FA27E",
+  "lastModified": "2021-06-01T14:21:28.467",
+  "created": "2007-08-23T21:16:59.567",
+  "titles": [
+    {
+      "title": "Linux Kernel 2.6.13",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/torvalds/linux",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:linux:linux_kernel:2.6.13:-:*:*:*:*:*:*",
+      "cpeNameId": "E0ED8652-3239-4DAD-A7FE-6939510A9338"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:linux:kernel:2.6.13:*:*:*:*:*:*:*",
+      "cpeNameId": "A48FDA4A-E080-463B-B972-5348489CE892"
+    }
+  ]
+}

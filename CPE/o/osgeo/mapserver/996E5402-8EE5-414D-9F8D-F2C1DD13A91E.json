@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:osgeo:mapserver:5.4.0:-:*:*:*:*:*:*",
+  "cpeNameId": "996E5402-8EE5-414D-9F8D-F2C1DD13A91E",
+  "lastModified": "2021-06-01T13:57:33.927",
+  "created": "2021-05-28T17:16:37.920",
+  "titles": [
+    {
+      "title": "OSGeo MapServer 5.4.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.osgeo.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://mapserver.org/development/changelog/index.html",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://mapserver.org/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/MapServer/MapServer/releases",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:osgeo:mapserver:5.4:*:*:*:*:*:*:*",
+      "cpeNameId": "E3419AD2-314D-455B-92AA-41200C8D2CC6"
+    },
+    {
+      "cpeName": "cpe:2.3:a:umn:mapserver:5.4.0:*:*:*:*:*:*:*",
+      "cpeNameId": "15F10A68-4030-459E-8205-EA062EFB811D"
+    }
+  ]
+}

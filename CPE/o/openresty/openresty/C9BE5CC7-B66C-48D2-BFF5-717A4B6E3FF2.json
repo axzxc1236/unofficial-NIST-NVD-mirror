@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:openresty:openresty:1.15.8.4:*:*:*:*:*:*:*",
+  "cpeNameId": "C9BE5CC7-B66C-48D2-BFF5-717A4B6E3FF2",
+  "lastModified": "2020-04-13T17:12:12.653",
+  "created": "2020-04-13T17:12:12.653",
+  "titles": [
+    {
+      "title": "OpenResty 1.15.8.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.tenable.com/cve/CVE-2020-11724",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/openresty/openresty/blob/4e8b4c395f842a078e429c80dd063b2323999957/patches/ngx_http_lua-0.10.15-fix_location_capture_content_length_chunked.patch",
+      "type": "Advisory"
+    }
+  ]
+}

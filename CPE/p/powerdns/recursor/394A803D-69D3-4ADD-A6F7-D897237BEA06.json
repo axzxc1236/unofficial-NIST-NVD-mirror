@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:powerdns:recursor:4.3.0:-:*:*:*:*:*:*",
+  "cpeNameId": "394A803D-69D3-4ADD-A6F7-D897237BEA06",
+  "lastModified": "2023-05-11T14:04:57.187",
+  "created": "2020-07-14T17:11:23.343",
+  "titles": [
+    {
+      "title": "PowerDNS Recursor 4.3.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://doc.powerdns.com/recursor/security-advisories/powerdns-advisory-2020-04.html",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://doc.powerdns.com/recursor/changelog/index.html",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.powerdns.com/recursor.html",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/PowerDNS/pdns",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:powerdns:recursor:4.3.0:*:*:*:*:*:*:*",
+      "cpeNameId": "1DB7A012-E9BF-4C1E-88FA-0949DEB49880"
+    }
+  ]
+}

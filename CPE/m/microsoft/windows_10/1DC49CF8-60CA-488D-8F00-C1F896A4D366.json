@@ -1,0 +1,35 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:1903:*:*:*:*:*:hololens:*",
+  "cpeNameId": "1DC49CF8-60CA-488D-8F00-C1F896A4D366",
+  "lastModified": "2022-12-09T18:15:16.973",
+  "created": "2020-06-16T15:08:59.400",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 1903 on HoloLens",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1199",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10_1903:-:*:*:*:*:*:hololens:*",
+      "cpeNameId": "46749449-81F3-4485-9DBC-10DF2D04C7AD"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:1903:*:*:*:*:*:*:*",
+      "cpeNameId": "55A66997-7940-4058-AD92-F21B5F449CD6"
+    }
+  ]
+}

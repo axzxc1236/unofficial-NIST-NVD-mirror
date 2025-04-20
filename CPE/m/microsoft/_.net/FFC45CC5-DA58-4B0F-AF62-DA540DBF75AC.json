@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:.net:6.0.0:preview3:*:*:*:*:*:*",
+  "cpeNameId": "FFC45CC5-DA58-4B0F-AF62-DA540DBF75AC",
+  "lastModified": "2023-10-15T16:43:04.443",
+  "created": "2022-01-25T20:11:20.650",
+  "titles": [
+    {
+      "title": "Microsoft .NET 6.0.0 Preview 3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.microsoft.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/dotnet/core/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://dotnet.microsoft.com/en-us/download/dotnet",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:.net_core:6.0:preview3:*:*:*:*:*:*",
+      "cpeNameId": "F3FE104C-63EC-4ECD-BE7E-4CACC90FBFC3"
+    }
+  ]
+}

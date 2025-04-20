@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:2004:*:*:*:*:*:x86:*",
+  "cpeNameId": "77D8A961-8BA6-4BFD-881D-F97157925C18",
+  "lastModified": "2022-12-09T18:15:16.973",
+  "created": "2020-09-16T14:27:32.843",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 2004 on x86",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.catalog.update.microsoft.com/Search.aspx?q=microsoft%20windows%2010%202004",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1405",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10_2004:-:*:*:*:*:*:x86:*",
+      "cpeNameId": "DE2D97A1-BE91-417E-873A-C89E22AA7679"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:2004:*:*:*:*:*:*:*",
+      "cpeNameId": "A85E00B3-4AEE-4B73-94C6-E6030C4B148E"
+    }
+  ]
+}

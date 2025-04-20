@@ -1,0 +1,47 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:progress:ipswitch_ws_ftp_server:1.0.2:*:*:*:*:*:*:*",
+  "cpeNameId": "DDDDD711-A9D2-4081-9A5F-D84FD0F4CCDD",
+  "lastModified": "2023-10-11T14:45:43.970",
+  "created": "2019-08-13T14:39:10.573",
+  "titles": [
+    {
+      "title": "Progress WS_FTP Server 1.0.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.progress.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://community.ipswitch.com/s/article/WS-FTP-Server-Previous-Version-Support-Documents-and-Guides",
+      "type": "Version"
+    },
+    {
+      "ref": "https://community.progress.com/s/article/WS-FTP-Server-Critical-Security-Product-Alert-Bulletin-January-2023?popup=true",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.progress.com/ws_ftp",
+      "type": "Product"
+    },
+    {
+      "ref": "https://community.progress.com/s/article/How-do-I-upgrade-WS-FTP-Server",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:progress:ws_ftp_server:1.0.2:*:*:*:*:*:*:*",
+      "cpeNameId": "8799E973-3BB4-478B-86FF-A4452D643A17"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:ipswitch:ws_ftp_server:1.0.2:*:*:*:*:*:*:*",
+      "cpeNameId": "6B281A92-FEFD-4734-BF82-DCFE56B1A9D3"
+    }
+  ]
+}

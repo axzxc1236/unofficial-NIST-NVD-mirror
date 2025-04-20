@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:amazon:firecracker:0.19.0:*:*:*:*:*:*:*",
+  "cpeNameId": "960AB98B-CF8E-48AC-B039-ED50AA73180A",
+  "lastModified": "2019-12-19T13:35:01.857",
+  "created": "2019-12-19T13:35:01.857",
+  "titles": [
+    {
+      "title": "Amazon Firecracker 0.19.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/firecracker-microvm/firecracker/tags",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://aws.amazon.com/about-aws/whats-new/2018/11/firecracker-lightweight-virtualization-for-serverless-computing/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:firecracker_project:firecracker:0.19.0:*:*:*:*:*:*:*",
+      "cpeNameId": "C1B47349-CE3B-41B9-82A7-543B04CCF8CE"
+    }
+  ]
+}

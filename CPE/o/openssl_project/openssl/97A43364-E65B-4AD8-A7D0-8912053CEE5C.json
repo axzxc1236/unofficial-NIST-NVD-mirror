@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:openssl_project:openssl:0.6.3:*:*:*:*:*:*:*",
+  "cpeNameId": "97A43364-E65B-4AD8-A7D0-8912053CEE5C",
+  "lastModified": "2022-02-02T15:29:27.327",
+  "created": "2019-09-04T14:29:34.037",
+  "titles": [
+    {
+      "title": "OpenSSL Project OpenSSL 0.6.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/sfackler/rust-openssl/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://rustsec.org/advisories/RUSTSEC-2018-0010.html",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:rust-openssl_project:rust-openssl:0.6.3:*:*:*:*:rust:*:*",
+      "cpeNameId": "14D2FAF7-9F74-4487-9B19-1DDB42DC0349"
+    }
+  ]
+}

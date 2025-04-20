@@ -1,0 +1,37 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:golang:go:0.0.0-20201203163018-be400aefbc4c:*:*:*:*:*:*:*",
+  "cpeNameId": "469A1AD1-3C1E-4740-B75A-7C187735B64C",
+  "lastModified": "2022-11-03T14:06:27.950",
+  "created": "2020-12-31T15:01:28.387",
+  "titles": [
+    {
+      "title": "Golang Go 0.0.0-20201203163018-be400aefbc4c",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://groups.google.com/g/golang-announce/c/ouZIlBimOsE?pli=1",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/golang/go/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://golang.org/doc/devel/release.html",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://go-review.googlesource.com/c/crypto/+/278852",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:golang:ssh:0.0.0-20201203163018-be400aefbc4c:*:*:*:*:*:*:*",
+      "cpeNameId": "6202E78C-E2D6-4252-9599-772B7F6204CA"
+    }
+  ]
+}

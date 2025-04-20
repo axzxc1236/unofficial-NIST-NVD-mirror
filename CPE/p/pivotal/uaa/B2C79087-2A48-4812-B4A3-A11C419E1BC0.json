@@ -1,0 +1,33 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:pivotal:uaa:2.0.2:*:*:*:*:*:*:*",
+  "cpeNameId": "B2C79087-2A48-4812-B4A3-A11C419E1BC0",
+  "lastModified": "2021-05-25T12:56:36.110",
+  "created": "2017-09-13T14:56:02.010",
+  "titles": [
+    {
+      "title": "Pivotal Uaa 2.0.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/cloudfoundry/cf-release",
+      "type": "Version"
+    },
+    {
+      "ref": "https://pivotal.io/security/cve-2016-0732",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.cloudfoundry.org/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cloudfoundry:uaa:2.0.2:*:*:*:*:*:*:*",
+      "cpeNameId": "797CE726-7E1A-4EB2-B569-D7A0F7D7DFFE"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:linuxfoundation:cni_network_plugins:0.7.3:*:*:*:*:*:*:*",
+  "cpeNameId": "56CF29E8-2055-4864-A004-C6BC9752ED90",
+  "lastModified": "2023-03-14T15:35:34.180",
+  "created": "2023-02-28T17:51:09.830",
+  "titles": [
+    {
+      "title": "Linux Foundation CNI Network Plugins 0.7.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/containernetworking/plugins/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.cni.dev/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cncf:cni_network_plugins:0.7.3:*:*:*:*:*:*:*",
+      "cpeNameId": "65ABA48D-542C-462E-ABA0-687415294748"
+    }
+  ]
+}

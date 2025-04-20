@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:amazon:tough:0.3.0:*:*:*:*:*:*:*",
+  "cpeNameId": "DF5B3098-4FE5-42C4-8D54-8485A65B3803",
+  "lastModified": "2021-10-20T15:17:45.733",
+  "created": "2020-07-13T15:34:29.343",
+  "titles": [
+    {
+      "title": "Amazon Tough 0.3.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://crates.io/crates/tough/versions",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/awslabs/tough/security/advisories/GHSA-5q2r-92f9-4m49",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:amazon:tough:0.3.0:*:*:*:*:rust:*:*",
+      "cpeNameId": "21BB5F56-EE00-448B-9054-E7BE8801CDDD"
+    }
+  ]
+}

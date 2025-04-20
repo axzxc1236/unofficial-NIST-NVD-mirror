@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10_22h2:10.0.19045.3087:*:*:*:*:*:arm64:*",
+  "cpeNameId": "15B3A15A-926A-4E92-8F89-7F36569F691A",
+  "lastModified": "2023-10-19T19:28:21.693",
+  "created": "2023-06-20T14:26:00.930",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 22h2 10.0.19045.3087 on ARM64",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24938",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.microsoft.com/en-us/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10_21h2:10.0.19044.3087:*:*:*:*:*:arm64:*",
+      "cpeNameId": "6E98FAA2-E480-4C7C-873A-434B305B940F"
+    }
+  ]
+}

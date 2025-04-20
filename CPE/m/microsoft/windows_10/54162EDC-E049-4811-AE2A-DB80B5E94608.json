@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:2004:*:*:*:*:*:arm64:*",
+  "cpeNameId": "54162EDC-E049-4811-AE2A-DB80B5E94608",
+  "lastModified": "2022-12-09T18:15:16.973",
+  "created": "2020-09-16T14:27:32.747",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 2004 on ARM64",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.catalog.update.microsoft.com/Search.aspx?q=microsoft%20windows%2010%202004",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1405",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10_2004:-:*:*:*:*:*:arm64:*",
+      "cpeNameId": "E1DEBAA4-30EC-42B0-9460-44DDE82B1DDA"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:2004:*:*:*:*:*:*:*",
+      "cpeNameId": "A85E00B3-4AEE-4B73-94C6-E6030C4B148E"
+    }
+  ]
+}

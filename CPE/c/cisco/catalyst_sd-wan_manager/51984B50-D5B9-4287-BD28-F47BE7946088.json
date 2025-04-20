@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.3.3:*:*:*:*:*:*:*",
+  "cpeNameId": "51984B50-D5B9-4287-BD28-F47BE7946088",
+  "lastModified": "2023-10-16T16:35:23.810",
+  "created": "2023-10-16T16:35:23.810",
+  "titles": [
+    {
+      "title": "Cisco Catalyst SD-WAN Manager 18.3.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.cve.org/CVERecord?id=CVE-2020-26064",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vmanx2-KpFVSUc",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.cisco.com/c/en/us/solutions/enterprise-networks/sd-wan/index.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.cisco.com/site/us/en/index.html",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:sd-wan_vmanage:18.3.3:*:*:*:*:*:*:*",
+      "cpeNameId": "04C100FA-03ED-4866-9121-BA00868A0C93"
+    }
+  ]
+}

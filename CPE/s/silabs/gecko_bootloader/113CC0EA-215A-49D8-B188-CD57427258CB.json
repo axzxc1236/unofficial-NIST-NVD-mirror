@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:silabs:gecko_bootloader:-:*:*:*:*:*:*:*",
+  "cpeNameId": "113CC0EA-215A-49D8-B188-CD57427258CB",
+  "lastModified": "2022-11-09T20:55:24.030",
+  "created": "2022-11-03T13:19:40.123",
+  "titles": [
+    {
+      "title": "Silicon Labs Gecko Bootloader",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/SiliconLabs/gecko_sdk/blame/2e82050dc8823c9fe0e8908c1b2666fb83056230/platform/bootloader/core/btl_bootload.c",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/CVEProject/cvelist/blob/master/2022/24xxx/CVE-2022-24936.json",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.silabs.com/documents/public/user-guides/ug266-gecko-bootloader-user-guide.pdf",
+      "type": "Product"
+    }
+  ]
+}

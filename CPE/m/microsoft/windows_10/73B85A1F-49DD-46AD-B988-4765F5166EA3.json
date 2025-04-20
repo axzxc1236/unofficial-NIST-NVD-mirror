@@ -1,0 +1,35 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:2004:*:*:*:*:*:x64:*",
+  "cpeNameId": "73B85A1F-49DD-46AD-B988-4765F5166EA3",
+  "lastModified": "2022-12-09T18:15:16.973",
+  "created": "2020-06-16T15:08:59.710",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 2004 on x64",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1199",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10_2004:-:*:*:*:*:*:x64:*",
+      "cpeNameId": "24DBB37D-FD91-431A-940E-89B3AF110051"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:2004:*:*:*:*:*:*:*",
+      "cpeNameId": "A85E00B3-4AEE-4B73-94C6-E6030C4B148E"
+    }
+  ]
+}

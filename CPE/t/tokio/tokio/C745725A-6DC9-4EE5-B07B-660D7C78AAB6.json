@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:tokio:tokio:1.0.0:*:*:*:*:rust:*:*",
+  "cpeNameId": "C745725A-6DC9-4EE5-B07B-660D7C78AAB6",
+  "lastModified": "2022-11-01T16:06:39.293",
+  "created": "2022-11-01T16:04:03.600",
+  "titles": [
+    {
+      "title": "Tokio 1.0.0 for Rust",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://tokio.rs/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://crates.io/crates/tokio/versions",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/tokio-rs/tokio/tags",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:tokio_project:tokio:1.0.0:*:*:*:*:rust:*:*",
+      "cpeNameId": "CC63E323-5BD1-4DF2-B51A-E6AA3D73E921"
+    }
+  ]
+}

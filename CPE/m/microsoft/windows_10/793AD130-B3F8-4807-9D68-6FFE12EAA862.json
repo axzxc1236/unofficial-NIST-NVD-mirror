@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:1803:*:*:*:*:*:*:*",
+  "cpeNameId": "793AD130-B3F8-4807-9D68-6FFE12EAA862",
+  "lastModified": "2022-12-02T17:01:42.343",
+  "created": "2019-03-28T13:34:57.027",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 1803",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://support.microsoft.com/en-us/help/4464619/windows-10-update-history",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:1803:*:*:*:*:*:arm64:*",
+      "cpeNameId": "C3976146-36EF-44A2-A6DA-68DA8DB6A749"
+    },
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:1803:*:*:*:*:*:x64:*",
+      "cpeNameId": "AE27A36C-851F-4125-85F7-EC10C1B599EA"
+    },
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:1803:*:*:*:*:*:x86:*",
+      "cpeNameId": "5F69484A-3A11-421E-A135-C64B65909428"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server:1803:*:*:*:*:*:*:*",
+      "cpeNameId": "DFEF7986-6C5D-4946-A909-3F7B9B54062B"
+    }
+  ]
+}

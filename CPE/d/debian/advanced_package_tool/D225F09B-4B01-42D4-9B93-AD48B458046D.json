@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:debian:advanced_package_tool:1.8.4:*:*:*:*:*:*:*",
+  "cpeNameId": "D225F09B-4B01-42D4-9B93-AD48B458046D",
+  "lastModified": "2019-09-23T12:30:38.623",
+  "created": "2019-09-23T12:30:38.623",
+  "titles": [
+    {
+      "title": "Debian Advanced Package Tool (APT) 1.8.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://launchpad.net/debian/+source/apt/+changelog",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://salsa.debian.org/apt-team/apt/-/tags?sort=updated_desc",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:debian:apt:1.8.4:*:*:*:*:*:*:*",
+      "cpeNameId": "79F6FAC1-882C-48AE-AAA7-FA12A95EBD80"
+    }
+  ]
+}

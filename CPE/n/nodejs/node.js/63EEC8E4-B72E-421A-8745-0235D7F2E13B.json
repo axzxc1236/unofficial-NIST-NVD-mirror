@@ -1,0 +1,51 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:4.8.3:*:*:*:-:*:*:*",
+  "cpeNameId": "63EEC8E4-B72E-421A-8745-0235D7F2E13B",
+  "lastModified": "2024-03-07T21:48:04.147",
+  "created": "2020-02-10T17:57:32.357",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 4.8.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/download/docs/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://nodejs.org/en/download/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/en/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://nodejs.org/docs/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V4.md",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:4.8.3:*:*:*:lts:*:*:*",
+      "cpeNameId": "C85E6B6D-B47B-4552-9334-E87293974913"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:4.8.3:*:*:*:*:*:*:*",
+      "cpeNameId": "0299C1E3-60B2-430A-B69E-03A48E48FB7B"
+    }
+  ]
+}

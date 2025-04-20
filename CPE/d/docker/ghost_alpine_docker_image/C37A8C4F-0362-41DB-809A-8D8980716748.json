@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:docker:ghost_alpine_docker_image:1.21.1:*:*:*:*:*:*:*",
+  "cpeNameId": "C37A8C4F-0362-41DB-809A-8D8980716748",
+  "lastModified": "2021-04-16T14:48:15.330",
+  "created": "2020-12-17T15:26:10.773",
+  "titles": [
+    {
+      "title": "Docker Ghost Alpine Docker Image 1.21.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://hub.docker.com/_/ghost?tab=tags&page=1&ordering=-last_updated&name=alpine",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/koharin/koharin2/blob/main/CVE-2020-35185",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://hub.docker.com/_/alpine#:~:text=Alpine%20Linux%20is%20a%20Linux,utilities%20and%20even%20production%20applications.",
+      "type": "Product"
+    }
+  ]
+}

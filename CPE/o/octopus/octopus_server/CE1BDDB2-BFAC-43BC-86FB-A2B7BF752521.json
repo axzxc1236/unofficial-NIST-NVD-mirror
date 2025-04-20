@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:octopus:octopus_server:2020.1.12:*:*:*:*:*:*:*",
+  "cpeNameId": "CE1BDDB2-BFAC-43BC-86FB-A2B7BF752521",
+  "lastModified": "2022-07-27T17:20:06.630",
+  "created": "2022-07-27T16:50:09.593",
+  "titles": [
+    {
+      "title": "Octopus Server 2020.1.12",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://octopus.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://octopus.com/downloads/previous",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:octopus:octopus_deploy:2020.1.12:*:*:*:*:*:*:*",
+      "cpeNameId": "BDAC53B5-5AE2-46BF-B1FC-35DE7EFEE12F"
+    },
+    {
+      "cpeName": "cpe:2.3:a:octopus:server:2020.1.12:*:*:*:*:*:*:*",
+      "cpeNameId": "624AB93C-96BD-434C-B8CD-5957FE99E4C0"
+    }
+  ]
+}

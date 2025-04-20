@@ -1,0 +1,33 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:servo:smallvec:0.3.4:*:*:*:*:*:*:*",
+  "cpeNameId": "5DC4BB8F-3475-44BA-9477-D6D8B2E36DB9",
+  "lastModified": "2021-02-01T15:39:38.650",
+  "created": "2019-08-28T19:13:45.377",
+  "titles": [
+    {
+      "title": "Servo Smallvec 0.3.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/servo/rust-smallvec/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://servo.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://rustsec.org/advisories/RUSTSEC-2018-0003.html",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:servo:smallvec:0.3.4:*:*:*:*:rust:*:*",
+      "cpeNameId": "21A8FECE-538A-4CFA-B129-71EC4EB789B2"
+    }
+  ]
+}

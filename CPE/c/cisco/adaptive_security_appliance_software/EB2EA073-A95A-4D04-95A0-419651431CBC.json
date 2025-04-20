@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9:*:*:*:*:*:*:*",
+  "cpeNameId": "EB2EA073-A95A-4D04-95A0-419651431CBC",
+  "lastModified": "2023-08-15T18:20:05.553",
+  "created": "2020-12-07T18:37:49.613",
+  "titles": [
+    {
+      "title": "Cisco Adaptive Security Appliance Software 9.9",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.cisco.com/c/en/us/support/security/adaptive-security-appliance-asa-software/products-release-notes-list.html",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-xss-multiple-FCB3vPZe",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:adaptive_security_appliance_software:9.9:*:*:*:*:*:*:*",
+      "cpeNameId": "5D88A626-D9EB-48EB-87BE-724C83819E87"
+    },
+    {
+      "cpeName": "cpe:2.3:a:cisco:adaptive_security_appliance:9.9:*:*:*:*:*:*:*",
+      "cpeNameId": "AC521937-809A-4E55-BB3F-A79381F72D45"
+    }
+  ]
+}

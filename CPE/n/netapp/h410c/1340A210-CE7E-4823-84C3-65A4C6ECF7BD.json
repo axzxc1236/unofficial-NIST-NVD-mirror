@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:netapp:h410c:-:*:*:*:*:*:*:*",
+  "cpeNameId": "1340A210-CE7E-4823-84C3-65A4C6ECF7BD",
+  "lastModified": "2023-11-09T13:59:45.620",
+  "created": "2020-12-28T12:32:00.687",
+  "titles": [
+    {
+      "title": "NetApp H410C",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://security.netapp.com/advisory/ntap-20200511-0006/",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:h:netapp:baseboard_management_controller_h410c:-:*:*:*:*:*:*:*",
+      "cpeNameId": "4C8D56D0-907F-4EA8-B44E-73FD45452A88"
+    },
+    {
+      "cpeName": "cpe:2.3:a:netapp:hci_baseboard_management_controller:h410c:*:*:*:*:*:*:*",
+      "cpeNameId": "93EE56E2-5056-4B2C-BC65-8E6FC3660F54"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:microsoft:sql_server:2016:-:*:*:*:*:*:*",
+  "cpeNameId": "C06D7186-026D-482C-BE8B-FB42170C1E7D",
+  "lastModified": "2024-08-08T18:24:57.920",
+  "created": "2020-04-02T11:56:40.267",
+  "titles": [
+    {
+      "title": "Microsoft SQL Server 2016",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.microsoft.com/en-us/download/details.aspx?id=42299",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.microsoft.com/en-us/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "http://technet.microsoft.com/security/bulletin/MS16-136",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.microsoft.com/en-us/sql-server/sql-server-2016",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:sql_server_2016:13.0.5103.6:*:*:*:*:*:*:*",
+      "cpeNameId": "88B547DB-EB45-4023-9DFB-DD5A98468386"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:sql_server:2016:*:*:*:*:*:*:*",
+      "cpeNameId": "823E84AF-1189-46CD-961F-9661D831C080"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:internet_explorer:5:*:*:*:*:*:*:*",
+  "cpeNameId": "50601D11-2097-4C48-8496-8809ECD76B80",
+  "lastModified": "2021-07-22T14:01:42.170",
+  "created": "2020-04-07T17:14:44.383",
+  "titles": [
+    {
+      "title": "Microsoft Internet Explorer 5",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.microsoft.com/en-us/download/details.aspx?id=53313",
+      "type": "Product"
+    },
+    {
+      "ref": "https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads",
+      "type": "Product"
+    },
+    {
+      "ref": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-038",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:ie:5:*:*:*:*:*:*:*",
+      "cpeNameId": "54281D29-CE62-41DB-9503-48C4CAE0C2B2"
+    }
+  ]
+}

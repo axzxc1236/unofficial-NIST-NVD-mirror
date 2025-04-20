@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:arm:trusted_firmware_m_firmware:-:*:*:*:*:*:*:*",
+  "cpeNameId": "AFF337A3-E3A7-40F7-921E-D89450A32CC2",
+  "lastModified": "2021-06-15T17:33:23.077",
+  "created": "2021-06-01T17:18:44.370",
+  "titles": [
+    {
+      "title": "ARM Trusted Firmware M Firmware",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://developer.arm.com/tools-and-software/open-source-software/firmware/trusted-firmware/trusted-firmware-m",
+      "type": "Product"
+    },
+    {
+      "ref": "https://exchange.xforce.ibmcloud.com/vulnerabilities/202569",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://git.trustedfirmware.org/TF-M/trusted-firmware-m.git/tree/docs/security/security_advisories/svc_caller_sp_fetching_vulnerability.rst",
+      "type": "Advisory"
+    }
+  ]
+}

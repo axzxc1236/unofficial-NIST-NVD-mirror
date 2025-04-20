@@ -1,0 +1,25 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:linux:linux_kernel:5.15:rc6:*:*:*:*:*:*",
+  "cpeNameId": "3E354D0D-99D1-4D2E-A42D-66946B7130B3",
+  "lastModified": "2022-06-22T15:55:37.900",
+  "created": "2022-01-28T14:52:46.853",
+  "titles": [
+    {
+      "title": "Linux Kernel 5.15 Release Candidate 6",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/torvalds/linux/tags?after=v5.16-rc2",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:linux:linux_kernel:5.15:rc6:*:*:*:*:*:*",
+      "cpeNameId": "FA6DF635-500C-4907-8C2E-B31D910CA079"
+    }
+  ]
+}

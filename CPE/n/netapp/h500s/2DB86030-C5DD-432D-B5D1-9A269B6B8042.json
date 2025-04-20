@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:netapp:h500s:-:*:*:*:*:*:*:*",
+  "cpeNameId": "2DB86030-C5DD-432D-B5D1-9A269B6B8042",
+  "lastModified": "2023-11-09T13:59:45.620",
+  "created": "2020-12-28T12:32:02.093",
+  "titles": [
+    {
+      "title": "NetApp H500S",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://security.netapp.com/advisory/ntap-20200511-0006/",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:h:netapp:baseboard_management_controller_h500s:-:*:*:*:*:*:*:*",
+      "cpeNameId": "DE470A29-72EE-4556-B56F-646E03D49E4A"
+    },
+    {
+      "cpeName": "cpe:2.3:a:netapp:hci_baseboard_management_controller:h500s:*:*:*:*:*:*:*",
+      "cpeNameId": "E2952FE3-774D-419A-90E5-226230564430"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:golang:h2c:-:*:*:*:*:go:*:*",
+  "cpeNameId": "08BB5276-B4BE-45E0-967F-12422AB67B98",
+  "lastModified": "2023-03-21T16:16:20.630",
+  "created": "2023-01-20T18:50:11.580",
+  "titles": [
+    {
+      "title": "Golang h2c for Go",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://pkg.go.dev/golang.org/x/net/http2/h2c",
+      "type": "Product"
+    },
+    {
+      "ref": "https://go-review.googlesource.com/c/net/+/447396",
+      "type": "Version"
+    },
+    {
+      "ref": "https://pkg.go.dev/vuln/GO-2023-1495",
+      "type": "Advisory"
+    }
+  ]
+}

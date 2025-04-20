@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:influxdata:telegraf_docker_image:1.7.2:*:*:*:*:*:*:*",
+  "cpeNameId": "B132AC27-BC2D-4F5C-83A9-46D8B19BB8A7",
+  "lastModified": "2021-02-24T18:35:39.627",
+  "created": "2020-12-17T16:36:36.680",
+  "titles": [
+    {
+      "title": "InfluxData Telegraf Docker Image 1.7.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://hub.docker.com/_/telegraf?tab=tags&page=1&ordering=-last_updated&name=alpine",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/koharin/koharin2/blob/main/CVE-2020-35187",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.influxdata.com/",
+      "type": "Vendor"
+    }
+  ]
+}

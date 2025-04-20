@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:mio_project:mio:0.7.4:*:*:*:*:*:*:*",
+  "cpeNameId": "D2AC6741-E638-4D29-963D-16AF3C9CE280",
+  "lastModified": "2021-01-07T12:56:13.207",
+  "created": "2021-01-06T13:43:10.990",
+  "titles": [
+    {
+      "title": "Mio Project Mio 0.7.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/tokio-rs/mio/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://rustsec.org/advisories/RUSTSEC-2020-0081.html",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:mio_project:mio:0.7.4:*:*:*:*:rust:*:*",
+      "cpeNameId": "E1A092AB-CB21-402F-9B2B-9102D0491D45"
+    }
+  ]
+}

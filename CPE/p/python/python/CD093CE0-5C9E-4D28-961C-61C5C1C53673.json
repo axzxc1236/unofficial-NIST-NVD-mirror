@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:python:python:3.11.0:-:*:*:*:*:*:*",
+  "cpeNameId": "CD093CE0-5C9E-4D28-961C-61C5C1C53673",
+  "lastModified": "2023-12-08T16:54:04.287",
+  "created": "2022-11-09T18:07:35.340",
+  "titles": [
+    {
+      "title": "Python 3.11.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/python/cpython/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/python/cpython/issues/98433",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/CVEProject/cvelist/blob/master/2022/45xxx/CVE-2022-45061.json",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:python:python:3.11:*:*:*:*:*:*:*",
+      "cpeNameId": "48B82286-1D15-4F63-B76A-784F59C19399"
+    }
+  ]
+}

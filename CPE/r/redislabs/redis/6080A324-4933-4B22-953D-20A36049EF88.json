@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:redislabs:redis:3.0.1:*:*:*:*:*:*:*",
+  "cpeNameId": "6080A324-4933-4B22-953D-20A36049EF88",
+  "lastModified": "2018-08-07T16:37:07.247",
+  "created": "2018-08-07T16:37:07.247",
+  "titles": [
+    {
+      "title": "Redis Labs Redis 3.0.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://redis.io/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://redislabs.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/antirez/redis/tags?after=3.2.2",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:pivotal_software:redis:3.0.1:*:*:*:*:*:*:*",
+      "cpeNameId": "7D20E5B5-7DC7-46AF-AD47-40551A6A6204"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:bitdefender:antivirus:8.0.0:*:*:*:*:mac_os:*:*",
+  "cpeNameId": "D3C0DE6E-C35E-4E18-8884-D22C54D359A0",
+  "lastModified": "2020-05-04T13:43:35.520",
+  "created": "2020-02-05T17:54:01.380",
+  "titles": [
+    {
+      "title": "Bitdefender Antivirus 8.0.0 for Mac OS",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.bitdefender.com/site/Store/viewProduct/antivirus-for-mac-2019.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.zerodaylab.com/vulnerabilities/CVE-2020/CVE-2020-8092.html",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:bitdefender:antivirus:8.0.0:*:*:*:*:macos:*:*",
+      "cpeNameId": "78D40E17-484C-4ABB-9845-28E2F1EB4F3B"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:bitdefender:antivirus_for_mac:8.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "D7395058-4155-42D7-9888-7CC03CC94EB5"
+    }
+  ]
+}

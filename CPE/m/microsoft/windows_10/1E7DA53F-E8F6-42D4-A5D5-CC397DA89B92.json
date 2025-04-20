@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:1909:*:*:*:*:*:arm64:*",
+  "cpeNameId": "1E7DA53F-E8F6-42D4-A5D5-CC397DA89B92",
+  "lastModified": "2022-12-09T18:15:16.973",
+  "created": "2020-09-16T14:27:32.577",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 1909 on ARM64",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.catalog.update.microsoft.com/Search.aspx?q=kb4524570",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1405",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10_1909:-:*:*:*:*:*:arm64:*",
+      "cpeNameId": "143411CF-4755-4B93-8749-7E7C9352BFEC"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:1909:*:*:*:*:*:*:*",
+      "cpeNameId": "3FAE00A7-2E12-4E04-9266-0278DB5C3718"
+    }
+  ]
+}

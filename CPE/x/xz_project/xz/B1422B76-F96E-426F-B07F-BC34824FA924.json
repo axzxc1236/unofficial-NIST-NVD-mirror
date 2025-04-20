@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:xz_project:xz:0.4:*:*:*:*:*:*:*",
+  "cpeNameId": "B1422B76-F96E-426F-B07F-BC34824FA924",
+  "lastModified": "2021-05-13T11:41:06.530",
+  "created": "2021-05-04T11:55:53.437",
+  "titles": [
+    {
+      "title": "xz Project xz 0.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/ulikunitz/xz/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/ulikunitz/xz/security/advisories/GHSA-25xm-hr59-7c27",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:xz_project:xz:0.4:*:*:*:*:go:*:*",
+      "cpeNameId": "928B8354-265E-419A-A8E7-68E6AED204F6"
+    }
+  ]
+}

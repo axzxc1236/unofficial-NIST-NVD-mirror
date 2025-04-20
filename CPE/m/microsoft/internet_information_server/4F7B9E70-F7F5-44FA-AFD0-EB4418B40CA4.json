@@ -1,0 +1,31 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:microsoft:internet_information_server:7.0:*:*:*:*:*:*:*",
+  "cpeNameId": "4F7B9E70-F7F5-44FA-AFD0-EB4418B40CA4",
+  "lastModified": "2021-02-05T15:37:14.697",
+  "created": "2018-07-11T13:30:41.180",
+  "titles": [
+    {
+      "title": "Microsoft Internet Information Server 7.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://support.microsoft.com/en-us/help/224609/how-to-obtain-versions-of-internet-information-server-iis",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:internet_information_services:7.0:*:*:*:*:*:*:*",
+      "cpeNameId": "742AA737-BBB4-42E9-8622-3CB6442D7FBE"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:iis:7.0:*:*:*:*:*:*:*",
+      "cpeNameId": "42E9EC14-537A-4C84-817D-1A6660F29D05"
+    }
+  ]
+}

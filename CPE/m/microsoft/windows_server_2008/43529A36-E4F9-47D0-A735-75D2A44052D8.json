@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:microsoft:windows_server_2008:-:-:*:*:enterprise:*:x86:*",
+  "cpeNameId": "43529A36-E4F9-47D0-A735-75D2A44052D8",
+  "lastModified": "2019-05-02T14:43:54.217",
+  "created": "2019-05-02T14:43:54.217",
+  "titles": [
+    {
+      "title": "Microsoft Windows Server 2008 Enterprise Edition on x86",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://support.microsoft.com/en-us/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2",
+      "type": "Version"
+    },
+    {
+      "ref": "https://support.microsoft.com/en-us/lifecycle/search?alpha=Windows%20Server%202008",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.microsoft.com/en-us/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server_2008:-:gold:enterprise:*:*:*:*:*",
+      "cpeNameId": "E988894C-E562-43F9-A462-F406F5393DDF"
+    }
+  ]
+}

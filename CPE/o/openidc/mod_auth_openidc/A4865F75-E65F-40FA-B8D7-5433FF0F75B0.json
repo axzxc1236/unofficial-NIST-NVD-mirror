@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:openidc:mod_auth_openidc:2.1.1:*:*:*:*:*:*:*",
+  "cpeNameId": "A4865F75-E65F-40FA-B8D7-5433FF0F75B0",
+  "lastModified": "2023-05-25T20:18:45.513",
+  "created": "2023-05-25T20:07:23.600",
+  "titles": [
+    {
+      "title": "OpenIDC mod_auth_openidc 2.1.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/OpenIDC/mod_auth_openidc",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.openidc.com/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:zmartzone:mod_auth_openidc:2.1.1:*:*:*:*:*:*:*",
+      "cpeNameId": "38145E6C-4C6C-452C-BD88-646BD16F4FEC"
+    },
+    {
+      "cpeName": "cpe:2.3:a:mod_auth_openidc_project:mod_auth_openidc:2.1.1:*:*:*:*:apache:*:*",
+      "cpeNameId": "C668B5A7-7F50-4006-8C37-A0D24A443D61"
+    }
+  ]
+}

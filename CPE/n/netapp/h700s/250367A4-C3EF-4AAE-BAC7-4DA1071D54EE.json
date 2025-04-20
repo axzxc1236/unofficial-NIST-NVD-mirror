@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:netapp:h700s:-:*:*:*:*:*:*:*",
+  "cpeNameId": "250367A4-C3EF-4AAE-BAC7-4DA1071D54EE",
+  "lastModified": "2023-11-09T13:59:45.620",
+  "created": "2020-12-28T12:32:03.030",
+  "titles": [
+    {
+      "title": "NetApp H700S",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://security.netapp.com/advisory/ntap-20200511-0006/",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:h:netapp:baseboard_management_controller_h700s:-:*:*:*:*:*:*:*",
+      "cpeNameId": "4667CDD8-61B5-433F-9962-97692225CBCC"
+    },
+    {
+      "cpeName": "cpe:2.3:a:netapp:hci_baseboard_management_controller:h700s:*:*:*:*:*:*:*",
+      "cpeNameId": "4E2000F3-2296-4960-B0D4-3B3226A05219"
+    }
+  ]
+}

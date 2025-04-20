@@ -1,0 +1,43 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:moodle:moodle:3.3.0:*:*:*:*:*:*:*",
+  "cpeNameId": "058C7727-A45D-4237-945D-FC19024AEB01",
+  "lastModified": "2020-12-01T14:58:24.090",
+  "created": "2020-12-01T14:52:14.283",
+  "titles": [
+    {
+      "title": "Moodle 3.3.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://moodle.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "http://docs.moodle.org/dev/Releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://download.moodle.org/releases/latest/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/moodle/moodle/tags",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:moodle:moodle:3.3.0:-:*:*:*:*:*:*",
+      "cpeNameId": "80D738E2-DF47-4309-B689-90AB19E52B89"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:moodle:moodle:3.3:*:*:*:*:*:*:*",
+      "cpeNameId": "1880B32D-EAB4-4732-85A4-653CA72145BE"
+    }
+  ]
+}

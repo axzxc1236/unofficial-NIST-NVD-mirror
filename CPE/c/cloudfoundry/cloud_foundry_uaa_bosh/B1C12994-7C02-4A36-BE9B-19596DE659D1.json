@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:30.3:*:*:*:*:*:*:*",
+  "cpeNameId": "B1C12994-7C02-4A36-BE9B-19596DE659D1",
+  "lastModified": "2021-08-06T14:45:32.470",
+  "created": "2021-08-05T19:55:01.363",
+  "titles": [
+    {
+      "title": "Cloud Foundry UAA Bosh (UAA Release) 30.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.cloudfoundry.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/cloudfoundry/uaa-release/releases",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:pivotal_software:cloud_foundry_uaa_bosh:30.3:*:*:*:*:*:*:*",
+      "cpeNameId": "B7706216-D472-4362-BF7F-460481E5AB5F"
+    }
+  ]
+}

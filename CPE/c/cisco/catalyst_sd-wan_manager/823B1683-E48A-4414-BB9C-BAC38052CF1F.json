@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.10.1.2:*:*:*:*:*:*:*",
+  "cpeNameId": "823B1683-E48A-4414-BB9C-BAC38052CF1F",
+  "lastModified": "2023-10-16T16:35:23.810",
+  "created": "2023-10-16T16:35:23.810",
+  "titles": [
+    {
+      "title": "Cisco Catalyst SD-WAN Manager 20.10.1.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vmanage-unauthapi-sphCLYPA",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.cisco.com/c/en/us/solutions/enterprise-networks/sd-wan/index.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.cisco.com/site/us/en/index.html",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:sd-wan_vmanage:20.10.1.2:*:*:*:*:*:*:*",
+      "cpeNameId": "1F7647A3-3BC5-4891-AA47-98BD816218F1"
+    }
+  ]
+}

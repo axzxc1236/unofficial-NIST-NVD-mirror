@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cloudfoundry:user_account_and_authentication:4.10.0:*:*:*:*:*:*:*",
+  "cpeNameId": "BB5B56A7-EBB8-4D5B-9063-46B4EEF06B76",
+  "lastModified": "2021-08-17T12:48:53.437",
+  "created": "2019-10-07T16:23:33.733",
+  "titles": [
+    {
+      "title": "Cloud Foundry User Account and Authentication (UAA) 4.10.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.cloudfoundry.org/blog/cve-2019-11278/",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/cloudfoundry/uaa/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.cloudfoundry.org/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cloudfoundry:uaa:4.10.0:*:*:*:*:*:*:*",
+      "cpeNameId": "BE579673-F4B0-48F7-8626-FD5A1F84FA1C"
+    }
+  ]
+}

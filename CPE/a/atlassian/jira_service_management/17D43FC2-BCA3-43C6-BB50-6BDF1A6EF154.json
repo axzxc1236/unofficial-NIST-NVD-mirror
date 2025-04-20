@@ -1,0 +1,37 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:atlassian:jira_service_management:4.13.22:*:*:*:server:*:*:*",
+  "cpeNameId": "17D43FC2-BCA3-43C6-BB50-6BDF1A6EF154",
+  "lastModified": "2022-08-04T15:31:33.347",
+  "created": "2022-07-12T10:36:13.917",
+  "titles": [
+    {
+      "title": "Atlassian Jira Service Management 4.13.22 Server Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://confluence.atlassian.com/jira/jira-server-security-advisory-29nd-june-2022-1142430667.html",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/CVEProject/cvelist/blob/master/2022/26xxx/CVE-2022-26135.json",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://jira.atlassian.com/browse/JRASERVER-73863",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://jira.atlassian.com/browse/JSDSERVER-11840",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:atlassian:jira_service_desk:4.13.22:*:*:*:server:*:*:*",
+      "cpeNameId": "C375309A-C9F7-4DDA-A8B3-E148E7C39E82"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:couchbase:couchbase_server:6.0:*:*:*:*:*:*:*",
+  "cpeNameId": "EC97EDD7-483C-4399-BEE2-11D096280D88",
+  "lastModified": "2019-09-11T17:48:43.897",
+  "created": "2019-09-11T17:33:04.590",
+  "titles": [
+    {
+      "title": "Couchbase Server 6.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.couchbase.com/products/server",
+      "type": "Product"
+    },
+    {
+      "ref": "https://docs.couchbase.com/server/current/release-notes/relnotes.html",
+      "type": "Version"
+    },
+    {
+      "ref": "https://docs.couchbase.com/server/5.0/release-notes/relnotes.html",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.couchbase.com/resources/security#SecurityAlerts",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://docs.couchbase.com/server/5.1/release-notes/relnotes.html#release-511",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.couchbase.com/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:couchbase:couchbase_server:6.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "5C698471-7E8D-479E-AD96-693F17A7C68D"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:couchbase:server:6.0:*:*:*:*:*:*:*",
+      "cpeNameId": "1B24ACD9-A420-45D7-8AC3-16F9B8FC68F4"
+    }
+  ]
+}

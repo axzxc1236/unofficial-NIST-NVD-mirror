@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:cisco:ios_xe:16.9:*:*:*:*:*:*:*",
+  "cpeNameId": "E8076941-AF42-4C12-8248-0762AA10CE11",
+  "lastModified": "2022-10-27T15:47:32.590",
+  "created": "2019-10-02T16:38:26.090",
+  "titles": [
+    {
+      "title": "Cisco iOS XE 16.9",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-xe/index.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-rawtcp-dos",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:ios_xe:16.9:*:*:*:*:*:*:*",
+      "cpeNameId": "BF44678D-FF05-4401-B2D4-96C5BE0F9F20"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r4p0:*:*:*:*:*:*:*",
+  "cpeNameId": "CCA8CD2C-E721-451A-B7D6-ECC5F16328D0",
+  "lastModified": "2025-04-07T12:47:09.813",
+  "created": "2023-12-13T13:51:51.557",
+  "titles": [
+    {
+      "title": "ARM Midgard GPU Kernel Driver r4p0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://developer.arm.com/Arm%20Security%20Center/Mali%20GPU%20Driver%20Vulnerabilities",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://developer.arm.com/support/arm-security-updates/mali-gpu-kernel-driver",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://developer.arm.com/tools-and-software/graphics-and-gaming/mali-drivers/midgard-kernel",
+      "type": "Product"
+    },
+    {
+      "ref": "https://developer.arm.com/downloads/-/Mali%20Midgard%20GPU%20Kernel%20Drivers",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:arm:midguard_gpu_kernel_driver:r4p0:*:*:*:*:*:*:*",
+      "cpeNameId": "9FEEB9EA-7F60-4988-B458-71425BC37422"
+    },
+    {
+      "cpeName": "cpe:2.3:a:arm:midgard:r4p0:*:*:*:*:*:*:*",
+      "cpeNameId": "786F89BA-06B0-4BE5-90D2-B91769532279"
+    }
+  ]
+}

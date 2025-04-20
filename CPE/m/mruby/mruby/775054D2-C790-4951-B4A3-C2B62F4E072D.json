@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mruby:mruby:2.0.1:*:*:*:*:ruby:*:*",
+  "cpeNameId": "775054D2-C790-4951-B4A3-C2B62F4E072D",
+  "lastModified": "2023-01-17T20:51:28.373",
+  "created": "2023-01-17T20:24:24.897",
+  "titles": [
+    {
+      "title": "mruby 2.0.1 for Ruby",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/mruby/mruby",
+      "type": "Project"
+    },
+    {
+      "ref": "https://mruby.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/mruby/mruby/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:mruby:mruby:2.0.1:*:*:*:*:*:*:*",
+      "cpeNameId": "6C63C66D-051B-482B-8251-17D95813D647"
+    },
+    {
+      "cpeName": "cpe:2.3:a:brew:mruby:2.0.1:*:*:*:*:ruby:*:*",
+      "cpeNameId": "1849924F-5E93-4730-99AD-6909A9A684AA"
+    }
+  ]
+}

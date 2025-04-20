@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:oracle:jre:1.8.0:-:*:*:*:*:*:*",
+  "cpeNameId": "030ED711-465F-4045-B903-2A13AE8B1BF9",
+  "lastModified": "2022-05-17T16:36:57.013",
+  "created": "2020-09-08T12:42:47.970",
+  "titles": [
+    {
+      "title": "Oracle Java Runtime Environment (JRE) 1.8.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://java.com/en/download/faq/release_changes.xml",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:oracle:jre:8.0:*:*:*:*:*:*:*",
+      "cpeNameId": "6E0EAF42-D5C0-4D49-9388-33E5064BCD27"
+    },
+    {
+      "cpeName": "cpe:2.3:a:oracle:jre:1.8.0:*:*:*:*:*:*:*",
+      "cpeNameId": "FD9F55AF-BC31-4855-B6CB-78CD2F01BB49"
+    }
+  ]
+}

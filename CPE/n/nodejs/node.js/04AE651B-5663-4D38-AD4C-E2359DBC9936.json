@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:12.8.1:*:*:*:-:*:*:*",
+  "cpeNameId": "04AE651B-5663-4D38-AD4C-E2359DBC9936",
+  "lastModified": "2024-03-07T21:39:05.487",
+  "created": "2020-08-14T13:32:58.457",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 12.8.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nodejs/node",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://nodejs.org/en/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://nodejs.org/docs/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V12.md",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:12.8.1:*:*:*:lts:*:*:*",
+      "cpeNameId": "2020E5F9-8760-40A1-A9EC-4039DB582D26"
+    }
+  ]
+}

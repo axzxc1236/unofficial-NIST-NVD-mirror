@@ -1,0 +1,55 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:4.4.0:rc3:*:*:-:*:*:*",
+  "cpeNameId": "16CA370B-1C40-4E0B-A04B-DA454905694B",
+  "lastModified": "2024-03-07T21:48:04.147",
+  "created": "2020-02-10T17:53:59.693",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 4.4.0 Release Candidate 3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/download/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/en/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://nodejs.org/download/docs/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://nodejs.org/docs/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V4.md",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:4.4.0:rc3:*:*:lts:*:*:*",
+      "cpeNameId": "997630A4-9D99-4669-A47A-938B4704F7E3"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:4.4.0:rc3:*:*:*:*:*:*",
+      "cpeNameId": "59F42947-27C8-4BDD-906A-53BD0C7A835D"
+    }
+  ]
+}

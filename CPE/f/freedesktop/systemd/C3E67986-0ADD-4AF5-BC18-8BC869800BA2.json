@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:freedesktop:systemd:248:-:*:*:*:*:*:*",
+  "cpeNameId": "C3E67986-0ADD-4AF5-BC18-8BC869800BA2",
+  "lastModified": "2022-01-28T19:09:42.747",
+  "created": "2021-07-26T17:04:19.160",
+  "titles": [
+    {
+      "title": "freedesktop systemd 248",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/systemd/systemd/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/CVEProject/cvelist/blob/master/2021/33xxx/CVE-2021-33910.json",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:systemd_project:systemd:248:-:*:*:*:*:*:*",
+      "cpeNameId": "34F815DD-9269-40F7-A08A-00F82AB5050B"
+    }
+  ]
+}

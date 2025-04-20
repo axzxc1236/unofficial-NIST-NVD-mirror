@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:varnish-cache:varnish_cache:5.2.1:*:*:*:*:*:*:*",
+  "cpeNameId": "136699B8-AE78-4CC3-9752-7D6B69C24A81",
+  "lastModified": "2022-08-02T16:29:05.493",
+  "created": "2020-04-13T13:11:52.443",
+  "titles": [
+    {
+      "title": "Varnish Cache 5.2.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/varnishcache/varnish-cache",
+      "type": "Version"
+    },
+    {
+      "ref": "https://varnish-cache.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.varnish-cache.org/releases",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:varnish_cache_project:varnish_cache:5.2.1:*:*:*:*:*:*:*",
+      "cpeNameId": "25F1919D-A2E5-4C56-9480-B65E9C2C94FB"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:varnish-cache:varnish:5.2.1:*:*:*:*:*:*:*",
+      "cpeNameId": "68CAE233-6FD0-4F50-B12F-15EE9D320CC0"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:mysql:mysql:5.1.66:*:*:*:*:*:*:*",
+  "cpeNameId": "E54D568B-1936-4D9B-92DD-FCA666138612",
+  "lastModified": "2019-12-17T15:24:14.093",
+  "created": "2018-11-01T14:06:47.713",
+  "titles": [
+    {
+      "title": "MySQL 5.1.66",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A10133",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://downloads.mysql.com/docs/mysql-5.1-relnotes-en.pdf",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.mysql.com/",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:oracle:mysql:5.1.66:*:*:*:*:*:*:*",
+      "cpeNameId": "353CA225-B446-4DCD-A229-396C731A0DA1"
+    }
+  ]
+}

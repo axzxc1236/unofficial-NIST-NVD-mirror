@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.6.1:-:*:*:*:*:*:*",
+  "cpeNameId": "A37842F6-716A-43D1-ADB6-1B6A9043D9CF",
+  "lastModified": "2020-03-18T17:12:01.987",
+  "created": "2020-03-18T17:12:01.987",
+  "titles": [
+    {
+      "title": "Bitcoin Core 0.6.1 -",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://bitcoin.org/en/version-history",
+      "type": "Version"
+    },
+    {
+      "ref": "https://bitcoincore.org/en/download/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.6.1:*:*:*:*:*:*:*",
+      "cpeNameId": "EE3B6614-1508-448B-ACB8-5CE2C6EB47C6"
+    },
+    {
+      "cpeName": "cpe:2.3:a:bitcoin:bitcoin-qt:0.6.1:*:*:*:*:*:*:*",
+      "cpeNameId": "BCA9F7A8-205D-4A77-8663-A879093BE4DE"
+    },
+    {
+      "cpeName": "cpe:2.3:a:bitcoin:bitcoind:0.6.1:*:*:*:*:*:*:*",
+      "cpeNameId": "E1ADC90C-8514-495A-98EA-DE611A6CB6E0"
+    }
+  ]
+}

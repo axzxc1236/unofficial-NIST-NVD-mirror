@@ -1,0 +1,37 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:linux:linux_kernel:5.5:*:*:*:*:*:*:*",
+  "cpeNameId": "49DBB1C3-9AEF-4EC4-B62D-7D36F14EDFD9",
+  "lastModified": "2023-06-05T20:37:24.040",
+  "created": "2020-02-07T21:37:31.590",
+  "titles": [
+    {
+      "title": "Linux Kernel 5.5",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://cdn.kernel.org/pub/linux/kernel/v5.x/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.openwall.com/lists/oss-security/2020/01/28/4",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/torvalds/linux/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.kernel.org/",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:linux:linux_kernel:5.5:-:*:*:*:*:*:*",
+      "cpeNameId": "1F518EBF-1562-4E27-97CD-A3D668C77A8C"
+    }
+  ]
+}

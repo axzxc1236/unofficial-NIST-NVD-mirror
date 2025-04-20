@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:20h2:*:*:*:*:*:x64:*",
+  "cpeNameId": "01DD07DF-136A-4D28-8F43-C76811F40F0D",
+  "lastModified": "2022-12-09T18:15:16.973",
+  "created": "2021-01-29T12:45:14.957",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 20H2 on x64",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2020-17095",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://support.microsoft.com/en-us/topic/feature-update-through-windows-10-version-20h2-enablement-package-02d91e04-931e-f00d-090c-015467c49f6c",
+      "type": "Product"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10_20h2:-:*:*:*:*:*:x64:*",
+      "cpeNameId": "5D52DD8B-3F91-4EC7-A22E-8BFA4653D1B3"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:20h2:*:*:*:*:*:*:*",
+      "cpeNameId": "10BCB413-8D06-48DC-ADC7-CFA703C45ADA"
+    }
+  ]
+}

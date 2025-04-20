@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:moxa:mgate_mb3180:-:*:*:*:*:*:*:*",
+  "cpeNameId": "69ED21D2-50EB-4772-97D8-4EB0D7DC8FEB",
+  "lastModified": "2021-07-16T14:52:13.727",
+  "created": "2021-06-24T16:40:06.750",
+  "titles": [
+    {
+      "title": "Moxa MGate MB3180",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/Jian-Xian/CVE-POC/blob/master/CVE-2021-33823.md",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.moxa.com/en/products/industrial-edge-connectivity/protocol-gateways/modbus-tcp-gateways/mgate-mb3180-mb3280-mb3480-series",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:h:moxa:mgate_mb3180_router:-:*:*:*:*:*:*:*",
+      "cpeNameId": "511225B8-52FE-4F79-80AA-C49B52E8CA60"
+    }
+  ]
+}

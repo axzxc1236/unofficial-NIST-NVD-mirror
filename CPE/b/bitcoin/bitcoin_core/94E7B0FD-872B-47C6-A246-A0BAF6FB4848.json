@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.5.6:rc2:*:*:*:*:*:*",
+  "cpeNameId": "94E7B0FD-872B-47C6-A246-A0BAF6FB4848",
+  "lastModified": "2020-03-18T17:28:02.030",
+  "created": "2020-03-18T17:28:02.030",
+  "titles": [
+    {
+      "title": "Bitcoin Core 0.5.6 Release Candidate 2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://sourceforge.net/projects/bitcoin/files/?source=navbar",
+      "type": "Version"
+    },
+    {
+      "ref": "https://bitcoincore.org/en/download/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/bitcoin/bitcoin/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://bitcoin.org/en/version-history",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:bitcoin:bitcoin-qt:0.5.6:rc2:*:*:*:*:*:*",
+      "cpeNameId": "3C2EEA31-8505-4032-8A39-CD56248E2B17"
+    },
+    {
+      "cpeName": "cpe:2.3:a:bitcoin:bitcoind:0.5.6:rc2:*:*:*:*:*:*",
+      "cpeNameId": "37AFA1C5-F3A0-4917-8C44-2699028CE0F5"
+    }
+  ]
+}

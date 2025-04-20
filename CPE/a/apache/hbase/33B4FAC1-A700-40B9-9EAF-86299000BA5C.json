@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:apache:hbase:2.0.0:-:*:*:*:*:*:*",
+  "cpeNameId": "33B4FAC1-A700-40B9-9EAF-86299000BA5C",
+  "lastModified": "2019-06-19T13:41:14.070",
+  "created": "2019-06-19T13:41:14.070",
+  "titles": [
+    {
+      "title": "Apache Software Foundation HBase 2.0.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://hadoop.apache.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "http://hbase.apache.org/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/apache/hbase/tags",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:apache:hbase:2.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "00B04B09-6FCE-4E7F-AA3F-766760762C6B"
+    }
+  ]
+}

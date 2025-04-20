@@ -1,0 +1,45 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:excel:2019:*:*:*:*:macos:*:*",
+  "cpeNameId": "CA65C6BD-E6B5-4C94-97FC-54A6E484FA9D",
+  "lastModified": "2020-05-04T14:13:13.417",
+  "created": "2020-05-04T14:13:13.417",
+  "titles": [
+    {
+      "title": "Microsoft Excel 2019 for macOS",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://support.office.com/en-us/article/excel-2016-for-mac-help-2010f16b-aec0-4da7-b381-9cc1b9b47745",
+      "type": "Product"
+    },
+    {
+      "ref": "https://support.office.com/en-us/article/what-s-new-in-excel-2019-for-mac-5ce129d3-9e5c-417f-9545-fb6f7b72674d",
+      "type": "Product"
+    },
+    {
+      "ref": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1034",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1019",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://apps.apple.com/us/app/rms-sharing/id908570259?mt=12",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:excel:2019:*:*:*:*:mac_os:*:*",
+      "cpeNameId": "5FC3BAB0-9A80-4C5D-9F23-0639C383719D"
+    },
+    {
+      "cpeName": "cpe:2.3:a:microsoft:excel:2019:*:*:*:*:mac_os_x:*:*",
+      "cpeNameId": "D553412D-3A5E-4C82-906C-48CE32692951"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:1903:*:*:*:*:*:arm64:*",
+  "cpeNameId": "D738614C-A310-4DE5-BD42-E9C50C55B85C",
+  "lastModified": "2022-12-09T18:15:16.973",
+  "created": "2020-09-16T14:27:32.310",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 1903 on ARM64",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.catalog.update.microsoft.com/Search.aspx?q=kb4524570",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1405",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10_1903:-:*:*:*:*:*:arm64:*",
+      "cpeNameId": "599D14B7-415A-4A1B-A438-926EB067A5D2"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:1903:*:*:*:*:*:*:*",
+      "cpeNameId": "55A66997-7940-4058-AD92-F21B5F449CD6"
+    }
+  ]
+}

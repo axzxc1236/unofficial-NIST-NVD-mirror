@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:microsoft:windows_server_20h2:-:*:*:*:*:*:x64:*",
+  "cpeNameId": "409B6740-02C4-43A4-B939-7CFA74CD497A",
+  "lastModified": "2023-10-14T21:33:13.750",
+  "created": "2023-05-20T21:21:04.613",
+  "titles": [
+    {
+      "title": "Microsoft Windows Server 20H2 on x64",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://support.microsoft.com/en-us/topic/windows-10-update-history-7dd3071a-3906-fa2c-c342-f7f86728a6e3",
+      "type": "Product"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/lifecycle/products/windows-server-semiannual-channel",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.microsoft.com/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server_2016:20h2:*:*:*:*:*:*:*",
+      "cpeNameId": "7098E17D-9E69-4731-9379-A0FA353878DB"
+    },
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server_20h2:-:*:*:*:*:*:*:*",
+      "cpeNameId": "9D456417-9301-4BC7-BD07-1B19D3087E31"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:virustotal:yara:3.10.0:-:*:*:*:*:*:*",
+  "cpeNameId": "712941A8-137C-42D1-8802-BE237F62BAAC",
+  "lastModified": "2023-08-31T16:11:44.470",
+  "created": "2023-08-30T13:53:39.393",
+  "titles": [
+    {
+      "title": "VirusTotal YARA 3.10.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.virustotal.com/gui/home/upload",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/VirusTotal/yara/tags",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/VirusTotal/yara/issues/1945",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:virustotal:yara:3.10.0:*:*:*:*:*:*:*",
+      "cpeNameId": "5ED87113-9253-433F-98D8-A6772ABD40A1"
+    }
+  ]
+}

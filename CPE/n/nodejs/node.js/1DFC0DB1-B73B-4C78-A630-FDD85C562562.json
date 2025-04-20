@@ -1,0 +1,53 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:10.4.1:*:*:*:-:*:*:*",
+  "cpeNameId": "1DFC0DB1-B73B-4C78-A630-FDD85C562562",
+  "lastModified": "2024-03-07T21:32:09.957",
+  "created": "2020-02-10T17:54:06.740",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 10.4.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/download/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/en/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://nodejs.org/download/docs/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://nodejs.org/docs/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V10.md",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:10.4.1:*:*:*:*:*:*:*",
+      "cpeNameId": "6B635110-6CB8-4282-ACBA-02A962D0A3C9"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:10.4.1:*:*:*:lts:*:*:*",
+      "cpeNameId": "71EFA229-DC52-4344-AD61-E8B77756EDBC"
+    }
+  ]
+}

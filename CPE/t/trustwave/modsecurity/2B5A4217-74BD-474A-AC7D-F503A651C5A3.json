@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:trustwave:modsecurity:3.0.0:*:*:*:*:*:*:*",
+  "cpeNameId": "2B5A4217-74BD-474A-AC7D-F503A651C5A3",
+  "lastModified": "2020-02-03T15:37:34.097",
+  "created": "2020-02-03T15:37:34.097",
+  "titles": [
+    {
+      "title": "Trustwave ModSecurity 3.0.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/modsecurity-denial-of-service-details-cve-2019-19886/",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/SpiderLabs/ModSecurity/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.modsecurity.org/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.trustwave.com/en-us/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:modsecurity:modsecurity:3.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "AF23401F-97B9-4703-B14A-CDC999A5C45E"
+    }
+  ]
+}

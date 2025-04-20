@@ -1,0 +1,43 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:oracle:mysql:5.1.64:*:*:*:*:*:*:*",
+  "cpeNameId": "F247475E-AABA-4F52-93E6-58A61C8A9A05",
+  "lastModified": "2012-10-19T14:03:55.343",
+  "created": "2012-10-17T15:25:08.007",
+  "titles": [
+    {
+      "title": "Oracle MySQL 5.1.64",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://www.oracle.com/us/products/mysql/overview/index.html",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.mysql.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/mysql/mysql-server/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "http://www.oracle.com/technetwork/topics/security/cpuoct2013-1899837.html"
+    },
+    {
+      "ref": "http://dev.mysql.com/doc/relnotes/mysql/5.1/en/"
+    },
+    {
+      "ref": "http://dev.mysql.com/doc/relnotes/mysql/5.5/en/",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:mysql:mysql:5.1.64:*:*:*:*:*:*:*",
+      "cpeNameId": "0C26A17D-7F6B-4DA1-A5BA-5C832B381D18"
+    }
+  ]
+}

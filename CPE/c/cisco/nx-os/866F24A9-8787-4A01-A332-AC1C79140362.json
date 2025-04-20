@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:cisco:nx-os:7.0\\(5\\)n1\\(1\\):*:*:*:*:*:*:*",
+  "cpeNameId": "866F24A9-8787-4A01-A332-AC1C79140362",
+  "lastModified": "2022-04-05T19:19:58.187",
+  "created": "2017-05-30T15:39:40.467",
+  "titles": [
+    {
+      "title": "Cisco NX-OS 7.0(5)N1(1)",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20161005-dhcp2",
+      "type": "Advisory"
+    },
+    {
+      "ref": "http://www.cisco.com/c/en/us/products/ios-nx-os-software/nx-os-software/index.html",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:nx-os:7.0\\(5\\)n1\\(1\\):*:*:*:*:nexus_5000_series:*:*",
+      "cpeNameId": "7D559F52-2177-46B8-B60C-529959A83B2C"
+    },
+    {
+      "cpeName": "cpe:2.3:a:cisco:nx-os:7.0\\(5\\)n1\\(1\\):*:*:*:*:nexus_6000_series:*:*",
+      "cpeNameId": "5E2A0B7F-9B91-4D52-8FC2-B3446EA1C19B"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:elastic:apm_server:8.0.0:-:*:*:*:*:*:*",
+  "cpeNameId": "85D63D44-1F68-4369-8EF0-62A7D4DB7E6D",
+  "lastModified": "2024-02-15T19:39:21.393",
+  "created": "2024-02-15T19:36:07.900",
+  "titles": [
+    {
+      "title": "Elastic APM Server 8.0.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://discuss.elastic.co/t/apm-server-8-12-1-security-update-esa-2024-03/352688",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/elastic/apm-server/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.elastic.co/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:elastic:elastic_apm_server:8.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "DD052840-A05B-4FCA-9272-459622EF0433"
+    }
+  ]
+}

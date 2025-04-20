@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:.net_core:3.1:-:*:*:*:*:*:*",
+  "cpeNameId": "226FB226-5B99-4BA6-90DB-C6A1AE704C1C",
+  "lastModified": "2023-10-15T16:46:22.237",
+  "created": "2021-05-18T14:48:34.710",
+  "titles": [
+    {
+      "title": "Microsoft .NET Core 3.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/dotnet/core/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.microsoft.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://dotnet.microsoft.com/en-us/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:.net_core:3.1.0:-:*:*:*:*:*:*",
+      "cpeNameId": "17A2AA52-9B84-4D09-A747-74C7D0614034"
+    },
+    {
+      "cpeName": "cpe:2.3:a:microsoft:.net_core:3.1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "10A70549-28AC-406C-8922-A19482CE60A3"
+    },
+    {
+      "cpeName": "cpe:2.3:a:microsoft:.net_core:3.1:*:*:*:*:*:*:*",
+      "cpeNameId": "C3183EDA-F4E8-4E82-9E9E-F22988CE16B5"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:linuxfoundation:knative_func:0.23.0:*:*:*:*:*:*:*",
+  "cpeNameId": "A37F1E91-2440-4455-8439-5241FB5F45B7",
+  "lastModified": "2023-03-14T15:35:34.180",
+  "created": "2023-02-28T17:53:47.380",
+  "titles": [
+    {
+      "title": "Linux Foundation Knative Func 0.23.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/knative/func/tags",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://knative.dev/docs/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cncf:knative_func:0.23.0:*:*:*:*:*:*:*",
+      "cpeNameId": "0CB8BA03-9D87-4897-BF78-C40C11448DDE"
+    }
+  ]
+}

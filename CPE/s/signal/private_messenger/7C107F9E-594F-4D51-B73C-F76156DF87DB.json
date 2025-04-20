@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:signal:private_messenger:3.26.1:*:*:*:*:android:*:*",
+  "cpeNameId": "7C107F9E-594F-4D51-B73C-F76156DF87DB",
+  "lastModified": "2022-04-07T17:51:44.210",
+  "created": "2022-04-07T17:00:08.270",
+  "titles": [
+    {
+      "title": "Signal Private Messenger 3.26.1 for Android",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://signal.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/signalapp/Signal-Android",
+      "type": "Version"
+    },
+    {
+      "ref": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&referrer=utm_source%3DOWS%26utm_medium%3DWeb%26utm_campaign%3DNav",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:signal:messenger:3.26.1:*:*:*:*:android:*:*",
+      "cpeNameId": "006D8534-5B13-438B-852C-902D9E564342"
+    },
+    {
+      "cpeName": "cpe:2.3:a:signal:signal_private_messenger:3.26.1:*:*:*:*:android:*:*",
+      "cpeNameId": "7E07D70A-26C5-4858-BD4C-4484C7CF6131"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:linux:linux_kernel:5.13:rc5:*:*:*:*:*:*",
+  "cpeNameId": "45923823-4A81-4880-98E0-3E73EECAB88D",
+  "lastModified": "2022-06-22T15:55:37.900",
+  "created": "2022-03-09T19:33:19.610",
+  "titles": [
+    {
+      "title": "Linux Kernel 5.13 Release Candidate 5",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/torvalds/linux/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/about/?h=v5.16",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:linux:linux_kernel:5.13:rc5:*:*:*:*:*:*",
+      "cpeNameId": "2B4C5B22-5D8E-46CA-A9A7-D488F2847060"
+    }
+  ]
+}

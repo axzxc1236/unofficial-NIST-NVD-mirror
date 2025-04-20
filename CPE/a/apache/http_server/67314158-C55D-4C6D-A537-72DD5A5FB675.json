@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:apache:http_server:1.2.0:*:*:*:*:*:*:*",
+  "cpeNameId": "67314158-C55D-4C6D-A537-72DD5A5FB675",
+  "lastModified": "2022-06-30T15:18:54.573",
+  "created": "2022-06-30T15:18:03.723",
+  "titles": [
+    {
+      "title": "Apache Software Foundation HTTP Server 1.2.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.apache.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://httpd.apache.org/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/apache/httpd",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:apache:http_server:1.2:*:*:*:*:*:*:*",
+      "cpeNameId": "21998203-C916-4B40-B456-80BEB32E26B8"
+    }
+  ]
+}

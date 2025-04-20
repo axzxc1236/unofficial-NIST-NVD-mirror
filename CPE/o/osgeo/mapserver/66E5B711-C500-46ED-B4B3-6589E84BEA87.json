@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:osgeo:mapserver:7.0.2:*:*:*:*:*:*:*",
+  "cpeNameId": "66E5B711-C500-46ED-B4B3-6589E84BEA87",
+  "lastModified": "2021-06-01T14:02:32.517",
+  "created": "2021-05-11T17:25:15.213",
+  "titles": [
+    {
+      "title": "OSGeo MapServer 7.0.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/CVEProject/cvelist/blob/master/2021/32xxx/CVE-2021-32062.json",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://mapserver.org/development/changelog/index.html",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.osgeo.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://mapserver.org/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/MapServer/MapServer/releases",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:umn:mapserver:7.0.2:*:*:*:*:*:*:*",
+      "cpeNameId": "1449C663-0A3C-4F98-9D77-5B3594063D6A"
+    }
+  ]
+}

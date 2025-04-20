@@ -1,0 +1,37 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.0:rc8:*:*:*:*:*:*",
+  "cpeNameId": "18FF0528-FE4B-42F9-B894-0ED19D0BCFA1",
+  "lastModified": "2024-08-19T12:27:33.770",
+  "created": "2024-07-02T15:00:29.140",
+  "titles": [
+    {
+      "title": "MongoDB 6.0.0 Release Candidate 8",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/mongodb/mongo/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://jira.mongodb.org/browse/SERVER-79327",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.mongodb.com/docs/v6.0/release-notes/6.0-changelog/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.mongodb.com/try/download/community",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.0:rc8:*:*:-:*:*:*",
+      "cpeNameId": "340951DB-2613-429C-92A4-16149F57BA7A"
+    }
+  ]
+}

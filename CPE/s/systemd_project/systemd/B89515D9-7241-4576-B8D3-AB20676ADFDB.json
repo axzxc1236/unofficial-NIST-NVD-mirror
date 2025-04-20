@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:systemd_project:systemd:1:*:*:*:*:*:*:*",
+  "cpeNameId": "B89515D9-7241-4576-B8D3-AB20676ADFDB",
+  "lastModified": "2022-01-28T19:16:15.687",
+  "created": "2022-01-28T19:03:23.273",
+  "titles": [
+    {
+      "title": "systemd Project systemd 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/systemd/systemd/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/systemd/systemd",
+      "type": "Project"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:freedesktop:systemd:1:*:*:*:*:*:*:*",
+      "cpeNameId": "AFA78E90-7EA3-42C1-A39B-E6332B59BB56"
+    },
+    {
+      "cpeName": "cpe:2.3:a:lennart_poettering:systemd:001:*:*:*:*:*:*:*",
+      "cpeNameId": "1359B42C-B98B-4BD5-B7AD-8BD0D3D9DD6D"
+    }
+  ]
+}

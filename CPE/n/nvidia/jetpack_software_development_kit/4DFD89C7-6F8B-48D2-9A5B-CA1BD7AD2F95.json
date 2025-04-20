@@ -1,0 +1,35 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:nvidia:jetpack_software_development_kit:4.4:*:*:*:*:*:*:*",
+  "cpeNameId": "4DFD89C7-6F8B-48D2-9A5B-CA1BD7AD2F95",
+  "lastModified": "2024-12-26T18:07:29.750",
+  "created": "2020-07-14T16:16:17.687",
+  "titles": [
+    {
+      "title": "NVIDIA JetPack Software Development Kit 4.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nvidia.custhelp.com/app/answers/detail/a_id/5039",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://developer.nvidia.com/embedded/jetpack",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:nvidia:jetpack_software_development_kit:4.4:-:*:*:*:*:*:*",
+      "cpeNameId": "1DC28812-ADE1-4B81-A65F-F142A672C65F"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nvidia:jetpack_sdk:4.4:*:*:*:*:*:*:*",
+      "cpeNameId": "EF84AAC6-EF0D-403D-AC26-5D3767D1BE34"
+    }
+  ]
+}

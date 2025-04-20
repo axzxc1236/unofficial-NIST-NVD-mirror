@@ -1,0 +1,41 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:2004:*:*:*:*:*:*:*",
+  "cpeNameId": "A85E00B3-4AEE-4B73-94C6-E6030C4B148E",
+  "lastModified": "2022-12-02T17:01:42.343",
+  "created": "2020-07-23T16:47:32.017",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 2004",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1253",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4557957",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:2004:*:*:*:*:*:x64:*",
+      "cpeNameId": "73B85A1F-49DD-46AD-B988-4765F5166EA3"
+    },
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:2004:*:*:*:*:*:x86:*",
+      "cpeNameId": "77D8A961-8BA6-4BFD-881D-F97157925C18"
+    },
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:2004:*:*:*:*:*:hololens:*",
+      "cpeNameId": "618DDA67-A056-495B-8212-B3674CD1E46A"
+    },
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:2004:*:*:*:*:*:arm64:*",
+      "cpeNameId": "54162EDC-E049-4811-AE2A-DB80B5E94608"
+    }
+  ]
+}

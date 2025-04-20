@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:vmware:rabbitmq:3.6.2:rc1:*:*:*:*:*:*",
+  "cpeNameId": "18BE644F-FE61-4524-815B-23E71E96B4C2",
+  "lastModified": "2025-04-02T14:13:38.760",
+  "created": "2022-03-17T13:18:25.160",
+  "titles": [
+    {
+      "title": "VMware RabbitMQ 3.6.2 Release Candidate 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.vmware.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.rabbitmq.com/changelog.html",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/rabbitmq/rabbitmq-server/",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:broadcom:rabbitmq_server:3.6.2:rc1:*:*:*:*:*:*",
+      "cpeNameId": "4EED71F9-EFAE-4BBE-A9C2-EC17DF04CFFF"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:pivotal_software:rabbitmq:3.6.2:rc1:*:*:*:*:*:*",
+      "cpeNameId": "4A3FE442-1FA3-446F-ABAA-3E0DBB2AA137"
+    }
+  ]
+}

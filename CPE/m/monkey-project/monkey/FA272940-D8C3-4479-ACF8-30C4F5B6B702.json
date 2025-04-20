@@ -1,0 +1,32 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:monkey-project:monkey:1.2.2:*:*:*:*:*:*:*",
+  "cpeNameId": "FA272940-D8C3-4479-ACF8-30C4F5B6B702",
+  "lastModified": "2020-03-26T14:23:13.487",
+  "created": "2020-03-26T14:23:13.487",
+  "titles": [
+    {
+      "title": "Monkey-Project Monkey 1.2.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://monkey-project.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "http://monkey-project.com/downloads"
+    },
+    {
+      "ref": "https://github.com/monkey/monkey/tags",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:monkey-project:monkey_http_daemon:1.2.2:*:*:*:*:*:*:*",
+      "cpeNameId": "B15E74DB-BC14-4C99-854B-641AC6416D73"
+    }
+  ]
+}

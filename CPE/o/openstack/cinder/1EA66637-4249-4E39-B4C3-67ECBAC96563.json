@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:openstack:cinder:2013.2:-:*:*:*:*:*:*",
+  "cpeNameId": "1EA66637-4249-4E39-B4C3-67ECBAC96563",
+  "lastModified": "2023-03-04T02:54:16.470",
+  "created": "2023-02-02T20:20:19.113",
+  "titles": [
+    {
+      "title": "OpenStack Cinder 2013.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://bugs.launchpad.net/nova/+bug/1996188",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/openstack/cinder/tags",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:openstack:cinder:2013.2:*:*:*:*:*:*:*",
+      "cpeNameId": "0D7D9205-DA50-4FF2-B8E2-1A5CC5B31985"
+    }
+  ]
+}

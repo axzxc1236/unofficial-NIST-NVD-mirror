@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:asp.net_model_view_controller:1.0.2:*:*:*:*:*:*:*",
+  "cpeNameId": "522BB1BE-C161-46CA-907B-F8E3757BC5D8",
+  "lastModified": "2021-06-30T16:53:50.823",
+  "created": "2021-06-30T16:44:54.297",
+  "titles": [
+    {
+      "title": "Microsoft ASP.NET Model View Controller (MVC) 1.0.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://dotnet.microsoft.com/apps/aspnet/mvc",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc/1.0.1",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:microsoft.aspnetcore.mvc:1.0.2:*:*:*:*:asp.net:*:*",
+      "cpeNameId": "033CB240-C7D6-4992-B70C-E28E9C131809"
+    },
+    {
+      "cpeName": "cpe:2.3:a:microsoft:microsoft.aspnetcore.mvc.core:1.0.2:*:*:*:*:asp.net:*:*",
+      "cpeNameId": "643ECDF2-8287-4722-880D-11C4DD41764D"
+    }
+  ]
+}

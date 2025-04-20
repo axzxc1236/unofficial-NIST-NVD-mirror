@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:ibm:vios:2.1.2.10:*:*:*:*:*:*:*",
+  "cpeNameId": "3661802A-6659-45C5-843E-98978E68F0C3",
+  "lastModified": "2021-08-31T15:42:22.903",
+  "created": "2021-08-31T14:50:19.050",
+  "titles": [
+    {
+      "title": "IBM Virtual I/O Server (VIOS) 2.1.2.10",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.ibm.com/docs/en/POWER7/p7hb1/iphb1kickoff.htm",
+      "type": "Product"
+    },
+    {
+      "ref": "http://aix.software.ibm.com/aix/efixes/security/libodm_advisory.asc",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:ibm:vios:2.1.2.10:*:*:*:*:*:*:*",
+      "cpeNameId": "BD072FD9-85D6-448C-8F59-CFBCC37ED302"
+    }
+  ]
+}

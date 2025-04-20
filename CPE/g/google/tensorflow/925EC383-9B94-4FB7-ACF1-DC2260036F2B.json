@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:google:tensorflow:2.5.0:rc2:*:*:*:*:*:*",
+  "cpeNameId": "925EC383-9B94-4FB7-ACF1-DC2260036F2B",
+  "lastModified": "2021-08-17T13:22:52.530",
+  "created": "2021-05-20T15:10:52.890",
+  "titles": [
+    {
+      "title": "Google TensorFlow 2.5.0 Release Candidate 2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/tensorflow/tensorflow/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.tensorflow.org/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:tensorflow:tensorflow:2.5.0:rc2:*:*:*:*:*:*",
+      "cpeNameId": "BDA214C4-911A-480F-9000-951555DAC22F"
+    }
+  ]
+}

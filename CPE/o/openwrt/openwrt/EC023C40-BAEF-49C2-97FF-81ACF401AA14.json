@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:openwrt:openwrt:18.06.0:*:*:*:*:*:*:*",
+  "cpeNameId": "EC023C40-BAEF-49C2-97FF-81ACF401AA14",
+  "lastModified": "2023-05-24T15:09:06.687",
+  "created": "2018-12-20T15:44:20.293",
+  "titles": [
+    {
+      "title": "OpenWrt 18.06.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://openwrt.org/about/history",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/openwrt/openwrt/tags",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://openwrt.org/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:openwrt:openwrt:18.06.0:-:*:*:*:*:*:*",
+      "cpeNameId": "B35F9628-0349-4470-B5A3-F7A2BDBC8E25"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:openwrt:openwrt:18.06.0:*:*:*:*:*:*:*",
+      "cpeNameId": "C016945F-B880-4DF0-8AA9-E1C34934910B"
+    }
+  ]
+}

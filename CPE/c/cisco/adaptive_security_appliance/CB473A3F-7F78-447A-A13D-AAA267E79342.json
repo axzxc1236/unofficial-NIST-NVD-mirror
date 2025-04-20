@@ -1,0 +1,33 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:cisco:adaptive_security_appliance:9.8.4.8:*:*:*:*:*:*:*",
+  "cpeNameId": "CB473A3F-7F78-447A-A13D-AAA267E79342",
+  "lastModified": "2023-08-16T16:17:02.243",
+  "created": "2019-10-08T16:27:12.460",
+  "titles": [
+    {
+      "title": "Cisco Adaptive Security Appliance (ASA) 9.8.4.8",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191002-asa-ospf-lsa-dos",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvp49790",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.cisco.com/c/en/us/support/security/adaptive-security-appliance-asa-software/products-release-notes-list.html",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.8.4.8:*:*:*:*:*:*:*",
+      "cpeNameId": "1A38AB68-782C-4D08-8315-20E932E3305F"
+    }
+  ]
+}

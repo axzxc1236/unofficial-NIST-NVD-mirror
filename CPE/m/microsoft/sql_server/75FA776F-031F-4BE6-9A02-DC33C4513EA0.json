@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:-:*:*:*:*:*:*",
+  "cpeNameId": "75FA776F-031F-4BE6-9A02-DC33C4513EA0",
+  "lastModified": "2020-04-02T11:56:40.017",
+  "created": "2020-04-02T11:56:40.017",
+  "titles": [
+    {
+      "title": "Microsoft SQL Server 2008",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.microsoft.com/en-us/download/details.aspx?id=42299",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.microsoft.com/en-us/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "http://technet.microsoft.com/security/bulletin/MS16-136",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.microsoft.com/en-us/sql-server/sql-server-2016",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:*:*:*:*:*:*:*",
+      "cpeNameId": "9275D462-3D8D-4807-A3BD-2CBA3386CE3D"
+    }
+  ]
+}

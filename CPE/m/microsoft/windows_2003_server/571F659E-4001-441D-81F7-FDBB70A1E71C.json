@@ -1,0 +1,31 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_2003_server:-:sp1:compute_cluster:*:*:*:*:*",
+  "cpeNameId": "571F659E-4001-441D-81F7-FDBB70A1E71C",
+  "lastModified": "2021-07-07T16:08:32.760",
+  "created": "2007-08-28T18:18:53.637",
+  "titles": [
+    {
+      "title": "Microsoft Windows 2003 Service Pack 1 Compute Cluster",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.microsoft.com/en-us/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server_2003:-:sp1:*:*:compute_cluster:*:x86:*",
+      "cpeNameId": "924E997A-6F1A-4B99-8AFA-5824A513D108"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows-nt:2003:sp1:compute_cluster:*:*:*:*:*",
+      "cpeNameId": "4F9E6277-E65C-4570-B1D2-472FDB3EFE4B"
+    }
+  ]
+}

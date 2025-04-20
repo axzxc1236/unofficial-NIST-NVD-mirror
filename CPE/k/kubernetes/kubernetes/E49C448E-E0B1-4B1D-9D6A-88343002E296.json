@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:kubernetes:kubernetes:-:*:*:*:*:*:*:*",
+  "cpeNameId": "E49C448E-E0B1-4B1D-9D6A-88343002E296",
+  "lastModified": "2021-06-03T15:04:26.753",
+  "created": "2016-06-14T14:35:59.197",
+  "titles": [
+    {
+      "title": "Kubernetes",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://kubernetes.io/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/kubernetes/kubernetes",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:google:kubernetes:-:*:*:*:*:*:*:*",
+      "cpeNameId": "29F9A23D-F5A3-48BE-BB2C-89B1BFC79ECD"
+    }
+  ]
+}

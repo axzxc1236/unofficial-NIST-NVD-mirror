@@ -1,0 +1,47 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:emc:rsa_bsafe_crypto-c:4.0:*:*:*:micro:*:*:*",
+  "cpeNameId": "611BA300-8DDC-429A-BDE5-28D5B07437C9",
+  "lastModified": "2021-11-30T18:50:50.293",
+  "created": "2020-01-22T13:30:52.970",
+  "titles": [
+    {
+      "title": "EMC RSA BSAFE Crypto-C 4.0 Micro Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://community.rsa.com/docs/DOC-40619",
+      "type": "Version"
+    },
+    {
+      "ref": "https://community.rsa.com/community/products/bsafe/crypto-c-me-41/content",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.dell.com/support/security/en-us/details/DOC-107000/DSA-2019-079-RSA-BSAFE&#174;-Crypto-C-Micro-Edition-and-Micro-Edition-Suite-Multiple-Security-Vulnerab",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://community.rsa.com/community/products/bsafe/crypto-c-me-40/content",
+      "type": "Version"
+    },
+    {
+      "ref": "https://rsa.jiveon.com/docs/DOC-96435",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:dell:bsafe_crypto-c:4.0:*:*:*:micro:*:*:*",
+      "cpeNameId": "C6184D43-8533-4CEA-B801-B9E0248E38AD"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:emc:rsa_bsafe_crypto-c:4.0:*:*:*:micro_edition:*:*:*",
+      "cpeNameId": "FE1640A8-0058-4A4C-B2F5-EEE493985843"
+    }
+  ]
+}

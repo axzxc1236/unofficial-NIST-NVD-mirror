@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:net2_project:net2:0.2.35:*:*:*:*:*:*:*",
+  "cpeNameId": "374BF98D-5262-4A7B-BAEA-71B854138CFC",
+  "lastModified": "2021-01-07T13:04:07.747",
+  "created": "2021-01-06T13:31:35.507",
+  "titles": [
+    {
+      "title": "net2 Project net2 0.2.35",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/deprecrated/net2-rs/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://rustsec.org/advisories/RUSTSEC-2020-0078.html",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:net2_project:net2:0.2.35:*:*:*:*:rust:*:*",
+      "cpeNameId": "D0FFD6DA-00A0-4B1F-8896-9E415A1A6146"
+    }
+  ]
+}

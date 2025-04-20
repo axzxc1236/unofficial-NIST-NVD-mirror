@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:powershell_core:7.1:*:*:*:*:*:*:*",
+  "cpeNameId": "0E58AC3D-D618-43D9-81FC-D7ACF0DF64EB",
+  "lastModified": "2021-08-16T13:06:37.307",
+  "created": "2021-08-12T17:19:40.980",
+  "titles": [
+    {
+      "title": "Microsoft Powershell Core 7.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1721",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.tenforums.com/tutorials/126551-install-powershell-core-windows.html",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:powershell_core:7.1:*:*:*:*:*:*:*",
+      "cpeNameId": "0A88143D-A44F-4016-BA63-1928CCDACC39"
+    }
+  ]
+}

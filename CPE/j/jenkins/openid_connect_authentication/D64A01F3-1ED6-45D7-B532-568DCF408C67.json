@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:jenkins:openid_connect_authentication:-:*:*:*:*:jenkins:*:*",
+  "cpeNameId": "D64A01F3-1ED6-45D7-B532-568DCF408C67",
+  "lastModified": "2025-01-28T17:16:05.017",
+  "created": "2025-01-28T17:16:05.017",
+  "titles": [
+    {
+      "title": "Jenkins OpenID Connect Authentication (oic-auth) for Jenkins",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://plugins.jenkins.io/oic-auth/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/jenkinsci/oic-auth-plugin/tags",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:jenkins:openid:-:*:*:*:*:jenkins:*:*",
+      "cpeNameId": "E0CAB905-5E90-4F97-B600-7F542C509A2E"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:microsoft:windows_embedded_compact:-:*:*:*:*:*:*:*",
+  "cpeNameId": "3131C82A-8479-45A8-810D-0AB70C8EA709",
+  "lastModified": "2023-12-15T19:06:17.790",
+  "created": "2023-12-15T19:06:17.790",
+  "titles": [
+    {
+      "title": "Microsoft Windows Embedded Compact",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://en.wikipedia.org/wiki/Windows_Embedded_Compact#Releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/iot/windows_ce/windows-ce-migration-faq",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_ce:-:*:*:*:*:*:*:*",
+      "cpeNameId": "880FB49B-74D2-4ECF-B455-0CCCFD3A1BA1"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:google:tensorflow:1.15.5:*:*:*:*:*:*:*",
+  "cpeNameId": "30355AB6-8A38-41A1-BFC4-DFEEDFEDA99C",
+  "lastModified": "2021-08-17T12:50:34.357",
+  "created": "2021-05-20T15:09:48.683",
+  "titles": [
+    {
+      "title": "Google TensorFlow 1.15.5",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/tensorflow/tensorflow/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.tensorflow.org/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:tensorflow:tensorflow:1.15.5:*:*:*:*:*:*:*",
+      "cpeNameId": "2884E4B0-87EA-4BA5-96DC-41D7F391DD32"
+    }
+  ]
+}

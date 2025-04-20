@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:google:tensorflow:1.15.2:*:*:*:lite:*:*:*",
+  "cpeNameId": "0DC59000-6182-4BD5-8260-9D3414589671",
+  "lastModified": "2021-08-17T12:50:34.357",
+  "created": "2021-08-16T15:51:28.233",
+  "titles": [
+    {
+      "title": "Google TensorFlow 1.15.2 Lite Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/tensorflow/tensorflow/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.tensorflow.org/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:tensorflow:tensorflow:1.15.2:*:*:*:lite:*:*:*",
+      "cpeNameId": "A51FB99C-E4A4-40A1-B261-B0C626C6D092"
+    }
+  ]
+}

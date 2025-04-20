@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:linux:linux_kernel:4.5:rc1:*:*:*:*:*:*",
+  "cpeNameId": "2CCF74F9-BC2F-461A-98E6-DC98E271FCEE",
+  "lastModified": "2023-06-05T20:37:24.040",
+  "created": "2020-10-01T13:15:51.307",
+  "titles": [
+    {
+      "title": "Linux Kernel 4.5 Release Candidate 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/torvalds/linux/releases?after=v4.6-rc1",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/torvalds/linux/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.kernel.org/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:linux:linux_kernel:4.5.0:rc1:*:*:*:*:*:*",
+      "cpeNameId": "9479CFA4-0CFC-4DB3-9EFF-EAEA98B51CA3"
+    }
+  ]
+}

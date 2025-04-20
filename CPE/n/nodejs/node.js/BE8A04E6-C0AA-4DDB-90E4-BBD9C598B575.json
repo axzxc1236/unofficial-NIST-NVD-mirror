@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:6.12.1:*:*:*:lts:*:*:*",
+  "cpeNameId": "BE8A04E6-C0AA-4DDB-90E4-BBD9C598B575",
+  "lastModified": "2024-03-07T21:54:36.307",
+  "created": "2019-02-11T16:39:18.017",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 6.12.1 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nodejs/node",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V6.md",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:6.12.1:*:*:*:-:*:*:*",
+      "cpeNameId": "E574B081-4F0F-47A0-B8D0-95199B692C17"
+    }
+  ]
+}

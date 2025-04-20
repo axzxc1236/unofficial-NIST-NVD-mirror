@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:ivanti:connect_secure:9.0:r4.1:*:*:*:*:*:*",
+  "cpeNameId": "00A04066-F7CC-4AAC-954F-8BA9B8CFABA8",
+  "lastModified": "2024-01-13T18:36:48.050",
+  "created": "2024-01-13T18:36:48.050",
+  "titles": [
+    {
+      "title": "Ivanti Connect Secure 9.0 R4.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.ivanti.com/support/product-documentation?psredirect",
+      "type": "Version"
+    },
+    {
+      "ref": "https://forums.ivanti.com/s/article/CVE-2023-46805-Authentication-Bypass-CVE-2024-21887-Command-Injection-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure-Gateways?language=en_US",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:9.0:r4.1:*:*:*:*:*:*",
+      "cpeNameId": "D414E02D-87D5-4495-B305-D7A33C2014CA"
+    }
+  ]
+}

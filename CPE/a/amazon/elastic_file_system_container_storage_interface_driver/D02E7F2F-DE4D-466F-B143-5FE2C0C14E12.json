@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:amazon:elastic_file_system_container_storage_interface_driver:1.4.4:*:*:*:*:go:*:*",
+  "cpeNameId": "D02E7F2F-DE4D-466F-B143-5FE2C0C14E12",
+  "lastModified": "2023-01-05T14:30:49.180",
+  "created": "2023-01-05T13:04:44.313",
+  "titles": [
+    {
+      "title": "Amazon Elastic File System Container Storage Interface Driver 1.4.4 for Go",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/aws/efs-utils/security/advisories/GHSA-4fv8-w65m-3932",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/kubernetes-sigs/aws-efs-csi-driver/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/kubernetes-sigs/aws-efs-csi-driver/blob/master/go.mod",
+      "type": "Product"
+    }
+  ]
+}

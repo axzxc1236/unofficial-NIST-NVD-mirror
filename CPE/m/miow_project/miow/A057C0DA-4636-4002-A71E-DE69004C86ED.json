@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:miow_project:miow:0.3.1:*:*:*:*:*:*:*",
+  "cpeNameId": "A057C0DA-4636-4002-A71E-DE69004C86ED",
+  "lastModified": "2021-01-07T12:54:21.997",
+  "created": "2021-01-06T13:32:55.557",
+  "titles": [
+    {
+      "title": "miow Project miow 0.3.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/yoshuawuyts/miow/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://rustsec.org/advisories/RUSTSEC-2020-0080.html",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:miow_project:miow:0.3.1:*:*:*:*:rust:*:*",
+      "cpeNameId": "023D35BC-7BA2-4F90-903C-5640E201A83C"
+    }
+  ]
+}

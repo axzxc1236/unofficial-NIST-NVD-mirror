@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:pivotal_software:spring_framework:5.1.15:*:*:*:*:*:*:*",
+  "cpeNameId": "E0651EC7-5501-4D79-B5E7-660273CA627B",
+  "lastModified": "2022-04-07T19:48:46.467",
+  "created": "2020-09-23T14:01:59.893",
+  "titles": [
+    {
+      "title": "Pivotal Software Spring Framework 5.1.15",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/spring-projects/spring-framework/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://tanzu.vmware.com/security/cve-2020-5421",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:vmware:spring_framework:5.1.15:*:*:*:*:*:*:*",
+      "cpeNameId": "2C43E0EF-7454-4C06-AFFB-CDA670B670CF"
+    }
+  ]
+}

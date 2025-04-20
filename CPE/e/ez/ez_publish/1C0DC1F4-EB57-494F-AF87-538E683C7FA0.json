@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:ez:ez_publish:4.3.0:-:*:*:*:*:*:*",
+  "cpeNameId": "1C0DC1F4-EB57-494F-AF87-538E683C7FA0",
+  "lastModified": "2019-07-30T15:37:34.670",
+  "created": "2019-07-30T15:37:34.670",
+  "titles": [
+    {
+      "title": "eZ Publish 4.3.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/ezsystems/ezpublish-kernel/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/ezsystems/ezpublish-legacy/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://doc.ez.no/eZ-Publish/Upgrading/Upgrading-to-3.5/from-3.5.x-to-3.5.y",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://doc.ez.no/eZ-Publish/Upgrading/Upgrading-to-3.6/from-3.6.x-to-3.6.y",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://doc.ez.no/eZ-Publish/Upgrading/The-system-upgrade-scripts",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:ez:ez_publish:4.3:*:*:*:*:*:*:*",
+      "cpeNameId": "65392A0B-0745-470A-B561-A255EB17A280"
+    }
+  ]
+}

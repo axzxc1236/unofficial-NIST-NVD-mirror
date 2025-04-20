@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:citrix:sd-wan_1100:-:*:*:*:*:*:*:*",
+  "cpeNameId": "3FEF436C-796C-4BA9-9F3C-60A92C9914C9",
+  "lastModified": "2022-04-22T18:05:51.033",
+  "created": "2022-04-21T17:55:49.077",
+  "titles": [
+    {
+      "title": "Citrix SD-WAN 1100",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://support.citrix.com/article/CTX370550",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://docs.citrix.com/en-us/citrix-sd-wan-platforms/premium-edition.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://docs.citrix.com/en-us/citrix-sd-wan-platforms/standard-edition.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-114127.html",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:h:citrix:sd-wan_1100_standard_edition:-:*:*:*:*:*:*:*",
+      "cpeNameId": "20A0032E-5264-4155-B860-8DDA265832A8"
+    },
+    {
+      "cpeName": "cpe:2.3:h:citrix:sd-wan_1100_premium_edition:-:*:*:*:*:*:*:*",
+      "cpeNameId": "9A75E3EE-0DDC-476B-AA52-0572C6B72466"
+    }
+  ]
+}

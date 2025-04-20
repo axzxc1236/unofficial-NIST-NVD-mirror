@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:.net:5.0.5:*:*:*:*:*:*:*",
+  "cpeNameId": "513A9C31-441B-4394-ABB9-95A75CEFC37C",
+  "lastModified": "2023-10-15T16:43:04.443",
+  "created": "2021-05-18T18:35:24.300",
+  "titles": [
+    {
+      "title": "Microsoft .NET 5.0.5",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.microsoft.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/dotnet/core/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://dotnet.microsoft.com/en-us/download/dotnet",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:.net_core:5.0.5:*:*:*:*:*:*:*",
+      "cpeNameId": "24C78B90-DD5E-4926-980E-7D116A886FE4"
+    }
+  ]
+}

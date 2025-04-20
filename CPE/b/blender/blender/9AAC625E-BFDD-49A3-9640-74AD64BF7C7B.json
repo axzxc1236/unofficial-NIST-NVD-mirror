@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:blender:blender:2.78:c:*:*:*:*:*:*",
+  "cpeNameId": "9AAC625E-BFDD-49A3-9640-74AD64BF7C7B",
+  "lastModified": "2022-07-06T11:51:27.120",
+  "created": "2022-07-06T11:50:36.117",
+  "titles": [
+    {
+      "title": "Blender 2.78 C",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.blender.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2017-0406",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/blender/blender/tags",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:blender:blender:2.78c:*:*:*:*:*:*:*",
+      "cpeNameId": "6016857A-0D52-414A-AF42-E39895C7788E"
+    }
+  ]
+}

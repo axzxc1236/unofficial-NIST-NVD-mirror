@@ -1,0 +1,43 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:microsoft:office:2016:-:*:*:*:-:-:*",
+  "cpeNameId": "A95C9B77-265A-4DA2-BBBA-0EBA6E7DFEC8",
+  "lastModified": "2020-06-12T14:36:20.267",
+  "created": "2020-06-12T14:33:15.263",
+  "titles": [
+    {
+      "title": "Microsoft Office 2016",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://products.office.com/en-US/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://technet.microsoft.com/library/security/ms16-004",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-office-2016",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:office:2016:*:-:*:-:*:-:*",
+      "cpeNameId": "AC5E935B-B1C3-4E5A-9CD4-92FD25E497C6"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:*:*:*",
+      "cpeNameId": "8B2946B1-0970-4659-8B52-4B0E809B4300"
+    },
+    {
+      "cpeName": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:-:*:*",
+      "cpeNameId": "299FF389-89F2-4B83-B0B7-01E4BF81749D"
+    }
+  ]
+}

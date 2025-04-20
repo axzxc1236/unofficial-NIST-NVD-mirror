@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:kubernetes:kubernetes:1.5.1:*:*:*:*:*:*:*",
+  "cpeNameId": "63A22C67-A01D-4717-85CA-F1E9EB8DD17B",
+  "lastModified": "2019-10-03T19:08:06.767",
+  "created": "2018-10-29T17:57:09.887",
+  "titles": [
+    {
+      "title": "Kubernetes 1.5.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.5.md",
+      "type": "Version"
+    },
+    {
+      "ref": "https://kubernetes.io/",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:kubernetes:kubernetes:1.5.1:-:*:*:*:*:*:*",
+      "cpeNameId": "D631339F-0F7A-442F-BB0A-9E12C4232198"
+    }
+  ]
+}

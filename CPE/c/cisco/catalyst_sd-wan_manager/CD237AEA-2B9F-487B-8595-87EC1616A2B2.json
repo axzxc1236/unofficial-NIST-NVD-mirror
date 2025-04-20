@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.1:*:*:*:*:*:*:*",
+  "cpeNameId": "CD237AEA-2B9F-487B-8595-87EC1616A2B2",
+  "lastModified": "2023-10-16T16:35:23.810",
+  "created": "2023-10-16T16:35:23.810",
+  "titles": [
+    {
+      "title": "Cisco Catalyst SD-WAN Manager 20.3.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vmxss2-NL4KSSVR",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.cisco.com/c/en/us/solutions/enterprise-networks/sd-wan/index.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.cisco.com/site/us/en/index.html",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:sd-wan_vmanage:20.3.1:*:*:*:*:*:*:*",
+      "cpeNameId": "100EE29F-2EC4-4029-9976-F3A088D51D01"
+    }
+  ]
+}

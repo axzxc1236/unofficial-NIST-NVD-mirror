@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:netapp:h300e:-:*:*:*:*:*:*:*",
+  "cpeNameId": "7585E1BE-C9AC-44CC-92E3-4B0C95077901",
+  "lastModified": "2023-11-09T13:59:45.620",
+  "created": "2020-12-28T12:31:59.750",
+  "titles": [
+    {
+      "title": "NetApp H300E",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://security.netapp.com/advisory/ntap-20200511-0006/",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:h:netapp:baseboard_management_controller_h300e:-:*:*:*:*:*:*:*",
+      "cpeNameId": "376DE93C-61CB-4C5B-8902-3DE0F211BEC8"
+    },
+    {
+      "cpeName": "cpe:2.3:a:netapp:hci_baseboard_management_controller:h300e:*:*:*:*:*:*:*",
+      "cpeNameId": "1233092A-62FB-46B5-AEB5-23F6B756FA31"
+    }
+  ]
+}

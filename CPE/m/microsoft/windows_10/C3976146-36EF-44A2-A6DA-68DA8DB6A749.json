@@ -1,0 +1,35 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:1803:*:*:*:*:*:arm64:*",
+  "cpeNameId": "C3976146-36EF-44A2-A6DA-68DA8DB6A749",
+  "lastModified": "2022-12-09T18:15:16.973",
+  "created": "2019-03-07T16:12:04.470",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 1803 on Arm64",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.catalog.update.microsoft.com/Search.aspx?q=windows%2010%20version%201709",
+      "type": "Product"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10_1803:-:*:*:*:*:*:arm64:*",
+      "cpeNameId": "C1D5FF32-E0A2-4986-86E7-5C20F5F0767C"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:1803:*:*:*:*:*:*:*",
+      "cpeNameId": "793AD130-B3F8-4807-9D68-6FFE12EAA862"
+    }
+  ]
+}

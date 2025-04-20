@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:-:*:*:*:*:*:*",
+  "cpeNameId": "CB15E441-5601-4BD8-8C64-55427890183C",
+  "lastModified": "2020-01-28T16:02:06.657",
+  "created": "2020-01-28T16:02:06.657",
+  "titles": [
+    {
+      "title": "EMC RSA Authentication Manager 8.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://community.rsa.com/docs/DOC-100116",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.dell.com/support/security/en-us/details/DOC-109297/DSA-2019-168-RSA&#174;-Authentication-Manager-Software-Stored-Cross-Site-Scripting-Vulnerability",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://community.rsa.com/docs/DOC-101122",
+      "type": "Product"
+    },
+    {
+      "ref": "https://community.rsa.com/docs/DOC-60102#February",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.rsa.com/en-us/products/rsa-securid-suite/rsa-securid-access/authentication-manager",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.4:-:*:*:*:*:*:*",
+      "cpeNameId": "02658FF5-3097-4782-8FFE-EEB3B198F6AD"
+    }
+  ]
+}

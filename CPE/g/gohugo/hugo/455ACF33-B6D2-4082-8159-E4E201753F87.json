@@ -1,0 +1,33 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:gohugo:hugo:0.37:*:*:*:*:*:*:*",
+  "cpeNameId": "455ACF33-B6D2-4082-8159-E4E201753F87",
+  "lastModified": "2021-03-04T17:05:35.380",
+  "created": "2020-12-23T19:11:41.380",
+  "titles": [
+    {
+      "title": "Gohugo Hugo 0.37",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/gohugoio/hugo/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://gohugo.io/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/gohugoio/hugo/security/advisories/GHSA-8j34-9876-pvfq",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:gohugo:hugo:0.37:*:*:*:*:windows:*:*",
+      "cpeNameId": "E824AF1F-286C-4DDB-8527-E111E4C98696"
+    }
+  ]
+}

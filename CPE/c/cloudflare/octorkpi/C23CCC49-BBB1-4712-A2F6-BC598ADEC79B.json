@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cloudflare:octorkpi:1.1.0:*:*:*:*:*:*:*",
+  "cpeNameId": "C23CCC49-BBB1-4712-A2F6-BC598ADEC79B",
+  "lastModified": "2021-09-24T21:04:21.887",
+  "created": "2021-09-24T20:43:35.087",
+  "titles": [
+    {
+      "title": "Cloudflare OctoPKI 1.1.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/cloudflare/cfrpki",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/cloudflare/cfrpki/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/cloudflare/cfrpki/security/advisories/GHSA-c8xp-8mf3-62h9",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.cloudflare.com/hp/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cloudflare:octopki:1.1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "03AF6AE9-93D6-4EBC-A299-C7F6E62CAFC4"
+    }
+  ]
+}

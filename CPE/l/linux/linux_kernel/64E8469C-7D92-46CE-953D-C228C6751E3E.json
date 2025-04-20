@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:linux:linux_kernel:4.5:-:*:*:*:*:*:*",
+  "cpeNameId": "64E8469C-7D92-46CE-953D-C228C6751E3E",
+  "lastModified": "2023-06-05T20:37:24.040",
+  "created": "2021-03-19T13:08:52.570",
+  "titles": [
+    {
+      "title": "Linux Kernel 4.5",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.kernel.org/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/torvalds/linux/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.kernel.org/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:linux:linux_kernel:4.5:*:*:*:*:*:*:*",
+      "cpeNameId": "6752716B-480D-47F4-B011-9496A572E34A"
+    },
+    {
+      "cpeName": "cpe:2.3:o:linux:linux_kernel:4.5.0:*:*:*:*:*:*:*",
+      "cpeNameId": "89D51C4A-2038-4CC3-BC96-B4B99709BB84"
+    }
+  ]
+}

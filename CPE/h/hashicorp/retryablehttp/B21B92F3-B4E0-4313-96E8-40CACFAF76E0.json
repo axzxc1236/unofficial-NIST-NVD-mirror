@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:hashicorp:retryablehttp:-:*:*:*:*:go:*:*",
+  "cpeNameId": "B21B92F3-B4E0-4313-96E8-40CACFAF76E0",
+  "lastModified": "2024-06-25T16:31:03.983",
+  "created": "2024-06-25T16:31:03.983",
+  "titles": [
+    {
+      "title": "HashiCorp Retryable HTTP for Go",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/hashicorp/go-retryablehttp/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://discuss.hashicorp.com/t/hcsec-2024-12-go-retryablehttp-can-leak-basic-auth-credentials-to-log-files/68027",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://pkg.go.dev/github.com/hashicorp/go-retryablehttp?tab=versions",
+      "type": "Version"
+    }
+  ]
+}

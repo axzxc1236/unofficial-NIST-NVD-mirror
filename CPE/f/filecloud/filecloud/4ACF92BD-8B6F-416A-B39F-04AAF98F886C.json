@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:filecloud:filecloud:3:*:*:*:*:*:*:*",
+  "cpeNameId": "4ACF92BD-8B6F-416A-B39F-04AAF98F886C",
+  "lastModified": "2022-02-23T01:05:08.367",
+  "created": "2022-02-22T18:08:33.660",
+  "titles": [
+    {
+      "title": "FileCloud 3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.filecloud.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.filecloud.com/releasenotes/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.filecloud.com/supportdocs/fcdoc/latest/server/security-advisories/advisory-2022-01-2-threat-of-csrf-via-file-upload",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:getfilecloud:filecloud:3:*:*:*:*:*:*:*",
+      "cpeNameId": "5349DB2C-A632-4CCA-BE8A-F3DB6193C785"
+    }
+  ]
+}

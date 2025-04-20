@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:dell:bsafe_crypto-c:6.3:*:*:*:*:*:*:*",
+  "cpeNameId": "23131D9A-2D51-483E-BA94-81C79BD0D984",
+  "lastModified": "2021-12-17T20:00:05.910",
+  "created": "2021-12-15T14:03:46.447",
+  "titles": [
+    {
+      "title": "Dell BSAFE Crypto-C 6.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.dell.com/support/kbdoc/en-us/000181945/dell-bsafe-product-version-life-cycle",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/CVEProject/cvelist/blob/master/2006/3xxx/CVE-2006-3894.json",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:rsa:bsafe_crypto-c:6.3:*:*:*:*:*:*:*",
+      "cpeNameId": "10CD076B-73DA-4BEE-8606-5E483511226B"
+    }
+  ]
+}

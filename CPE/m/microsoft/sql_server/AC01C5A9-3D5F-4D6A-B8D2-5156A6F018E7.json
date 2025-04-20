@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:sql_server:7.0:-:*:*:*:*:*:*",
+  "cpeNameId": "AC01C5A9-3D5F-4D6A-B8D2-5156A6F018E7",
+  "lastModified": "2020-04-02T11:56:39.657",
+  "created": "2020-04-02T11:56:39.657",
+  "titles": [
+    {
+      "title": "Microsoft SQL Server 7.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.microsoft.com/en-us/download/details.aspx?id=42299",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.microsoft.com/en-us/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "http://technet.microsoft.com/security/bulletin/MS16-136",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.microsoft.com/en-us/sql-server/sql-server-2016",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:sql_server:7.0:*:*:*:*:*:*:*",
+      "cpeNameId": "15CE855C-90CC-4103-8BCA-B0A7B643338C"
+    }
+  ]
+}

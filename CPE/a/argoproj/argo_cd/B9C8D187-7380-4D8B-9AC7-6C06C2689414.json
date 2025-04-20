@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:argoproj:argo_cd:2.4.11:*:*:*:*:*:*:*",
+  "cpeNameId": "B9C8D187-7380-4D8B-9AC7-6C06C2689414",
+  "lastModified": "2024-08-07T15:43:47.567",
+  "created": "2024-08-07T15:43:47.567",
+  "titles": [
+    {
+      "title": "Argo Project Argo CD 2.4.11",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://argo-cd.readthedocs.io/en/stable/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/argoproj/argo-cd/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/argoproj/argo-cd",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:2.4.11:*:*:*:*:kubernetes:*:*",
+      "cpeNameId": "679A93F0-AB39-4224-A50E-B5291E9C4F6E"
+    },
+    {
+      "cpeName": "cpe:2.3:a:linuxfoundation:argo-cd:2.4.11:*:*:*:*:*:*:*",
+      "cpeNameId": "1A2C49FB-D135-4434-915D-FE8811EC4A47"
+    }
+  ]
+}

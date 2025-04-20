@@ -1,0 +1,45 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:sap:netweaver_application_server_abap:755:*:*:*:*:*:*:*",
+  "cpeNameId": "1C40D9C8-6164-408D-B2EC-B8CDFA5C588A",
+  "lastModified": "2022-10-06T15:20:08.370",
+  "created": "2022-05-17T16:19:22.300",
+  "titles": [
+    {
+      "title": "SAP NetWeaver Application Server ABAP 755",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.sap.com/documents/2022/02/fa865ea4-167e-0010-bca6-c68f7e60039b.html",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://help.sap.com/docs/PRODUCT_ID/ff18034f08af4d7bb33894c2047c3b71/f9e2350eca7f4a109eb0a7bc63135e27.html?state=PRODUCTION&version=7.40.16&locale=en-US",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.sap.com/index.html",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://blogs.sap.com/2016/06/10/sap-kernel-release-and-netweaver-7x/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:sap:netweaver_as_abap:755:*:*:*:*:*:*:*",
+      "cpeNameId": "76453788-C611-45F0-8DC4-E62B653A6A87"
+    },
+    {
+      "cpeName": "cpe:2.3:a:sap:netweaver_application_server_for_abap:755:*:*:*:*:*:*:*",
+      "cpeNameId": "8EC3ECD8-D298-4979-9DE0-733DA3ABA9C8"
+    },
+    {
+      "cpeName": "cpe:2.3:a:sap:netweaver_abap:755:*:*:*:*:*:*:*",
+      "cpeNameId": "746F6B77-C412-4B76-995F-182506E94C05"
+    }
+  ]
+}

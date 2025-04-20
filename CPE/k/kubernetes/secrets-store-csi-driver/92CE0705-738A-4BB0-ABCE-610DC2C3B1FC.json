@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:kubernetes:secrets-store-csi-driver:-:*:*:*:*:*:*:*",
+  "cpeNameId": "92CE0705-738A-4BB0-ABCE-610DC2C3B1FC",
+  "lastModified": "2023-10-02T17:41:32.267",
+  "created": "2023-10-02T17:41:32.267",
+  "titles": [
+    {
+      "title": "Kubernetes Secrets Store CSI Driver",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/kubernetes-sigs/secrets-store-csi-driver",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/kubernetes-sigs/secrets-store-csi-driver/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://kubernetes.io/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:kunernetes:secrets-store-csi-driver:-:*:*:*:*:*:*:*",
+      "cpeNameId": "C3E4EB6E-10D0-43EC-BB74-85C2DBC22DEB"
+    }
+  ]
+}

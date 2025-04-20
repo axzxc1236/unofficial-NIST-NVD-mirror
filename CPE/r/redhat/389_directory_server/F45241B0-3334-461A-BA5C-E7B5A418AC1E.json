@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:redhat:389_directory_server:1.2.9.6:*:*:*:*:*:*:*",
+  "cpeNameId": "F45241B0-3334-461A-BA5C-E7B5A418AC1E",
+  "lastModified": "2022-10-28T01:18:19.567",
+  "created": "2019-10-09T13:23:38.970",
+  "titles": [
+    {
+      "title": "Red Hat 389 Directory Server 1.2.9.6",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.port389.org/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.port389.org/docs/389ds/releases/release-notes.html",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/389ds/389-ds-base",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:port389:389-ds-base:1.2.9.6:*:*:*:*:*:*:*",
+      "cpeNameId": "63FC163B-7F9E-4CF5-BEBE-591FE317DDD9"
+    }
+  ]
+}

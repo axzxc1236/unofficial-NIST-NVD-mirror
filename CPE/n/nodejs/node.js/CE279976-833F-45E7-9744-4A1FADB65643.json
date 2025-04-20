@@ -1,0 +1,55 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:4.3.1:rc2:*:*:-:*:*:*",
+  "cpeNameId": "CE279976-833F-45E7-9744-4A1FADB65643",
+  "lastModified": "2024-03-07T21:48:04.147",
+  "created": "2020-02-10T17:53:57.957",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 4.3.1 Release Candidate 2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/download/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/en/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://nodejs.org/download/docs/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://nodejs.org/docs/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V4.md",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:4.3.1:rc2:*:*:lts:*:*:*",
+      "cpeNameId": "E9E5B6EE-892C-46E3-9B7C-48515A17925E"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:4.3.1:rc2:*:*:*:*:*:*",
+      "cpeNameId": "EDBD842F-10C3-422C-954B-61C99B784EA0"
+    }
+  ]
+}

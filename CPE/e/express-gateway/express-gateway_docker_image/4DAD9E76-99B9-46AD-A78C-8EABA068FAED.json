@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:express-gateway:express-gateway_docker_image:1.7.4:*:*:*:*:*:*:*",
+  "cpeNameId": "4DAD9E76-99B9-46AD-A78C-8EABA068FAED",
+  "lastModified": "2021-04-05T19:51:42.537",
+  "created": "2020-12-22T14:50:11.103",
+  "titles": [
+    {
+      "title": "Express-gateway Express-gateway Docker Image 1.7.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/koharin/koharin2/blob/main/CVE-2020-29579",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://hub.docker.com/_/express-gateway",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:express-gateway:express-gateway:1.7.4:*:*:*:*:*:*:*",
+      "cpeNameId": "049F78C1-7FC7-4F20-AFDC-A0022D30887F"
+    }
+  ]
+}

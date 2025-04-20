@@ -1,0 +1,35 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_10:20h2:*:*:*:*:*:arm64:*",
+  "cpeNameId": "A05B17B6-DF56-4865-B8DD-4C70E43887B8",
+  "lastModified": "2022-12-09T18:15:16.973",
+  "created": "2021-01-25T17:50:38.403",
+  "titles": [
+    {
+      "title": "Microsoft Windows 10 20H2 on ARM64",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.catalog.update.microsoft.com/ScopedViewInline.aspx?updateid=a10eaf99-e3b6-4260-9da8-1474636e150e",
+      "type": "Version"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10_20h2:-:*:*:*:*:*:arm64:*",
+      "cpeNameId": "47EAEC24-2C20-4511-8FD8-76A41070B8A6"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_10:20h2:*:*:*:*:*:*:*",
+      "cpeNameId": "10BCB413-8D06-48DC-ADC7-CFA703C45ADA"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:ivanti:policy_secure:9.1:r3:*:*:*:*:*:*",
+  "cpeNameId": "15BEC670-4C82-486E-BFDF-7929E2EAFB1D",
+  "lastModified": "2024-01-13T04:43:42.073",
+  "created": "2024-01-12T20:42:30.830",
+  "titles": [
+    {
+      "title": "Ivanti Policy Secure 9.1 R3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://forums.ivanti.com/s/article/CVE-2023-46805-Authentication-Bypass-CVE-2024-21887-Command-Injection-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure-Gateways?language=en_US",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://help.ivanti.com/ps/help/en_US/IPS/9.1RX/9.1R18-IPS-RelNotes.pdf",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.1:r3:*:*:*:*:*:*",
+      "cpeNameId": "E08DCD49-244C-471D-AEBE-EF9104F7ABE1"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:hashicorp:consul:1.6.1:*:*:*:*:*:*:*",
+  "cpeNameId": "DEF9714D-63C3-4DE9-BBD4-8EFCD1F11D60",
+  "lastModified": "2021-02-09T17:58:27.117",
+  "created": "2020-02-25T14:38:41.170",
+  "titles": [
+    {
+      "title": "hashiCorp Consul 1.6.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/hashicorp/consul/tags?after=v1.6.0-beta1",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/hashicorp/consul/issues/7160",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:consul:1.6.1:*:*:*:-:*:*:*",
+      "cpeNameId": "E6A26302-1715-4B56-B8D9-BB7A5423DF89"
+    }
+  ]
+}

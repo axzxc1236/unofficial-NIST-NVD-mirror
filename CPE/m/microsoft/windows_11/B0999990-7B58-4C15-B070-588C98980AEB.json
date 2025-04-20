@@ -1,0 +1,33 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_11:-:*:*:*:*:*:-:*",
+  "cpeNameId": "B0999990-7B58-4C15-B070-588C98980AEB",
+  "lastModified": "2023-02-13T22:46:08.053",
+  "created": "2022-02-03T18:47:45.650",
+  "titles": [
+    {
+      "title": "Microsoft Windows 11",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-21921",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.microsoft.com/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_11_21h2:-:*:*:*:*:*:x64:*",
+      "cpeNameId": "A65BF58F-826F-4A96-B79A-D5F07E7BD6EF"
+    },
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_11_21h2:-:*:*:*:*:*:arm64:*",
+      "cpeNameId": "48504715-402D-4051-A4BF-D5CD1C5B30FD"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:vmware:horizon:4.2.0:*:*:*:*:macos:*:*",
+  "cpeNameId": "98DE2041-0946-4225-A1B1-8169C04BB090",
+  "lastModified": "2021-07-20T13:13:07.513",
+  "created": "2021-07-20T13:09:15.170",
+  "titles": [
+    {
+      "title": "VMware Horizon 4.2.0 for MacOS",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.vmware.com/security/advisories/VMSA-2019-0014.html",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://docs.vmware.com/en/VMware-Horizon-Client-for-Mac/2103/rn/horizon-client-mac-2103-release-notes.html",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:vmware:horizon:4.2.0:*:*:*:*:mac_os:*:*",
+      "cpeNameId": "C00C4112-4B98-466A-9904-FC627C73FFB2"
+    }
+  ]
+}

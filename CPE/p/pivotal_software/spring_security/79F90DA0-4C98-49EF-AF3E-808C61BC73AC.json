@@ -1,0 +1,33 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:pivotal_software:spring_security:5.0.14:*:*:*:*:*:*:*",
+  "cpeNameId": "79F90DA0-4C98-49EF-AF3E-808C61BC73AC",
+  "lastModified": "2021-06-08T18:20:58.500",
+  "created": "2020-08-04T11:33:16.083",
+  "titles": [
+    {
+      "title": "Pivotal Software Spring Security 5.0.14",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/spring-projects/spring-security/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://spring.io/blog/2020/05/07/spring-security-5-3-2-5-2-4-5-1-10-5-0-16-4-2-16-released",
+      "type": "Project"
+    },
+    {
+      "ref": "https://tanzu.vmware.com/security/cve-2020-5408",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:vmware:spring_security:5.0.14:*:*:*:*:*:*:*",
+      "cpeNameId": "5689CEB6-FC67-46A0-B2C1-CB3AB4227206"
+    }
+  ]
+}

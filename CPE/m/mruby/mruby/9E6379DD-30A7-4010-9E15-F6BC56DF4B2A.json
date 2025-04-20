@@ -1,0 +1,41 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:mruby:mruby:3.1:*:*:*:*:*:*:*",
+  "cpeNameId": "9E6379DD-30A7-4010-9E15-F6BC56DF4B2A",
+  "lastModified": "2023-01-17T20:29:22.787",
+  "created": "2021-12-15T10:00:15.530",
+  "titles": [
+    {
+      "title": "mruby 3.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/CVEProject/cvelist/blob/master/2021/4xxx/CVE-2021-4110.json",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://huntr.dev/bounties/4ce5dc47-2512-4c87-8609-453adc8cad20/",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/mruby/mruby",
+      "type": "Project"
+    },
+    {
+      "ref": "https://mruby.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/mruby/mruby/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:mruby:mruby:3.1:*:*:*:*:ruby:*:*",
+      "cpeNameId": "9A75E11F-C461-4444-A359-97BDEDB0F552"
+    }
+  ]
+}

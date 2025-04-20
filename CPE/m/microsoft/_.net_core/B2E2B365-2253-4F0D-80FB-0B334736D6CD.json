@@ -1,0 +1,39 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:microsoft:.net_core:5.0:preview7:*:*:*:*:*:*",
+  "cpeNameId": "B2E2B365-2253-4F0D-80FB-0B334736D6CD",
+  "lastModified": "2023-10-15T16:43:04.443",
+  "created": "2021-05-18T14:48:34.710",
+  "titles": [
+    {
+      "title": "Microsoft .NET Core 5.0 Preview 7",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/dotnet/core/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.microsoft.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://dotnet.microsoft.com/en-us/download/dotnet",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:.net:5.0:preview7:*:*:*:*:*:*",
+      "cpeNameId": "A95BCE41-737A-46A6-B69E-25EDE3752276"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:.net_core:5.0.0:preview7:*:*:*:*:*:*",
+      "cpeNameId": "ABEBD3E4-7209-4E3F-9AC5-C77272E8C822"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:crossbeam_project:crossbeam:0.4.0:*:*:*:*:*:*:*",
+  "cpeNameId": "E47DDF7C-0F7E-4F0D-B2C9-0A39CE8D2261",
+  "lastModified": "2021-08-11T11:47:45.077",
+  "created": "2019-08-29T14:42:03.487",
+  "titles": [
+    {
+      "title": "Crossbeam Project Crossbeam 0.4.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/crossbeam-rs/crossbeam-epoch/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://rustsec.org/advisories/RUSTSEC-2018-0009.html",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/crossbeam-rs/crossbeam/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://crates.io/crates/crossbeam/versions",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:crossbeam_project:crossbeam:0.4.0:*:*:*:*:rust:*:*",
+      "cpeNameId": "57009810-2B06-446E-A221-C169300A23B3"
+    }
+  ]
+}

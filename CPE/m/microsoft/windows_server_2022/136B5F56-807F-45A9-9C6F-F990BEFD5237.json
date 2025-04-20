@@ -1,0 +1,37 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:-:*:*:*",
+  "cpeNameId": "136B5F56-807F-45A9-9C6F-F990BEFD5237",
+  "lastModified": "2023-10-14T21:03:10.097",
+  "created": "2022-11-10T13:03:16.967",
+  "titles": [
+    {
+      "title": "Microsoft Windows Server 2022 - - Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-38015",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://docs.microsoft.com/en-us/windows-server/get-started/editions-comparison-windows-server-2022",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:datacenter:*:*:*",
+      "cpeNameId": "AC676BC9-63E8-413D-BB04-7DA5AAEAD306"
+    },
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:azure:*:*:*",
+      "cpeNameId": "52077D92-AD56-47B2-92FF-E6EDE380FC7A"
+    },
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:standard:*:*:*",
+      "cpeNameId": "6A3E1F0C-86B6-4327-B21E-E107C5B79737"
+    }
+  ]
+}

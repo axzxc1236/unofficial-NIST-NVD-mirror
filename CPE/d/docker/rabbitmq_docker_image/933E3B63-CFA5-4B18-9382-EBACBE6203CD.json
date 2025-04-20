@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:docker:rabbitmq_docker_image:-:*:*:*:*:*:*:*",
+  "cpeNameId": "933E3B63-CFA5-4B18-9382-EBACBE6203CD",
+  "lastModified": "2021-05-28T12:58:08.887",
+  "created": "2020-12-17T19:34:17.560",
+  "titles": [
+    {
+      "title": "Docker RabbitMq Docker Image",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://hub.docker.com/_/rabbitmq?tab=tags&page=3&ordering=-last_updated&name=alpine",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/koharin/koharin2/blob/main/CVE-2020-35196",
+      "type": "Advisory"
+    }
+  ]
+}

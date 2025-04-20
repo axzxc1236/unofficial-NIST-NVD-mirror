@@ -1,0 +1,51 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:6.11.1:*:*:*:-:*:*:*",
+  "cpeNameId": "13B442C3-98D8-4A55-9C4E-01F49DA70F56",
+  "lastModified": "2024-03-07T21:54:36.307",
+  "created": "2020-02-10T17:57:44.937",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 6.11.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/docs/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://nodejs.org/en/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://nodejs.org/en/download/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://nodejs.org/download/docs/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V6.md",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:6.11.1:*:*:*:lts:*:*:*",
+      "cpeNameId": "B35378B1-5403-4580-8AD2-0B7356ED8A61"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:6.11.1:*:*:*:*:*:*:*",
+      "cpeNameId": "AB0B1634-ED10-455D-B01E-2009A6426BF4"
+    }
+  ]
+}

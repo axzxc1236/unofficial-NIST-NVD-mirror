@@ -1,0 +1,35 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:cisco:sd-wan_manager:-:*:*:*:*:*:*:*",
+  "cpeNameId": "E6A7ED73-2351-4BA0-8649-A48334B7FB46",
+  "lastModified": "2023-10-06T16:24:48.177",
+  "created": "2023-09-29T15:03:40.167",
+  "titles": [
+    {
+      "title": "Cisco Sd-wan Manager ",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-dosmulti-48jJuEUP",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.cisco.com/site/us/en/solutions/networking/sdwan/index.html",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:-:*:*:*:*:*:*:*",
+      "cpeNameId": "979D7323-61C6-4D08-8C9D-C2A54D9AB96A"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:sd-wan_vmanage:-:*:*:*:*:*:*:*",
+      "cpeNameId": "76B70D77-B7EF-40CC-8954-BD6CBEC6E39D"
+    }
+  ]
+}

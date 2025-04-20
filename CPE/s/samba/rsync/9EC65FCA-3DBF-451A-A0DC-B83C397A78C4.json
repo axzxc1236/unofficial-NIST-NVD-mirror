@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:samba:rsync:2.6.8:-:*:*:*:*:*:*",
+  "cpeNameId": "9EC65FCA-3DBF-451A-A0DC-B83C397A78C4",
+  "lastModified": "2020-04-28T17:17:25.933",
+  "created": "2020-04-28T17:17:25.933",
+  "titles": [
+    {
+      "title": "Samba Rsync 2.6.8",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://git.samba.org/?p=rsync.git;a=tags",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://rsync.samba.org/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "http://rsync.samba.org/",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:samba:rsync:2.6.8:*:*:*:*:*:*:*",
+      "cpeNameId": "8B46F3BB-6E0F-40A4-B2F8-C9952DAE25D6"
+    }
+  ]
+}

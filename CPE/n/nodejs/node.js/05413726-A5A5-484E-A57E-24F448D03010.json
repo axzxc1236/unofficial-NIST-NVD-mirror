@@ -1,0 +1,45 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:10.2.1:*:*:*:-:*:*:*",
+  "cpeNameId": "05413726-A5A5-484E-A57E-24F448D03010",
+  "lastModified": "2024-03-07T21:32:09.957",
+  "created": "2020-02-10T17:47:02.500",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 10.2.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://nodejs.org/en/download/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/dist/latest-v10.x/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V10.md",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:10.2.1:*:*:*:*:*:*:*",
+      "cpeNameId": "CE417D5E-6692-4B6B-B45A-5AD19BFFF1CC"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:10.2.1:*:*:*:lts:*:*:*",
+      "cpeNameId": "5EB1310A-1B91-4A2C-BAE2-8D2900F47BDF"
+    }
+  ]
+}

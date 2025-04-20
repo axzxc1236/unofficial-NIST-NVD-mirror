@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:golang:go:1.17:-:*:*:*:*:*:*",
+  "cpeNameId": "6CCB7683-12CD-4753-B142-DBF8D781355A",
+  "lastModified": "2022-03-10T16:54:47.900",
+  "created": "2022-03-09T19:02:42.263",
+  "titles": [
+    {
+      "title": "Golang Go 1.17",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://golang.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/golang/go/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://go.dev/doc/devel/release#go1.17.minor",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:golang:go:1.17.0:*:*:*:*:*:*:*",
+      "cpeNameId": "E6F1ED33-A61D-4125-80EE-95784B2428B6"
+    }
+  ]
+}

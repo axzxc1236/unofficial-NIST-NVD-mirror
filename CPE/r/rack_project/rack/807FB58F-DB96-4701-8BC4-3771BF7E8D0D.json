@@ -1,0 +1,29 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:rack_project:rack:3.0.4.2:*:*:*:*:ruby:*:*",
+  "cpeNameId": "807FB58F-DB96-4701-8BC4-3771BF7E8D0D",
+  "lastModified": "2025-02-13T15:37:38.553",
+  "created": "2023-03-15T15:31:09.340",
+  "titles": [
+    {
+      "title": "Rack Project Rack 3.0.4.2 for Ruby",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://discuss.rubyonrails.org/t/cve-2023-27530-possible-dos-vulnerability-in-multipart-mime-parsing/82388",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/rack/rack",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:rack:rack:3.0.4.2:*:*:*:*:ruby:*:*",
+      "cpeNameId": "98FE0D7F-D3C4-41A2-9EBD-7BCB89687AC2"
+    }
+  ]
+}

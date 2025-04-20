@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:oracle:mysql:4.0.8:gamma:*:*:*:*:*:*",
+  "cpeNameId": "7340B18C-1BD1-445E-9E2C-02057E335C4A",
+  "lastModified": "2019-10-07T16:38:04.257",
+  "created": "2019-10-07T16:38:04.257",
+  "titles": [
+    {
+      "title": "Oracle MySQL 4.0.8 Gamma",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/mysql/mysql-server/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "http://www.oracle.com/us/products/mysql/overview/index.html",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.mysql.com/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:mysql:mysql:4.0.8:gamma:*:*:*:*:*:*",
+      "cpeNameId": "F0AA5791-AFEB-4B5D-ABDE-D868848FE020"
+    }
+  ]
+}

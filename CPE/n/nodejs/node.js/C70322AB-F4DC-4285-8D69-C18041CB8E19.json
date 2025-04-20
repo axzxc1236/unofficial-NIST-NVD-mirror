@@ -1,0 +1,33 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:16.0.0:*:*:*:lts:*:*:*",
+  "cpeNameId": "C70322AB-F4DC-4285-8D69-C18041CB8E19",
+  "lastModified": "2024-03-07T21:24:39.437",
+  "created": "2023-02-23T20:41:23.787",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 16.0.0 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/download/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/en/blog/vulnerability/february-2023-security-releases/",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V16.md",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:16.0.0:*:*:*:-:*:*:*",
+      "cpeNameId": "00B31DA7-C29E-4F14-B853-6355069397E5"
+    }
+  ]
+}

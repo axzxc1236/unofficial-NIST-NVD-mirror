@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:joyent:json:-:*:*:*:*:node.js:*:*",
+  "cpeNameId": "A5CBB802-4332-40CA-9A97-0660A5671417",
+  "lastModified": "2020-09-29T13:52:48.640",
+  "created": "2020-09-29T13:52:48.640",
+  "titles": [
+    {
+      "title": "Joyent json for Node.js",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.joyent.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "http://trentm.com/json/",
+      "type": "Project"
+    },
+    {
+      "ref": "https://github.com/trentm/json",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:json_project:json:-:*:*:*:*:node.js:*:*",
+      "cpeNameId": "56F3A047-BB99-4E69-BCED-0186B912474F"
+    }
+  ]
+}
