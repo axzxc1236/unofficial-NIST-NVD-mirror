@@ -1,0 +1,10 @@
+[project]
+name = "unofficial-nist-nvd-mirror"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "orjson>=3.10.16",
+    "requests>=2.32.3",
+]
