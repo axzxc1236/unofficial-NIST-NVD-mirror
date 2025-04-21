@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:oracle:jre:1.8.0:update351-perf:*:*:*:*:*:*",
   "cpeNameId": "9B08460E-74BB-4F04-BD21-343D1A8718F7",
-  "lastModified": "2023-07-15T03:24:04.773",
+  "lastModified": "2025-04-21T12:47:21.930",
   "created": "2023-01-24T16:05:51.297",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.oracle.com/security-alerts/cpujan2023.html",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:oracle:jre:1.8.0:update351:*:*:enterprise_performance_pack:*:*:*",
+      "cpeNameId": "3A4AABD6-C3F7-410A-B860-7CAA40A7915C"
     }
   ]
 }
