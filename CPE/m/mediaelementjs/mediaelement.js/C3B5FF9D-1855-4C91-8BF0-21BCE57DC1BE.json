@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:mediaelementjs:mediaelement.js:1.1.5:*:*:*:*:wordpress:*:*",
   "cpeNameId": "C3B5FF9D-1855-4C91-8BF0-21BCE57DC1BE",
-  "lastModified": "2025-04-21T14:40:24.790",
+  "lastModified": "2025-04-21T14:47:57.163",
   "created": "2025-04-21T14:40:24.790",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "http://mediaelementjs.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:mediaelementjs:mediaelement.js:1.1.5:*:*:*:*:*:*:*",
+      "cpeNameId": "BC9A0A81-B99C-4AEA-9ECB-EB2E6172A52B"
     }
   ]
 }
