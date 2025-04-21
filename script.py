@@ -212,6 +212,7 @@ async def product_download(
                 timestamp_file.write(str(worker.until_timestamp))
         return processed_items
     except:
+        traceback.print_exc()
         worker.queue.shutdown()
         raise
 
