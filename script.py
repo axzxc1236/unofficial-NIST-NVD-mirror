@@ -113,6 +113,9 @@ class APIWorker():
                 yield self.queue.get(block=False)
             except queue.Empty:
                 await asyncio.sleep(1)
+            except:
+                traceback.print_exc()
+                await asyncio.sleep(1)
         if self.critical_failure:
             raise Exception(f"[{self.worker_name}]  Critical failure happened!")
 
@@ -157,6 +160,7 @@ async def cve_download(
                 timestamp_file.write(str(worker.until_timestamp))
         return processed_items
     except:
+        traceback.print_exc()
         worker.queue.shutdown()
         raise
 
