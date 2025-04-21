@@ -108,7 +108,7 @@ class APIWorker():
     async def run(self):
         background_thread = threading.Thread(target=self.background_worker)
         background_thread.start()
-        while not self.finished:
+        while not self.finished and not self.queue.empty():
             try:
                 yield self.queue.get(block=False)
             except queue.Empty:
