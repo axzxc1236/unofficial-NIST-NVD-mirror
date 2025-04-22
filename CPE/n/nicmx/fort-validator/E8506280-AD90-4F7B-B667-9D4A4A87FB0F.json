@@ -1,27 +1,29 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:nicmx:fort-validator:1.1.2:*:*:*:*:*:*:*",
   "cpeNameId": "E8506280-AD90-4F7B-B667-9D4A4A87FB0F",
-  "lastModified": "2024-08-27T14:17:14.680",
+  "lastModified": "2025-04-22T19:03:47.450",
   "created": "2024-08-27T14:17:14.680",
   "titles": [
     {
-      "title": "NICMx FORT-validator 1.1.2",
+      "title": "NICMx FORT Validator 1.1.2",
       "lang": "en"
     }
   ],
   "refs": [
     {
-      "ref": "https://nicmx.github.io/FORT-validator/CVE.html",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/NICMx/FORT-validator",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/NICMx/FORT-validator/releases",
+      "ref": "https://github.com/NICMx/FORT-validator/tags",
       "type": "Change Log"
+    },
+    {
+      "ref": "https://fortproject.net/en/validator",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:nicmx:fort_validator:1.1.2:*:*:*:*:*:*:*",
+      "cpeNameId": "FF8C1B60-9A9D-44F1-9449-9F8C2C5449EF"
     }
   ]
 }

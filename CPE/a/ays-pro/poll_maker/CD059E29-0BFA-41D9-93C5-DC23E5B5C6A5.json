@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ays-pro:poll_maker:4.1.9:*:*:*:*:wordpress:*:*",
   "cpeNameId": "CD059E29-0BFA-41D9-93C5-DC23E5B5C6A5",
-  "lastModified": "2023-09-26T14:50:13.280",
+  "lastModified": "2025-04-22T17:24:35.980",
   "created": "2023-09-26T14:50:13.280",
   "titles": [
     {
@@ -12,12 +12,22 @@
   ],
   "refs": [
     {
+      "ref": "https://wordpress.org/plugins/poll-maker/#developers",
+      "type": "Change Log"
+    },
+    {
       "ref": "https://ays-pro.com/",
       "type": "Vendor"
     },
     {
-      "ref": "https://wordpress.org/plugins/poll-maker/#developers",
-      "type": "Change Log"
+      "ref": "https://wpscan.com/vulnerability/05d5010b-94eb-4fd3-b962-e2a16c032b71/",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:ays-pro:poll_maker:4.1.9:*:*:*:free:wordpress:*:*",
+      "cpeNameId": "958FF538-D229-4946-A9A4-DBD7DB9A6A3E"
     }
   ]
 }
