@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:hp:procurve_manager:3.20:*:*:*:*:plus:*:*",
   "cpeNameId": "09A080DC-777B-43F7-B74D-ABBDC07E48D2",
-  "lastModified": "2013-09-18T17:50:51.773",
+  "lastModified": "2025-04-22T14:50:51.960",
   "created": "2013-09-16T14:44:38.403",
   "titles": [
     {
@@ -10,9 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "http://h20565.www2.hp.com/portal/site/hpsc/template.PAGE/public/kb/docDisplay/?docId=emr_na-c03897409"
+      "cpeName": "cpe:2.3:a:hp:procurve_manager:3.20:*:*:*:plus:*:*:*",
+      "cpeNameId": "2E9A3AA8-B0FA-4EF2-8081-6105C9D3DBA2"
     }
   ]
 }

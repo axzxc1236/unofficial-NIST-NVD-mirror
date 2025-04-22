@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mysiteforme_project:mysiteforme:-:*:*:*:*:*:*:*",
   "cpeNameId": "374EB41C-C2A1-484F-AF18-B04B986B81D1",
-  "lastModified": "2023-02-21T17:43:46.510",
+  "lastModified": "2025-04-22T14:50:51.960",
   "created": "2022-01-25T17:50:59.720",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/wangl1989/mysiteforme/issues/40",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:wangl1989:mysiteforme:-:*:*:*:*:*:*:*",
+      "cpeNameId": "4779B7AA-B4AC-4474-8A23-EE8F1823546A"
     }
   ]
 }

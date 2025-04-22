@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mysiteforme_project:mysiteforme:2.2.1:*:*:*:*:*:*:*",
   "cpeNameId": "7F3B9D42-67BC-42E2-A75B-51C822A516F7",
-  "lastModified": "2022-10-06T16:47:59.123",
+  "lastModified": "2025-04-22T14:50:51.960",
   "created": "2022-05-27T22:57:19.607",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/wangl1989/mysiteforme",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:wangl1989:mysiteforme:2.2.1:*:*:*:*:*:*:*",
+      "cpeNameId": "972614E8-C605-4CC6-92B5-6A76A51352F9"
     }
   ]
 }

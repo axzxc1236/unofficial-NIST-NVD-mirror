@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:dell:dbutil:2.3:*:*:*:*:*:*:*",
+  "cpeNameId": "1010E6AA-3D74-4204-AFCA-4CCC4716E09F",
+  "lastModified": "2025-04-22T14:50:51.960",
+  "created": "2025-04-22T14:50:51.960",
+  "titles": [
+    {
+      "title": "Dell dbutil 2.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://packetstormsecurity.com/files/162739/DELL-dbutil_2_3.sys-2.3-Arbitrary-Write-Privilege-Escalation.html",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.microfocus.com/documentation/MainframeExpress/mx20books/imdbut.htm#:~:text=DBUTIL%20is%20a%20general%20purpose,be%20entered%20and%20executed%20dynamically.",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:dell:dbutil_2_3.sys:-:*:*:*:*:*:*:*",
+      "cpeNameId": "15A3ECA1-2DB2-4FBC-8A24-5ABD412713F1"
+    }
+  ]
+}

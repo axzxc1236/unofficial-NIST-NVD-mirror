@@ -1,18 +1,19 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:hp:procurve_manager:4.0:*:*:*:*:plus:*:*",
   "cpeNameId": "24ACB913-B375-4CFF-9EF1-475EB997BEF7",
-  "lastModified": "2013-09-18T17:50:52.037",
+  "lastModified": "2025-04-22T14:50:51.960",
   "created": "2013-09-16T14:44:38.713",
   "titles": [
     {
-      "title": "HP ProCurve Manager (PCM) 4.0+",
+      "title": "HP ProCurve Manager 4.0+",
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "http://h20565.www2.hp.com/portal/site/hpsc/template.PAGE/public/kb/docDisplay/?docId=emr_na-c03897409"
+      "cpeName": "cpe:2.3:a:hp:procurve_manager:4.0:*:*:*:plus:*:*:*",
+      "cpeNameId": "B88A1559-7E3D-418B-BD37-D096943C3B5F"
     }
   ]
 }
