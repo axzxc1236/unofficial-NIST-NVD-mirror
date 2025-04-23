@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gdragon:gd_rating_system:2.4:*:*:*:*:wordpress:*:*",
   "cpeNameId": "0D820CF2-C4D0-4F9D-A722-65410F213A46",
-  "lastModified": "2019-08-29T15:10:42.733",
+  "lastModified": "2025-04-23T16:35:12.307",
   "created": "2019-08-29T15:10:42.733",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://wordpress.org/plugins/gd-rating-system/#developers",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:dev4press:gd_rating_system:2.4:*:*:*:free:wordpress:*:*",
+      "cpeNameId": "2F0936AA-7A68-44CE-8613-1EAECF064F84"
     }
   ]
 }

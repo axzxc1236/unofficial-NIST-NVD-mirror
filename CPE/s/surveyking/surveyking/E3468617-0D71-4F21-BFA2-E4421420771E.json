@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:surveyking:surveyking:0.2.0:*:*:*:*:*:*:*",
   "cpeNameId": "E3468617-0D71-4F21-BFA2-E4421420771E",
-  "lastModified": "2023-02-21T17:43:46.510",
+  "lastModified": "2025-04-23T18:07:38.880",
   "created": "2022-03-30T00:49:25.040",
   "titles": [
     {
@@ -12,12 +12,30 @@
   ],
   "refs": [
     {
-      "ref": "https://github.com/javahuang/SurveyKing/issues/7",
-      "type": "Advisory"
-    },
-    {
       "ref": "http://surveyking.com/",
       "type": "Vendor"
+    },
+    {
+      "ref": "https://gitee.com/surveyking/surveyking",
+      "type": "Product"
+    },
+    {
+      "ref": "https://surveyking.cn/open-source/changelog",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/javahuang/SurveyKing",
+      "type": "Product"
+    },
+    {
+      "ref": "https://gitee.com/surveyking/surveyking/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:surveyking:surveyking:0.2.0:*:*:*:open_source:*:*:*",
+      "cpeNameId": "3A2D401C-DA3B-4D10-B095-14D814F3F336"
     }
   ]
 }
