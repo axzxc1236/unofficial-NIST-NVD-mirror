@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:kitty_project:kitty:v0.21.1:*:*:*:*:*:*:*",
   "cpeNameId": "712BA98C-66A4-4739-B440-F4E7B2ACBE8F",
-  "lastModified": "2023-03-01T07:08:31.690",
+  "lastModified": "2025-04-24T17:39:26.013",
   "created": "2023-02-28T19:54:34.810",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/kovidgoyal/kitty",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:kovidgoyal:kitty:v0.21.1:*:*:*:*:*:*:*",
+      "cpeNameId": "EC74F9B3-3F73-440F-9B79-B733B674FDEF"
     }
   ]
 }
