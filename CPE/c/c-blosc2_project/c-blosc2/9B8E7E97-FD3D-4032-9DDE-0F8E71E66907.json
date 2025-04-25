@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:a2:*:*:*:*:*:*",
   "cpeNameId": "9B8E7E97-FD3D-4032-9DDE-0F8E71E66907",
-  "lastModified": "2020-12-02T12:49:54.617",
+  "lastModified": "2025-04-25T16:52:58.577",
   "created": "2020-12-02T12:49:54.617",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=26442",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.0.0:alpha2:*:*:*:*:*:*",
+      "cpeNameId": "88A8D295-7D1C-48D5-BA01-101D8103A857"
     }
   ]
 }

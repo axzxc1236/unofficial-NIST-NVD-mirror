@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.9.1:*:*:*:*:*:*:*",
   "cpeNameId": "E60A5218-999B-49D3-9D3E-04866BA5391C",
-  "lastModified": "2023-12-29T18:11:53.980",
+  "lastModified": "2025-04-25T16:52:58.577",
   "created": "2023-12-29T18:11:53.980",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/Blosc/c-blosc2/tags",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.9.1:*:*:*:*:*:*:*",
+      "cpeNameId": "602712FD-350A-4B90-A7D9-965E600191A1"
     }
   ]
 }

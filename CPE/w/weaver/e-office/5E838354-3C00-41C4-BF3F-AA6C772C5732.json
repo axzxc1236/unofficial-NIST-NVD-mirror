@@ -2,19 +2,15 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:weaver:e-office:9.5:*:*:*:*:*:*:*",
   "cpeNameId": "5E838354-3C00-41C4-BF3F-AA6C772C5732",
-  "lastModified": "2023-09-12T14:17:01.343",
+  "lastModified": "2025-04-25T16:59:58.557",
   "created": "2023-09-12T14:17:01.343",
   "titles": [
     {
-      "title": "Weaver E-Office 9.5",
+      "title": "Weaver (Fanwei Network Technology Co., Ltd.) e-office OA 9.5",
       "lang": "en"
     }
   ],
   "refs": [
-    {
-      "ref": "https://github.com/sunyixuan1228/cve/blob/main/weaver.md",
-      "type": "Advisory"
-    },
     {
       "ref": "https://www.e-office.cn/",
       "type": "Product"
@@ -22,6 +18,20 @@
     {
       "ref": "http://www.weaver.com.cn/",
       "type": "Vendor"
+    },
+    {
+      "ref": "https://eofficeoa.com/oa/patch/download",
+      "type": "Product"
+    },
+    {
+      "ref": "https://service.e-office.cn/knowledge/detail/5",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:weaver:weaver_office_automation:9.5:*:*:*:*:*:*:*",
+      "cpeNameId": "682F3C49-E07C-4380-A379-104F072CC2CD"
     }
   ]
 }
