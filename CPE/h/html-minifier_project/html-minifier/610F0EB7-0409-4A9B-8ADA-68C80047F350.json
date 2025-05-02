@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:html-minifier_project:html-minifier:1.2.0:*:*:*:*:*:*:*",
   "cpeNameId": "610F0EB7-0409-4A9B-8ADA-68C80047F350",
-  "lastModified": "2022-11-07T19:08:32.887",
+  "lastModified": "2025-05-02T17:00:48.923",
   "created": "2022-11-07T16:12:37.550",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/kangax/html-minifier/tags",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:kangax:html-minifier:1.2.0:*:*:*:*:node.js:*:*",
+      "cpeNameId": "B8270160-3AF5-4F81-AED4-4C86CED7ED28"
     }
   ]
 }

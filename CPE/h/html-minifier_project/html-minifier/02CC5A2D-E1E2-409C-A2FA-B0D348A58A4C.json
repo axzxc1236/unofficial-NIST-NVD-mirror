@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:html-minifier_project:html-minifier:4.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "02CC5A2D-E1E2-409C-A2FA-B0D348A58A4C",
-  "lastModified": "2022-11-07T16:12:20.590",
+  "lastModified": "2025-05-02T17:00:48.923",
   "created": "2022-10-31T16:44:58.470",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/kangax/html-minifier/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:kangax:html-minifier:4.0.0:*:*:*:*:node.js:*:*",
+      "cpeNameId": "5F5214E2-C0EF-4BD3-9FA9-F3B0CF26766C"
     }
   ]
 }
