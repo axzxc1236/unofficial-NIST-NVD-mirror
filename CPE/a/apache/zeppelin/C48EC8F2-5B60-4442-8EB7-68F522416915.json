@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:zeppelin:0.10.1:*:*:*:*:*:*:*",
   "cpeNameId": "C48EC8F2-5B60-4442-8EB7-68F522416915",
-  "lastModified": "2023-01-09T13:12:46.043",
+  "lastModified": "2025-05-05T12:44:45.217",
   "created": "2022-12-19T18:53:23.090",
   "titles": [
     {
@@ -18,6 +18,16 @@
     {
       "ref": "https://zeppelin.apache.org/",
       "type": "Product"
+    },
+    {
+      "ref": "https://zeppelin.apache.org/download.html",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:apache:zeppelin:0.10.1:-:*:*:*:*:*:*",
+      "cpeNameId": "001B7E5B-653F-4C0D-8CA8-37272C107E5C"
     }
   ]
 }

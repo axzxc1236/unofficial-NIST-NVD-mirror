@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:zeppelin:0.8.1:*:*:*:*:*:*:*",
   "cpeNameId": "822B5D0A-3DF7-4A5E-A2FE-648DA1A0A7F3",
-  "lastModified": "2019-04-24T13:04:16.823",
+  "lastModified": "2025-05-05T12:44:45.217",
   "created": "2019-04-24T13:04:16.823",
   "titles": [
     {
@@ -14,6 +14,20 @@
     {
       "ref": "https://zeppelin.apache.org/download.html",
       "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/apache/zeppelin/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://zeppelin.apache.org/",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:apache:zeppelin:0.8.1:-:*:*:*:*:*:*",
+      "cpeNameId": "91DEE5AC-6CCC-42BF-B783-17D73BDCEB00"
     }
   ]
 }

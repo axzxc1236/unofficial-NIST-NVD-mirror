@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:qemu:qemu:8.2.0:*:*:*:*:*:*:*",
   "cpeNameId": "7B364729-EFA6-46E9-A7E6-2688211F2906",
-  "lastModified": "2024-04-17T19:42:22.123",
+  "lastModified": "2025-05-05T13:19:00.990",
   "created": "2024-04-17T19:42:22.123",
   "titles": [
     {
@@ -12,8 +12,26 @@
   ],
   "refs": [
     {
-      "ref": "https://www.qemu.org/2023/12/20/qemu-8-2-0/",
+      "ref": "http://www.qemu.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://gitlab.com/qemu-project/qemu/-/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/qemu/qemu/tags",
       "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/qemu/qemu",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:qemu:qemu:8.2.0:-:*:*:*:*:*:*",
+      "cpeNameId": "9DDFBA40-E50E-4F02-AB9F-FD1B702744C0"
     }
   ]
 }
