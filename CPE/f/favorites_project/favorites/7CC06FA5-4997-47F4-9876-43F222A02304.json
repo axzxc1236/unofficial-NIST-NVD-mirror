@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:favorites_project:favorites:1.1.1:*:*:*:*:wordpress:*:*",
   "cpeNameId": "7CC06FA5-4997-47F4-9876-43F222A02304",
-  "lastModified": "2023-06-05T13:55:40.203",
+  "lastModified": "2025-05-06T19:53:41.447",
   "created": "2023-06-05T13:53:57.987",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://wordpress.org/plugins/favorites/#developers",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:favoriteposts:favorites:1.1.1:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "9CF31C2E-8394-4548-BCCE-37CA0731977D"
     }
   ]
 }
