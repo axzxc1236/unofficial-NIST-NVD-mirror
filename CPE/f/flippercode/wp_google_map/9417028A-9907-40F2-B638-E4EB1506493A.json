@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:flippercode:wp_google_map:3.0.2:*:*:*:*:wordpress:*:*",
   "cpeNameId": "9417028A-9907-40F2-B638-E4EB1506493A",
-  "lastModified": "2023-05-23T15:11:15.173",
+  "lastModified": "2025-05-07T13:35:14.553",
   "created": "2021-03-19T19:01:34.220",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.flippercode.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:weplugins:wp_maps:3.0.2:*:*:*:lite:wordpress:*:*",
+      "cpeNameId": "E1AA230B-30C4-4D74-A91C-1390FFB98EC1"
     }
   ],
   "deprecates": [

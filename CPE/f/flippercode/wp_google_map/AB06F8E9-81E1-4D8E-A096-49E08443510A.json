@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:flippercode:wp_google_map:3.12:*:*:*:*:wordpress:*:*",
   "cpeNameId": "AB06F8E9-81E1-4D8E-A096-49E08443510A",
-  "lastModified": "2022-07-28T17:54:15.870",
+  "lastModified": "2025-05-07T13:35:14.553",
   "created": "2022-07-28T17:51:17.817",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://wordpress.org/plugins/wp-google-map-plugin/#developers",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:weplugins:wp_maps:3.12:*:*:*:lite:wordpress:*:*",
+      "cpeNameId": "13918D0C-A0FD-4559-99E9-6A97643F2CC4"
     }
   ]
 }
