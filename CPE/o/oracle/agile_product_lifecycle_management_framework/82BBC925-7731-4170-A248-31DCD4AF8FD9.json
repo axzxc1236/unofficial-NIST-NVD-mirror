@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:oracle:agile_product_lifecycle_management_framework:9.3.3:*:*:*:*:*:*:*",
   "cpeNameId": "82BBC925-7731-4170-A248-31DCD4AF8FD9",
-  "lastModified": "2016-02-17T17:55:49.747",
+  "lastModified": "2025-05-08T18:13:50.370",
   "created": "2016-02-17T17:55:49.747",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "http://www.oracle.com/technetwork/topics/security/cpujan2016-2367955.html",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:oracle:agile_product_lifecycle_management:9.3.3:*:*:*:*:*:*:*",
+      "cpeNameId": "68E42665-CA46-423F-BB0C-E68FC584936D"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:oracle:agile_product_lifecycle_management_framework:9.3.5:*:*:*:*:*:*:*",
   "cpeNameId": "39F8994E-3E17-4B31-8799-DFA0FE1BC79C",
-  "lastModified": "2020-08-25T15:13:27.820",
+  "lastModified": "2025-05-08T18:13:50.370",
   "created": "2020-08-25T15:13:27.820",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "http://www.oracle.com/technetwork/security-advisory/cpujul2016-2881720.html",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:oracle:agile_product_lifecycle_management:9.3.5:*:*:*:*:*:*:*",
+      "cpeNameId": "346C2383-5905-4DCF-AB5F-0853C11B97C9"
     }
   ]
 }

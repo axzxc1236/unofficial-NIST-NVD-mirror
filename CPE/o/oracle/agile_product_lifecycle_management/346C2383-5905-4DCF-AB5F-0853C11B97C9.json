@@ -2,11 +2,11 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:oracle:agile_product_lifecycle_management:9.3.5:*:*:*:*:*:*:*",
   "cpeNameId": "346C2383-5905-4DCF-AB5F-0853C11B97C9",
-  "lastModified": "2020-05-04T18:41:40.493",
+  "lastModified": "2025-05-08T18:13:50.370",
   "created": "2020-05-04T18:41:40.493",
   "titles": [
     {
-      "title": "Oracle Agile Product Lifecycle Management 9.3.5",
+      "title": "Oracle Agile Product Lifecycle Management (PLM) 9.3.5",
       "lang": "en"
     }
   ],
@@ -14,6 +14,16 @@
     {
       "ref": "https://docs.oracle.com/cd/E69230_12/otn/pdf/releasenotes/html_agaam/output/chapter_1.htm#Toc368943722",
       "type": "Version"
+    },
+    {
+      "ref": "https://www.oracle.com/scm/product-lifecycle-management/technical-resources/documentation/agile/",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:oracle:agile_product_lifecycle_management_framework:9.3.5:*:*:*:*:*:*:*",
+      "cpeNameId": "39F8994E-3E17-4B31-8799-DFA0FE1BC79C"
     }
   ]
 }
