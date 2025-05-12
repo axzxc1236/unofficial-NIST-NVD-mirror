@@ -1,19 +1,37 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:bouncycastle:legion-of-the-bouncy-castle-java-crytography-api:1.66:*:*:*:*:*:*:*",
   "cpeNameId": "B1D5AA59-6665-462C-9D20-090C2C48058C",
-  "lastModified": "2020-12-18T16:58:18.867",
+  "lastModified": "2025-05-12T17:37:14.383",
   "created": "2020-12-18T16:58:18.867",
   "titles": [
     {
-      "title": "Legion of the Bouncy Castle Java Cryptography API 1.66",
+      "title": "Bouncy Castle Java Distribution (bc-java) 1.66",
       "lang": "en"
     }
   ],
   "refs": [
     {
-      "ref": "https://www.bouncycastle.org/releasenotes.html",
+      "ref": "https://github.com/bcgit/bc-java/releases",
       "type": "Change Log"
+    },
+    {
+      "ref": "https://www.bouncycastle.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/bcgit/bc-java",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.bouncycastle.org/download/bouncy-castle-java/",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:bouncycastle:bc-java:1.66:*:*:*:*:*:*:*",
+      "cpeNameId": "0D8CA810-5440-4F8D-BDDC-E48E1DED11AA"
     }
   ]
 }
