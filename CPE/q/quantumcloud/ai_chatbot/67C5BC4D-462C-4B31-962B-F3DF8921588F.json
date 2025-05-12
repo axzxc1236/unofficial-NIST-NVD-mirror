@@ -1,27 +1,33 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:quantumcloud:ai_chatbot:4.8.3:*:*:*:*:wordpress:*:*",
   "cpeNameId": "67C5BC4D-462C-4B31-962B-F3DF8921588F",
-  "lastModified": "2023-09-07T15:12:11.427",
+  "lastModified": "2025-05-12T15:09:56.447",
   "created": "2023-09-06T15:52:32.270",
   "titles": [
     {
-      "title": "Quantumcloud AI ChatBot 4.8.3 for WordPress",
+      "title": "QuantumCloud WPBot 4.8.3 for WordPress",
       "lang": "en"
     }
   ],
   "refs": [
     {
-      "ref": "https://wordpress.org/plugins/chatbot/#developers",
-      "type": "Change Log"
-    },
-    {
       "ref": "https://www.quantumcloud.com/",
       "type": "Vendor"
     },
     {
-      "ref": "https://wpscan.com/vulnerability/1cbbab9e-be3d-4081-bc0e-c52d500d9871",
-      "type": "Advisory"
+      "ref": "https://www.wpbot.pro/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/chatbot/",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:quantumcloud:wpbot:4.8.3:*:*:*:free:wordpress:*:*",
+      "cpeNameId": "DD00D744-F455-464C-9C71-5092AF735C04"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:quantumcloud:ai_chatbot:4.8.9:*:*:*:*:wordpress:*:*",
   "cpeNameId": "AE9FE90C-C7ED-403D-BBA4-F7AECB0AF3CC",
-  "lastModified": "2023-10-27T13:55:54.403",
+  "lastModified": "2025-05-12T15:09:56.447",
   "created": "2023-10-27T13:55:54.403",
   "titles": [
     {
-      "title": "QuantumCloud Ai Chatbot 4.8.9 for Wordpress",
+      "title": "QuantumCloud WPBot 4.8.9 for WordPress",
       "lang": "en"
     }
   ],
@@ -16,8 +16,18 @@
       "type": "Vendor"
     },
     {
-      "ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/chatbot/ai-chatbot-489-missing-authorization-on-ajax-actions",
-      "type": "Advisory"
+      "ref": "https://www.wpbot.pro/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/chatbot/",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:quantumcloud:wpbot:4.8.9:*:*:*:free:wordpress:*:*",
+      "cpeNameId": "34CED198-9748-48F8-99CB-B77636F70151"
     }
   ]
 }
