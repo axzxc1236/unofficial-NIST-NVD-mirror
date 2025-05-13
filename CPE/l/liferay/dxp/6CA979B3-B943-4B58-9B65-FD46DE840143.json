@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_10:*:*:*:*:*:*",
   "cpeNameId": "6CA979B3-B943-4B58-9B65-FD46DE840143",
-  "lastModified": "2021-05-26T15:38:37.050",
+  "lastModified": "2025-05-13T18:17:49.910",
   "created": "2021-05-24T14:00:33.757",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://web.liferay.com/marketplace/-/mp/application/15100561",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.2:fix_pack_10:*:*:*:*:*:*",
+      "cpeNameId": "E6E9441C-A82A-4713-B578-DA83A46D704A"
     }
   ]
 }

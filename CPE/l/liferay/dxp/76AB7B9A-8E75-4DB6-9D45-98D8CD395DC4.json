@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:liferay:dxp:-:*:*:*:*:*:*:*",
   "cpeNameId": "76AB7B9A-8E75-4DB6-9D45-98D8CD395DC4",
-  "lastModified": "2024-04-09T18:04:11.753",
+  "lastModified": "2025-05-13T18:17:49.910",
   "created": "2024-04-09T18:04:11.753",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2024-25145",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:liferay:digital_experience_platform:-:*:*:*:*:*:*:*",
+      "cpeNameId": "97590715-71E4-46A8-BD03-45F0152CD091"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:liferay:dxp:7.1:fix_pack_23:*:*:*:*:*:*",
   "cpeNameId": "2CA5D75E-F720-4D4F-B958-E228ADC06E2F",
-  "lastModified": "2022-09-26T15:45:48.580",
+  "lastModified": "2025-05-13T18:17:49.910",
   "created": "2022-09-23T14:06:09.870",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.liferay.com/resources/l/digital-experience-platform",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.1:fix_pack_23:*:*:*:*:*:*",
+      "cpeNameId": "9CCAB661-1764-4066-9F2B-1DAA28FEC465"
     }
   ]
 }

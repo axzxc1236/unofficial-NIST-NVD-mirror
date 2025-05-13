@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:liferay:dxp:7.1:-:*:*:*:*:*:*",
   "cpeNameId": "79C87A25-8216-40ED-B3FC-67C102E113CF",
-  "lastModified": "2020-10-27T12:10:54.833",
+  "lastModified": "2025-05-13T18:17:49.910",
   "created": "2020-10-27T12:10:54.833",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://issues.liferay.com/browse/LPE-16963",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.1:-:*:*:*:*:*:*",
+      "cpeNameId": "84ED7D1D-4427-4785-A291-5CE07CD0C21D"
     }
   ]
 }

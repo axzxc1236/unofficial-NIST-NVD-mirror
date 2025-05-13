@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:liferay:dxp:7.0:fix_pack_101:*:*:*:*:*:*",
   "cpeNameId": "B4A3A922-9279-4FE7-B82D-6B432B6F5A03",
-  "lastModified": "2022-09-26T15:45:48.580",
+  "lastModified": "2025-05-13T18:17:49.910",
   "created": "2022-09-23T14:23:25.450",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/CVEProject/cvelist/blob/master/2022/28xxx/CVE-2022-28978.json",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.0:fix_pack_101:*:*:*:*:*:*",
+      "cpeNameId": "FC50DEE0-0356-411B-9003-D2D63C5CA41C"
     }
   ]
 }

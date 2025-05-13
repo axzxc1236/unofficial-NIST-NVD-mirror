@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.2:fix_pack_17:*:*:*:*:*:*",
   "cpeNameId": "0E75633D-D996-4601-81A4-84AD49E7A94F",
-  "lastModified": "2024-12-16T19:49:20.777",
+  "lastModified": "2025-05-13T18:17:49.910",
   "created": "2024-12-16T19:49:20.777",
   "titles": [
     {
@@ -18,6 +18,24 @@
     {
       "ref": "https://liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/cve-2024-25150",
       "type": "Advisory"
+    },
+    {
+      "ref": "https://help.liferay.com/hc/en-us/articles/360018016691-Liferay-DXP-7-0-Important-Fix-Pack-Changes",
+      "type": "Version"
+    },
+    {
+      "ref": "https://web.liferay.com/marketplace/-/mp/application/74860500",
+      "type": "Version"
+    },
+    {
+      "ref": "https://web.liferay.com/marketplace/-/mp/application/15100561",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_17:*:*:*:*:*:*",
+      "cpeNameId": "5E45F998-9512-4741-8344-1A5E3CF70371"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:airflow_providers_fab:1.1.0:*:*:*:*:*:*:*",
   "cpeNameId": "A82CF811-0E6E-4158-BD11-5867299A69B9",
-  "lastModified": "2024-08-06T12:52:40.890",
+  "lastModified": "2025-05-13T18:31:44.260",
   "created": "2024-08-06T12:52:40.890",
   "titles": [
     {
-      "title": "Apache Software Foundation Airflow Providers FAB 1.1.0",
+      "title": "Apache Software Foundation Apache Airflow Providers FAB (apache-airflow-providers-fab) 1.1.0",
       "lang": "en"
     }
   ],
@@ -18,6 +18,12 @@
     {
       "ref": "https://airflow.apache.org/docs/apache-airflow-providers-fab/stable/changelog.html",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:apache:apache-airflow-providers-fab:1.1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "5BB7CC94-A193-4AB4-9FD2-B543198F1FC2"
     }
   ]
 }

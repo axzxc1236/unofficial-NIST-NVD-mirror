@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.1:fix_pack_2:*:*:*:*:*:*",
   "cpeNameId": "5E7145A5-2A14-49EE-BAFD-2D2BEA504266",
-  "lastModified": "2020-09-23T12:01:17.690",
+  "lastModified": "2025-05-13T18:17:49.910",
   "created": "2020-09-23T12:01:17.690",
   "titles": [
     {
@@ -14,6 +14,24 @@
     {
       "ref": "https://web.liferay.com/marketplace/-/mp/application/15100561",
       "type": "Version"
+    },
+    {
+      "ref": "https://www.liferay.com/products/dxp/new",
+      "type": "Product"
+    },
+    {
+      "ref": "https://help.liferay.com/hc/en-us/articles/360018016691-Liferay-DXP-7-0-Important-Fix-Pack-Changes",
+      "type": "Version"
+    },
+    {
+      "ref": "https://web.liferay.com/marketplace/-/mp/application/74860500",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:liferay:dxp:7.1:fix_pack_2:*:*:*:*:*:*",
+      "cpeNameId": "44809D2C-B3A6-429D-8BD7-F9260350710A"
     }
   ]
 }

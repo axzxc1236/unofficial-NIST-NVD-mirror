@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:liferay:dxp:7.1:fix_pack_14:*:*:*:*:*:*",
   "cpeNameId": "1FCBA550-A2F5-48A9-B1E6-0B6CD7B36DA7",
-  "lastModified": "2021-03-30T20:35:36.680",
+  "lastModified": "2025-05-13T18:17:49.910",
   "created": "2020-07-21T16:09:09.250",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.liferay.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.1:fix_pack_14:*:*:*:*:*:*",
+      "cpeNameId": "DB2A7B61-54F4-41A7-9DC4-79D84C7A83AE"
     }
   ]
 }

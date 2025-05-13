@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_15:*:*:*:*:*:*",
   "cpeNameId": "74070B64-238E-402F-803F-96D13ECA00FF",
-  "lastModified": "2022-11-04T18:44:15.353",
+  "lastModified": "2025-05-13T18:17:49.910",
   "created": "2022-10-19T13:47:49.407",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://help.liferay.com/hc/en-us/articles/4423306419597-Log4j-warnings-after-upgrading-to-Fix-Pack-15",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:liferay:digital_experience_platform:7.2:fix_pack_15:*:*:*:*:*:*",
+      "cpeNameId": "C5DFF628-696C-4D7B-9519-3C982E9709BD"
     }
   ]
 }
