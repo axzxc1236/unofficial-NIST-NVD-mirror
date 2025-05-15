@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:x-stream:xstream:0.2:*:*:*:*:*:*:*",
   "cpeNameId": "AC648F57-6873-4FD0-9D63-793BAED2DF1F",
-  "lastModified": "2025-04-01T13:07:21.840",
+  "lastModified": "2025-05-14T20:02:53.400",
   "created": "2025-04-01T13:07:21.840",
   "titles": [
     {
@@ -12,12 +12,18 @@
   ],
   "refs": [
     {
-      "ref": "https://github.com/x-stream/xstream/tags",
-      "type": "Change Log"
-    },
-    {
       "ref": "https://x-stream.github.io/index.html",
       "type": "Product"
+    },
+    {
+      "ref": "https://github.com/x-stream/xstream/tags",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:xstream:xstream:0.2:*:*:*:*:*:*:*",
+      "cpeNameId": "A5FA21D8-2943-448A-8C26-66D4CF856E34"
     }
   ],
   "deprecates": [

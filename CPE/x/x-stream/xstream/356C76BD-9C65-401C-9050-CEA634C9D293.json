@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:x-stream:xstream:1.3.1:*:*:*:*:*:*:*",
   "cpeNameId": "356C76BD-9C65-401C-9050-CEA634C9D293",
-  "lastModified": "2025-04-01T13:07:21.840",
+  "lastModified": "2025-05-14T20:02:53.400",
   "created": "2025-04-01T13:07:21.840",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://x-stream.github.io/index.html",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:xstream:xstream:1.3.1:*:*:*:*:*:*:*",
+      "cpeNameId": "CD63DD40-8A71-4459-A825-81D2E2C02E81"
     }
   ],
   "deprecates": [
