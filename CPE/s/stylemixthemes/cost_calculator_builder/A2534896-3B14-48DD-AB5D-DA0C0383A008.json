@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:stylemixthemes:cost_calculator_builder:2.2.2:*:*:*:*:wordpress:*:*",
   "cpeNameId": "A2534896-3B14-48DD-AB5D-DA0C0383A008",
-  "lastModified": "2024-07-02T17:00:09.420",
+  "lastModified": "2025-05-15T14:34:06.463",
   "created": "2024-07-02T17:00:09.420",
   "titles": [
     {
@@ -16,12 +16,18 @@
       "type": "Vendor"
     },
     {
-      "ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/cost-calculator-builder/cost-calculator-builder-3212-authenticated-administrator-stored-cross-site-scripting",
-      "type": "Advisory"
-    },
-    {
       "ref": "https://wordpress.org/plugins/cost-calculator-builder/#developers",
       "type": "Change Log"
+    },
+    {
+      "ref": "https://docs.stylemixthemes.com/cost-calculator-builder/changelog/free",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:stylemixthemes:cost_calculator_builder:2.2.2:*:*:*:free:wordpress:*:*",
+      "cpeNameId": "52EE69BB-4E96-4EEB-98BF-76559423E425"
     }
   ]
 }

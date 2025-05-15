@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:stylemixthemes:cost_calculator_builder:3.2.29:*:*:*:*:wordpress:*:*",
   "cpeNameId": "A8E7604B-2437-440B-B7C5-C89D8C6ED632",
-  "lastModified": "2024-10-07T19:13:23.527",
+  "lastModified": "2025-05-15T14:34:06.463",
   "created": "2024-10-07T19:13:23.527",
   "titles": [
     {
@@ -20,8 +20,14 @@
       "type": "Change Log"
     },
     {
-      "ref": "https://wpscan.com/vulnerability/a3463d5a-8215-4958-a6c0-039681c35a50/",
-      "type": "Advisory"
+      "ref": "https://docs.stylemixthemes.com/cost-calculator-builder/changelog/free",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:stylemixthemes:cost_calculator_builder:3.2.29:*:*:*:free:wordpress:*:*",
+      "cpeNameId": "E93DB16B-9984-49C9-B1D5-E5AC1F885F2E"
     }
   ]
 }
