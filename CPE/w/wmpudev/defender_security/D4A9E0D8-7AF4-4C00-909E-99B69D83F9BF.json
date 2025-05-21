@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:wmpudev:defender_security:4.7.4:*:*:*:*:wordpress:*:*",
   "cpeNameId": "D4A9E0D8-7AF4-4C00-909E-99B69D83F9BF",
-  "lastModified": "2025-05-09T15:36:37.723",
+  "lastModified": "2025-05-21T19:49:22.613",
   "created": "2025-05-09T15:36:37.723",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://plugins.svn.wordpress.org/defender-security/tags/",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:wpmudev:defender:4.7.4:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "453F6DDF-1EB7-48AD-8327-C3A533BCF004"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:wmpudev:defender_security:2.6.4:*:*:*:*:wordpress:*:*",
   "cpeNameId": "F67A2BC6-7097-45DF-864D-31F59438DE02",
-  "lastModified": "2023-06-21T16:49:47.580",
+  "lastModified": "2025-05-21T19:49:22.613",
   "created": "2023-06-21T14:38:39.020",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://blog.nintechnet.com/multiple-wordpress-plugins-fixed-csrf-vulnerabilities-part-1/",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:wpmudev:defender:2.6.4:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "F6BF08EC-36FA-4A66-B375-9AC1DBFDA4AA"
     }
   ]
 }
