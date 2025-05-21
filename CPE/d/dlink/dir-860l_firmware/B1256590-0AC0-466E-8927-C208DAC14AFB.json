@@ -2,11 +2,11 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:o:dlink:dir-860l_firmware:1.10b04:*:*:*:*:*:*:*",
   "cpeNameId": "B1256590-0AC0-466E-8927-C208DAC14AFB",
-  "lastModified": "2021-01-28T17:37:59.047",
+  "lastModified": "2025-05-21T15:42:33.833",
   "created": "2021-01-28T17:37:59.047",
   "titles": [
     {
-      "title": "D-Link DIR-860L Firmware 1.10b04",
+      "title": "D-Link DIR-860L Firmware 1.10B04",
       "lang": "en"
     }
   ],
@@ -14,6 +14,20 @@
     {
       "ref": "https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10190",
       "type": "Advisory"
+    },
+    {
+      "ref": "https://legacy.us.dlink.com/pages/product.aspx?id=5f3776ea665e4853a953c72510275e15",
+      "type": "Product"
+    },
+    {
+      "ref": "https://legacyfiles.us.dlink.com/DIR-860L/REVA/FIRMWARE/",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:dlink:dir-860l_firmware:a1_fw110b04:*:*:*:*:*:*:*",
+      "cpeNameId": "3941E6B1-DB74-449E-AA36-8FE79A303D8E"
     }
   ]
 }

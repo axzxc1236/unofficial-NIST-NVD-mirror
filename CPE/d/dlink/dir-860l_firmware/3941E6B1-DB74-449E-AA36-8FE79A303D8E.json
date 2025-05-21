@@ -1,12 +1,12 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:dlink:dir-860l_firmware:a1_fw110b04:*:*:*:*:*:*:*",
   "cpeNameId": "3941E6B1-DB74-449E-AA36-8FE79A303D8E",
-  "lastModified": "2021-05-04T15:13:07.107",
+  "lastModified": "2025-05-21T15:42:33.833",
   "created": "2018-03-27T14:02:41.307",
   "titles": [
     {
-      "title": "D-Link DIR-860L Firmware A1 FW110B04",
+      "title": "D-Link DIR-860L FIRMWARE A1 FW110B04",
       "lang": "en"
     }
   ],
@@ -14,6 +14,12 @@
     {
       "ref": "http://us.dlink.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:dlink:dir-860l_firmware:1.10b04:*:*:*:*:*:*:*",
+      "cpeNameId": "B1256590-0AC0-466E-8927-C208DAC14AFB"
     }
   ]
 }
