@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:dell:policy_manager_for_secure_connect_gateway:5.12.00.00:*:*:*:*:*:*:*",
+  "cpeNameId": "28901EDE-E46A-4EE1-8C29-D6D80DFD7163",
+  "lastModified": "2025-05-20T20:14:57.803",
+  "created": "2025-05-20T20:14:57.803",
+  "titles": [
+    {
+      "title": "Dell Policy Manager For Secure Connect Gateway 5.12.00.00",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.dell.com/support/manuals/en-us/secure-connect-gateway/pm_5.x_ug/download-policy-manager-for-secure-connect-gateway?guid=guid-06723a23-2cb3-42e2-ab79-c91b33ca7585&lang=en-us",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.dell.com/support/manuals/en-us/secure-connect-gateway-ve/pm_5.x_ug/release-history?guid=guid-38d00e91-32bf-4355-801f-12fc28fccc5f&lang=en-us",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.dell.com/support/kbdoc/en-us/000222330/dsa-2024-077-security-update-for-dell-secure-connect-gateway-policy-manager-vulnerabilities",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:dell:emc_secure_connect_gateway_policy_manager:5.12.00.00:*:*:*:*:*:*:*",
+      "cpeNameId": "EE9EE9E5-47E1-46B6-B086-49685C1593C3"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dell:emc_secure_connect_gateway_policy_manager:5.12.00.00:*:*:*:*:*:*:*",
   "cpeNameId": "EE9EE9E5-47E1-46B6-B086-49685C1593C3",
-  "lastModified": "2023-01-21T00:14:46.183",
+  "lastModified": "2025-05-20T20:14:57.803",
   "created": "2023-01-18T11:32:21.790",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/CVEProject/cvelist/blob/master/2022/34xxx/CVE-2022-34440.json",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:dell:policy_manager_for_secure_connect_gateway:5.12.00.00:*:*:*:*:*:*:*",
+      "cpeNameId": "28901EDE-E46A-4EE1-8C29-D6D80DFD7163"
     }
   ]
 }
