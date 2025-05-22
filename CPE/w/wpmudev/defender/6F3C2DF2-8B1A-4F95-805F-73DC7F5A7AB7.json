@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:wpmudev:defender:2.4.9:*:*:*:*:wordpress:*:*",
   "cpeNameId": "6F3C2DF2-8B1A-4F95-805F-73DC7F5A7AB7",
-  "lastModified": "2025-05-21T19:49:22.613",
+  "lastModified": "2025-05-21T20:09:15.647",
   "created": "2025-05-21T19:49:22.613",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://wpmudev.com/project/wp-defender/",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:wpmudev:defender:2.4.9:*:*:*:free:wordpress:*:*",
+      "cpeNameId": "4313F87E-282D-4279-84B3-9FDFDF5AA73B"
     }
   ],
   "deprecates": [
