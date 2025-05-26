@@ -59,6 +59,7 @@ class APIWorker():
                     try:
                         request_start = datetime.now()
                         response = await s.get(f"https://services.nvd.nist.gov/{self.API_path}", timeout=20, headers={"apiKey": APIKEY}, params=self.query_parameters)
+                        await s.gather(response)
                         seconds_took = (datetime.now( ) -request_start).total_seconds()
                         if not response.ok:
                             if message := response.headers.get("message"):
