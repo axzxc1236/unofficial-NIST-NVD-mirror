@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.24.00.14:*:*:*:*:*:*:*",
   "cpeNameId": "39F41B59-7F12-4844-A278-545C99FD4EAF",
-  "lastModified": "2024-12-19T14:55:11.860",
+  "lastModified": "2025-05-23T13:56:37.140",
   "created": "2024-12-19T14:55:11.860",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.dell.com/support/kbdoc/en-us/000237211/dsa-2024-407-dell-secure-connect-gateway-security-update-for-multiple-third-party-component-vulnerabilities",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.24.00.14:*:*:*:virtual:*:*:*",
+      "cpeNameId": "558FD8F1-4C0F-43EF-A491-2F2286B8598F"
     }
   ]
 }

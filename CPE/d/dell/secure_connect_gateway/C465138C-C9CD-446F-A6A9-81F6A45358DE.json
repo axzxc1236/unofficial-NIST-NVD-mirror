@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.18.00.20:*:*:*:*:*:*:*",
   "cpeNameId": "C465138C-C9CD-446F-A6A9-81F6A45358DE",
-  "lastModified": "2024-08-07T10:43:40.687",
+  "lastModified": "2025-05-23T13:56:37.140",
   "created": "2024-08-07T10:43:40.687",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.dell.com/support/kbdoc/en-us/000225910/dsa-2024-181-security-update-for-dell-secure-connect-gateway-application-and-appliance-vulnerabilities",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.18.00.20:*:*:*:virtual:*:*:*",
+      "cpeNameId": "124AC2C5-31B3-4A2A-A682-15476A269B91"
     }
   ]
 }

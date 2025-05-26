@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.00.00.10:*:*:*:virtual:*:*:*",
+  "cpeNameId": "E136180E-2481-4058-B882-2101AA412CBF",
+  "lastModified": "2025-05-23T13:56:37.140",
+  "created": "2025-05-23T13:56:37.140",
+  "titles": [
+    {
+      "title": "Dell Secure Connect Gateway (SCG) 5.00.00.10 Virtual Edition (Appliance Edition)",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.dell.com/support/kbdoc/en-us/000193601/dsa-2021-245-dell-emc-secure-connect-gateway-security-update-for-multiple-vulnerabilities",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.dell.com/support/product-details/en-uk/product/secure-connect-gateway-ve/advisories",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.dell.com/support/manuals/en-us/secure-connect-gateway-ve/scg_5.x_ve_sm/release-history?guid=guid-09dc94b9-eef8-4fc6-b7d9-268481af994e&lang=en-us",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.dell.com/support/product-details/en-us/product/secure-connect-gateway-ve/overview",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:dell:emc_secure_connect_gateway:5.00.00.10:*:*:*:virtual:*:*:*",
+      "cpeNameId": "DB69CD64-37C8-49C5-8797-57293E9A00ED"
+    }
+  ]
+}

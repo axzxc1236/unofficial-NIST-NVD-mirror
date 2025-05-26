@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.22.00.00:*:*:*:*:*:*:*",
   "cpeNameId": "071C8763-9585-4C33-971D-B5AED767DD7B",
-  "lastModified": "2024-12-19T14:55:11.860",
+  "lastModified": "2025-05-23T13:56:37.140",
   "created": "2024-12-19T14:55:11.860",
   "titles": [
     {
@@ -12,8 +12,14 @@
   ],
   "refs": [
     {
-      "ref": "https://www.dell.com/support/manuals/en-us/secure-connect-gateway-app-edition/scg_5.x_app_ug/release-history?guid=guid-792e6ee6-cd95-4213-b1e0-fa7666bc83a4&lang=en-us",
-      "type": "Vendor"
+      "ref": "https://www.dell.com/en-us/lp/dt/secure-connect-gateway",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.22.00.00:*:*:*:application:*:*:*",
+      "cpeNameId": "5F5A4C8D-A259-4EFB-91A3-E17814AA444F"
     }
   ]
 }
