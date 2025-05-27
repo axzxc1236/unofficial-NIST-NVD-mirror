@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:sap:business_client:6.5:*:*:*:*:*:*:*",
   "cpeNameId": "CF5C263D-2AE0-4859-82BC-411EF59AA13F",
-  "lastModified": "2019-08-05T16:53:44.123",
+  "lastModified": "2025-05-27T16:08:02.673",
   "created": "2019-08-05T16:53:44.123",
   "titles": [
     {
@@ -12,12 +12,18 @@
   ],
   "refs": [
     {
-      "ref": "https://help.sap.com/viewer/52778f25e90347a1a15bc0113b70462b/2.06/en-US/03ecbafb844b450a9314a5683b75ed80.html",
-      "type": "Product"
-    },
-    {
       "ref": "https://blogs.sap.com/2018/03/13/sap-security-patch-day-march-2018/",
       "type": "Advisory"
+    },
+    {
+      "ref": "https://help.sap.com/viewer/52778f25e90347a1a15bc0113b70462b/2.06/en-US/03ecbafb844b450a9314a5683b75ed80.html",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:sap:business_client:6.5:-:*:*:*:*:*:*",
+      "cpeNameId": "0C145827-2E88-4697-BA3D-458D5E851586"
     }
   ]
 }
