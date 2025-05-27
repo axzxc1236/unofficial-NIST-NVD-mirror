@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:aimstack:aim:-:*:*:*:*:*:*:*",
   "cpeNameId": "F6190927-C1C5-4B56-B564-A338644B3CD4",
-  "lastModified": "2024-07-29T11:01:27.043",
+  "lastModified": "2025-05-27T13:31:00.147",
   "created": "2024-07-29T11:01:27.043",
   "titles": [
     {
@@ -22,6 +22,16 @@
     {
       "ref": "https://aimstack.io/",
       "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/aimhubio/aim/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:aimstack:aim:-:*:*:*:*:python:*:*",
+      "cpeNameId": "73A637B2-68DF-457B-B5E7-403DE2F0DB51"
     }
   ]
 }
