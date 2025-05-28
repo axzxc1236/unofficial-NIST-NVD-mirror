@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mailpoet:mailpoet:3.23.2:*:*:*:*:wordpress:*:*",
   "cpeNameId": "2BFEA380-50F4-4CB4-8BD8-8903294780CD",
-  "lastModified": "2020-06-02T19:03:26.797",
+  "lastModified": "2025-05-28T14:29:36.420",
   "created": "2020-06-02T19:03:26.797",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.mailpoet.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:automattic:mailpoet:3.23.2:*:*:*:free:wordpress:*:*",
+      "cpeNameId": "F9DACDB3-967C-4D8C-BCF0-FEE7D98DB5C0"
     }
   ]
 }

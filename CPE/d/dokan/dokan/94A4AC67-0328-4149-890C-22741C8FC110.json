@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:dokan:dokan:-:*:*:*:pro:wordpress:*:*",
+  "cpeNameId": "94A4AC67-0328-4149-890C-22741C8FC110",
+  "lastModified": "2025-05-28T13:10:21.360",
+  "created": "2025-05-28T13:10:21.360",
+  "titles": [
+    {
+      "title": "Dokan Pro Edition for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://dokan.co/docs/wordpress/changelog/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/dokan-pro/dokan-pro-3103-unauthenticated-sql-injection",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:dokan:dokan_pro_plugin:-:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "EC82C16E-5018-454D-8973-BDD4CF3D5A23"
+    }
+  ]
+}

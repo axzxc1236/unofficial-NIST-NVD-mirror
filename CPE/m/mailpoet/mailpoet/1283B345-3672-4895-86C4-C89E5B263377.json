@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mailpoet:mailpoet:3.19.0:*:*:*:*:wordpress:*:*",
   "cpeNameId": "1283B345-3672-4895-86C4-C89E5B263377",
-  "lastModified": "2022-11-21T15:18:48.357",
+  "lastModified": "2025-05-28T14:29:36.420",
   "created": "2022-11-21T15:08:08.910",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://wordpress.org/plugins/mailpoet/#developers",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:automattic:mailpoet:3.19.0:*:*:*:free:wordpress:*:*",
+      "cpeNameId": "460FA944-4EAA-44BF-A553-4C5CB4104CD5"
     }
   ]
 }

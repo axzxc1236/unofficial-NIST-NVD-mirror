@@ -1,12 +1,12 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dokan:dokan_pro_plugin:3.10.3:*:*:*:*:wordpress:*:*",
   "cpeNameId": "F3121B49-E070-40BB-AAA0-B811FA8A4127",
-  "lastModified": "2024-07-25T16:17:00.577",
+  "lastModified": "2025-05-28T13:10:21.360",
   "created": "2024-07-25T16:17:00.577",
   "titles": [
     {
-      "title": "Dokan Dokan Pro Plugin 3.10.3 for WordPress",
+      "title": "Dokan Pro Plugin 3.10.3 for WordPress",
       "lang": "en"
     }
   ],
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/dokan-pro/dokan-pro-3103-unauthenticated-sql-injection",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:dokan:dokan:3.10.3:*:*:*:pro:wordpress:*:*",
+      "cpeNameId": "D4417076-0FB0-4549-9527-ECE8E286DE04"
     }
   ]
 }
