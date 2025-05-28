@@ -2,11 +2,11 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:lemonldap-ng:lemonldap\\:\\:ng:1.2.2:*:*:*:*:*:*:*",
   "cpeNameId": "206F73DC-94DD-46EC-B0DB-EDB5E574BC50",
-  "lastModified": "2019-07-11T14:06:04.670",
+  "lastModified": "2025-05-28T17:23:00.170",
   "created": "2019-07-11T14:06:04.670",
   "titles": [
     {
-      "title": "LemonLDAP::NG 1.2.2",
+      "title": "LemonLDAP-NG LemonLDAP::NG 1.2.2",
       "lang": "en"
     }
   ],
@@ -14,6 +14,24 @@
     {
       "ref": "https://lemonldap-ng.org/start",
       "type": "Vendor"
+    },
+    {
+      "ref": "https://release.ow2.org/lemonldap/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/blob/master/changelog",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/tags",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:lemonldap-ng:lemonldap\\:\\::1.2.2:*:*:*:*:*:*:*",
+      "cpeNameId": "568BA338-FE2D-4928-B9E3-C795407680DE"
     }
   ]
 }
