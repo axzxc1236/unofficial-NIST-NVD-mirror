@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:teslamate_project:teslamate:1.8.0:*:*:*:*:*:*:*",
   "cpeNameId": "52407039-E342-4C01-8C45-944F305BCA35",
-  "lastModified": "2022-03-04T19:37:31.503",
+  "lastModified": "2025-05-28T21:48:42.223",
   "created": "2022-01-28T14:46:51.507",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/adriankumpf/teslamate",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:teslamate:teslamate:1.8.0:*:*:*:*:*:*:*",
+      "cpeNameId": "4341D1C3-F1E4-490C-AC28-6F8A65031DAE"
     }
   ]
 }

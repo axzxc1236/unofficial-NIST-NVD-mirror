@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:teslamate_project:teslamate:1.27.2:*:*:*:*:*:*:*",
   "cpeNameId": "94307050-4FFF-4F2C-A1ED-942A2381B868",
-  "lastModified": "2023-09-12T14:17:01.343",
+  "lastModified": "2025-05-28T21:48:42.223",
   "created": "2023-09-12T14:17:01.343",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/adriankumpf/teslamate/tags",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:teslamate:teslamate:1.27.2:*:*:*:*:*:*:*",
+      "cpeNameId": "1F267981-B5D6-4038-9803-3D7F62E6699B"
     }
   ]
 }

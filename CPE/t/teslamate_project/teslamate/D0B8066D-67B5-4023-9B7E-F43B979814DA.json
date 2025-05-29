@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:teslamate_project:teslamate:1.23.2:*:*:*:*:*:*:*",
   "cpeNameId": "D0B8066D-67B5-4023-9B7E-F43B979814DA",
-  "lastModified": "2022-03-04T19:37:31.503",
+  "lastModified": "2025-05-28T21:48:42.223",
   "created": "2022-01-28T14:46:51.507",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/adriankumpf/teslamate/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:teslamate:teslamate:1.23.2:*:*:*:*:*:*:*",
+      "cpeNameId": "57DC99AD-BDDB-495C-89D3-7AC422AD2653"
     }
   ]
 }
