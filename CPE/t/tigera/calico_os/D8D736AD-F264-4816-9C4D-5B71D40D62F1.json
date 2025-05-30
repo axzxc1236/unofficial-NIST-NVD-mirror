@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:tigera:calico_os:3.22.2:*:*:*:*:*:*:*",
   "cpeNameId": "D8D736AD-F264-4816-9C4D-5B71D40D62F1",
-  "lastModified": "2022-08-26T20:26:08.490",
+  "lastModified": "2025-05-30T19:02:50.553",
   "created": "2022-06-10T15:28:53.417",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.tigera.io/security-bulletins-tta-2022-001/",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:tigera:calico:3.22.2:*:*:*:open_source:*:*:*",
+      "cpeNameId": "954C9CDE-880F-4C63-A36F-4F3AC4500083"
     }
   ]
 }

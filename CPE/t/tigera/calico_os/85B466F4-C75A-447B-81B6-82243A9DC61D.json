@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:tigera:calico_os:3.26.3:*:*:*:*:*:*:*",
   "cpeNameId": "85B466F4-C75A-447B-81B6-82243A9DC61D",
-  "lastModified": "2023-11-27T00:11:03.163",
+  "lastModified": "2025-05-30T19:02:50.553",
   "created": "2023-11-27T00:11:03.163",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.tigera.io/security-bulletins-tta-2023-001/",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:tigera:calico:3.26.3:*:*:*:open_source:*:*:*",
+      "cpeNameId": "CD07EC92-5A9A-4510-B323-4DB197BBDF41"
     }
   ]
 }

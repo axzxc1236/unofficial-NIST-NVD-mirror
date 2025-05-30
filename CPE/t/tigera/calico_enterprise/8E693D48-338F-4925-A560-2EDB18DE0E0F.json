@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:tigera:calico_enterprise:3.17.1:*:*:*:*:*:*:*",
   "cpeNameId": "8E693D48-338F-4925-A560-2EDB18DE0E0F",
-  "lastModified": "2023-11-18T04:52:10.023",
+  "lastModified": "2025-05-30T19:02:50.553",
   "created": "2023-11-18T04:52:10.023",
   "titles": [
     {
@@ -14,6 +14,28 @@
     {
       "ref": "https://www.tigera.io/security-bulletins-tta-2023-001/",
       "type": "Advisory"
+    },
+    {
+      "ref": "https://docs.tigera.io/archive",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.tigera.io/tigera-products/compare-products/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://docs.tigera.io/calico-enterprise/latest/release-notes/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://archive-ce-3-17.netlify.app/calico-enterprise/3.17/release-notes/",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:tigera:calico:3.17.1:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "F034F201-1748-4A2C-9B28-9CF4F12BFE84"
     }
   ]
 }

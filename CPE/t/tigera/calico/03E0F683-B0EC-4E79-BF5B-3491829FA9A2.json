@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:tigera:calico:18.0.0:*:*:*:cloud:*:*:*",
+  "cpeNameId": "03E0F683-B0EC-4E79-BF5B-3491829FA9A2",
+  "lastModified": "2025-05-30T19:02:50.553",
+  "created": "2025-05-30T19:02:50.553",
+  "titles": [
+    {
+      "title": "Tigera Calico 18.0.0 Cloud Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.tigera.io/security-bulletins-tta-2023-001/",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://docs.tigera.io/calico-cloud/release-notes/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.tigera.io/tigera-products/compare-products/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:tigera:calico_cloud:18.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "19E19556-6F0E-4392-8434-440D1300B614"
+    }
+  ]
+}
