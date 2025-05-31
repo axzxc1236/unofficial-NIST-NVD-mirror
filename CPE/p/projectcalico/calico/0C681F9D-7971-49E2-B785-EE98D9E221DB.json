@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:projectcalico:calico:3.2.8:*:*:*:*:*:*:*",
   "cpeNameId": "0C681F9D-7971-49E2-B785-EE98D9E221DB",
-  "lastModified": "2020-08-20T15:05:59.543",
+  "lastModified": "2025-05-30T20:42:57.130",
   "created": "2020-08-20T15:05:59.543",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.projectcalico.org/security-bulletins/",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:tigera:calico:3.2.8:*:*:*:open_source:*:*:*",
+      "cpeNameId": "EECBC703-C736-4C33-A36C-52C0FBC416E1"
     }
   ]
 }

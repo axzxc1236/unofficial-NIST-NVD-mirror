@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:tigera:calico:2.6.0:rc1:*:*:open_source:*:*:*",
+  "cpeNameId": "9AC94959-C294-4C25-9481-30D4E279114E",
+  "lastModified": "2025-05-30T20:42:57.130",
+  "created": "2025-05-30T20:42:57.130",
+  "titles": [
+    {
+      "title": "Tigera Calico 2.6.0 Release Candidate 1 Open Source Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/projectcalico/calico/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/projectcalico/calico",
+      "type": "Product"
+    },
+    {
+      "ref": "https://docs.tigera.io/archive",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.tigera.io/security-bulletins-tta-2023-001/",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.tigera.io/tigera-products/calico/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:projectcalico:calico:2.6.0:rc1:*:*:*:*:*:*",
+      "cpeNameId": "56DE9D36-957F-4398-9A67-90E77C29C402"
+    }
+  ]
+}

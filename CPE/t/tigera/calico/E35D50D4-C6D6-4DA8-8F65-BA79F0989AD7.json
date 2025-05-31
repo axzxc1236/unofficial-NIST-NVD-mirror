@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:tigera:calico:3.11.3:*:*:*:open_source:*:*:*",
   "cpeNameId": "E35D50D4-C6D6-4DA8-8F65-BA79F0989AD7",
-  "lastModified": "2025-05-30T19:02:50.553",
+  "lastModified": "2025-05-30T20:42:57.130",
   "created": "2025-05-30T19:02:50.553",
   "titles": [
     {
@@ -30,6 +30,12 @@
     {
       "ref": "https://www.tigera.io/tigera-products/calico/",
       "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:projectcalico:calico:3.11.3:*:*:*:*:*:*:*",
+      "cpeNameId": "575BD889-F060-4094-9F69-02491F9CA508"
     }
   ]
 }
