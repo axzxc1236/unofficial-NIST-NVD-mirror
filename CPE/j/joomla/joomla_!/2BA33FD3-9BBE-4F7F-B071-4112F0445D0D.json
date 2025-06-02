@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:joomla:joomla\\!:4.2.6:*:*:*:*:*:*:*",
   "cpeNameId": "2BA33FD3-9BBE-4F7F-B071-4112F0445D0D",
-  "lastModified": "2023-02-23T20:25:31.903",
+  "lastModified": "2025-06-02T18:12:08.873",
   "created": "2023-02-08T20:42:52.170",
   "titles": [
     {
@@ -12,12 +12,26 @@
   ],
   "refs": [
     {
-      "ref": "https://developer.joomla.org/security-centre/890-20230101-core-csrf-within-post-installation-messages.html",
-      "type": "Advisory"
+      "ref": "https://github.com/joomla/joomla-cms",
+      "type": "Product"
     },
     {
-      "ref": "https://github.com/joomla/joomla-cms/releases",
+      "ref": "https://downloads.joomla.org/cms/joomla4",
       "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/joomla/joomla-cms/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.joomla.org/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:joomla:joomla\\!:4.2.6:-:*:*:*:*:*:*",
+      "cpeNameId": "6386ED8A-F265-40F3-84DF-0FAB2F40DB28"
     }
   ]
 }

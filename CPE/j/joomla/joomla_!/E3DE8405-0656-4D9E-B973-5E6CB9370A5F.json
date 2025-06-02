@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:joomla:joomla\\!:4.2.7:*:*:*:*:*:*:*",
   "cpeNameId": "E3DE8405-0656-4D9E-B973-5E6CB9370A5F",
-  "lastModified": "2023-02-23T20:25:31.903",
+  "lastModified": "2025-06-02T18:12:08.873",
   "created": "2023-02-23T20:21:41.833",
   "titles": [
     {
@@ -12,12 +12,26 @@
   ],
   "refs": [
     {
-      "ref": "https://www.joomla.org/announcements/release-news.html",
+      "ref": "https://github.com/joomla/joomla-cms",
+      "type": "Product"
+    },
+    {
+      "ref": "https://downloads.joomla.org/cms/joomla4",
       "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/joomla/joomla-cms/tags",
+      "type": "Version"
     },
     {
       "ref": "https://www.joomla.org/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:joomla:joomla\\!:4.2.7:-:*:*:*:*:*:*",
+      "cpeNameId": "E64E5159-1CC9-42F7-8322-B5BD98587C9D"
     }
   ]
 }

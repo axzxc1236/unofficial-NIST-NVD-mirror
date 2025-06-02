@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:joomla:joomla\\!:5.0.3:*:*:*:*:*:*:*",
   "cpeNameId": "695A2110-EB33-4CA6-B6A8-678839D09910",
-  "lastModified": "2024-08-22T14:54:55.077",
+  "lastModified": "2025-06-02T18:12:08.873",
   "created": "2024-08-22T14:54:55.077",
   "titles": [
     {
@@ -14,6 +14,24 @@
     {
       "ref": "https://downloads.joomla.org/cms/joomla5",
       "type": "Version"
+    },
+    {
+      "ref": "https://www.joomla.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/joomla/joomla-cms/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/joomla/joomla-cms",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:joomla:joomla\\!:5.0.3:-:*:*:*:*:*:*",
+      "cpeNameId": "E3700F70-2D40-44D9-BC4C-C113FD04D733"
     }
   ]
 }

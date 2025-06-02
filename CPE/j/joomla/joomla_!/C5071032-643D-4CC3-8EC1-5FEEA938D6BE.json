@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:joomla:joomla\\!:4.2.0:*:*:*:*:*:*:*",
   "cpeNameId": "C5071032-643D-4CC3-8EC1-5FEEA938D6BE",
-  "lastModified": "2022-11-07T21:22:14.790",
+  "lastModified": "2025-06-02T18:12:08.873",
   "created": "2022-09-02T16:45:23.027",
   "titles": [
     {
@@ -12,8 +12,26 @@
   ],
   "refs": [
     {
-      "ref": "https://developer.joomla.org/security-centre/884-20220801-core-multiple-full-path-disclosures-because-of-missing-jexec-or-die-check.html",
-      "type": "Advisory"
+      "ref": "https://github.com/joomla/joomla-cms",
+      "type": "Product"
+    },
+    {
+      "ref": "https://downloads.joomla.org/cms/joomla4",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/joomla/joomla-cms/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.joomla.org/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:joomla:joomla\\!:4.2.0:-:*:*:*:*:*:*",
+      "cpeNameId": "5E3D0C7B-1CBC-445E-8BB4-2A1354E48175"
     }
   ]
 }
