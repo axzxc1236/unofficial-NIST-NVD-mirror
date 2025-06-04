@@ -1,12 +1,12 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:wpexperts:post_smtp_mailer:2.2:-:*:*:*:wordpress:*:*",
   "cpeNameId": "EA075DE4-AA7B-4BF8-955C-40475E64DD5F",
-  "lastModified": "2023-06-21T16:39:55.470",
+  "lastModified": "2025-06-04T15:05:04.790",
   "created": "2023-06-21T14:42:23.607",
   "titles": [
     {
-      "title": "WPExperts Post SMTP 2.2 - for WordPress",
+      "title": "WPExperts Post SMTP 2.2 for WordPress",
       "lang": "en"
     }
   ],
@@ -22,6 +22,12 @@
     {
       "ref": "https://postmansmtp.com/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:wpexperts:post_smtp:2.2:-:*:*:*:wordpress:*:*",
+      "cpeNameId": "C20FB912-8B6E-41C8-A791-AE04467197B5"
     }
   ]
 }

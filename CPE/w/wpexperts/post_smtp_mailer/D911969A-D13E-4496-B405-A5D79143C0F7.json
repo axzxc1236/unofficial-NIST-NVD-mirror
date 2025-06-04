@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:wpexperts:post_smtp_mailer:2.8.7:*:*:*:*:wordpress:*:*",
   "cpeNameId": "D911969A-D13E-4496-B405-A5D79143C0F7",
-  "lastModified": "2024-02-03T01:39:22.613",
+  "lastModified": "2025-06-04T15:05:04.790",
   "created": "2024-02-03T01:39:22.613",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/post-smtp/post-smtp-mailer-email-log-delivery-failure-notifications-and-best-mail-smtp-for-wordpress-287-authorization-bypass-via-type-connect-app-api",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:wpexperts:post_smtp:2.8.7:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "211DC2A0-7939-49C7-A7A6-4373B7A85BC1"
     }
   ]
 }

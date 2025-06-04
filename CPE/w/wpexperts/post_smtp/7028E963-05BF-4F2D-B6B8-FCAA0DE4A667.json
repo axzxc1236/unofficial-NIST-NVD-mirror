@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:wpexperts:post_smtp:2.8.4:*:*:*:*:wordpress:*:*",
   "cpeNameId": "7028E963-05BF-4F2D-B6B8-FCAA0DE4A667",
-  "lastModified": "2024-01-09T18:19:42.523",
+  "lastModified": "2025-06-04T15:05:04.790",
   "created": "2024-01-09T18:19:42.523",
   "titles": [
     {
@@ -26,6 +26,16 @@
     {
       "ref": "https://postmansmtp.com/",
       "type": "Product"
+    },
+    {
+      "ref": "https://github.com/wpexpertsio/Post-SMTP/tags",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:wpexperts:post_smtp_mailer:2.8.4:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "547DF54B-C380-4E36-A2A3-64F158D9AA52"
     }
   ]
 }

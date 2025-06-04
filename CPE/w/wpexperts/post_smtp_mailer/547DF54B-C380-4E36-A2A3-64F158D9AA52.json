@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:wpexperts:post_smtp_mailer:2.8.4:*:*:*:*:wordpress:*:*",
   "cpeNameId": "547DF54B-C380-4E36-A2A3-64F158D9AA52",
-  "lastModified": "2023-12-04T19:02:24.577",
+  "lastModified": "2025-06-04T15:05:04.790",
   "created": "2023-12-04T19:02:24.577",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://postmansmtp.com/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:wpexperts:post_smtp:2.8.4:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "7028E963-05BF-4F2D-B6B8-FCAA0DE4A667"
     }
   ]
 }
