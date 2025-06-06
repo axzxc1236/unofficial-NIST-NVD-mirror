@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:wptablebuilder:wp_table_builder:1.1.0:*:*:*:*:wordpress:*:*",
   "cpeNameId": "9644B2B3-6BB6-4F80-ACC4-67655091E82F",
-  "lastModified": "2023-05-11T17:38:35.547",
+  "lastModified": "2025-06-06T17:22:54.257",
   "created": "2023-05-05T20:09:58.850",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://wptablebuilder.com/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:dotcamp:wp_table_builder:1.1.0:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "076CB611-8F31-4591-9B12-390A30ED4E18"
     }
   ]
 }
