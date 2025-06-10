@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:vcita:online_booking_\\&_scheduling_calendar_for_wordpress_by_vcita:3.16.1:*:*:*:*:wordpress:*:*",
   "cpeNameId": "EDA9C292-99D8-4C6B-AB71-5DF51BF449F6",
-  "lastModified": "2023-06-15T18:14:26.980",
+  "lastModified": "2025-06-10T12:45:22.093",
   "created": "2023-06-13T19:33:06.550",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://wordpress.org/plugins/meeting-scheduler-by-vcita/#developers",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:vcita:online_booking_\\&_scheduling_calendar:3.16.1:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "60D77697-5A94-441A-81C7-82E36C593B1F"
     }
   ]
 }

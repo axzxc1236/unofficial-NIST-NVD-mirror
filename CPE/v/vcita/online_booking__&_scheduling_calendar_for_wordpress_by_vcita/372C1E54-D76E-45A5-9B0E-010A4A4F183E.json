@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:vcita:online_booking_\\&_scheduling_calendar_for_wordpress_by_vcita:4.3.2:*:*:*:*:wordpress:*:*",
   "cpeNameId": "372C1E54-D76E-45A5-9B0E-010A4A4F183E",
-  "lastModified": "2023-09-09T02:15:44.050",
+  "lastModified": "2025-06-10T12:45:22.093",
   "created": "2023-09-06T13:29:26.440",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.vcita.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:vcita:online_booking_\\&_scheduling_calendar:4.3.2:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "060DA64B-DF1F-49D4-B37F-723D01B59D6F"
     }
   ]
 }

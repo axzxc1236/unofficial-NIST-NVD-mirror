@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:vcita:online_booking_\\&_scheduling_calendar_for_wordpress_by_vcita:4.4.5:*:*:*:*:wordpress:*:*",
   "cpeNameId": "7509C8D1-8694-43CE-8DEE-6894E656EA7D",
-  "lastModified": "2024-07-01T19:50:41.227",
+  "lastModified": "2025-06-10T12:45:22.093",
   "created": "2024-07-01T19:50:41.227",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://patchstack.com/database/vulnerability/meeting-scheduler-by-vcita/wordpress-online-booking-scheduling-calendar-for-wordpress-by-vcita-plugin-4-4-0-cross-site-scripting-xss-vulnerability?_s_id=cve",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:vcita:online_booking_\\&_scheduling_calendar:4.4.5:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "204EB66D-F555-4DF5-A638-28191B4FDF42"
     }
   ]
 }
