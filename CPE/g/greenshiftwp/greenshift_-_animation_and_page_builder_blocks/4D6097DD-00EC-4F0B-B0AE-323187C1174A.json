@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:greenshiftwp:greenshift_-_animation_and_page_builder_blocks:8.9.5:*:*:*:*:wordpress:*:*",
   "cpeNameId": "4D6097DD-00EC-4F0B-B0AE-323187C1174A",
-  "lastModified": "2024-09-25T15:25:04.277",
+  "lastModified": "2025-06-10T11:44:26.643",
   "created": "2024-09-25T15:25:04.277",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://patchstack.com/database/vulnerability/greenshift-animation-and-page-builder-blocks/wordpress-greenshift-animation-and-page-builder-blocks-plugin-9-3-7-cross-site-scripting-xss-vulnerability?_s_id=cve",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:wpsoul:greenshift:8.9.5:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "F4A4ED8C-603A-4975-81EE-840B40028F25"
     }
   ]
 }

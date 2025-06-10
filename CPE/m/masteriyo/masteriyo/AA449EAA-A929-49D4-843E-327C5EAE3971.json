@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:masteriyo:masteriyo:1.6.2:*:*:*:*:wordpress:*:*",
   "cpeNameId": "AA449EAA-A929-49D4-843E-327C5EAE3971",
-  "lastModified": "2023-08-03T15:05:55.930",
+  "lastModified": "2025-06-10T11:55:59.557",
   "created": "2023-08-03T14:06:45.640",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://masteriyo.com/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:themegrill:masteriyo:1.6.2:*:*:*:free:wordpress:*:*",
+      "cpeNameId": "CAE40192-29BB-48B2-A601-2AA711F5C5EA"
     }
   ]
 }

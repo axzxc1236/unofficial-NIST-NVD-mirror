@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:greenshiftwp:greenshift_-_animation_and_page_builder_blocks:9.3.1:*:*:*:*:wordpress:*:*",
   "cpeNameId": "C6D04E7B-6C55-4C3E-94DB-98AC1193114B",
-  "lastModified": "2024-09-25T15:25:04.277",
+  "lastModified": "2025-06-10T11:44:26.643",
   "created": "2024-09-25T15:25:04.277",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://plugins.trac.wordpress.org/browser/greenshift-animation-and-page-builder-blocks/#tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:wpsoul:greenshift:9.3.1:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "CB5A499F-9616-4E40-BCB5-C73181DD6092"
     }
   ]
 }

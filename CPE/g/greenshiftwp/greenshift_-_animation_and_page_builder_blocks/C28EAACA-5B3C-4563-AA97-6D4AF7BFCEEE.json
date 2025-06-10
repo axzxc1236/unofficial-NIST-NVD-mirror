@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:greenshiftwp:greenshift_-_animation_and_page_builder_blocks:5.4.1:*:*:*:*:wordpress:*:*",
   "cpeNameId": "C28EAACA-5B3C-4563-AA97-6D4AF7BFCEEE",
-  "lastModified": "2023-04-03T15:41:23.063",
+  "lastModified": "2025-06-10T11:44:26.643",
   "created": "2023-03-29T17:16:36.123",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://greenshiftwp.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:wpsoul:greenshift:5.4.1:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "83816F74-D2FE-4B32-898A-B75773C4FDD4"
     }
   ]
 }
