@@ -1,20 +1,16 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:json-c:json-c:0.13.1-20180305:*:*:*:*:*:*:*",
   "cpeNameId": "2351ECDE-6A35-45AA-8699-4C78C12D2851",
-  "lastModified": "2023-09-16T13:05:58.643",
+  "lastModified": "2025-06-25T13:30:55.093",
   "created": "2023-09-16T13:05:58.643",
   "titles": [
     {
-      "title": "Json-c Json-c 0.13.1-20180305",
+      "title": "json-c 0.13.1-20180305",
       "lang": "en"
     }
   ],
   "refs": [
-    {
-      "ref": "https://github.com/json-c/json-c/blob/master/ChangeLog",
-      "type": "Change Log"
-    },
     {
       "ref": "https://github.com/json-c/json-c/tags",
       "type": "Version"
@@ -22,6 +18,16 @@
     {
       "ref": "https://github.com/json-c/json-c",
       "type": "Product"
+    },
+    {
+      "ref": "https://json-c.github.io/json-c/",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:json-c:json-c:0.13.1:*:*:*:*:*:*:*",
+      "cpeNameId": "071AA9B2-93CB-48C2-8D1D-CD45DF2D6FB0"
     }
   ],
   "deprecates": [
