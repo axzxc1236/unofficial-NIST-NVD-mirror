@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:iputils_project:iputils:s20180629:*:*:*:*:*:*:*",
   "cpeNameId": "A1549818-383D-4352-BC61-FC9621C3BA91",
-  "lastModified": "2019-01-02T14:00:02.577",
+  "lastModified": "2025-06-25T17:41:15.340",
   "created": "2019-01-02T14:00:02.577",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/iputils/iputils/archive/s20180629",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:iputils:iputils:s20180629:*:*:*:*:*:*:*",
+      "cpeNameId": "7BECF5D5-9FDA-48FA-8B49-3495196739F3"
     }
   ]
 }
