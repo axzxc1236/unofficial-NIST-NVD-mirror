@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:yandex:clickhouse:19.18.1.1682:*:*:*:*:*:*:*",
   "cpeNameId": "B36BB7A1-8566-4FDC-BA95-8595AC30E9E2",
-  "lastModified": "2020-01-06T19:37:10.873",
+  "lastModified": "2025-06-25T20:46:00.253",
   "created": "2020-01-06T19:37:10.873",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/ClickHouse/ClickHouse",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:clickhouse:clickhouse:19.18.1.1682:*:*:*:*:*:*:*",
+      "cpeNameId": "661919C8-8CD1-4887-8A35-EA3864A12E5B"
     }
   ]
 }

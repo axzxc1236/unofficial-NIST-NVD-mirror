@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:yandex:clickhouse:21.10.2.15:*:*:*:*:*:*:*",
   "cpeNameId": "85D8730B-814D-4D1D-9BA8-D21780DD2C88",
-  "lastModified": "2022-09-29T13:49:19.633",
+  "lastModified": "2025-06-25T20:46:00.253",
   "created": "2022-03-21T13:12:19.567",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://jfrog.com/blog/7-rce-and-dos-vulnerabilities-found-in-clickhouse-dbms/",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:clickhouse:clickhouse:21.10.2.15:*:*:*:*:*:*:*",
+      "cpeNameId": "6061E97E-53A4-4CF6-8A38-18671B333F26"
     }
   ]
 }

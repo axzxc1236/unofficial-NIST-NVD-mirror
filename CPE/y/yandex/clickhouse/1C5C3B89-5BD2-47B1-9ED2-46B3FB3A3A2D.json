@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:yandex:clickhouse:1.1.54131:*:*:*:*:*:*:*",
   "cpeNameId": "1C5C3B89-5BD2-47B1-9ED2-46B3FB3A3A2D",
-  "lastModified": "2019-08-23T16:27:46.947",
+  "lastModified": "2025-06-25T20:48:52.790",
   "created": "2019-08-23T16:27:46.947",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://yandex.com/company/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:clickhouse:clickhouse:1.1.54131:*:*:*:*:*:*:*",
+      "cpeNameId": "569E98DD-F3C9-4519-8217-02D01E905B80"
     }
   ]
 }

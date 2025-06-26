@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:yandex:clickhouse:18.12.13:*:*:*:*:*:*:*",
   "cpeNameId": "24DC4077-D05A-45B7-A7F6-057D355A231F",
-  "lastModified": "2019-08-23T18:17:52.260",
+  "lastModified": "2025-06-25T20:48:52.790",
   "created": "2019-08-23T18:17:52.260",
   "titles": [
     {
@@ -12,16 +12,22 @@
   ],
   "refs": [
     {
-      "ref": "https://yandex.com/company/",
-      "type": "Vendor"
+      "ref": "https://clickhouse.yandex/docs/en/security_changelog/",
+      "type": "Change Log"
     },
     {
       "ref": "https://clickhouse.yandex/",
       "type": "Product"
     },
     {
-      "ref": "https://clickhouse.yandex/docs/en/security_changelog/",
-      "type": "Change Log"
+      "ref": "https://yandex.com/company/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:clickhouse:clickhouse:18.12.13:*:*:*:*:*:*:*",
+      "cpeNameId": "C0E813A3-83F6-4E7B-B6A4-8EBF164EACA8"
     }
   ]
 }

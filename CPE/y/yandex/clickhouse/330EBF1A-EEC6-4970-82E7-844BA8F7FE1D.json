@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:yandex:clickhouse:19.14:*:*:*:*:*:*:*",
   "cpeNameId": "330EBF1A-EEC6-4970-82E7-844BA8F7FE1D",
-  "lastModified": "2020-01-06T19:36:30.700",
+  "lastModified": "2025-06-25T20:48:52.790",
   "created": "2020-01-06T19:36:30.700",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.tenable.com/cve/CVE-2019-16535",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:clickhouse:clickhouse:19.14:*:*:*:*:*:*:*",
+      "cpeNameId": "8FA1ED7E-6A4C-4961-ABB7-4962D04B513D"
     }
   ]
 }

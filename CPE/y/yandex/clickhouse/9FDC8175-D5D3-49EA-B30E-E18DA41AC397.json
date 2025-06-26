@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:yandex:clickhouse:19.3.9.12:*:*:*:*:*:*:*",
   "cpeNameId": "9FDC8175-D5D3-49EA-B30E-E18DA41AC397",
-  "lastModified": "2019-11-05T14:55:20.273",
+  "lastModified": "2025-06-25T20:48:52.790",
   "created": "2019-11-05T14:55:20.273",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://clickhouse.yandex/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:clickhouse:clickhouse:19.3.9.12:*:*:*:*:*:*:*",
+      "cpeNameId": "5D0193E2-CBE9-4C4F-AF04-277F0541C04B"
     }
   ]
 }

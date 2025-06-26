@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:yandex:clickhouse:21.1.2.15:*:*:*:*:*:*:*",
   "cpeNameId": "56F6EA37-C754-456D-930F-16B90C040C8E",
-  "lastModified": "2021-08-26T14:06:20.167",
+  "lastModified": "2025-06-25T20:46:00.253",
   "created": "2021-08-24T15:10:26.370",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://clickhouse.tech/docs/en/whats-new/changelog/",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:clickhouse:clickhouse:21.1.2.15:*:*:*:*:*:*:*",
+      "cpeNameId": "791EC41B-45B6-4083-8860-680B566367F3"
     }
   ]
 }
