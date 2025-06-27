@@ -1,12 +1,12 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:brainstormforce:schema:1.5.0:*:*:*:*:wordpress:*:*",
   "cpeNameId": "DC2D227E-E1D7-4B01-AC5C-FE1D04D9756B",
-  "lastModified": "2019-09-04T13:19:57.127",
+  "lastModified": "2025-06-27T17:15:39.960",
   "created": "2019-09-04T13:19:57.127",
   "titles": [
     {
-      "title": "Brainstorm Force Schema 1.5.0 for WordPress",
+      "title": "Brainstorm Force Schema 1.5.0 Free / Opensource Edition for WordPress",
       "lang": "en"
     }
   ],
@@ -16,8 +16,22 @@
       "type": "Change Log"
     },
     {
-      "ref": "https://www.brainstormforce.com/",
+      "ref": "https://brainstormforce.com/",
       "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/brainstormforce/all-in-one-schemaorg-rich-snippets/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:brainstormforce:schema:1.5.0:*:*:*:-:wordpress:*:*",
+      "cpeNameId": "C672AE6A-90EC-4720-AA1B-B1E2362C08F6"
     }
   ]
 }

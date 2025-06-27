@@ -2,11 +2,11 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:sound_exchange_project:sound_exchange:14.4.3:*:*:*:*:*:*:*",
   "cpeNameId": "2D51CEB4-FEFE-4238-8F77-9F2CC47BFE04",
-  "lastModified": "2023-08-30T13:03:17.610",
+  "lastModified": "2025-06-27T18:51:25.067",
   "created": "2023-07-17T19:29:45.527",
   "titles": [
     {
-      "title": "Sound eXchange Project Sound eXchange (SoX) 14.4.3",
+      "title": "Sound eXchange Project Sound eXchange 14.4.3",
       "lang": "en"
     }
   ],
@@ -22,6 +22,16 @@
     {
       "ref": "https://sourceforge.net/p/sox/bugs/367/",
       "type": "Advisory"
+    },
+    {
+      "ref": "http://sox.sourceforge.net/",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:sox_project:sox:14.4.3:*:*:*:*:*:*:*",
+      "cpeNameId": "BA186EEC-ADB0-46A7-89F4-A05FE83EF1A2"
     }
   ]
 }

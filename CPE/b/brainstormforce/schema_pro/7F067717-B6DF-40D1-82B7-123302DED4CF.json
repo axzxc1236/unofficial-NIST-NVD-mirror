@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:brainstormforce:schema_pro:2.7.7:*:*:*:*:wordpress:*:*",
   "cpeNameId": "7F067717-B6DF-40D1-82B7-123302DED4CF",
-  "lastModified": "2023-12-05T16:36:59.430",
+  "lastModified": "2025-06-27T17:15:39.960",
   "created": "2023-12-05T16:36:59.430",
   "titles": [
     {
@@ -12,20 +12,22 @@
   ],
   "refs": [
     {
-      "ref": "https://store.brainstormforce.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://patchstack.com/database/vulnerability/wp-schema-pro/wordpress-schema-pro-plugin-2-7-7-cross-site-request-forgery-csrf-vulnerability?_s_id=cve",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://brainstormforce.com/products/",
-      "type": "Product"
-    },
-    {
       "ref": "https://wpschema.com/",
       "type": "Product"
+    },
+    {
+      "ref": "https://brainstormforce.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wpschema.com/whats-new/",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:brainstormforce:schema:2.7.7:*:*:*:pro:wordpress:*:*",
+      "cpeNameId": "39D2C992-17FF-4DD6-9B61-3005AFBB0230"
     }
   ]
 }

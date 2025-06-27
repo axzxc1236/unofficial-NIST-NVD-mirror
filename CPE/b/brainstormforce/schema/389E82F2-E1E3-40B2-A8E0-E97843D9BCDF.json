@@ -1,20 +1,16 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:brainstormforce:schema:1.6.0:*:*:*:*:wordpress:*:*",
   "cpeNameId": "389E82F2-E1E3-40B2-A8E0-E97843D9BCDF",
-  "lastModified": "2023-06-06T13:32:23.110",
+  "lastModified": "2025-06-27T17:15:39.960",
   "created": "2023-06-01T14:48:14.860",
   "titles": [
     {
-      "title": "Brainstorm Force Schema 1.6.0 for WordPress",
+      "title": "Brainstorm Force Schema 1.6.0 Free / Opensource Edition for WordPress",
       "lang": "en"
     }
   ],
   "refs": [
-    {
-      "ref": "https://patchstack.com/database/vulnerability/all-in-one-schemaorg-rich-snippets/wordpress-schema-all-in-one-schema-rich-snippets-plugin-1-6-5-cross-site-request-forgery-csrf-vulnerability?_s_id=cve",
-      "type": "Advisory"
-    },
     {
       "ref": "https://wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/#developers",
       "type": "Change Log"
@@ -22,6 +18,20 @@
     {
       "ref": "https://brainstormforce.com/",
       "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/brainstormforce/all-in-one-schemaorg-rich-snippets/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:brainstormforce:schema:1.6.0:*:*:*:-:wordpress:*:*",
+      "cpeNameId": "DE4CE637-E7B8-4528-BB54-24AE4CA0F2B5"
     }
   ]
 }

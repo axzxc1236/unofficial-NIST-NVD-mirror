@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:sox_project:sox:14.2.0:*:*:*:*:*:*:*",
   "cpeNameId": "3D76B253-A51D-49DE-B728-DA1136012397",
-  "lastModified": "2022-06-06T17:48:19.253",
+  "lastModified": "2025-06-27T18:51:25.067",
   "created": "2022-06-06T17:38:26.460",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://sourceforge.net/projects/sox/files/sox/",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:sound_exchange_project:sound_exchange:14.2.0:*:*:*:*:*:*:*",
+      "cpeNameId": "8869DE8B-540A-4153-9D46-1BAFA3E4D0F5"
     }
   ]
 }

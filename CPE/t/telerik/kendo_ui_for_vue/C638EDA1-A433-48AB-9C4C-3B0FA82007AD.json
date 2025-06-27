@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:telerik:kendo_ui_for_vue:0.5.0:*:*:*:*:*:*:*",
   "cpeNameId": "C638EDA1-A433-48AB-9C4C-3B0FA82007AD",
-  "lastModified": "2021-03-16T16:26:32.623",
+  "lastModified": "2025-06-27T19:18:35.260",
   "created": "2021-03-15T13:27:06.633",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.telerik.com/kendo-vue-ui/components/changelogs/ui-for-vue/",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:progress:kendo_ui_for_vue:0.5.0:*:*:*:*:*:*:*",
+      "cpeNameId": "9F3FABC1-AC62-4815-ADDA-60D712B62F2F"
     }
   ]
 }

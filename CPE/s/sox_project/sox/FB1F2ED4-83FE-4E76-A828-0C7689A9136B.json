@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:sox_project:sox:14.4.2-7:*:*:*:*:*:*:*",
   "cpeNameId": "FB1F2ED4-83FE-4E76-A828-0C7689A9136B",
-  "lastModified": "2022-11-07T20:28:11.647",
+  "lastModified": "2025-06-27T18:51:25.067",
   "created": "2022-08-26T14:57:23.240",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://sourceforge.net/p/sox/bugs/352/",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:sound_exchange_project:sound_exchange:14.4.2-7:*:*:*:*:*:*:*",
+      "cpeNameId": "D353D25A-5075-4B5F-8344-85607C2F80AA"
     }
   ]
 }

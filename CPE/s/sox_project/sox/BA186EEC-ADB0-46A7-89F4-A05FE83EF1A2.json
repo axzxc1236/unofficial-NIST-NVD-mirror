@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:sox_project:sox:14.4.3:*:*:*:*:*:*:*",
   "cpeNameId": "BA186EEC-ADB0-46A7-89F4-A05FE83EF1A2",
-  "lastModified": "2023-09-28T11:09:50.100",
+  "lastModified": "2025-06-27T18:51:25.067",
   "created": "2023-09-28T11:09:50.100",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://bugzilla.redhat.com/show_bug.cgi?id=2212279",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:sound_exchange_project:sound_exchange:14.4.3:*:*:*:*:*:*:*",
+      "cpeNameId": "2D51CEB4-FEFE-4238-8F77-9F2CC47BFE04"
     }
   ]
 }

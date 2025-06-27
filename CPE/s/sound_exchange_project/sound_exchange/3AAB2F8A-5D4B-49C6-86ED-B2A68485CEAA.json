@@ -2,11 +2,11 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:sound_exchange_project:sound_exchange:14.4.1:*:*:*:*:*:*:*",
   "cpeNameId": "3AAB2F8A-5D4B-49C6-86ED-B2A68485CEAA",
-  "lastModified": "2015-02-11T19:43:15.707",
+  "lastModified": "2025-06-27T18:51:25.067",
   "created": "2015-01-02T15:22:40.550",
   "titles": [
     {
-      "title": "Sound eXchange project Sound eXchange 14.4.1",
+      "title": "Sound eXchange Project Sound eXchange 14.4.1",
       "lang": "en"
     }
   ],
@@ -14,6 +14,20 @@
     {
       "ref": "http://sox.sourceforge.net/",
       "type": "Version"
+    },
+    {
+      "ref": "https://sourceforge.net/projects/sox/files/sox/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://sourceforge.net/projects/sox/",
+      "type": "Project"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:sox_project:sox:14.4.1:*:*:*:*:*:*:*",
+      "cpeNameId": "A5D5872B-38BE-4379-857C-D34774616E15"
     }
   ]
 }

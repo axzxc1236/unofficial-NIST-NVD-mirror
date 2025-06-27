@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:telerik:kendoreact:4.1.0:*:*:*:*:*:*:*",
   "cpeNameId": "875ECD6A-F8BC-406F-8ADD-ABA2C491E765",
-  "lastModified": "2021-03-23T15:35:06.980",
+  "lastModified": "2025-06-27T17:24:31.800",
   "created": "2021-03-15T13:29:19.340",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.telerik.com/kendo-react-ui/components/changelogs/ui-for-react/",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:progress:kendoreact:4.1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "A6F76DAB-C7E0-45D7-A320-128294BB2CFF"
     }
   ]
 }

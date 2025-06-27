@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:sound_exchange_project:sound_exchange:14.4.2:*:*:*:*:*:*:*",
   "cpeNameId": "72144A94-D742-49E7-B29F-E881CC1F8539",
-  "lastModified": "2025-06-24T19:34:46.403",
+  "lastModified": "2025-06-27T18:51:25.067",
   "created": "2019-07-29T13:32:04.937",
   "titles": [
     {
@@ -14,6 +14,18 @@
     {
       "ref": "https://github.com/rbouqueau/SoX/blob/master/ChangeLog",
       "type": "Change Log"
+    },
+    {
+      "ref": "https://sourceforge.net/projects/sox/files/sox/",
+      "type": "Version"
+    },
+    {
+      "ref": "http://sox.sourceforge.net/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://sourceforge.net/projects/sox/",
+      "type": "Project"
     }
   ],
   "deprecates": [
@@ -24,6 +36,10 @@
     {
       "cpeName": "cpe:2.3:a:libsox_project:libsox:14.4.2:*:*:*:*:*:*:*",
       "cpeNameId": "4D6BF069-82A2-4F2E-87EA-D7422E890352"
+    },
+    {
+      "cpeName": "cpe:2.3:a:sox_project:sox:14.4.2:*:*:*:*:*:*:*",
+      "cpeNameId": "96D039E0-D93D-46BB-A85D-A80536E69827"
     }
   ]
 }
