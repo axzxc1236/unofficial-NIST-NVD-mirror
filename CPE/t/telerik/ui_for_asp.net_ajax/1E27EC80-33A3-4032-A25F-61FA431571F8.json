@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:telerik:ui_for_asp.net_ajax:2014.3.1209:*:*:*:*:*:*:*",
   "cpeNameId": "1E27EC80-33A3-4032-A25F-61FA431571F8",
-  "lastModified": "2015-05-06T14:23:15.327",
+  "lastModified": "2025-06-30T13:06:39.947",
   "created": "2014-12-29T17:20:37.983",
   "titles": [
     {
@@ -17,6 +17,12 @@
     {
       "ref": "http://www.telerik.com/support/whats-new/aspnet-ajax/release-history",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:progress:telerik_ui_for_asp.net_ajax:2014.3.1209:*:*:*:*:*:*:*",
+      "cpeNameId": "2D68348C-6FA0-4312-8632-7440983D11B1"
     }
   ]
 }

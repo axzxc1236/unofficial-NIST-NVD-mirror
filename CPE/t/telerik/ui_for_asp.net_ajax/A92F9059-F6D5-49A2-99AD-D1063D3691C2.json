@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:telerik:ui_for_asp.net_ajax:2011.1519:*:*:*:*:*:*:*",
   "cpeNameId": "A92F9059-F6D5-49A2-99AD-D1063D3691C2",
-  "lastModified": "2019-12-26T15:47:35.437",
+  "lastModified": "2025-06-30T13:06:39.947",
   "created": "2019-12-26T15:47:35.437",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.telerik.com/support/kb/aspnet-ajax/details/allows-javascriptserializer-deserialization",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:progress:telerik_ui_for_asp.net_ajax:2011.1519:*:*:*:*:*:*:*",
+      "cpeNameId": "4D73EB31-55C7-4F42-B2DF-2453067F3BBE"
     }
   ]
 }

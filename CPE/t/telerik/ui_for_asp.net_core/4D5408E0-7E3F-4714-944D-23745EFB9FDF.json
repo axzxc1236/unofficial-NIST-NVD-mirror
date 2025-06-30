@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:telerik:ui_for_asp.net_core:2014.3.1314:*:*:*:*:*:*:*",
   "cpeNameId": "4D5408E0-7E3F-4714-944D-23745EFB9FDF",
-  "lastModified": "2021-03-29T11:18:05.987",
+  "lastModified": "2025-06-30T13:07:54.963",
   "created": "2021-03-15T13:22:14.017",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/telerik/kendo-ui-core/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:progress:telerik_ui_for_asp.net_core:2014.3.1314:*:*:*:*:*:*:*",
+      "cpeNameId": "BECC4473-3075-4506-9AA1-88406A8C6075"
     }
   ]
 }
