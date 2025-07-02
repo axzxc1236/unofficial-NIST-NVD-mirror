@@ -1,12 +1,12 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:azure_cli:2.0.47:*:*:*:*:*:*:*",
   "cpeNameId": "B39D588B-BB0E-4F54-9CF1-8179D49611C0",
-  "lastModified": "2023-11-20T19:24:43.817",
+  "lastModified": "2025-07-02T16:29:53.500",
   "created": "2023-11-20T19:24:43.817",
   "titles": [
     {
-      "title": "Microsoft Azure CLI 2.0.47",
+      "title": "Microsoft Azure Command-Line Interface (Azure CLI) 2.0.47",
       "lang": "en"
     }
   ],
@@ -26,6 +26,12 @@
     {
       "ref": "https://www.microsoft.com/en-us/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:azure_command-line_interface:2.0.47:*:*:*:*:*:*:*",
+      "cpeNameId": "682BFBF1-A5E5-4286-9262-19CF85A8B106"
     }
   ]
 }
