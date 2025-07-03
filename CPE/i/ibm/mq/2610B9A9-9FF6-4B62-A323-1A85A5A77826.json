@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:ibm:mq:9.0.0.2:*:*:*:lts:*:*:*",
   "cpeNameId": "2610B9A9-9FF6-4B62-A323-1A85A5A77826",
-  "lastModified": "2019-09-10T12:59:33.647",
+  "lastModified": "2025-07-03T17:31:58.217",
   "created": "2019-09-10T12:59:33.647",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www-01.ibm.com/support/docview.wss?uid=ibm10886887",
       "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:ibm:mq:9.0.0.2:*:*:*:*:*:*:*",
+      "cpeNameId": "FB4DBBDA-8C84-4993-85C6-0B9B51EE2C87"
     }
   ]
 }

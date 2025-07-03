@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ibm:mq:9.1.0.3:*:*:*:*:*:*:*",
   "cpeNameId": "4FDC2109-336D-4F93-BA5B-F6A55E3F9D4D",
-  "lastModified": "2019-10-08T11:53:45.450",
+  "lastModified": "2025-07-03T17:31:58.217",
   "created": "2019-10-08T11:53:45.450",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.ibm.com/support/pages/readme-ibm-mq-v91-and-its-maintenance",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:ibm:mq:9.1.0.3:*:*:*:lts:*:*:*",
+      "cpeNameId": "89604C40-2ECF-41A9-8F46-498EFDDC28DB"
     }
   ]
 }
