@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:trustwave:modsecurity:3.0.11:*:*:*:*:*:*:*",
   "cpeNameId": "079BE296-635A-4A57-8075-ACC467B9755A",
-  "lastModified": "2024-03-05T19:39:58.247",
+  "lastModified": "2025-07-03T20:59:17.147",
   "created": "2024-03-05T19:39:58.247",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://owasp.org/www-project-modsecurity/tab_cves#cve-2024-1019-2024-01-30",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:owasp:modsecurity:3.0.11:*:*:*:*:*:*:*",
+      "cpeNameId": "C1EE9D8D-A5D0-479B-A9A0-2F9D33D244F0"
     }
   ]
 }

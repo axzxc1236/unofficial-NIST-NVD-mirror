@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:trustwave:modsecurity:3.0.8:*:*:*:*:*:*:*",
   "cpeNameId": "431D3533-6F5A-41D5-99A8-1B2A15CFCA6E",
-  "lastModified": "2023-09-25T15:49:53.663",
+  "lastModified": "2025-07-03T20:59:17.147",
   "created": "2023-09-25T15:49:53.663",
   "titles": [
     {
@@ -30,6 +30,12 @@
     {
       "ref": "https://www.modsecurity.org/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:owasp:modsecurity:3.0.8:*:*:*:*:*:*:*",
+      "cpeNameId": "038C7D42-3A3D-46AB-9E31-DDC52A77237B"
     }
   ]
 }

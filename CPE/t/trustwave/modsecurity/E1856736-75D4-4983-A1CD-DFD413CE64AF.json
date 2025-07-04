@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:trustwave:modsecurity:2.9.4:*:*:*:*:*:*:*",
   "cpeNameId": "E1856736-75D4-4983-A1CD-DFD413CE64AF",
-  "lastModified": "2021-12-13T14:14:12.363",
+  "lastModified": "2025-07-03T20:59:17.147",
   "created": "2021-12-09T19:19:03.350",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/SpiderLabs/ModSecurity/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:owasp:modsecurity:2.9.4:*:*:*:*:*:*:*",
+      "cpeNameId": "6EF4FDC7-A617-424B-A878-2113C9F6C8B7"
     }
   ]
 }

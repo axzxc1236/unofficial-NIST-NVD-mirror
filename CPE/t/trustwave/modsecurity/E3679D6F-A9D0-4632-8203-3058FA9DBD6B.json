@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:trustwave:modsecurity:2.9.1:-:*:*:*:*:*:*",
   "cpeNameId": "E3679D6F-A9D0-4632-8203-3058FA9DBD6B",
-  "lastModified": "2021-02-10T15:34:47.517",
+  "lastModified": "2025-07-03T20:59:17.147",
   "created": "2021-02-10T15:34:47.517",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.trustwave.com/en-us/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:owasp:modsecurity:2.9.1:-:*:*:*:*:*:*",
+      "cpeNameId": "791ACBA2-C199-429B-AA30-98F70F557678"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:trustwave:modsecurity:2.5.0:rc1:*:*:*:*:*:*",
   "cpeNameId": "5DB004E7-EC30-424C-BD1C-F47511E2556B",
-  "lastModified": "2021-02-10T15:34:36.487",
+  "lastModified": "2025-07-03T20:59:17.147",
   "created": "2021-02-10T15:34:36.487",
   "titles": [
     {
@@ -12,16 +12,22 @@
   ],
   "refs": [
     {
-      "ref": "https://www.modsecurity.org/",
-      "type": "Product"
+      "ref": "https://www.trustwave.com/en-us/",
+      "type": "Vendor"
     },
     {
       "ref": "https://github.com/SpiderLabs/ModSecurity/releases",
       "type": "Change Log"
     },
     {
-      "ref": "https://www.trustwave.com/en-us/",
-      "type": "Vendor"
+      "ref": "https://www.modsecurity.org/",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:owasp:modsecurity:2.5.0:rc1:*:*:*:*:*:*",
+      "cpeNameId": "911329AD-7F00-4132-B590-EAD76246C2AE"
     }
   ]
 }

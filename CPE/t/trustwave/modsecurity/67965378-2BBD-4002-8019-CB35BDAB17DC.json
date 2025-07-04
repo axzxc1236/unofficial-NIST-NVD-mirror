@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:trustwave:modsecurity:3.0.9:*:*:*:*:*:*:*",
   "cpeNameId": "67965378-2BBD-4002-8019-CB35BDAB17DC",
-  "lastModified": "2023-05-06T14:08:01.110",
+  "lastModified": "2025-07-03T20:59:17.147",
   "created": "2023-05-04T17:44:30.893",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://www.trustwave.com/en-us/resources/security-resources/software-updates/announcing-modsecurity-version-309/",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:owasp:modsecurity:3.0.9:*:*:*:*:*:*:*",
+      "cpeNameId": "CA8A2CE0-1DDE-405A-AEF3-836BA8474735"
     }
   ]
 }
