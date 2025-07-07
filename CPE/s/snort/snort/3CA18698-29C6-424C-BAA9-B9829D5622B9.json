@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:snort:snort:3.0.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "3CA18698-29C6-424C-BAA9-B9829D5622B9",
-  "lastModified": "2021-10-28T19:06:11.633",
+  "lastModified": "2025-07-07T12:40:00.880",
   "created": "2021-10-28T18:10:50.950",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.snort.org/downloads",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:snort:3.0.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "1FFCBC26-A3C4-41EF-B0C5-CC13C3509EC4"
     }
   ]
 }

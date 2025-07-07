@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ckeditor_4_project:ckeditor_4:1.0.3:*:*:*:lts:drupal:*:*",
   "cpeNameId": "95286135-A7CB-4A01-B0DB-F6B2F74D530F",
-  "lastModified": "2025-06-17T17:27:10.060",
+  "lastModified": "2025-07-07T15:33:03.957",
   "created": "2025-06-17T17:27:10.060",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.drupal.org/project/ckeditor_lts/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cksource:ckeditor_4:1.0.3:*:*:*:lts:drupal:*:*",
+      "cpeNameId": "C0109413-055F-4237-B89E-5173EAFF10CB"
     }
   ]
 }
