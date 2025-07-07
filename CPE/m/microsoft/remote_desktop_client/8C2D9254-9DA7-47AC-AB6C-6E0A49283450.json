@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:remote_desktop_client:1.2.1104:*:*:*:*:windows:*:*",
+  "cpeNameId": "8C2D9254-9DA7-47AC-AB6C-6E0A49283450",
+  "lastModified": "2025-07-07T18:15:32.950",
+  "created": "2025-07-07T18:15:32.950",
+  "titles": [
+    {
+      "title": "Microsoft Remote Desktop Client 1.2.1104 for Windows",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-26645",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/previous-versions/remote-desktop-client/whats-new-windows?tabs=windows-msrdc-msi",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:remote_desktop:1.2.1104:*:*:*:*:windows:*:*",
+      "cpeNameId": "B3154A53-2627-4A8C-93A8-BE777C0C7287"
+    }
+  ]
+}

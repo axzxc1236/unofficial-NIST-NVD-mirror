@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:remote_desktop:1.2.3317:*:*:*:*:windows:*:*",
   "cpeNameId": "D6ECA316-6296-4AC7-A080-5483D321ABA7",
-  "lastModified": "2022-09-28T14:59:06.197",
+  "lastModified": "2025-07-07T18:15:32.950",
   "created": "2022-09-28T14:58:10.093",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.microsoft.com/en-us/p/microsoft-remote-desktop/9wzdncrfj3ps?rtc=1&activetab=pivot:overviewtab",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:remote_desktop_client:1.2.3317:*:*:*:*:windows:*:*",
+      "cpeNameId": "E48C6117-4D7F-4ACA-A9E9-36CE86FFA48D"
     }
   ]
 }

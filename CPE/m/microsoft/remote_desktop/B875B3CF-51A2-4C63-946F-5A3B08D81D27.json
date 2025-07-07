@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:remote_desktop:1.2.1186:*:*:*:*:windows:*:*",
   "cpeNameId": "B875B3CF-51A2-4C63-946F-5A3B08D81D27",
-  "lastModified": "2021-07-06T16:51:52.370",
+  "lastModified": "2025-07-07T18:15:32.950",
   "created": "2021-07-06T12:42:39.650",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:remote_desktop_client:1.2.1186:*:*:*:*:windows:*:*",
+      "cpeNameId": "22B284AD-8562-40DC-87E4-6789E9E28077"
     }
   ]
 }
