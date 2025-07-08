@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:visual_studio_code:0.9.0:*:*:*:*:matlab:*:*",
   "cpeNameId": "DF88024E-9DED-4CF0-AC9C-BAF35D0D56B0",
-  "lastModified": "2021-04-21T17:52:11.413",
+  "lastModified": "2025-07-08T17:36:06.327",
   "created": "2021-03-24T13:22:28.170",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://marketplace.visualstudio.com/items/Gimly81.matlab/changelog",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:gimly:matlab:0.9.0:*:*:*:*:visual_studio_code:*:*",
+      "cpeNameId": "44EB9BA2-EC75-4053-9721-CB62E8701197"
     }
   ]
 }

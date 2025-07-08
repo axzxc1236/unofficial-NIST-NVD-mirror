@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:visual_studio_code:1.5.2:*:*:*:*:matlab:*:*",
   "cpeNameId": "EB9FE7AA-E91D-4406-976A-315734681141",
-  "lastModified": "2021-04-21T17:52:11.413",
+  "lastModified": "2025-07-08T17:36:06.327",
   "created": "2021-03-24T13:22:28.170",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/Gimly/vscode-matlab/",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:gimly:matlab:1.5.2:*:*:*:*:visual_studio_code:*:*",
+      "cpeNameId": "7A675ACF-5B90-4DCD-B257-3BF0EC0A9EAF"
     }
   ]
 }

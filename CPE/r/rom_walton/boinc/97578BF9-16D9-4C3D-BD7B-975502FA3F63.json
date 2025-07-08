@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:rom_walton:boinc:7.2.26:*:*:*:*:*:*:*",
   "cpeNameId": "97578BF9-16D9-4C3D-BD7B-975502FA3F63",
-  "lastModified": "2014-07-08T18:53:49.057",
+  "lastModified": "2025-07-08T17:26:56.893",
   "created": "2014-06-03T12:57:30.693",
   "titles": [
     {
@@ -13,6 +13,12 @@
   "refs": [
     {
       "ref": "http://boinc.berkeley.edu/gitweb/?p=boinc-v2.git;a=summary"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:universityofcalifornia:boinc_client:7.2.26:*:*:*:*:*:*:*",
+      "cpeNameId": "39C275D9-CBCF-4ACC-836B-30E8599BD836"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:berkeley:boinc:-:*:*:*:*:*:*:*",
   "cpeNameId": "5BD4728F-C446-4415-9824-A5DA4702068C",
-  "lastModified": "2020-02-21T18:30:58.060",
+  "lastModified": "2025-07-08T17:31:11.267",
   "created": "2020-02-21T18:30:58.060",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "http://www.openwall.com/lists/oss-security/2013/04/29/11",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:universityofcalifornia:boinc_client:-:*:*:*:*:*:*:*",
+      "cpeNameId": "9AD7B03C-F35D-4CA5-9070-E0C734E99C12"
     }
   ]
 }
