@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:visual_studio_code:2020.8.5:*:*:*:*:python:*:*",
   "cpeNameId": "4704A096-1B08-48B2-AD50-96DDF1EDA044",
-  "lastModified": "2021-12-01T18:46:41.243",
+  "lastModified": "2025-07-08T20:03:45.660",
   "created": "2021-12-01T14:21:17.540",
   "titles": [
     {
@@ -12,16 +12,30 @@
   ],
   "refs": [
     {
-      "ref": "https://github.com/microsoft/vscode-python",
-      "type": "Version"
-    },
-    {
       "ref": "https://github.com/microsoft/vscode-python/blob/main/CHANGELOG.md",
       "type": "Change Log"
     },
     {
       "ref": "https://marketplace.visualstudio.com/items?itemName=ms-python.python",
       "type": "Product"
+    },
+    {
+      "ref": "https://marketplace.visualstudio.com/items/ms-python.python/changelog",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/microsoft/vscode-python",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/microsoft/vscode-python/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:python:2020.8.5:*:*:*:*:visual_studio_code:*:*",
+      "cpeNameId": "1B1EE0F0-A8D6-45F2-8BBA-4C3C008DFCA2"
     }
   ]
 }
