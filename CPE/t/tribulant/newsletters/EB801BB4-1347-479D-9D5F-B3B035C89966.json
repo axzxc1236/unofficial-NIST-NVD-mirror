@@ -1,12 +1,12 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:tribulant:newsletters:3.9.3:*:*:*:*:wordpress:*:*",
   "cpeNameId": "EB801BB4-1347-479D-9D5F-B3B035C89966",
-  "lastModified": "2023-05-18T15:03:02.280",
+  "lastModified": "2025-07-10T19:49:32.080",
   "created": "2023-05-18T15:00:43.057",
   "titles": [
     {
-      "title": "Tribulant Newsletters 3.9.3 for WordPress",
+      "title": "Tribulant Newsletters 3.9.3 Free/Lite Edition for WordPress",
       "lang": "en"
     }
   ],
@@ -20,8 +20,18 @@
       "type": "Vendor"
     },
     {
-      "ref": "https://tribulant.com/plugins/view/1/wordpress-newsletter-plugin",
+      "ref": "https://patchstack.com/database/vulnerability/newsletters-lite/wordpress-newsletters-plugin-4-9-7-cross-site-request-forgery-csrf-vulnerability?_s_id=cve",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/newsletters-lite/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:tribulant:newsletters:3.9.3:*:*:*:free:wordpress:*:*",
+      "cpeNameId": "9D517398-DA45-4FE8-9A61-FC831AD4917D"
     }
   ],
   "deprecates": [

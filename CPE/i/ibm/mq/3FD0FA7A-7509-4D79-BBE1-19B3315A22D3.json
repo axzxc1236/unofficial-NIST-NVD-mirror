@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ibm:mq:9.4.0:*:*:*:lts:*:*:*",
   "cpeNameId": "3FD0FA7A-7509-4D79-BBE1-19B3315A22D3",
-  "lastModified": "2025-07-03T17:31:58.217",
+  "lastModified": "2025-07-10T18:56:25.690",
   "created": "2025-07-03T17:31:58.217",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.ibm.com/products/mq",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:ibm:mq:9.4.0.0:*:*:*:lts:*:*:*",
+      "cpeNameId": "6FC2C475-3A53-4A8C-8AD6-349C61E53C82"
     }
   ]
 }
