@@ -1,12 +1,12 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:visual_studio_code:1.2.0:*:*:*:*:tslint:*:*",
   "cpeNameId": "E428C459-E092-4FD1-B1D0-B73BD9693C39",
-  "lastModified": "2020-12-11T15:16:04.430",
+  "lastModified": "2025-07-10T12:07:07.943",
   "created": "2020-12-11T15:16:04.430",
   "titles": [
     {
-      "title": "Microsoft Visual Studio Code 1.2.0 for TSLint",
+      "title": "Microsoft TSLint 1.2.0 for Tslint",
       "lang": "en"
     }
   ],
@@ -14,6 +14,24 @@
     {
       "ref": "https://marketplace.visualstudio.com/items/ms-vscode.vscode-typescript-tslint-plugin/changelog",
       "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/microsoft/vscode-typescript-tslint-plugin",
+      "type": "Product"
+    },
+    {
+      "ref": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/microsoft/vscode-typescript-tslint-plugin/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:tslint:1.2.0:*:*:*:*:visual_studio_code:*:*",
+      "cpeNameId": "9C974B88-0FC7-405B-A05C-10A3B0304643"
     }
   ]
 }

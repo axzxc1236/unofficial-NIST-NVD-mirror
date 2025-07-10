@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:zziplib_project:zziplib:0.13.48:*:*:*:*:*:*:*",
   "cpeNameId": "8DD088CC-09CC-437D-9D31-FE0342263C78",
-  "lastModified": "2019-06-11T13:54:36.913",
+  "lastModified": "2025-07-10T15:44:53.370",
   "created": "2019-06-11T13:54:36.913",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/gdraheim/zziplib",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:gdraheim:zziplib:0.13.48:*:*:*:*:*:*:*",
+      "cpeNameId": "E5ACE55F-91F1-45AB-BD54-DF3281869D66"
     }
   ]
 }
