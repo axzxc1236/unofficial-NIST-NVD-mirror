@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:python_extension:2019.11.49689:*:*:*:*:visual_studio_code:*:*",
   "cpeNameId": "EE12FE10-84AD-4B6D-B638-B324816E40AF",
-  "lastModified": "2024-01-08T20:54:53.103",
+  "lastModified": "2025-07-15T18:53:15.837",
   "created": "2024-01-08T20:54:53.103",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2020-17163",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:python:2019.11.49689:*:*:*:*:visual_studio_code:*:*",
+      "cpeNameId": "42F08F91-DA6A-4CA3-8F25-66419C016F4D"
     }
   ]
 }

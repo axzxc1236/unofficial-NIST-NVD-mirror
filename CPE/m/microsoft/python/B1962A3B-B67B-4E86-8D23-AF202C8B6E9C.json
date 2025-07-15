@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:python:-:*:*:*:*:visual_studio_code:*:*",
+  "cpeNameId": "B1962A3B-B67B-4E86-8D23-AF202C8B6E9C",
+  "lastModified": "2025-07-15T18:53:15.837",
+  "created": "2025-07-15T18:53:15.837",
+  "titles": [
+    {
+      "title": "Microsoft Python for Visual Studio Code",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://marketplace.visualstudio.com/items?itemName=ms-python.python",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/microsoft/vscode-python/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:python_extension:-:*:*:*:*:visual_studio_code:*:*",
+      "cpeNameId": "15643208-EA39-465E-9322-44F142BB4AE3"
+    }
+  ]
+}

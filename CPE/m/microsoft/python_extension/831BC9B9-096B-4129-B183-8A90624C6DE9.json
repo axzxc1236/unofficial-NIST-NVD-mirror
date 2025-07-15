@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:python_extension:2024.14.1:*:*:*:*:visual_studio_code:*:*",
   "cpeNameId": "831BC9B9-096B-4129-B183-8A90624C6DE9",
-  "lastModified": "2024-12-10T18:36:18.077",
+  "lastModified": "2025-07-15T18:53:15.837",
   "created": "2024-12-10T18:36:18.077",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/microsoft/vscode-python/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:python:2024.14.1:*:*:*:*:visual_studio_code:*:*",
+      "cpeNameId": "1D272CF1-EDDE-4987-BE25-EBF625E3BAC4"
     }
   ]
 }

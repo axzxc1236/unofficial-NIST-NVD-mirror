@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:python_extension:2023.11.11801006:*:*:*:*:visual_studio_code:*:*",
   "cpeNameId": "C271F7E0-2BE1-47CB-B27F-5069CBFA7110",
-  "lastModified": "2024-12-10T18:36:18.077",
+  "lastModified": "2025-07-15T18:53:15.837",
   "created": "2024-12-10T18:36:18.077",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49050",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:python:2023.11.11801006:*:*:*:*:visual_studio_code:*:*",
+      "cpeNameId": "A6E17518-F4ED-45E2-9BDF-FF60C83B8280"
     }
   ]
 }

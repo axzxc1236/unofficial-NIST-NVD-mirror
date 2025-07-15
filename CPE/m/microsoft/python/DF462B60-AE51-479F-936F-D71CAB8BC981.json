@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:microsoft:python:2024.12.1:*:*:*:*:visual_studio_code:*:*",
   "cpeNameId": "DF462B60-AE51-479F-936F-D71CAB8BC981",
-  "lastModified": "2025-07-08T20:03:45.660",
+  "lastModified": "2025-07-15T18:53:15.837",
   "created": "2025-07-08T20:03:45.660",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://github.com/microsoft/vscode-python/tags",
       "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:python_extension:2024.12.1:*:*:*:*:visual_studio_code:*:*",
+      "cpeNameId": "890CCF6C-C753-45C9-B1D5-EB5AA41492D5"
     }
   ]
 }

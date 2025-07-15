@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:python:2024.18.2:*:*:*:*:visual_studio_code:*:*",
+  "cpeNameId": "C15BC5F8-32DC-4525-A192-773BECBB9263",
+  "lastModified": "2025-07-15T18:53:15.837",
+  "created": "2025-07-15T18:53:15.837",
+  "titles": [
+    {
+      "title": "Microsoft Python 2024.18.2 for Visual Studio Code",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://marketplace.visualstudio.com/items?itemName=ms-python.python",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/microsoft/vscode-python",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/microsoft/vscode-python/blob/main/CHANGELOG.md",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/microsoft/vscode-python/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49050",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:python_extension:2024.18.2:*:*:*:*:visual_studio_code:*:*",
+      "cpeNameId": "D754BAAF-CE3F-4A40-8594-F6E19ECC7ECB"
+    }
+  ]
+}
