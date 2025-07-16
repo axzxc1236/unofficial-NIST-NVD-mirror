@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:struts:6.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "3977DF4E-7ECF-4F2D-9B23-F9AB596F3297",
-  "lastModified": "2023-06-23T15:56:08.763",
+  "lastModified": "2025-07-16T16:15:14.337",
   "created": "2023-06-21T20:00:42.483",
   "titles": [
     {
@@ -12,12 +12,26 @@
   ],
   "refs": [
     {
-      "ref": "https://www.openwall.com/lists/oss-security/2023/06/14/2",
-      "type": "Advisory"
+      "ref": "https://struts.apache.org/",
+      "type": "Product"
     },
     {
-      "ref": "https://issues.apache.org/jira/browse/WW-4697?jql=project%20%3D%20WW%20AND%20fixVersion%20%3D%202.5.5",
+      "ref": "https://cwiki.apache.org/confluence/display/WW/Migration+Guide",
       "type": "Version"
+    },
+    {
+      "ref": "https://github.com/apache/struts",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/apache/struts/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:apache:struts:6.0.0:-:*:*:*:*:*:*",
+      "cpeNameId": "639DAEA4-BA45-4E9F-A775-D94F722C9ABF"
     }
   ]
 }
