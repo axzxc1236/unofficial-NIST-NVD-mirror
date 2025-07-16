@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:powershell:1.7.0:*:*:*:*:visual_studio_code:*:*",
+  "cpeNameId": "CA4427C0-9C41-4310-A89D-126ED2EE264C",
+  "lastModified": "2025-07-16T13:01:52.037",
+  "created": "2025-07-16T13:01:52.037",
+  "titles": [
+    {
+      "title": "Microsoft PowerShell 1.7.0 for Visual Studio Code",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell",
+      "type": "Product"
+    },
+    {
+      "ref": "https://marketplace.visualstudio.com/items/ms-vscode.PowerShell/changelog",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/PowerShell/vscode-powershell",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/PowerShell/vscode-powershell/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:powershell_extension:1.7.0:*:*:*:*:visual_studio_code:*:*",
+      "cpeNameId": "C6D1F0B8-C5C5-4BF7-9AFC-89BE22BDBECE"
+    }
+  ]
+}

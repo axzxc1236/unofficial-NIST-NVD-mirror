@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:football_pool_project:football_pool:2.2.4:*:*:*:*:wordpress:*:*",
   "cpeNameId": "27DFB237-7E3D-474F-9829-60DE7232815A",
-  "lastModified": "2019-08-22T14:30:45.300",
+  "lastModified": "2025-07-16T13:14:09.407",
   "created": "2019-08-22T14:30:45.300",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://wordpress.org/plugins/football-pool/#developers",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:antoineh:football_pool:2.2.4:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "CA44D11C-411D-4C99-8EC9-3DCE582EF3AC"
     }
   ]
 }

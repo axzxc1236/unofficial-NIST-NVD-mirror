@@ -1,23 +1,33 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:visual_studio_code_eslint_extension:2.0.15:*:*:*:*:*:*:*",
   "cpeNameId": "6C168B27-E97E-438C-B63D-82F122B59EFA",
-  "lastModified": "2020-08-21T14:17:10.533",
+  "lastModified": "2025-07-16T13:01:52.037",
   "created": "2020-08-21T14:17:10.533",
   "titles": [
     {
-      "title": "Microsoft Visual Studio Code ESLint extension 2.0.15",
+      "title": "Microsoft ESLint 2.0.15",
       "lang": "en"
     }
   ],
   "refs": [
     {
-      "ref": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1481",
-      "type": "Advisory"
-    },
-    {
       "ref": "https://marketplace.visualstudio.com/items/dbaeumer.vscode-eslint/changelog",
       "type": "Change Log"
+    },
+    {
+      "ref": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/Microsoft/vscode-eslint",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:eslint:2.0.15:*:*:*:*:visual_studio_code:*:*",
+      "cpeNameId": "84E59F2C-3F3D-47FA-BE1F-35FA860B9183"
     }
   ]
 }
