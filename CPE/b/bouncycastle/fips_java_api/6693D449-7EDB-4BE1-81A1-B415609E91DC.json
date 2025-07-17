@@ -2,22 +2,26 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:bouncycastle:fips_java_api:1.0.2.4:*:*:*:*:*:*:*",
   "cpeNameId": "6693D449-7EDB-4BE1-81A1-B415609E91DC",
-  "lastModified": "2022-12-15T16:36:00.290",
+  "lastModified": "2025-07-17T17:04:58.007",
   "created": "2022-11-29T14:53:22.413",
   "titles": [
     {
-      "title": "Bouncy Castle FIPS Java API 1.0.2.4",
+      "title": "Bouncy Castle FIPS Java API (BC-FJA) 1.0.2.4",
       "lang": "en"
     }
   ],
   "refs": [
     {
-      "ref": "https://www.bouncycastle.org/latest_releases.html",
-      "type": "Version"
+      "ref": "https://www.bouncycastle.org/",
+      "type": "Vendor"
     },
     {
-      "ref": "https://github.com/bcgit/bc-java/wiki/CVE-2022-45146",
-      "type": "Advisory"
+      "ref": "https://downloads.bouncycastle.org/fips-java/docs/BC-FJA-UserGuide-2.1.0.pdf",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.bouncycastle.org/download/bouncy-castle-java-fips/",
+      "type": "Change Log"
     }
   ]
 }

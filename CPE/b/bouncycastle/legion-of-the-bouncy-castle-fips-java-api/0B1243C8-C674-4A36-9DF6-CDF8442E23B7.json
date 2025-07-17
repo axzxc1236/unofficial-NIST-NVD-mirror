@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:bouncycastle:legion-of-the-bouncy-castle-fips-java-api:1.0.2:*:*:*:*:*:*:*",
   "cpeNameId": "0B1243C8-C674-4A36-9DF6-CDF8442E23B7",
-  "lastModified": "2021-05-26T15:48:08.940",
+  "lastModified": "2025-07-17T17:04:58.007",
   "created": "2021-05-26T11:10:47.370",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/bcgit/bc-java/wiki/CVE-2020-15522",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:bouncycastle:fips_java_api:1.0.2:*:*:*:*:*:*:*",
+      "cpeNameId": "FFE51F7C-820B-40FA-8809-C182E8B87BC2"
     }
   ]
 }
