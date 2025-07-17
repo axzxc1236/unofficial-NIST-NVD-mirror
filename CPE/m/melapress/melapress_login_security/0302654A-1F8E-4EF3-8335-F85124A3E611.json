@@ -1,12 +1,12 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:melapress:melapress_login_security:1.2.2:*:*:*:*:wordpress:*:*",
   "cpeNameId": "0302654A-1F8E-4EF3-8335-F85124A3E611",
-  "lastModified": "2024-06-12T12:34:21.190",
+  "lastModified": "2025-07-17T15:29:21.963",
   "created": "2024-06-12T12:34:21.190",
   "titles": [
     {
-      "title": "MelaPress Login Security 1.2.2 for WordPress",
+      "title": "Melapress Login Security 1.2.2 for WordPress",
       "lang": "en"
     }
   ],
@@ -26,6 +26,12 @@
     {
       "ref": "https://patchstack.com/database/vulnerability/melapress-login-security/wordpress-melapress-login-security-plugin-1-3-0-remote-file-inclusion-vulnerability?_s_id=cve",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:melapress:melapress_login_security:1.2.2:*:*:*:free:wordpress:*:*",
+      "cpeNameId": "65074BA4-26D1-44A9-BB30-FAC47608DA59"
     }
   ]
 }
