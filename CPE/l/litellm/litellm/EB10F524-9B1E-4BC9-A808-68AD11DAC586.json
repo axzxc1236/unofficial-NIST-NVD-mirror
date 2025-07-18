@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:litellm:litellm:1.38.7:*:*:*:*:*:*:*",
   "cpeNameId": "EB10F524-9B1E-4BC9-A808-68AD11DAC586",
-  "lastModified": "2024-10-09T17:17:30.877",
+  "lastModified": "2025-07-18T14:04:50.223",
   "created": "2024-10-09T17:17:30.877",
   "titles": [
     {
@@ -12,16 +12,22 @@
   ],
   "refs": [
     {
-      "ref": "https://github.com/BerriAI/litellm",
+      "ref": "https://docs.litellm.ai/",
       "type": "Product"
     },
     {
-      "ref": "https://github.com/BerriAI/litellm/tags",
+      "ref": "https://github.com/BerriAI/litellm/releases",
       "type": "Change Log"
     },
     {
-      "ref": "https://docs.litellm.ai/",
-      "type": "Product"
+      "ref": "https://www.litellm.ai/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:litellm:litellm:1.38.7:-:*:*:*:*:*:*",
+      "cpeNameId": "BF28934B-3846-400A-B7F6-235E5698A619"
     }
   ]
 }
