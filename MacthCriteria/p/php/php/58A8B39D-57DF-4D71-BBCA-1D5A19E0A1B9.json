@@ -2,7 +2,7 @@
   "matchCriteriaId": "58A8B39D-57DF-4D71-BBCA-1D5A19E0A1B9",
   "criteria": "cpe:2.3:a:php:php:*:*:*:*:*:*:*:*",
   "lastModified": "2019-06-17T09:16:33.960",
-  "cpeLastModified": "2025-04-23T18:40:54.533",
+  "cpeLastModified": "2025-07-17T20:33:09.903",
   "created": "2019-06-17T09:16:33.960",
   "status": "Active",
   "matches": [
@@ -5503,6 +5503,10 @@
       "cpeNameId": "853F30AE-2B82-4689-B5C6-2ED3CB43B03D"
     },
     {
+      "cpeName": "cpe:2.3:a:php:php:8.1.33:*:*:*:*:*:*:*",
+      "cpeNameId": "3C0707C0-7C6C-49FB-B70A-6FCC55089032"
+    },
+    {
       "cpeName": "cpe:2.3:a:php:php:8.2.0:-:*:*:*:*:*:*",
       "cpeNameId": "DF5966D9-0FB6-42AA-8322-0D5EC1694CFD"
     },
@@ -5767,6 +5771,14 @@
       "cpeNameId": "94FAC0D4-E474-40C1-99E0-42D6BAED9AE7"
     },
     {
+      "cpeName": "cpe:2.3:a:php:php:8.2.29:*:*:*:*:*:*:*",
+      "cpeNameId": "93CCDB65-3F4F-479C-A2F6-301F6B047C10"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.3.0:-:*:*:*:*:*:*",
+      "cpeNameId": "11A8B27D-BE05-4702-BA0C-79974F2D70D5"
+    },
+    {
       "cpeName": "cpe:2.3:a:php:php:8.3.0:alpha1:*:*:*:*:*:*",
       "cpeNameId": "61D9D5F4-431D-4059-8412-A28BC98462DD"
     },
@@ -5927,12 +5939,228 @@
       "cpeNameId": "865E6018-5912-4069-BC4F-458A5F0C7792"
     },
     {
+      "cpeName": "cpe:2.3:a:php:php:8.3.15:-:*:*:*:*:*:*",
+      "cpeNameId": "B8DCC704-D2CB-47C3-AC7D-5B71BF93F97C"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.3.15:rc1:*:*:*:*:*:*",
+      "cpeNameId": "0F965282-D80B-4070-BEE9-11AA97403B3B"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.3.16:-:*:*:*:*:*:*",
+      "cpeNameId": "7C74883B-EFC4-42FD-847F-5668F25F0252"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.3.16:rc1:*:*:*:*:*:*",
+      "cpeNameId": "3D4DA6F7-E484-4083-ACF3-E20375E8C6EE"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.3.17:-:*:*:*:*:*:*",
+      "cpeNameId": "E334A5EA-6E33-4FF0-86F7-1CEBD1A5A453"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.3.17:rc1:*:*:*:*:*:*",
+      "cpeNameId": "538EAF49-329A-467E-9C4D-C24E4572641C"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.3.18:-:*:*:*:*:*:*",
+      "cpeNameId": "984DF1A0-4240-48AB-B8AE-3D98E9671D32"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.3.18:rc1:*:*:*:*:*:*",
+      "cpeNameId": "22A25388-E5F9-4158-80FA-D8A908977992"
+    },
+    {
       "cpeName": "cpe:2.3:a:php:php:8.3.19:*:*:*:*:*:*:*",
       "cpeNameId": "2C976415-C572-45A1-AA52-93BB3E39ABD8"
     },
     {
+      "cpeName": "cpe:2.3:a:php:php:8.3.20:-:*:*:*:*:*:*",
+      "cpeNameId": "624C2F89-F3D2-43AC-9BED-CF616B716164"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.3.20:rc1:*:*:*:*:*:*",
+      "cpeNameId": "AF8F5E54-7707-4531-BF78-96D6E31C460E"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.3.21:-:*:*:*:*:*:*",
+      "cpeNameId": "4AFC37DB-A39E-4A29-A63E-FD2D6EF17D9B"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.3.21:rc1:*:*:*:*:*:*",
+      "cpeNameId": "8B962A3C-394D-4E99-AFD9-DDF1725297B6"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.3.22:-:*:*:*:*:*:*",
+      "cpeNameId": "CF0513CE-AC8C-4CF6-A5ED-526390D53010"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.3.22:rc1:*:*:*:*:*:*",
+      "cpeNameId": "B2718A85-EB94-4DA5-A5BA-343502217897"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.3.23:-:*:*:*:*:*:*",
+      "cpeNameId": "D04E8FE0-120C-43DC-8266-8A20DA6866C1"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.3.23:rc1:*:*:*:*:*:*",
+      "cpeNameId": "E5CA82F0-56D9-4D1B-AA1B-B65AA8564616"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.3.24:rc1:*:*:*:*:*:*",
+      "cpeNameId": "629D6EE8-4080-439E-AB3B-9958FB6F320C"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.0:-:*:*:*:*:*:*",
+      "cpeNameId": "7BFD92CA-A8FD-4BB5-9CEA-13280A7148B7"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.0:alpha1:*:*:*:*:*:*",
+      "cpeNameId": "AE207802-74DA-4C80-AD6C-A7C93EB61A45"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.0:alpha2:*:*:*:*:*:*",
+      "cpeNameId": "339ED16F-AB43-4B99-8225-1D1E8CFB9122"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.0:alpha3:*:*:*:*:*:*",
+      "cpeNameId": "0B648635-700B-4802-AF03-A1934E6BBDCB"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.0:alpha4:*:*:*:*:*:*",
+      "cpeNameId": "B7AE00FD-AF59-46FB-B807-F9A1EEAF25AE"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.0:beta1:*:*:*:*:*:*",
+      "cpeNameId": "5DB1EB6D-50DC-41AC-9287-67EE45E66C9A"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.0:beta2:*:*:*:*:*:*",
+      "cpeNameId": "D8896B05-5C16-452C-A9DB-3F62613DC34C"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.0:beta3:*:*:*:*:*:*",
+      "cpeNameId": "D39C010C-01DA-4B44-9BD0-6209DDCA7C1F"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.0:beta4:*:*:*:*:*:*",
+      "cpeNameId": "448C01DB-1A7E-44AE-A9C0-5E8A7B7583B7"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.0:beta5:*:*:*:*:*:*",
+      "cpeNameId": "DBE796BF-C04E-4BA7-84DE-589A56224265"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.0:rc1:*:*:*:*:*:*",
+      "cpeNameId": "88EBCE97-53DF-4B97-AB87-6BC3992F6849"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.0:rc2:*:*:*:*:*:*",
+      "cpeNameId": "D5DBCCA1-196E-4BD2-A8F5-BC281748E920"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.0:rc3:*:*:*:*:*:*",
+      "cpeNameId": "038C2BBE-8A0A-4E22-A332-91C92E7F1EF0"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.0:rc4:*:*:*:*:*:*",
+      "cpeNameId": "D3B61B40-690E-4BFE-BE10-BE810A9932FE"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.1:*:*:*:*:*:*:*",
+      "cpeNameId": "DA9BE2AC-8D91-4654-9CE4-2882C914E0A4"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.2:-:*:*:*:*:*:*",
+      "cpeNameId": "50AEBF31-8E7D-4A7D-82A4-D64ABEE58DAB"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.2:rc1:*:*:*:*:*:*",
+      "cpeNameId": "D8130D96-15EC-49AB-BBC1-A0A010458C47"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.3:-:*:*:*:*:*:*",
+      "cpeNameId": "4CC9C94B-9CF0-4D91-88F5-17C03DF5A53A"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.3:rc1:*:*:*:*:*:*",
+      "cpeNameId": "8A82A9DC-CDE3-4528-A70A-96D0E89229BB"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.4:-:*:*:*:*:*:*",
+      "cpeNameId": "63B1777C-006A-4167-B558-DCECEAC69C6C"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.4:rc1:*:*:*:*:*:*",
+      "cpeNameId": "20F8AF08-1D51-4213-84A1-10EAA697F662"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.4:rc2:*:*:*:*:*:*",
+      "cpeNameId": "28E60F69-549A-4179-8FF3-354A196E2367"
+    },
+    {
       "cpeName": "cpe:2.3:a:php:php:8.4.5:*:*:*:*:*:*:*",
       "cpeNameId": "93BF2BC6-27A6-481C-97FA-4065D583988F"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.5:-:*:*:*:*:*:*",
+      "cpeNameId": "4FAD3DE6-11D8-4230-B1AF-46644C399846"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.5:rc1:*:*:*:*:*:*",
+      "cpeNameId": "F5CFFB26-5BD7-4C89-9BA0-F8B23844B4CC"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.6:-:*:*:*:*:*:*",
+      "cpeNameId": "BAF4226B-6D30-4C4C-9B57-D30BA135D12B"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.6:rc1:*:*:*:*:*:*",
+      "cpeNameId": "A9DAB5BD-8256-47BD-B106-BE404A46257B"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.7:-:*:*:*:*:*:*",
+      "cpeNameId": "F84CBC98-B3C9-4EAF-98E3-26C5315BCDF3"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.7:rc1:*:*:*:*:*:*",
+      "cpeNameId": "6C71DD41-48E7-4C22-ACA9-8E3F2388C582"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.7:rc2:*:*:*:*:*:*",
+      "cpeNameId": "1F93F0F5-C6A7-47AD-9A03-54161BA3D961"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.8:-:*:*:*:*:*:*",
+      "cpeNameId": "C9258559-3A2C-47CC-B250-F92E66BC7E45"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.8:rc1:*:*:*:*:*:*",
+      "cpeNameId": "D78D87C5-0955-4758-83FA-C32281536156"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.9:-:*:*:*:*:*:*",
+      "cpeNameId": "6AD792BD-9B21-45B1-B509-FBD2281F3DA1"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.9:rc1:*:*:*:*:*:*",
+      "cpeNameId": "5A9FE391-6146-4010-91E6-EBBDBBC380AE"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.10:*:*:*:*:*:*:*",
+      "cpeNameId": "B31A303F-C2C1-49B7-8849-10F521D85F78"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.4.11:rc1:*:*:*:*:*:*",
+      "cpeNameId": "7B292325-3DFE-4E33-8FF9-53506D0B166A"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.5.0:alpha1:*:*:*:*:*:*",
+      "cpeNameId": "258EAF65-CDE7-462A-8037-915233499FB7"
+    },
+    {
+      "cpeName": "cpe:2.3:a:php:php:8.5.0:alpha2:*:*:*:*:*:*",
+      "cpeNameId": "F66CB4F9-B623-4E54-8F28-4520DA3309C5"
     }
   ]
 }
