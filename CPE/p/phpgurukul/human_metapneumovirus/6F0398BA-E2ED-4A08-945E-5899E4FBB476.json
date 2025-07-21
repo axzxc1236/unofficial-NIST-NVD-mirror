@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:phpgurukul:human_metapneumovirus:1.0:*:*:*:*:*:*:*",
   "cpeNameId": "6F0398BA-E2ED-4A08-945E-5899E4FBB476",
-  "lastModified": "2025-03-31T12:27:56.180",
+  "lastModified": "2025-07-21T13:33:21.970",
   "created": "2025-03-31T12:27:56.180",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/sorcha-l/cve/blob/main/Human%20Metapneumovirus%20(HMPV)%20%E2%80%93%20Testing%20Management%20System%20%20XSS%20in%20search-report.php.md",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:phpgurukul:human_metapneumovirus_testing_management_system:1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "42D77308-F2AA-4D95-A9E4-29A9230DFC5A"
     }
   ]
 }
