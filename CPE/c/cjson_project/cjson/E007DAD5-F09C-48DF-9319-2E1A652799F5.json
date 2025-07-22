@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cjson_project:cjson:1.7.16:*:*:*:*:*:*:*",
   "cpeNameId": "E007DAD5-F09C-48DF-9319-2E1A652799F5",
-  "lastModified": "2023-12-19T20:24:26.747",
+  "lastModified": "2025-07-22T18:17:44.500",
   "created": "2023-12-19T20:24:26.747",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/DaveGamble/cJSON/tags",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:davegamble:cjson:1.7.16:*:*:*:*:*:*:*",
+      "cpeNameId": "4579A340-4C9E-4ADA-813C-52D815BECFA7"
     }
   ]
 }

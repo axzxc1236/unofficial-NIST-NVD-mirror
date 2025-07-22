@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cjson_project:cjson:1.7.0:*:*:*:*:*:*:*",
   "cpeNameId": "030254CA-1119-4BC3-915E-82989B0FB060",
-  "lastModified": "2019-05-09T12:02:48.307",
+  "lastModified": "2025-07-22T18:17:44.500",
   "created": "2019-05-09T12:02:48.307",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/DaveGamble/cJSON",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:davegamble:cjson:1.7.0:*:*:*:*:*:*:*",
+      "cpeNameId": "7EE9D980-B566-4452-B2E7-53509B9B17DF"
     }
   ]
 }
