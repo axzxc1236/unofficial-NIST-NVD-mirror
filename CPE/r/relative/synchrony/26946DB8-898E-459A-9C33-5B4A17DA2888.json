@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:relative:synchrony:2.0.1:*:*:*:*:nodejs:*:*",
   "cpeNameId": "26946DB8-898E-459A-9C33-5B4A17DA2888",
-  "lastModified": "2023-10-25T05:38:59.000",
+  "lastModified": "2025-07-22T15:02:21.127",
   "created": "2023-10-25T05:38:59.000",
   "titles": [
     {
@@ -12,8 +12,18 @@
   ],
   "refs": [
     {
-      "ref": "https://github.com/relative/synchrony/security/advisories/GHSA-jg82-xh3w-rhxx",
-      "type": "Advisory"
+      "ref": "https://github.com/relative/synchrony",
+      "type": "Version"
+    },
+    {
+      "ref": "https://relative.im/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:relative:synchrony:2.0.1:*:*:*:*:node.js:*:*",
+      "cpeNameId": "48799B29-65A1-4DE3-B5B2-CE96A71CA50F"
     }
   ]
 }
