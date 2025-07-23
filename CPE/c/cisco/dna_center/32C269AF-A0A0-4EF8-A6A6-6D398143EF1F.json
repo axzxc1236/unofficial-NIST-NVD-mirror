@@ -1,12 +1,12 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cisco:dna_center:2.1.1.0:*:*:*:*:*:*:*",
   "cpeNameId": "32C269AF-A0A0-4EF8-A6A6-6D398143EF1F",
-  "lastModified": "2021-01-26T13:22:42.800",
+  "lastModified": "2025-07-23T15:26:37.360",
   "created": "2021-01-26T13:22:42.800",
   "titles": [
     {
-      "title": "Cisco DNA Center 2.1.1.0",
+      "title": "Cisco Catalyst Center (formerly Cisco DNA Center) 2.1.1.0",
       "lang": "en"
     }
   ],
@@ -14,6 +14,12 @@
     {
       "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-dnac-csrf-dC83cMcV",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:catalyst_center:2.1.1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "EED04CE1-1967-4645-89D3-75531366824A"
     }
   ]
 }

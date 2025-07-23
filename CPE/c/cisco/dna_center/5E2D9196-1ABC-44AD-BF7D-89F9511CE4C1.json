@@ -1,12 +1,12 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cisco:dna_center:-:*:*:*:*:*:*:*",
   "cpeNameId": "5E2D9196-1ABC-44AD-BF7D-89F9511CE4C1",
-  "lastModified": "2023-05-15T15:35:29.110",
+  "lastModified": "2025-07-23T15:26:37.360",
   "created": "2023-03-29T11:19:48.540",
   "titles": [
     {
-      "title": "Cisco DNA Center",
+      "title": "Cisco Catalyst Center (formerly Cisco DNA Center) -",
       "lang": "en"
     }
   ],
@@ -14,6 +14,12 @@
     {
       "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-dnac-privesc-QFXe74RS",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:catalyst_center:-:*:*:*:*:*:*:*",
+      "cpeNameId": "5E39D80D-39CE-4E98-BD2C-9965576E391C"
     }
   ]
 }

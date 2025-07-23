@@ -1,12 +1,12 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cisco:dna_center:1.3.1.0:*:*:*:*:*:*:*",
   "cpeNameId": "A7D7CC3B-E0AD-4566-BC4D-F65B1DCB3CCF",
-  "lastModified": "2020-02-24T16:42:03.950",
+  "lastModified": "2025-07-23T15:26:37.360",
   "created": "2020-02-24T16:42:03.950",
   "titles": [
     {
-      "title": "Cisco DNA Center 1.3.1.0",
+      "title": "Cisco Catalyst Center (formerly Cisco DNA Center) 1.3.1.0",
       "lang": "en"
     }
   ],
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.cisco.com/c/en/us/td/docs/cloud-systems-management/network-automation-and-management/dna-center/1-3-1/release_notes/b_cisco_dna_center_rn_1_3_1.html",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:catalyst_center:1.3.1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "8D16EB95-C9BF-4163-89CE-A332D31AC3D2"
     }
   ]
 }

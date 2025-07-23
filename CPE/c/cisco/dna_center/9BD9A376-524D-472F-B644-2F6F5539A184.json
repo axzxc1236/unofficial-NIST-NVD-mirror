@@ -1,12 +1,12 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cisco:dna_center:1.1.7:*:*:*:*:*:*:*",
   "cpeNameId": "9BD9A376-524D-472F-B644-2F6F5539A184",
-  "lastModified": "2019-04-22T11:55:41.927",
+  "lastModified": "2025-07-23T15:26:37.360",
   "created": "2019-04-22T11:55:41.927",
   "titles": [
     {
-      "title": "Cisco DNA Center 1.1.7",
+      "title": "Cisco Catalyst Center (formerly Cisco DNA Center) 1.1.7",
       "lang": "en"
     }
   ],
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.cisco.com/c/en/us/support/cloud-systems-management/dna-center/products-release-notes-list.html",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:catalyst_center:1.1.7:*:*:*:*:*:*:*",
+      "cpeNameId": "22BF711B-0BA1-4AA3-B620-A5D1649F0B09"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cisco:dna_center:1.2.5:*:*:*:*:*:*:*",
   "cpeNameId": "25CA07F6-7D98-422C-955D-14490C357870",
-  "lastModified": "2019-03-28T19:18:30.987",
+  "lastModified": "2025-07-23T15:26:37.360",
   "created": "2019-03-28T19:18:30.987",
   "titles": [
     {
-      "title": "Cisco DNA Center 1.2.5",
+      "title": "Cisco Catalyst Center (formerly Cisco DNA Center) 1.2.5",
       "lang": "en"
     }
   ],
@@ -22,6 +22,12 @@
     {
       "ref": "https://nvd-admin.nist.gov/admin/consoles/client/index.webadmin.html#/vuln/detail/CVE-2019-1707?tab=REFERENCES",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:catalyst_center:1.2.5:*:*:*:*:*:*:*",
+      "cpeNameId": "A1D0CF11-E974-45D8-A94F-5A1DD4E80982"
     }
   ]
 }

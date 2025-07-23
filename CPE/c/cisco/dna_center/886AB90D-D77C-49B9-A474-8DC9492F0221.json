@@ -1,12 +1,12 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cisco:dna_center:2.2.3.4:*:*:*:*:*:*:*",
   "cpeNameId": "886AB90D-D77C-49B9-A474-8DC9492F0221",
-  "lastModified": "2025-07-18T15:34:55.400",
+  "lastModified": "2025-07-23T15:26:37.360",
   "created": "2025-07-18T15:34:55.400",
   "titles": [
     {
-      "title": "Cisco Dna center 2.2.3.4 ",
+      "title": "Cisco Catalyst Center (formerly Cisco DNA Center) 2.2.3.4",
       "lang": "en"
     }
   ],
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.cisco.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:catalyst_center:2.2.3.4:*:*:*:*:*:*:*",
+      "cpeNameId": "54FBFA98-1431-46E6-8EE9-8D7B45F5B856"
     }
   ]
 }
