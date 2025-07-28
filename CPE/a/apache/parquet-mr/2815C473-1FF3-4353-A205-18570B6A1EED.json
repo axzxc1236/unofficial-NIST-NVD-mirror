@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:parquet-mr:1.12.0:rc3:*:*:*:*:*:*",
   "cpeNameId": "2815C473-1FF3-4353-A205-18570B6A1EED",
-  "lastModified": "2022-01-03T20:32:22.667",
+  "lastModified": "2025-07-28T14:54:17.610",
   "created": "2022-01-03T19:34:44.517",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://lists.apache.org/thread/1bjlscbqtfzl160hrm9lnpjpppp5z3zr",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/apache/parquet-mr/tags",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:apache:parquet_java:1.12.0:rc3:*:*:*:*:*:*",
+      "cpeNameId": "DFC8626D-7314-470C-94CF-5C18741B3397"
     }
   ]
 }
