@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:cisco:unified_intelligence_center:9.5\\(1\\):*:*:*:*:*:*:*",
   "cpeNameId": "4533528C-8159-4449-95F8-361B4A1E80D9",
-  "lastModified": "2019-02-26T19:05:25.497",
+  "lastModified": "2025-07-31T15:03:24.870",
   "created": "2019-02-26T19:05:25.497",
   "titles": [
     {
@@ -12,12 +12,18 @@
   ],
   "refs": [
     {
-      "ref": "https://www.cisco.com/c/en/us/products/customer-collaboration/unified-intelligence-center/index.html",
-      "type": "Product"
+      "ref": "https://www.cisco.com/c/en/us/support/customer-collaboration/unified-intelligence-center/series.html#~tab-documents",
+      "type": "Change Log"
     },
     {
-      "ref": "https://www.securityfocus.com/bid/106919",
-      "type": "Advisory"
+      "ref": "https://www.cisco.com/c/en/us/products/contact-center/unified-intelligence-center/index.html",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:unified_intelligence_center:9.5\\(1\\):*:*:*:*:*:*:*",
+      "cpeNameId": "0C25F6DB-DD65-4FB7-B5B8-4EE9F1020093"
     }
   ]
 }

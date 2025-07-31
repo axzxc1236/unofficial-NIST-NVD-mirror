@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:cisco:unified_intelligence_center:11.6\\(1\\):*:*:*:*:*:*:*",
   "cpeNameId": "C4FC7974-C2B1-480D-A6CF-04315B62C7BE",
-  "lastModified": "2018-11-07T17:12:02.193",
+  "lastModified": "2025-07-31T15:03:24.870",
   "created": "2018-11-07T17:12:02.193",
   "titles": [
     {
@@ -12,12 +12,18 @@
   ],
   "refs": [
     {
-      "ref": "https://www.cisco.com/",
-      "type": "Vendor"
+      "ref": "https://www.cisco.com/c/en/us/support/customer-collaboration/unified-intelligence-center/series.html#~tab-documents",
+      "type": "Change Log"
     },
     {
-      "ref": "https://www.cisco.com/c/en/us/support/customer-collaboration/unified-intelligence-center-11-6-1/model.html",
-      "type": "Version"
+      "ref": "https://www.cisco.com/c/en/us/products/contact-center/unified-intelligence-center/index.html",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:unified_intelligence_center:11.6\\(1\\):*:*:*:*:*:*:*",
+      "cpeNameId": "C9650EAB-AECC-4FC9-BCE6-D57B310E0326"
     }
   ]
 }
