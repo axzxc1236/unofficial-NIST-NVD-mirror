@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:visual_studio_code:0.18.1:*:*:*:*:java:*:*",
   "cpeNameId": "8CC83729-82E7-4010-BA04-E6643080BC45",
-  "lastModified": "2020-12-11T15:36:49.343",
+  "lastModified": "2025-08-04T14:39:47.900",
   "created": "2020-12-11T15:36:49.343",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/redhat-developer/vscode-java/blob/master/CHANGELOG.md",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:redhat:language_support_for_java:0.18.1:*:*:*:*:visual_studio_code:*:*",
+      "cpeNameId": "35198561-0DA5-41F1-A3C3-810FC7107236"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:visual_studio_code:-:*:*:*:*:java:*:*",
   "cpeNameId": "976CC25B-9060-4EAE-A751-0C4B5076D793",
-  "lastModified": "2021-08-17T18:26:07.747",
+  "lastModified": "2025-08-04T14:39:47.900",
   "created": "2021-03-13T01:13:08.280",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://code.visualstudio.com/docs/languages/java",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:redhat:language_support_for_java:-:*:*:*:*:visual_studio_code:*:*",
+      "cpeNameId": "40CBB4D2-064E-4764-9442-302CF3478110"
     }
   ]
 }
