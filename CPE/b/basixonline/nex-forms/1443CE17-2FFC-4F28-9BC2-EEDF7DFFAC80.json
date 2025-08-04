@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:basixonline:nex-forms:-:*:*:*:*:*:*:*",
   "cpeNameId": "1443CE17-2FFC-4F28-9BC2-EEDF7DFFAC80",
-  "lastModified": "2021-07-26T16:43:12.257",
+  "lastModified": "2025-08-04T16:53:50.263",
   "created": "2021-07-23T17:57:13.400",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "http://basixonline.net/nex-forms-wordpress-form-builder-demo/change-log/",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/rauschecker/CVEs/tree/main/CVE-2021-34675",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:basixonline:nex-forms:-:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "8C6FD62A-4BCE-4E24-927D-386F2529E298"
     }
   ]
 }

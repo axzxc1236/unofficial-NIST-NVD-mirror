@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:sandboxie:sandboxie:5.28:*:*:*:*:*:*:*",
   "cpeNameId": "B24D50F3-E5A2-4782-B909-7C35875D133B",
-  "lastModified": "2019-11-05T16:51:32.980",
+  "lastModified": "2025-08-04T20:00:30.827",
   "created": "2019-11-05T16:51:32.980",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.sandboxie.com/VersionChanges",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:sandboxie-plus:sandboxie:5.28:*:*:*:classic:*:*:*",
+      "cpeNameId": "4017ED58-38CE-4E63-970D-6C9C20323E05"
     }
   ]
 }
