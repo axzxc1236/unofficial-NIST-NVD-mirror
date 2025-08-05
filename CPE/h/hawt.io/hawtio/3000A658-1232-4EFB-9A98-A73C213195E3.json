@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:hawt.io:hawtio:1.5.5:*:*:*:*:*:*:*",
   "cpeNameId": "3000A658-1232-4EFB-9A98-A73C213195E3",
-  "lastModified": "2021-06-03T14:50:58.437",
+  "lastModified": "2025-08-05T14:14:00.480",
   "created": "2018-06-21T20:03:34.600",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "http://hawt.io/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://hawtio.github.io/hawtio/",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:hawt:hawtio:1.5.5:*:*:*:*:*:*:*",
+      "cpeNameId": "ADAA6762-002F-4EA5-B783-D8442A34A2E2"
     }
   ]
 }

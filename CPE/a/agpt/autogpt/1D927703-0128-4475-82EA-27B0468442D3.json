@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:agpt:autogpt:0.1.1:*:*:*:*:*:*:*",
   "cpeNameId": "1D927703-0128-4475-82EA-27B0468442D3",
-  "lastModified": "2024-09-17T18:43:50.507",
+  "lastModified": "2025-08-05T15:35:27.480",
   "created": "2024-09-17T18:43:50.507",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/Significant-Gravitas/AutoGPT/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://news.agpt.co/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:agpt:autogpt_classic:0.1.1:*:*:*:*:*:*:*",
+      "cpeNameId": "E789314A-D60B-454A-BBD0-81F51926368A"
     }
   ]
 }
