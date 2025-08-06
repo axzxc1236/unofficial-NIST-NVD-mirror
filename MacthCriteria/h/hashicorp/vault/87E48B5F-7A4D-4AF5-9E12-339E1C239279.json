@@ -3,7 +3,7 @@
   "criteria": "cpe:2.3:a:hashicorp:vault:*:*:*:*:-:*:*:*",
   "versionStartIncluding": "1.13.0",
   "versionEndExcluding": "1.20.1",
-  "lastModified": "2025-08-05T15:08:17.297",
+  "lastModified": "2025-08-06T13:43:15.800",
   "cpeLastModified": "2025-08-05T15:08:17.297",
   "created": "2025-08-05T15:08:17.297",
   "status": "Active",
@@ -29,8 +29,40 @@
       "cpeNameId": "61847107-3EF0-4B07-A15D-BE504ACD4B83"
     },
     {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.14.1:*:*:*:-:*:*:*",
+      "cpeNameId": "EE574D73-74C4-41E0-AC7B-1D83DC54795E"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.14.2:*:*:*:-:*:*:*",
+      "cpeNameId": "1EDEAE76-3649-4F78-88EE-E7F5E5824FDB"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.14.3:*:*:*:-:*:*:*",
+      "cpeNameId": "690E3D28-9DF7-4584-8219-3FA1E25C0024"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.14.5:*:*:*:-:*:*:*",
+      "cpeNameId": "128FA4AF-39BF-4DE1-AE65-CA163333876F"
+    },
+    {
       "cpeName": "cpe:2.3:a:hashicorp:vault:1.14.6:*:*:*:-:*:*:*",
       "cpeNameId": "117ACEC2-C508-46C3-94CA-9A4A624D6911"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.14.7:*:*:*:-:*:*:*",
+      "cpeNameId": "C9F8955B-07A6-4237-A2A3-2775EF08709F"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.14.8:*:*:*:-:*:*:*",
+      "cpeNameId": "364B4A84-D23B-499C-B744-5597C56C373D"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.14.9:*:*:*:-:*:*:*",
+      "cpeNameId": "FBC91811-3AB4-4A61-BE6E-2C4ABBC91AD2"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.14.10:*:*:*:-:*:*:*",
+      "cpeNameId": "B93A255E-F584-488D-9C8C-6C20E507196B"
     },
     {
       "cpeName": "cpe:2.3:a:hashicorp:vault:1.15.0:*:*:*:-:*:*:*",
@@ -55,6 +87,14 @@
     {
       "cpeName": "cpe:2.3:a:hashicorp:vault:1.15.6:*:*:*:-:*:*:*",
       "cpeNameId": "1F0F3C15-A54B-40DA-A05B-62D7991C657F"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.15.9:*:*:*:-:*:*:*",
+      "cpeNameId": "3A62FD81-143A-4BEF-8A72-A2BA12A40C59"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.15.12:*:*:*:-:*:*:*",
+      "cpeNameId": "2AE193C4-A4EE-4A06-973D-51E5FED6C9F4"
     },
     {
       "cpeName": "cpe:2.3:a:hashicorp:vault:1.16.0:-:*:*:-:*:*:*",
@@ -123,6 +163,66 @@
     {
       "cpeName": "cpe:2.3:a:hashicorp:vault:1.18.0:rc1:*:*:-:*:*:*",
       "cpeNameId": "3579E317-C276-4BD9-98BC-5BBAE3DFAB94"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.18.1:*:*:*:-:*:*:*",
+      "cpeNameId": "66BC3184-5CB9-4357-9582-67B73ABCCD42"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.18.2:*:*:*:-:*:*:*",
+      "cpeNameId": "4891FA51-A475-410D-8797-96D9C13840AD"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.18.3:*:*:*:-:*:*:*",
+      "cpeNameId": "04E14529-60F8-41E4-9825-9844C0DE5329"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.18.4:*:*:*:-:*:*:*",
+      "cpeNameId": "D74C541E-F2AC-4C7E-95FB-E37641F34EAD"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.18.5:*:*:*:-:*:*:*",
+      "cpeNameId": "430C8897-CA18-4D43-987B-0A97089961CD"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.19.0:-:*:*:-:*:*:*",
+      "cpeNameId": "5DD893F2-ED8B-4452-A271-B5F9D3768DD6"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.19.0:rc1:*:*:-:*:*:*",
+      "cpeNameId": "F15D7E8F-6E37-4851-BE8C-A6911AA8D7A5"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.19.1:*:*:*:-:*:*:*",
+      "cpeNameId": "F6347C0E-F6D7-4119-91A4-B3D6B53F8616"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.19.2:*:*:*:-:*:*:*",
+      "cpeNameId": "5918F522-294C-4B94-A712-BFB54E63241D"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.19.3:*:*:*:-:*:*:*",
+      "cpeNameId": "59F99275-30EC-4220-A7DC-FA4E7BD5E81A"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.19.4:*:*:*:-:*:*:*",
+      "cpeNameId": "3A5BE790-1F05-4C00-922C-FD3092754167"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.19.5:*:*:*:-:*:*:*",
+      "cpeNameId": "5E61DC50-A8B9-4513-A7F4-65DBDAD08CF0"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.20.0:-:*:*:-:*:*:*",
+      "cpeNameId": "1BD489B9-6243-4B8E-8C84-F285B62E75F0"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.20.0:rc1:*:*:-:*:*:*",
+      "cpeNameId": "6B0D65C4-D33A-4A93-AEE2-74562D6A2E22"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.20.0:rc2:*:*:-:*:*:*",
+      "cpeNameId": "584E26DC-8CFA-4C5C-9FFD-D8642C6F461A"
     }
   ]
 }

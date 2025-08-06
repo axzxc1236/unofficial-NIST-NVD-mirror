@@ -3,11 +3,19 @@
   "criteria": "cpe:2.3:a:hashicorp:vault:*:*:*:*:enterprise:*:*:*",
   "versionStartIncluding": "0.3.0",
   "versionEndExcluding": "1.16.20",
-  "lastModified": "2025-08-05T15:44:19.377",
+  "lastModified": "2025-08-06T13:43:15.800",
   "cpeLastModified": "2025-08-05T15:44:19.377",
   "created": "2025-08-05T15:44:19.377",
   "status": "Active",
   "matches": [
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:0.3.0:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "1E407885-CBB4-4CC1-BC08-A4263C6D57A3"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:0.8.0:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "D4BCC94F-06D1-4B99-BE5F-2C40AC3D7BAD"
+    },
     {
       "cpeName": "cpe:2.3:a:hashicorp:vault:0.9.2:*:*:*:enterprise:*:*:*",
       "cpeNameId": "6368CB43-C455-4C03-AA79-FF9E73830E66"
@@ -15,6 +23,10 @@
     {
       "cpeName": "cpe:2.3:a:hashicorp:vault:0.10.0:*:*:*:enterprise:*:*:*",
       "cpeNameId": "BA1B5A8B-8C4C-4423-A7EB-8701A5552EF7"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:0.10.4:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "F148D861-B621-4132-A682-AEA46370231F"
     },
     {
       "cpeName": "cpe:2.3:a:hashicorp:vault:0.11.0:*:*:*:enterprise:*:*:*",
@@ -441,6 +453,14 @@
       "cpeNameId": "C05C6BD6-FAC2-44DA-8D94-B4977C5F8825"
     },
     {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.14.8:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "9F2B5D6D-C69E-49D6-9B62-5AB30018D965"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.14.10:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "76916FB8-26FC-4A58-A67B-693204418717"
+    },
+    {
       "cpeName": "cpe:2.3:a:hashicorp:vault:1.14.11:*:*:*:enterprise:*:*:*",
       "cpeNameId": "28428C03-C08F-43D1-9485-B012214D1981"
     },
@@ -459,6 +479,10 @@
     {
       "cpeName": "cpe:2.3:a:hashicorp:vault:1.15.2:*:*:*:enterprise:*:*:*",
       "cpeNameId": "5A697208-88BE-4CEB-A9A4-3B6CE93FEF54"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.15.5:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "0D7D1FF0-DF18-456A-ADA3-D7CF0B2D8A3A"
     },
     {
       "cpeName": "cpe:2.3:a:hashicorp:vault:1.15.7:*:*:*:enterprise:*:*:*",
@@ -501,6 +525,14 @@
       "cpeNameId": "302245B4-88B8-4579-A0BA-618A43E667DD"
     },
     {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.16.0:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "12047B32-7D25-4643-9E1C-4315ED285CB6"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.16.3:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "E83AF005-6A8F-473A-9431-725032AA39D5"
+    },
+    {
       "cpeName": "cpe:2.3:a:hashicorp:vault:1.16.4:*:*:*:enterprise:*:*:*",
       "cpeNameId": "07589DEA-2765-423B-A819-51254664CFA8"
     },
@@ -531,6 +563,38 @@
     {
       "cpeName": "cpe:2.3:a:hashicorp:vault:1.16.11:*:*:*:enterprise:*:*:*",
       "cpeNameId": "198CD3D7-AF9C-40C6-ADE3-702DF4BB2E95"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.16.12:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "610B507D-46F4-4114-AB8B-9A58CEE18FE6"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.16.13:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "ABAF1A14-2C93-4DF4-AFC5-A1E583C89039"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.16.14:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "D386E440-61EE-4097-8C5C-5D0960D238F9"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.16.15:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "807F3B71-FF79-4975-BB75-4E35BADB6967"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.16.16:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "09D1A23C-89D5-4CAA-AF10-E212AAA6698A"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.16.17:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "18E0E78B-A393-4DD8-89CC-7E7504E2C353"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.16.18:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "5901E34B-09F7-43F1-8593-800FA1DA8A19"
+    },
+    {
+      "cpeName": "cpe:2.3:a:hashicorp:vault:1.16.19:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "1C4D8524-04C3-4555-A8FF-32F5EC1F15F4"
     }
   ]
 }
