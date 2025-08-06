@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cpp-httplib_project:cpp-httplib:0.5.1:*:*:*:*:*:*:*",
   "cpeNameId": "7F064EDC-44BA-4955-A52D-24F26D31A580",
-  "lastModified": "2020-04-13T14:41:50.893",
+  "lastModified": "2025-08-05T20:28:36.623",
   "created": "2020-04-13T14:41:50.893",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/yhirose/cpp-httplib/releases",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:yhirose:cpp-httplib:0.5.1:*:*:*:*:*:*:*",
+      "cpeNameId": "3C613B3B-0EC7-41C4-854F-2DC66C7B4A36"
     }
   ]
 }
