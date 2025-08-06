@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:tungstenautomation:power_pdf:5.0.0.21:*:*:*:*:*:*:*",
   "cpeNameId": "AA39DDE2-3E72-40F8-ACE4-C78C6154B268",
-  "lastModified": "2025-04-23T20:13:17.130",
+  "lastModified": "2025-08-06T19:53:11.540",
   "created": "2025-04-23T20:13:17.130",
   "titles": [
     {
@@ -10,22 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://docshield.tungstenautomation.com/PowerPDF/en_US/5.0.0-3uoz7ssq2b/print/ReadMe-KofaxPowerPDFAdvanced-5.0.0.21.htm",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.zerodayinitiative.com/advisories/ZDI-24-557/",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.tungstenautomation.com/products/power-pdf/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.tungstenautomation.com/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:tungstenautomation:power_pdf:5.0.0.21:*:*:*:*:windows:*:*",
+      "cpeNameId": "39A1659E-43EA-48F9-AA59-E17ADDEAC5B8"
     }
   ]
 }

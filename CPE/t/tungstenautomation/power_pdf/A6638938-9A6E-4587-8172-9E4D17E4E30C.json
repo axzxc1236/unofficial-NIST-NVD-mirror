@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:tungstenautomation:power_pdf:-:*:*:*:*:*:*:*",
   "cpeNameId": "A6638938-9A6E-4587-8172-9E4D17E4E30C",
-  "lastModified": "2025-04-23T20:13:17.130",
+  "lastModified": "2025-08-06T19:53:11.540",
   "created": "2025-04-23T20:13:17.130",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.tungstenautomation.com/products/power-pdf/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.tungstenautomation.com/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:tungstenautomation:power_pdf:-:*:*:*:*:windows:*:*",
+      "cpeNameId": "0A2A5741-BA29-44D7-86D9-505B3C1E95F9"
     }
   ]
 }
