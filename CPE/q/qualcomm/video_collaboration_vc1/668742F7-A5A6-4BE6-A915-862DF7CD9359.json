@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:h:qualcomm:video_collaboration_vc1:-:*:*:*:*:*:*:*",
   "cpeNameId": "668742F7-A5A6-4BE6-A915-862DF7CD9359",
-  "lastModified": "2023-08-25T07:10:01.960",
+  "lastModified": "2025-08-07T13:00:11.150",
   "created": "2023-07-10T11:07:16.083",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://docs.qualcomm.com/product/publicresources/securitybulletin/july-2023-bulletin.html",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:h:qualcomm:video_collaboration_vc1_platform:-:*:*:*:*:*:*:*",
+      "cpeNameId": "7AA3687A-ACF1-4F5F-AC7D-4B185CE1BCB3"
     }
   ]
 }
