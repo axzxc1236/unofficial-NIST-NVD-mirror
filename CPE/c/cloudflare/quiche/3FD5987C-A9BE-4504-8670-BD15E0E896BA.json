@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cloudflare:quiche:0.18.0:*:*:*:*:*:*:*",
   "cpeNameId": "3FD5987C-A9BE-4504-8670-BD15E0E896BA",
-  "lastModified": "2023-12-16T03:29:20.353",
+  "lastModified": "2025-08-06T21:12:38.563",
   "created": "2023-12-16T03:29:20.353",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/cloudflare/quiche/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/cloudflare/quiche/security/advisories/GHSA-w3vp-jw9m-f9pm",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.cloudflare.com/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:cloudflare:quiche:0.18.0:*:*:*:*:rust:*:*",
+      "cpeNameId": "C59E1D07-4439-47C5-A450-8368EB8653CC"
     }
   ]
 }
