@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:qualcomm:qualcomm_video_collaboration_vc5_platform_firmware:-:*:*:*:*:*:*:*",
   "cpeNameId": "D3EA7155-203F-4387-BF88-414F5646C67C",
-  "lastModified": "2023-10-03T18:56:36.500",
+  "lastModified": "2025-08-11T15:06:17.607",
   "created": "2023-10-03T18:56:36.500",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.qualcomm.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://docs.qualcomm.com/product/publicresources/securitybulletin/october-2023-bulletin.html",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:o:qualcomm:video_collaboration_vc5_platform_firmware:-:*:*:*:*:*:*:*",
+      "cpeNameId": "B42D8CB7-EE1E-4AB2-9C45-2428366D8306"
     }
   ]
 }

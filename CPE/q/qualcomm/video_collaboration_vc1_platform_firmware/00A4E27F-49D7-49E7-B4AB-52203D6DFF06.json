@@ -2,11 +2,11 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:o:qualcomm:video_collaboration_vc1_platform_firmware:-:*:*:*:*:*:*:*",
   "cpeNameId": "00A4E27F-49D7-49E7-B4AB-52203D6DFF06",
-  "lastModified": "2024-12-20T15:08:31.627",
+  "lastModified": "2025-08-11T15:06:17.607",
   "created": "2024-12-20T15:08:31.627",
   "titles": [
     {
-      "title": "Qualcomm VIDEO COLLABORATION VC1 PLATFORM Firmware ",
+      "title": "Qualcomm Video Collaboration VC1 Platform Firmware",
       "lang": "en"
     }
   ],
@@ -14,6 +14,24 @@
     {
       "ref": "https://docs.qualcomm.com/product/publicresources/securitybulletin/july-2024-bulletin.html",
       "type": "Advisory"
+    },
+    {
+      "ref": "https://www.qualcomm.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.qualcomm.com/products/internet-of-things/industrial/building-enterprise/video-collaboration/video-collaboration-vc1-platform#Overview",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:qualcomm:qualcomm_video_collaboration_vc1_platform_firmware:-:*:*:*:*:*:*:*",
+      "cpeNameId": "8C5F6F19-BF47-44CF-80E0-B01CEDE2616A"
+    },
+    {
+      "cpeName": "cpe:2.3:o:qualcomm:video_collaboration_vc1_firmware:-:*:*:*:*:*:*:*",
+      "cpeNameId": "4EA8CB21-8F23-4C7A-96D0-A532B62D52F4"
     }
   ]
 }
