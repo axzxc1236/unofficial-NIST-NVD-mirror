@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:nginx:unit:0.5:*:*:*:*:*:*:*",
   "cpeNameId": "E56FE18D-7E79-4B48-8E92-455163522D82",
-  "lastModified": "2019-03-11T18:31:58.527",
+  "lastModified": "2025-08-12T17:24:44.367",
   "created": "2019-03-11T18:31:58.527",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "http://hg.nginx.org/unit/file/tip/CHANGES",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.nginx.com/products/nginx-unit/",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:f5:nginx unit:0.5:*:*:*:*:*:*:*",
+      "cpeNameId": "C18CC740-7727-49FB-8147-27B7708C43A7"
     }
   ]
 }
