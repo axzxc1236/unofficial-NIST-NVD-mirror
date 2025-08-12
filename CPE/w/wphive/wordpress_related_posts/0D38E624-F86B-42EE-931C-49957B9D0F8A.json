@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:wphive:wordpress_related_posts:3.6.4:*:*:*:*:wordpress:*:*",
   "cpeNameId": "0D38E624-F86B-42EE-931C-49957B9D0F8A",
-  "lastModified": "2021-04-23T17:14:15.470",
+  "lastModified": "2025-08-12T12:51:21.863",
   "created": "2021-04-08T18:14:59.390",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://wphive.com/plugins/wordpress-23-related-posts-plugin/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:sovrn:wordpress_related_posts:3.6.4:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "F0903D00-3E4B-4776-8C98-308BC4D10885"
     }
   ]
 }
