@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:vmware:nsx-t_data_center:3.2.2:*:*:*:*:*:*:*",
   "cpeNameId": "0C873AED-FDFC-4AF1-B068-55F77D2F05B6",
-  "lastModified": "2023-06-07T15:02:57.610",
+  "lastModified": "2025-08-13T12:52:10.387",
   "created": "2023-06-02T16:20:53.883",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://docs.vmware.com/en/VMware-NSX/3.2.3/rn/vmware-nsxt-data-center-323-release-notes/index.html",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:broadcom:vmware_nsx-t_data_center:3.2.2:*:*:*:*:*:*:*",
+      "cpeNameId": "FE9D4805-7A49-405D-9181-F7D5AC0A6032"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:vmware:nsx-t_data_center:2.5.2:*:*:*:*:*:*:*",
   "cpeNameId": "F8D56094-2B5B-4960-A751-38CD3417D7D0",
-  "lastModified": "2021-06-04T19:04:53.753",
+  "lastModified": "2025-08-13T12:52:10.387",
   "created": "2020-10-21T14:26:56.540",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://docs.vmware.com/en/VMware-NSX-T-Data-Center/3.0/rn/VMware-NSX-T-Data-Center-30-Release-Notes.html",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.vmware.com/security/advisories/VMSA-2020-0023.html",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:broadcom:vmware_nsx-t_data_center:2.5.2:*:*:*:*:*:*:*",
+      "cpeNameId": "F40EC43F-A273-4340-8A0E-2530BA776A63"
     }
   ]
 }
