@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:gnuplot:gnuplot:3.7.3:*:*:*:*:*:*:*",
   "cpeNameId": "59C9EDF6-43E0-40C5-99D6-659BA5BF4B04",
-  "lastModified": "2019-09-04T14:29:25.690",
+  "lastModified": "2025-08-14T13:29:49.357",
   "created": "2019-09-04T14:29:25.690",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecates": [
     {
-      "ref": "http://www.gnuplot.info/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://sourceforge.net/p/gnuplot/gnuplot-main/ref/master/tags/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/gnuplot/gnuplot/releases",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:gnuplot_project:gnuplot:3.7.3:*:*:*:*:*:*:*",
+      "cpeNameId": "D0FED01B-5D36-4CA6-A920-6B0A824660A0"
     }
   ]
 }

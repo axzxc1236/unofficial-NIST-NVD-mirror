@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gnuplot_project:gnuplot:5.0.3:*:*:*:*:*:*:*",
   "cpeNameId": "D8C65F67-4701-4D38-96F6-2F48A1006AC3",
-  "lastModified": "2020-03-03T13:10:17.373",
+  "lastModified": "2025-08-14T13:29:49.357",
   "created": "2020-03-03T13:10:17.373",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://sourceforge.net/projects/gnuplot/files/gnuplot/",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:gnuplot:gnuplot:5.0.3:*:*:*:*:*:*:*",
+      "cpeNameId": "FDC08B81-3307-44CF-B7D5-F5A545EEAF09"
     }
   ]
 }
