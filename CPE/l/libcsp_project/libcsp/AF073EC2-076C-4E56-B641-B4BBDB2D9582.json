@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:libcsp_project:libcsp:1.0.1:*:*:*:*:*:*:*",
   "cpeNameId": "AF073EC2-076C-4E56-B641-B4BBDB2D9582",
-  "lastModified": "2020-02-24T15:30:39.827",
+  "lastModified": "2025-08-14T16:23:31.793",
   "created": "2020-02-24T15:30:39.827",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/GomSpace/libcsp",
-      "type": "Project"
+      "cpeName": "cpe:2.3:a:libcsp:libcsp:1.0.1:*:*:*:*:*:*:*",
+      "cpeNameId": "C33FF84B-A7C8-420B-A68C-779C526B6442"
     }
   ]
 }
