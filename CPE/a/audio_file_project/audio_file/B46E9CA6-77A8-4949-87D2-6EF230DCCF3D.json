@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:audio_file_project:audio_file:1.0.2:*:*:*:*:*:*:*",
   "cpeNameId": "B46E9CA6-77A8-4949-87D2-6EF230DCCF3D",
-  "lastModified": "2022-04-07T01:03:49.607",
+  "lastModified": "2025-08-13T20:51:25.900",
   "created": "2022-03-07T09:41:29.873",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/adamstark/AudioFile/tags",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:adamstark:audiofile:1.0.2:*:*:*:*:*:*:*",
+      "cpeNameId": "162BAF06-E99A-47BF-8969-761CFADC4439"
     }
   ]
 }

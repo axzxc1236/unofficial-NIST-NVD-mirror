@@ -2,22 +2,18 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:audiofile:audiofile:0.3.6:*:*:*:*:*:*:*",
   "cpeNameId": "3B836016-1E63-4185-9A50-B8B818B56FDF",
-  "lastModified": "2020-07-08T17:22:19.407",
+  "lastModified": "2025-08-13T20:48:07.470",
   "created": "2020-07-08T17:22:19.407",
   "titles": [
     {
-      "title": "Audiofile 0.3.6",
+      "title": "audiofile (Audio File Library) 0.3.6",
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecates": [
     {
-      "ref": "https://github.com/mpruett/audiofile",
-      "type": "Version"
-    },
-    {
-      "ref": "https://audiofile.68k.org/",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:audio_file_library_project:audio_file_library:0.3.6:*:*:*:*:*:*:*",
+      "cpeNameId": "5A1326B9-C46D-473A-8044-72ABBD109086"
     }
   ]
 }
