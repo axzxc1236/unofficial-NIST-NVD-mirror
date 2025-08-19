@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:bandisoft:bandizip:3.03:*:*:*:*:*:*:*",
   "cpeNameId": "EE4EEA4A-7873-4E89-97EC-A478E779EFB6",
-  "lastModified": "2014-02-14T17:18:50.850",
+  "lastModified": "2025-08-19T13:38:25.420",
   "created": "2014-02-14T17:04:25.083",
   "titles": [
     {
@@ -10,9 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "http://www.bandisoft.com/bandizip/history/"
+      "cpeName": "cpe:2.3:a:bandisoft:bandizip:3.03:*:*:*:*:windows:*:*",
+      "cpeNameId": "AA90A1B3-82CF-4271-B1BF-0239A2E9F110"
     }
   ]
 }

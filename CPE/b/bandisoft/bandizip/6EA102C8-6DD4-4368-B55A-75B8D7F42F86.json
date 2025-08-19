@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:bandisoft:bandizip:7.19:*:*:*:*:*:*:*",
   "cpeNameId": "6EA102C8-6DD4-4368-B55A-75B8D7F42F86",
-  "lastModified": "2022-05-13T16:41:26.490",
+  "lastModified": "2025-08-19T13:40:16.097",
   "created": "2022-04-08T13:58:04.903",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.krcert.or.kr/krcert/secNoticeView.do?bulletin_writing_sequence=66595",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:bandisoft:bandizip:7.19:*:*:*:*:windows:*:*",
+      "cpeNameId": "94D054D3-DD7D-4CF2-B465-A5528C08C3AB"
     }
   ]
 }
