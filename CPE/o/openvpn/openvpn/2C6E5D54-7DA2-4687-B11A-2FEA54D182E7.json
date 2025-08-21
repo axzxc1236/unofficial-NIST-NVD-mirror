@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:openvpn:openvpn:2.5.3:*:*:*:*:*:*:*",
   "cpeNameId": "2C6E5D54-7DA2-4687-B11A-2FEA54D182E7",
-  "lastModified": "2021-07-07T15:25:36.773",
+  "lastModified": "2025-08-21T16:22:09.437",
   "created": "2021-07-06T17:43:39.020",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://community.openvpn.net/openvpn/wiki/CVE-2021-3606",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:openvpn:openvpn:2.5.3:*:*:*:community:*:*:*",
+      "cpeNameId": "DD515BED-E86C-474F-868F-7D739C1FD1F1"
     }
   ]
 }

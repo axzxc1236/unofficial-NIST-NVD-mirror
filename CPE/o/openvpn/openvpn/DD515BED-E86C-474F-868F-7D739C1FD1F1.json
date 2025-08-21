@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:openvpn:openvpn:2.5.3:*:*:*:community:*:*:*",
   "cpeNameId": "DD515BED-E86C-474F-868F-7D739C1FD1F1",
-  "lastModified": "2023-11-27T20:07:36.010",
+  "lastModified": "2025-08-21T16:22:09.437",
   "created": "2023-11-27T20:07:36.010",
   "titles": [
     {
@@ -10,22 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecates": [
     {
-      "ref": "https://community.openvpn.net/openvpn/wiki/ChangesInOpenvpn25",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://openvpn.net/open-source-or-access-server/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/OpenVPN/openvpn",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/OpenVPN/openvpn/tags",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:openvpn:openvpn:2.5.3:*:*:*:*:*:*:*",
+      "cpeNameId": "2C6E5D54-7DA2-4687-B11A-2FEA54D182E7"
     }
   ]
 }

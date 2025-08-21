@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:grassroots_dicom_project:grassroots_dicom:2.0.4:*:*:*:*:*:*:*",
   "cpeNameId": "3C424209-AB21-4BE0-8A42-791F200EE3E7",
-  "lastModified": "2021-01-21T17:06:02.807",
+  "lastModified": "2025-08-21T18:06:34.083",
   "created": "2021-01-21T17:06:02.807",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/malaterre/GDCM",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:malaterre:grassroots_dicom:2.0.4:*:*:*:*:*:*:*",
+      "cpeNameId": "37DA7A0E-8DF4-492B-8090-1CB5B29977FE"
     }
   ]
 }
