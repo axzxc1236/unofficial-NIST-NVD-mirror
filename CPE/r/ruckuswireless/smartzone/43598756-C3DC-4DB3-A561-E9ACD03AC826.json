@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:ruckuswireless:smartzone:-:*:*:*:*:*:*:*",
   "cpeNameId": "43598756-C3DC-4DB3-A561-E9ACD03AC826",
-  "lastModified": "2023-08-19T03:29:37.557",
+  "lastModified": "2025-08-22T21:09:15.577",
   "created": "2023-02-23T15:49:55.887",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://support.ruckuswireless.com/security_bulletins/315",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:o:commscope:ruckus_smartzone_firmware:-:*:*:*:*:*:*:*",
+      "cpeNameId": "C52BC552-027D-4D0D-8580-74B7AD1BCD6C"
     }
   ]
 }

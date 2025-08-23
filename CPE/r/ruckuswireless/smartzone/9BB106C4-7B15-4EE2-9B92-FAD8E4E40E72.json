@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:h:ruckuswireless:smartzone:-:*:*:*:*:*:*:*",
   "cpeNameId": "9BB106C4-7B15-4EE2-9B92-FAD8E4E40E72",
-  "lastModified": "2024-03-28T15:34:04.743",
+  "lastModified": "2025-08-22T21:09:15.577",
   "created": "2024-03-28T15:34:04.743",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://jvn.jp/en/jp/JVN45891816/",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.ruckusnetworks.com/products/network-control-and-management/",
-      "type": "Product"
+      "cpeName": "cpe:2.3:h:commscope:ruckus_smartzone:-:*:*:*:*:*:*:*",
+      "cpeNameId": "80100D83-4B28-484C-A740-B7B43B0AD108"
     }
   ]
 }
