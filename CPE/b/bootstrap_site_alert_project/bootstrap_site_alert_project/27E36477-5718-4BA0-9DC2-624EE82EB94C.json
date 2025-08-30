@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:bootstrap_site_alert_project:bootstrap_site_alert_project:3.0.2:*:*:*:*:drupal:*:*",
   "cpeNameId": "27E36477-5718-4BA0-9DC2-624EE82EB94C",
-  "lastModified": "2025-06-10T19:24:56.107",
+  "lastModified": "2025-08-27T19:29:11.267",
   "created": "2025-06-10T19:24:56.107",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.drupal.org/sa-contrib-2025-042",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.drupal.org/project/bootstrap_site_alert/releases",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:bootstrap_site_alert_project:bootstrap_site_alert:3.0.2:*:*:*:*:drupal:*:*",
+      "cpeNameId": "6FA226AA-1414-465F-B6E0-556DCA53D914"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:x.org:xorg-server:1.19.99.902:*:*:*:*:*:*:*",
   "cpeNameId": "8C0E6207-6FFA-4789-8D1B-FF8971D7E14B",
-  "lastModified": "2019-09-17T18:28:43.757",
+  "lastModified": "2025-08-29T13:42:30.557",
   "created": "2019-09-17T18:28:43.757",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.x.org/releases/individual/xserver/",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:x.org:x_server:1.19.99.902:*:*:*:*:*:*:*",
+      "cpeNameId": "C3CEC267-A336-4BD0-A611-4C4C61EC2C52"
     }
   ]
 }

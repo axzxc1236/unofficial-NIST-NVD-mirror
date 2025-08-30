@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:x.org:xorg-server:21.1.0:*:*:*:*:*:*:*",
   "cpeNameId": "4A4F7874-C62D-4291-88D7-2F2BF7DDBEDA",
-  "lastModified": "2023-01-12T18:47:31.653",
+  "lastModified": "2025-08-29T13:42:30.557",
   "created": "2022-09-07T16:24:14.940",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://gitlab.freedesktop.org/xorg/xserver/-/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/CVEProject/cvelist/blob/master/2022/2xxx/CVE-2022-2319.json",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://gitlab.freedesktop.org/xorg/xserver/-/merge_requests/939",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:x.org:x_server:21.1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "FEDEAD87-2179-4210-974C-E5F51720828A"
     }
   ]
 }

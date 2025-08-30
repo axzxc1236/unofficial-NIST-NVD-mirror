@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:gimly:matlab:2.0.1:*:*:*:*:visual_studio_code:*:*",
   "cpeNameId": "6FCE1EF7-7959-4824-9332-244E66DF73A3",
-  "lastModified": "2025-07-08T17:36:06.327",
+  "lastModified": "2025-08-28T16:00:18.990",
   "created": "2025-07-08T17:36:06.327",
   "titles": [
     {
@@ -10,22 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecates": [
     {
-      "ref": "https://marketplace.visualstudio.com/items/Gimly81.matlab/changelog",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/Gimly/vscode-matlab/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://marketplace.visualstudio.com/items?itemName=Gimly81.matlab",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/Gimly/vscode-matlab/",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:microsoft:visual_studio_code:2.0.1:*:*:*:*:matlab:*:*",
+      "cpeNameId": "E3802E82-84D8-4F64-877E-CEA6FB196B26"
     }
   ]
 }

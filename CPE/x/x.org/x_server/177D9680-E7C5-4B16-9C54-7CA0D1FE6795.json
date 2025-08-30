@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:x.org:x_server:1.8.0.901:*:*:*:*:*:*:*",
   "cpeNameId": "177D9680-E7C5-4B16-9C54-7CA0D1FE6795",
-  "lastModified": "2020-08-24T16:52:37.693",
+  "lastModified": "2025-08-29T13:42:30.557",
   "created": "2020-08-24T16:52:37.693",
   "titles": [
     {
@@ -10,16 +10,14 @@
       "lang": "en"
     }
   ],
-  "refs": [
-    {
-      "ref": "https://www.x.org/releases/individual/xserver/",
-      "type": "Change Log"
-    }
-  ],
   "deprecates": [
     {
       "cpeName": "cpe:2.3:a:x:x_server:1.8.0.901:*:*:*:*:*:*:*",
       "cpeNameId": "28B9CCC0-0382-4744-ADF2-A1E224AE9E00"
+    },
+    {
+      "cpeName": "cpe:2.3:a:x.org:xorg-server:1.8.0.901:*:*:*:*:*:*:*",
+      "cpeNameId": "0653426D-70B1-431E-8D0D-150913D913AB"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:slims:senayan_library_management_system_bulian:9.5.1:*:*:*:*:*:*:*",
   "cpeNameId": "C6A0FEDD-7368-4935-B2A2-DA9D8A62F85C",
-  "lastModified": "2023-11-03T18:46:47.557",
+  "lastModified": "2025-08-26T19:30:34.367",
   "created": "2023-11-03T18:46:47.557",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/Vuln0wned/slims_owned/blob/main/slims/slims9-bulian-9.6.1-SQLI-member_type.md",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:slims:senayan_library_management_system:9.5.1:*:*:*:*:*:*:*",
+      "cpeNameId": "1E54D590-E656-4596-99B0-B57ACA96B11C"
     }
   ]
 }

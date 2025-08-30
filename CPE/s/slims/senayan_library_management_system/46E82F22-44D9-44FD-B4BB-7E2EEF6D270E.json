@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:slims:senayan_library_management_system:9.5.2:*:*:*:*:*:*:*",
   "cpeNameId": "46E82F22-44D9-44FD-B4BB-7E2EEF6D270E",
-  "lastModified": "2023-07-07T12:16:13.187",
+  "lastModified": "2025-08-26T19:30:34.367",
   "created": "2023-04-20T14:52:22.257",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/slims/slims9_bulian/issues/186",
       "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:slims:senayan_library_management_system_bulian:9.5.2:*:*:*:*:*:*:*",
+      "cpeNameId": "63694864-3484-40F6-8934-90EF89B4C86A"
     }
   ]
 }

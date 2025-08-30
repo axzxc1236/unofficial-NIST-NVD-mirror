@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:x.org:xorg-server:1.19.3:*:*:*:*:*:*:*",
   "cpeNameId": "16C681B0-ED4D-498E-ACDC-8EEA13AFBB46",
-  "lastModified": "2021-08-10T14:29:46.700",
+  "lastModified": "2025-08-29T13:42:30.557",
   "created": "2017-07-11T18:56:29.647",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "http://www.x.org/wiki/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://repology.org/metapackage/xorg-server/packages",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:x.org:x_server:1.19.3:*:*:*:*:*:*:*",
+      "cpeNameId": "73F7FE5E-641B-4348-810B-84BDBF9A0C9F"
     }
   ]
 }

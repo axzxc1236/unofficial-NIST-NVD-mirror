@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:x.org:xorg-server:1.7.1.901:*:*:*:*:*:*:*",
   "cpeNameId": "B2B3A45B-1902-4654-B925-14EA14B4CFC9",
-  "lastModified": "2015-04-09T18:04:05.053",
+  "lastModified": "2025-08-29T13:42:30.557",
   "created": "2014-12-10T19:59:30.387",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "http://www.x.org/wiki/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:x.org:x_server:1.7.1.901:*:*:*:*:*:*:*",
+      "cpeNameId": "FCDF62C2-902C-440D-9D38-2CDA2735F992"
     }
   ]
 }

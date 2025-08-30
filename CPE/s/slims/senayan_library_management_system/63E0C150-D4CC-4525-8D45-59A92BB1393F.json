@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:slims:senayan_library_management_system:9.5.0:*:*:*:*:*:*:*",
   "cpeNameId": "63E0C150-D4CC-4525-8D45-59A92BB1393F",
-  "lastModified": "2023-07-07T12:16:13.187",
+  "lastModified": "2025-08-26T19:30:34.367",
   "created": "2022-12-06T15:56:45.030",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/slims/slims9_bulian/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:slims:senayan_library_management_system_bulian:9.5.0:*:*:*:*:*:*:*",
+      "cpeNameId": "A85BDF59-AA60-4A12-A7EC-8AF2C39FEB9A"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:xgenecloud:nocodb:0.90.5:*:*:*:*:*:*:*",
   "cpeNameId": "32583C42-90CE-494D-8D91-209D6C39160B",
-  "lastModified": "2022-06-10T10:52:21.587",
+  "lastModified": "2025-08-26T18:50:20.227",
   "created": "2022-06-10T10:48:04.927",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/nocodb/nocodb/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.nocodb.com/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:nocodb:nocodb:0.90.5:*:*:*:*:*:*:*",
+      "cpeNameId": "6A990F34-BE30-4AF8-9A74-3D619C6A8ADB"
     }
   ]
 }

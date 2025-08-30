@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:monster_menus_module_project:monster_menus:7.x-1.23:*:*:*:*:*:*:*",
   "cpeNameId": "638BA9E7-03EC-4E81-9C01-1F4D3A497A16",
-  "lastModified": "2015-11-18T20:07:22.617",
+  "lastModified": "2025-08-27T15:51:13.203",
   "created": "2015-11-10T15:32:09.027",
   "titles": [
     {
@@ -10,9 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://drupal.org/node/1118296/release?api_version[]=103"
+      "cpeName": "cpe:2.3:a:monster_menus_project:monster_menus:7.x-1.23:*:*:*:*:drupal:*:*",
+      "cpeNameId": "3CC48C5F-C601-4201-AD22-758440C5B02E"
     }
   ]
 }

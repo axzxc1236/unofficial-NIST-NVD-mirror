@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:slims:senayan_library_management_system:9.6.1:*:*:*:*:*:*:*",
   "cpeNameId": "20B91597-7692-41F1-8232-6F50DBAEC9CB",
-  "lastModified": "2023-12-16T04:05:58.243",
+  "lastModified": "2025-08-26T19:30:34.367",
   "created": "2023-12-16T04:05:58.243",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/komangsughosa/CVE-ID-not-yet/blob/main/slims/slims9_bulian-9.6.1-SSRF-pop_p2p.md",
       "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:slims:senayan_library_management_system_bulian:9.6.1:*:*:*:*:*:*:*",
+      "cpeNameId": "B7DAC22E-8BEC-4B9B-A9D8-76DC37C3035A"
     }
   ]
 }

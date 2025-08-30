@@ -1,0 +1,31 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:yealink:configuration_encryption_tool:1.2:*:*:*:rsa:*:*:*",
+  "cpeNameId": "7F4D36D1-83CD-4EED-804F-D2FC944AD137",
+  "lastModified": "2025-08-26T14:34:53.657",
+  "created": "2025-08-26T14:34:53.657",
+  "titles": [
+    {
+      "title": "Yealink Configuration Encryption Tool 1.2 RSA Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://support.yealink.com/en/portal/docList?archiveType=tool&productCode=85e5320540929dd1",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/gitaware/CVE/blob/main/CVE-2024-24681/CVE-2024-24681_advisory_yealink_AES.pdf",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://seclists.org/fulldisclosure/2024/Feb/22",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.yealink.com/en/trust-center/security-advisories/yealink-config-encrypt-tool-hardcoded-encryption-password-vulnerability",
+      "type": "Advisory"
+    }
+  ]
+}

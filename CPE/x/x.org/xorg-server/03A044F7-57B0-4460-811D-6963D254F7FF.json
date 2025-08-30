@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:x.org:xorg-server:21.1.11:*:*:*:*:*:*:*",
   "cpeNameId": "03A044F7-57B0-4460-811D-6963D254F7FF",
-  "lastModified": "2024-02-03T01:39:22.613",
+  "lastModified": "2025-08-29T13:42:30.557",
   "created": "2024-02-03T01:39:22.613",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.openwall.com/lists/oss-security/2024/01/18/1",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:x.org:x_server:21.1.11:*:*:*:*:*:*:*",
+      "cpeNameId": "F6729083-29EE-4772-9DFF-80B43980D6BE"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:slims:slims7_cendana:2017-03-23:*:*:*:*:*:*:*",
   "cpeNameId": "B21D66B5-F851-49B2-AC4D-566394D2C522",
-  "lastModified": "2021-08-06T18:44:22.987",
+  "lastModified": "2025-08-26T19:30:34.367",
   "created": "2017-03-27T17:37:47.423",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://app.debricked.com/en/vulnerability-database/vulnerability/CVE-2017-7242",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:slims:senayan_library_management_system:2017-03-23:*:*:*:*:*:*:*",
+      "cpeNameId": "E36A7FA1-20F5-46C1-959A-4C7B6717B70E"
     }
   ]
 }
