@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:dataease:dataease:1.11.1:*:*:*:*:*:*:*",
   "cpeNameId": "BCA038C9-442D-4B2D-96B3-FC870CDBCD81",
-  "lastModified": "2022-10-05T13:34:42.787",
+  "lastModified": "2025-09-03T13:43:53.407",
   "created": "2022-07-31T01:20:53.680",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecates": [
     {
-      "ref": "https://dataease.io/index.html",
-      "type": "Product"
-    },
-    {
-      "ref": "https://dataease.io/docs/changelog/",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:dataease_project:dataease:1.11.1:*:*:*:*:*:*:*",
+      "cpeNameId": "C8D4B386-8C57-4718-A8D6-2739A0A5CB3E"
     }
   ]
 }
