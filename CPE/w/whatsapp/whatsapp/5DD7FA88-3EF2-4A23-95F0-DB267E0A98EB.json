@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:whatsapp:whatsapp:2.22.16.12:*:*:*:business:android:*:*",
   "cpeNameId": "5DD7FA88-3EF2-4A23-95F0-DB267E0A98EB",
-  "lastModified": "2022-11-02T16:51:12.993",
+  "lastModified": "2025-09-03T17:36:53.303",
   "created": "2022-09-23T16:12:47.583",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.whatsapp.com/security/advisories/2022/",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:whatsapp:whatsapp_business:2.22.16.12:*:*:*:*:android:*:*",
+      "cpeNameId": "78A5701E-2BB1-4015-87AD-F5F113138BEB"
     }
   ]
 }

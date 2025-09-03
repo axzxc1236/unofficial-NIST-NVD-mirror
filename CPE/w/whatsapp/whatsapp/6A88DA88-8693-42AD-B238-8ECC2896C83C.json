@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:whatsapp:whatsapp:2.19.51:*:*:*:business:iphone_os:*:*",
   "cpeNameId": "6A88DA88-8693-42AD-B238-8ECC2896C83C",
-  "lastModified": "2021-04-29T19:41:00.420",
+  "lastModified": "2025-09-03T17:36:53.303",
   "created": "2019-05-16T15:45:36.190",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.securityfocus.com/bid/108329",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.whatsapp.com/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:whatsapp:whatsapp_business:2.19.51:*:*:*:*:iphone_os:*:*",
+      "cpeNameId": "86B7A018-D1E5-4DEC-9AB5-B2C6DF20F317"
     }
   ]
 }

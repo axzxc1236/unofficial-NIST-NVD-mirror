@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:whatsapp:whatsapp:2.20.197.20:*:*:*:business:android:*:*",
   "cpeNameId": "CBF9B6AD-46C8-4016-85BB-F03A3B6BCFD9",
-  "lastModified": "2020-09-18T15:48:57.570",
+  "lastModified": "2025-09-03T17:36:53.303",
   "created": "2020-09-18T15:48:57.570",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://apkpure.com/whatsapp-business/com.whatsapp.w4b/versions",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:whatsapp:whatsapp_business:2.20.197.20:*:*:*:*:android:*:*",
+      "cpeNameId": "A6C3DEDC-E9BB-4177-B241-DC313C3D5726"
     }
   ]
 }

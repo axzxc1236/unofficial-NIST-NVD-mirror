@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:whatsapp:whatsapp:2.18.109:*:*:*:business:android:*:*",
   "cpeNameId": "4E197B9C-9E86-41F3-8DCC-1C176E4AE227",
-  "lastModified": "2021-04-29T19:41:00.420",
+  "lastModified": "2025-09-03T17:36:53.303",
   "created": "2021-02-17T16:43:22.797",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://whatsapp-business.en.uptodown.com/android/versions",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:whatsapp:whatsapp_business:2.18.109:*:*:*:*:android:*:*",
+      "cpeNameId": "64EE3DC4-C857-4E6A-AC59-20233105824C"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:whatsapp:whatsapp:2.18.150:*:*:*:business:android:*:*",
   "cpeNameId": "092C494A-BBD0-4E76-89A2-A7C7C1B04B4B",
-  "lastModified": "2021-01-26T17:42:57.490",
+  "lastModified": "2025-09-03T17:36:53.303",
   "created": "2021-01-26T17:42:57.490",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.whatsapp.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.facebook.com/security/advisories/cve-2018-6339/",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:whatsapp:whatsapp_business:2.18.150:*:*:*:*:android:*:*",
+      "cpeNameId": "410167B3-6ED1-4DAF-935C-7F9355301EB9"
     }
   ]
 }

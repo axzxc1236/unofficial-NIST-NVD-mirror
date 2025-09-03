@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:whatsapp:whatsapp:2.22.16.12:*:*:*:business:iphone_os:*:*",
   "cpeNameId": "EA9D9BFF-2D6A-4ED6-822B-856FCF936BC1",
-  "lastModified": "2022-11-02T16:51:12.993",
+  "lastModified": "2025-09-03T17:36:53.303",
   "created": "2022-09-23T16:12:53.867",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.whatsapp.com/security/advisories/2022/",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:whatsapp:whatsapp_business:2.22.16.12:*:*:*:*:iphone_os:*:*",
+      "cpeNameId": "BAE363D7-2E9E-4F3A-AC86-E4D25CACD1AA"
     }
   ]
 }

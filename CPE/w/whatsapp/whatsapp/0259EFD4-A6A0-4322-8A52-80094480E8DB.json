@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:whatsapp:whatsapp:2.18.132:*:*:*:business:android:*:*",
   "cpeNameId": "0259EFD4-A6A0-4322-8A52-80094480E8DB",
-  "lastModified": "2019-10-29T01:41:05.743",
+  "lastModified": "2025-09-03T17:36:53.303",
   "created": "2019-10-29T01:41:05.743",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.whatsapp.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://play.google.com/store/apps/details?id=com.whatsapp.w4b",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:whatsapp:whatsapp_business:2.18.132:*:*:*:*:android:*:*",
+      "cpeNameId": "F3294B72-F236-4F4E-A85D-BC0A29CFDAE8"
     }
   ]
 }
