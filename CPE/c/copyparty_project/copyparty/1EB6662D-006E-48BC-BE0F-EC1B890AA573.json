@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:copyparty_project:copyparty:0.6.3:*:*:*:*:*:*:*",
   "cpeNameId": "1EB6662D-006E-48BC-BE0F-EC1B890AA573",
-  "lastModified": "2023-07-24T18:55:57.393",
+  "lastModified": "2025-09-04T13:04:46.710",
   "created": "2023-07-24T18:31:30.620",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/9001/copyparty/tags",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/9001/copyparty/security/advisories/GHSA-pxfv-7rr3-2qjg",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:9001:copyparty:0.6.3:*:*:*:*:*:*:*",
+      "cpeNameId": "E7A259B2-35F4-4653-BFDF-300F608B0941"
     }
   ]
 }
