@@ -1,13 +1,19 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:other.media:browser_back_button:1.0.0:*:*:*:*:drupal:*:*",
   "cpeNameId": "6261DC9D-EA1C-444A-99D3-A0F567F5A84A",
-  "lastModified": "2025-08-28T21:21:50.307",
+  "lastModified": "2025-09-05T16:52:59.550",
   "created": "2025-08-28T21:21:50.307",
   "titles": [
     {
       "title": "Other.media Browser Back Button 1.0.0 for Drupal",
       "lang": "en"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:browser_back_button_project:browser_back_button:8.x-1.0:*:*:*:*:drupal:*:*",
+      "cpeNameId": "53226465-27D9-471E-8DCE-0A4981ECB823"
     }
   ]
 }
