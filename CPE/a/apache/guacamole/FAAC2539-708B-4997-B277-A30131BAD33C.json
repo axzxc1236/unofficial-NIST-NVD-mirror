@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:guacamole:1.5.0:*:*:*:*:*:*:*",
   "cpeNameId": "FAAC2539-708B-4997-B277-A30131BAD33C",
-  "lastModified": "2023-05-22T11:21:09.290",
+  "lastModified": "2025-09-09T14:39:56.113",
   "created": "2023-05-20T12:09:29.620",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://guacamole.apache.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://guacamole.apache.org/releases/",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.5.0:-:*:*:*:*:*:*",
+      "cpeNameId": "1D42A1C6-2016-4465-ABC4-167098AF9927"
     }
   ]
 }

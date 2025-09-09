@@ -3,7 +3,7 @@
   "criteria": "cpe:2.3:a:apache:guacamole:*:*:*:*:*:*:*:*",
   "versionStartIncluding": "0.8.0",
   "versionEndExcluding": "1.6.0",
-  "lastModified": "2025-07-07T17:25:02.550",
+  "lastModified": "2025-09-09T14:32:38.323",
   "cpeLastModified": "2025-07-07T17:25:02.550",
   "created": "2025-07-07T17:25:02.550",
   "status": "Active",
@@ -101,6 +101,10 @@
       "cpeNameId": "BEA495B8-6259-4484-BB29-61535BB9B3D8"
     },
     {
+      "cpeName": "cpe:2.3:a:apache:guacamole:0.9.14:-:*:*:*:*:*:*",
+      "cpeNameId": "3D8F7929-09B2-4076-B329-551F88F17AF1"
+    },
+    {
       "cpeName": "cpe:2.3:a:apache:guacamole:0.9.14:rc1:*:*:*:*:*:*",
       "cpeNameId": "414DF5ED-5830-48C6-9622-83E56B3DAFD5"
     },
@@ -109,12 +113,20 @@
       "cpeNameId": "70E7C13D-E5DC-44CD-8565-EE76889DB835"
     },
     {
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.0.0:-:*:*:*:*:*:*",
+      "cpeNameId": "0589B8FA-62DD-46DF-BCEB-6931A38EF5C6"
+    },
+    {
       "cpeName": "cpe:2.3:a:apache:guacamole:1.0.0:rc1:*:*:*:*:*:*",
       "cpeNameId": "F5BF937E-3470-44F0-A4AC-8E3C14ED7A54"
     },
     {
       "cpeName": "cpe:2.3:a:apache:guacamole:1.1.0:*:*:*:*:*:*:*",
       "cpeNameId": "FC9B1F9D-AFF1-491C-9702-ED463E559F12"
+    },
+    {
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.1.0:-:*:*:*:*:*:*",
+      "cpeNameId": "24F99CA8-9841-497E-85A9-0187DB3353B0"
     },
     {
       "cpeName": "cpe:2.3:a:apache:guacamole:1.1.0:rc1:*:*:*:*:*:*",
@@ -149,20 +161,84 @@
       "cpeNameId": "752E2B83-C125-4ED0-A29C-9EE99CC09A56"
     },
     {
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.4.0:-:*:*:*:*:*:*",
+      "cpeNameId": "D3EF32B4-45AB-4F02-A0E2-0CD2BC898F47"
+    },
+    {
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.4.0:rc1:*:*:*:*:*:*",
+      "cpeNameId": "A49DAF49-57D0-4048-8490-A868B5A8B939"
+    },
+    {
       "cpeName": "cpe:2.3:a:apache:guacamole:1.5.0:*:*:*:*:*:*:*",
       "cpeNameId": "FAAC2539-708B-4997-B277-A30131BAD33C"
+    },
+    {
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.5.0:-:*:*:*:*:*:*",
+      "cpeNameId": "1D42A1C6-2016-4465-ABC4-167098AF9927"
+    },
+    {
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.5.0:rc1:*:*:*:*:*:*",
+      "cpeNameId": "62F2BB0F-B701-49D1-8510-4D84EFA2483F"
     },
     {
       "cpeName": "cpe:2.3:a:apache:guacamole:1.5.1:*:*:*:*:*:*:*",
       "cpeNameId": "6F7E1F70-56AC-4D2B-8E01-47F5A6B4A888"
     },
     {
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.5.1:-:*:*:*:*:*:*",
+      "cpeNameId": "29C96B27-E2CC-4564-B947-CE1B2B2522CC"
+    },
+    {
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.5.1:rc1:*:*:*:*:*:*",
+      "cpeNameId": "585FD352-6B8E-4875-8C14-4026505F4006"
+    },
+    {
       "cpeName": "cpe:2.3:a:apache:guacamole:1.5.2:*:*:*:*:*:*:*",
       "cpeNameId": "DECDCDBB-FF0B-4765-A176-4BCA34AC60EF"
     },
     {
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.5.2:-:*:*:*:*:*:*",
+      "cpeNameId": "C81AEBCA-977C-4A36-9777-861EA872FA63"
+    },
+    {
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.5.2:rc1:*:*:*:*:*:*",
+      "cpeNameId": "D65F0BCF-A8F1-4A88-9593-BBEDC8E2544D"
+    },
+    {
       "cpeName": "cpe:2.3:a:apache:guacamole:1.5.3:*:*:*:*:*:*:*",
       "cpeNameId": "AC39DD44-667E-4FFA-8CBA-13727D45F1AA"
+    },
+    {
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.5.3:-:*:*:*:*:*:*",
+      "cpeNameId": "F6210CC6-5A0A-499D-A54A-E077B47BA137"
+    },
+    {
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.5.3:rc1:*:*:*:*:*:*",
+      "cpeNameId": "497C8595-7E14-4BB8-8206-B7C23B5DD631"
+    },
+    {
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.5.3:rc2:*:*:*:*:*:*",
+      "cpeNameId": "3FABD5FD-BC20-4BAC-BBD9-2F7F05AA4690"
+    },
+    {
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.5.4:-:*:*:*:*:*:*",
+      "cpeNameId": "86BAEE36-68FB-4AA8-BDF1-A61C6C4FFEB4"
+    },
+    {
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.5.4:rc1:*:*:*:*:*:*",
+      "cpeNameId": "E6161BE6-1560-4F91-910C-FE7B9038D15E"
+    },
+    {
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.5.4:rc2:*:*:*:*:*:*",
+      "cpeNameId": "4EB1B581-E645-42E2-9FF7-F36016F3F0C9"
+    },
+    {
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.5.5:-:*:*:*:*:*:*",
+      "cpeNameId": "22F47691-FFD5-40B1-B5A6-CEF10F2CD358"
+    },
+    {
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.5.5:rc1:*:*:*:*:*:*",
+      "cpeNameId": "4DADAEA7-606C-4ED4-8104-32A8D8BF21FD"
     }
   ]
 }

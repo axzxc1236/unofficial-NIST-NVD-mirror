@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:apache:guacamole:1.2.0:-:*:*:*:*:*:*",
   "cpeNameId": "8E9B3B78-E371-4112-B424-E474B1BF8E35",
-  "lastModified": "2021-01-22T22:02:45.983",
+  "lastModified": "2025-09-09T14:39:56.113",
   "created": "2021-01-22T22:02:45.983",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecates": [
     {
-      "ref": "https://guacamole.apache.org/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/apache/guacamole-server",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:apache:guacamole:1.2.0:*:*:*:*:*:*:*",
+      "cpeNameId": "6ABB81CA-6307-4F0F-B096-084D51AA7B39"
     }
   ]
 }

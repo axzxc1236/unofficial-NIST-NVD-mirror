@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:hive:4.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "8C74B2C4-B0AE-4FCF-B15D-62E2BDF19EE9",
-  "lastModified": "2021-09-02T18:46:24.580",
+  "lastModified": "2025-09-09T14:45:06.110",
   "created": "2021-09-02T15:30:16.463",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://lists.apache.org/thread.html/r62aa6d07b23095d980f348d330ed766560f9a9e940fec051f534ce37@%3Cissues.hive.apache.org%3E",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://hive.apache.org/",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:apache:hive:4.0.0:-:*:*:*:*:*:*",
+      "cpeNameId": "A0D4F4A6-5B4E-4029-876F-166F9621E491"
     }
   ]
 }
