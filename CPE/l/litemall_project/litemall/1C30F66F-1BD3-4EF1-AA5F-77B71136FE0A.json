@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:litemall_project:litemall:0.8.0:*:*:*:*:*:*:*",
   "cpeNameId": "1C30F66F-1BD3-4EF1-AA5F-77B71136FE0A",
-  "lastModified": "2019-06-27T15:09:25.083",
+  "lastModified": "2025-09-11T17:19:20.093",
   "created": "2019-06-27T15:09:25.083",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/linlinjava/litemall/",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:linlinjava:litemall:0.8.0:*:*:*:*:*:*:*",
+      "cpeNameId": "841D7F5A-9FEF-4213-8AFD-B194927F16C1"
     }
   ]
 }
