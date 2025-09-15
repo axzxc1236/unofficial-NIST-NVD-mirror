@@ -2,11 +2,15 @@
   "matchCriteriaId": "2F64C0C1-1769-4D06-B937-86C8B6F14C50",
   "criteria": "cpe:2.3:a:mailcow:mailcow\\:_dockerized:*:*:*:*:*:*:*:*",
   "versionEndExcluding": "2024-04",
-  "lastModified": "2025-09-11T14:02:48.483",
+  "lastModified": "2025-09-15T12:24:10.933",
   "cpeLastModified": "2025-09-11T14:02:48.483",
   "created": "2025-09-11T14:02:48.483",
   "status": "Active",
   "matches": [
+    {
+      "cpeName": "cpe:2.3:a:mailcow:mailcow\\:_dockerized:-:*:*:*:*:*:*:*",
+      "cpeNameId": "BCA322D7-294A-48DE-9BB7-3D39CB020F77"
+    },
     {
       "cpeName": "cpe:2.3:a:mailcow:mailcow\\:_dockerized:0.1:*:*:*:*:*:*:*",
       "cpeNameId": "B818249A-0D00-4F15-8F8D-F108A7F640E2"
@@ -338,6 +342,10 @@
     {
       "cpeName": "cpe:2.3:a:mailcow:mailcow\\:_dockerized:2024-01e:*:*:*:*:*:*:*",
       "cpeNameId": "96946CDC-9030-4221-ACC5-3DA4A744D46F"
+    },
+    {
+      "cpeName": "cpe:2.3:a:mailcow:mailcow\\:_dockerized:2024-02:*:*:*:*:*:*:*",
+      "cpeNameId": "DE4DD3DB-37E8-448F-92B4-75DCE834E1CE"
     }
   ]
 }
