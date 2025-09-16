@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:jetbrains:youtrack:3017.3.37328:*:*:*:*:*:*:*",
   "cpeNameId": "CDE8CF39-8DF1-441F-94DD-36F28A40579A",
-  "lastModified": "2019-10-09T11:56:52.823",
+  "lastModified": "2025-09-16T18:20:39.010",
   "created": "2019-10-09T11:56:52.823",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.jetbrains.com/youtrack/download/previous.html",
-      "type": "Version"
-    },
-    {
-      "ref": "https://blog.jetbrains.com/blog/2019/09/26/jetbrains-security-bulletin-q2-2019/",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:jetbrains:youtrack:2017.3.37328:*:*:*:*:*:*:*",
+      "cpeNameId": "6FA01061-63B0-40E8-93B5-4D9B87D10CAC"
     }
   ]
 }

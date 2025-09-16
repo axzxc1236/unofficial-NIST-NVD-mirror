@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cdevroe:unmark:1.9.2:*:*:*:*:*:*:*",
   "cpeNameId": "D59CB628-464A-4971-BE9D-EC0F074AA664",
-  "lastModified": "2025-05-02T18:30:27.363",
+  "lastModified": "2025-09-16T17:16:46.080",
   "created": "2025-05-02T18:30:27.363",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/cdevroe/unmark/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://cdevroe.com/links/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/cdevroe/unmark/issues/290",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:unmark:unmark:1.9.2:*:*:*:*:*:*:*",
+      "cpeNameId": "505099F2-4D41-43C9-B6ED-E2CDC49171EF"
     }
   ]
 }
