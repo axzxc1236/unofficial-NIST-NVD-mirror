@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:siemens:sinec_nms:2.0:*:*:*:*:*:*:*",
   "cpeNameId": "9D0240AC-B7F3-4894-AA8B-E805D821C670",
-  "lastModified": "2023-12-16T03:42:31.200",
+  "lastModified": "2025-09-17T20:53:51.747",
   "created": "2023-12-16T03:42:31.200",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://cert-portal.siemens.com/productcert/pdf/ssa-160243.pdf",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:siemens:sinec_nms:2.0:-:*:*:*:*:*:*",
+      "cpeNameId": "B1BCE83F-9C0F-4D2A-8521-C8F78077C209"
     }
   ]
 }
