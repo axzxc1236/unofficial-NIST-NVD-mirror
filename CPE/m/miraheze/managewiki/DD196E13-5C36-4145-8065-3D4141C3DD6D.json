@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:miraheze:managewiki:2021-04-28:*:*:*:*:*:*:*",
   "cpeNameId": "DD196E13-5C36-4145-8065-3D4141C3DD6D",
-  "lastModified": "2021-06-11T20:20:39.433",
+  "lastModified": "2025-09-19T15:44:54.077",
   "created": "2021-05-04T14:00:29.497",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://miraheze.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/miraheze/ManageWiki/commit/befb83c66f5b643e174897ea41a8a46679b26304",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/miraheze/ManageWiki/security/advisories/GHSA-jmc9-rv2f-g8vv",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:miraheze:managewiki:2021-04-28:*:*:*:*:mediawiki:*:*",
+      "cpeNameId": "6CF251C3-2575-420E-BD5B-762B6C02D6A7"
     }
   ]
 }
