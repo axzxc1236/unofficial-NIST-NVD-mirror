@@ -2,22 +2,18 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:adobe:experience_manager:-:*:*:*:aem_cloud_service:*:*:*",
   "cpeNameId": "23AE17BB-9CA3-4D6E-B7B6-DA8CD383932D",
-  "lastModified": "2023-09-16T02:30:47.320",
+  "lastModified": "2025-09-19T17:19:39.570",
   "created": "2023-09-16T02:30:47.320",
   "titles": [
     {
-      "title": "Adobe Experience Manager - AEM Cloud Service Edition",
+      "title": "Adobe Experience Manager AEM Cloud Service Edition",
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecates": [
     {
-      "ref": "https://www.adobe.com/marketing/experience-manager.html",
-      "type": "Product"
-    },
-    {
-      "ref": "https://business.adobe.com/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:adobe:experience_manager:-:*:*:*:cloud_service:*:*:*",
+      "cpeNameId": "1AEB48D4-8FDB-46B5-A2C5-1C0A369A1E50"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:json-java_project:json-java:20230227:*:*:*:*:*:*:*",
   "cpeNameId": "49139C48-7081-42B2-9F81-97A19E772D28",
-  "lastModified": "2023-10-27T14:01:32.527",
+  "lastModified": "2025-09-19T18:54:20.100",
   "created": "2023-10-27T14:01:32.527",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/stleary/JSON-java/tags",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/stleary/JSON-java/issues/771",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:stleary:json-java:20230227:*:*:*:*:*:*:*",
+      "cpeNameId": "8E85E6D4-6E42-4B41-8781-7891E354EF4A"
     }
   ]
 }
