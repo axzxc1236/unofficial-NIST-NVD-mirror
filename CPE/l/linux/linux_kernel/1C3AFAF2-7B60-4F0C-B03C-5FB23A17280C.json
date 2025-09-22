@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:linux:linux_kernel:3.17:*:*:*:*:*:*:*",
   "cpeNameId": "1C3AFAF2-7B60-4F0C-B03C-5FB23A17280C",
-  "lastModified": "2018-04-24T16:51:28.187",
+  "lastModified": "2025-09-22T19:20:01.367",
   "created": "2018-04-24T16:51:28.187",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/torvalds/linux/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.kernel.org/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://mirrors.edge.kernel.org/pub/linux/kernel/v3.x/",
-      "type": "Version"
+      "cpeName": "cpe:2.3:o:linux:linux_kernel:3.17:-:*:*:*:*:*:*",
+      "cpeNameId": "86FB7A91-0EDD-4415-AD05-82BAAFE64E61"
     }
   ]
 }

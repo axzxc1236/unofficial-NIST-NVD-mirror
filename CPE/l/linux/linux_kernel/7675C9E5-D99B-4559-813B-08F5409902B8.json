@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:linux:linux_kernel:3.13:*:*:*:*:*:*:*",
   "cpeNameId": "7675C9E5-D99B-4559-813B-08F5409902B8",
-  "lastModified": "2014-02-07T16:34:24.940",
+  "lastModified": "2025-09-22T19:20:01.367",
   "created": "2014-02-07T15:42:58.833",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.kernel.org/pub/linux/kernel/v3.x/",
-      "type": "Version"
+      "cpeName": "cpe:2.3:o:linux:linux_kernel:3.13:-:*:*:*:*:*:*",
+      "cpeNameId": "CEE28587-B670-42A6-AA69-54972687AF54"
     }
   ]
 }

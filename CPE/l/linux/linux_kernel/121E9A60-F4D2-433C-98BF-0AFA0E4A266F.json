@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:linux:linux_kernel:5.9:*:*:*:*:*:*:*",
   "cpeNameId": "121E9A60-F4D2-433C-98BF-0AFA0E4A266F",
-  "lastModified": "2024-03-11T15:23:15.143",
+  "lastModified": "2025-09-22T19:50:40.563",
   "created": "2024-03-11T15:23:15.143",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://en.wikipedia.org/wiki/Linux_kernel_version_history",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:o:linux:linux_kernel:5.9:-:*:*:*:*:*:*",
+      "cpeNameId": "4C22E672-7422-4C24-9F43-5EFDF8BBA744"
     }
   ]
 }

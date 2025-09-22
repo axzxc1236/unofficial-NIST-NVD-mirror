@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:linux:linux_kernel:4.6:*:*:*:*:*:*:*",
   "cpeNameId": "513E9C7E-9CD0-453D-8044-1DCF043ABFC5",
-  "lastModified": "2016-08-16T18:52:16.380",
+  "lastModified": "2025-09-22T19:28:24.050",
   "created": "2016-08-16T18:52:16.380",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.kernel.org/pub/linux/kernel/v4.x/",
-      "type": "Version"
+      "cpeName": "cpe:2.3:o:linux:linux_kernel:4.6:-:*:*:*:*:*:*",
+      "cpeNameId": "3A4672BD-5B07-48B3-8D9A-197B7CEF13A6"
     }
   ]
 }
