@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:adobe:connect:-:*:*:*:*:*:*:*",
   "cpeNameId": "A366B793-B30A-4DCB-99DD-869AD9BCE3D4",
-  "lastModified": "2021-06-30T14:04:41.953",
+  "lastModified": "2025-09-24T19:37:49.820",
   "created": "2021-06-30T13:33:32.910",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://helpx.adobe.com/security/products/connect/apsb21-36.html",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:adobe:connect:-:*:*:*:*:-:*:*",
+      "cpeNameId": "6D3C0CF0-FBC4-4143-8C39-E8CA688B6B06"
     }
   ]
 }

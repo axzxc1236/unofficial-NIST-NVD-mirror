@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:adobe:connect:11.0:*:*:*:*:*:*:*",
   "cpeNameId": "906E7244-338C-443C-93D5-DB8EF96B8B35",
-  "lastModified": "2020-12-02T20:56:48.087",
+  "lastModified": "2025-09-24T19:37:49.820",
   "created": "2020-12-02T20:56:48.087",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-11-0-release-notes.html",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:adobe:connect:11.0:*:*:*:*:-:*:*",
+      "cpeNameId": "BC82026A-52D0-4647-9932-30A40ADC3132"
     }
   ]
 }

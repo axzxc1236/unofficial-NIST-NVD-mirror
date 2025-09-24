@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:adobe:connect:9.6.2:*:*:*:*:*:*:*",
   "cpeNameId": "4668875B-8C13-4B66-950F-BA45E2008D96",
-  "lastModified": "2017-12-14T18:08:34.653",
+  "lastModified": "2025-09-24T19:37:49.820",
   "created": "2017-12-14T18:08:34.653",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://helpx.adobe.com/adobe-connect/connect-releasenotes.html",
-      "type": "Version"
-    },
-    {
-      "ref": "http://www.adobe.com/products/adobeconnect.html",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:adobe:connect:9.6.2:*:*:*:*:-:*:*",
+      "cpeNameId": "2D23A790-9BC4-4D96-9600-BA48CFE02E73"
     }
   ]
 }
