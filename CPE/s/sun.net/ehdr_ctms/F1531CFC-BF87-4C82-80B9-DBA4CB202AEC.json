@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:sun.net:ehdr_ctms:10.0:*:*:*:*:*:*:*",
   "cpeNameId": "F1531CFC-BF87-4C82-80B9-DBA4CB202AEC",
-  "lastModified": "2025-04-11T20:30:31.190",
+  "lastModified": "2025-09-25T14:13:08.880",
   "created": "2025-04-11T20:30:31.190",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.twcert.org.tw/en/cp-139-8169-0632f-2.html",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:sun.net:ehrd_ctms:10.0:*:*:*:*:*:*:*",
+      "cpeNameId": "EAECB3F3-DDD8-42D2-A10C-18F83F45AEA2"
     }
   ]
 }
