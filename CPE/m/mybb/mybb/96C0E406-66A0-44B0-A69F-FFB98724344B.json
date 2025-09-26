@@ -2,12 +2,36 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:mybb:mybb:1.4.3:*:*:*:*:*:*:*",
   "cpeNameId": "96C0E406-66A0-44B0-A69F-FFB98724344B",
-  "lastModified": "2012-08-31T18:20:00.527",
+  "lastModified": "2025-09-26T19:39:38.973",
   "created": "2009-08-25T15:51:26.420",
   "titles": [
     {
       "title": "MyBB 1.4.3",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://mybb.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://mybb.com/versions/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/mybb/mybb",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/mybb/mybb/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:mybboard:mybb:1.4.3:*:*:*:*:*:*:*",
+      "cpeNameId": "E31D73A3-00A9-4774-BE5B-908804B7BB8D"
     }
   ]
 }
