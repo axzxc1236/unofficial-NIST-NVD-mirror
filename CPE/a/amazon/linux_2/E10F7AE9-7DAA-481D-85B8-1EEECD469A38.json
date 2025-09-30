@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:amazon:linux_2:-:*:*:*:*:*:*:*",
   "cpeNameId": "E10F7AE9-7DAA-481D-85B8-1EEECD469A38",
-  "lastModified": "2019-01-17T17:32:07.823",
+  "lastModified": "2025-09-30T13:40:08.030",
   "created": "2019-01-17T17:32:07.823",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://aws.amazon.com/amazon-linux-2/release-notes/",
-      "type": "Version"
+      "cpeName": "cpe:2.3:o:amazon:amazon_linux:-:*:*:*:*:*:*:*",
+      "cpeNameId": "97765225-027B-40F4-97C7-468E72CA2AD1"
     }
   ]
 }

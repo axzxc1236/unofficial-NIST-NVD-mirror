@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:lobehub:lobe_chat:0.86.0-beta.3:*:*:*:*:*:*:*",
   "cpeNameId": "FA7B1239-4476-4F95-8BFA-A01891E2986E",
-  "lastModified": "2024-02-08T19:44:02.960",
+  "lastModified": "2025-09-30T15:23:02.720",
   "created": "2024-02-08T19:44:02.960",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/lobehub/lobe-chat/security/advisories/GHSA-pf55-fj96-xf37",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/lobehub/lobe-chat",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://chat-preview.lobehub.com/welcome",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:lobehub:lobe_chat:0.86.0:beta3:*:*:*:*:*:*",
+      "cpeNameId": "63EB8012-55AE-4C44-9D41-356E118C4748"
     }
   ]
 }
