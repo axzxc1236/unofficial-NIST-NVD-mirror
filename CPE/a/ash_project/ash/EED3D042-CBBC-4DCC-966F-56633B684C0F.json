@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ash_project:ash:0.28.0:*:*:*:*:rust:*:*",
   "cpeNameId": "EED3D042-CBBC-4DCC-966F-56633B684C0F",
-  "lastModified": "2022-10-17T19:25:36.980",
+  "lastModified": "2025-09-30T19:06:56.617",
   "created": "2022-10-17T19:24:18.463",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/ash-rs/ash/tags",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://crates.io/crates/ash/versions",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:ash-rs:ash:0.28.0:*:*:*:*:rust:*:*",
+      "cpeNameId": "9B0DB5F2-00F6-4517-ACBE-883C5313A753"
     }
   ]
 }
