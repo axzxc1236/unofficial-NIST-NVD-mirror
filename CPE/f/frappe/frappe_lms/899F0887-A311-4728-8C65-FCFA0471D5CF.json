@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:frappe:frappe_lms:1.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "899F0887-A311-4728-8C65-FCFA0471D5CF",
-  "lastModified": "2023-12-16T03:37:24.357",
+  "lastModified": "2025-10-03T17:36:07.843",
   "created": "2023-12-16T03:37:24.357",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://frappelms.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/frappe/lms/releases",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:frappe:learning:1.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "1AEE923F-BEE1-4228-AFC7-17B97C30D730"
     }
   ]
 }
