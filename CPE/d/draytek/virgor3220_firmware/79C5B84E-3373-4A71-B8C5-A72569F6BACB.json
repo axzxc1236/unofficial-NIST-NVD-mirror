@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:draytek:virgor3220_firmware:-:*:*:*:*:*:*:*",
   "cpeNameId": "79C5B84E-3373-4A71-B8C5-A72569F6BACB",
-  "lastModified": "2023-03-20T16:51:16.080",
+  "lastModified": "2025-10-07T19:12:32.623",
   "created": "2023-03-09T16:13:51.583",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.draytek.com/about/security-advisory/cross-site-scripting-vulnerability-(cve-2023-23313)/",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.draytek.com/products/vigor3220/#resource",
-      "type": "Product"
+      "cpeName": "cpe:2.3:o:draytek:vigor3220_firmware:-:*:*:*:*:*:*:*",
+      "cpeNameId": "405CBB28-F6AC-48B4-8585-82CF65BFA7F2"
     }
   ]
 }

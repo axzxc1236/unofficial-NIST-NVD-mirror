@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:draytek:virgor2926lac_firmware:-:*:*:*:*:*:*:*",
   "cpeNameId": "3562F205-FA7F-4392-850E-6F9CE75196CA",
-  "lastModified": "2023-03-20T16:51:16.080",
+  "lastModified": "2025-10-07T19:12:32.623",
   "created": "2023-03-09T16:16:30.763",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.draytek.com/products/vigor2926-lte/#models",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.draytek.com/about/security-advisory/cross-site-scripting-vulnerability-(cve-2023-23313)/",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:o:draytek:vigor2926lac_firmware:-:*:*:*:*:*:*:*",
+      "cpeNameId": "3C188213-E7AE-467E-B6D3-27F5A8F5B1B9"
     }
   ]
 }

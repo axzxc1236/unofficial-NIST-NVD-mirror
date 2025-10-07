@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:draytek:virgor2952p_firmware:3.9.7.4:*:*:*:*:*:*:*",
   "cpeNameId": "AC9E39F6-9E92-49D2-97EA-0A59D0557727",
-  "lastModified": "2023-03-20T16:51:16.080",
+  "lastModified": "2025-10-07T19:12:32.623",
   "created": "2023-03-09T16:14:19.887",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.draytek.com/about/security-advisory/cross-site-scripting-vulnerability-(cve-2023-23313)/",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.draytek.com/products/vigor2952p",
-      "type": "Product"
+      "cpeName": "cpe:2.3:o:draytek:vigor2952p_firmware:3.9.7.4:*:*:*:*:*:*:*",
+      "cpeNameId": "CA63FCFC-F94A-45D9-AA62-312B5DABE029"
     }
   ]
 }

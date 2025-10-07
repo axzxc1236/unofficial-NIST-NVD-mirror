@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:o:draytek:vigor2915_firmware:-:*:*:*:*:*:*:*",
   "cpeNameId": "D721BD03-6E8D-44FA-AB9D-B5901D346031",
-  "lastModified": "2022-08-31T12:51:25.280",
+  "lastModified": "2025-10-07T19:12:32.623",
   "created": "2022-08-31T10:16:11.403",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecates": [
     {
-      "ref": "https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/rce-in-dratyek-routers.html",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.draytek.com/products/routers/",
-      "type": "Product"
+      "cpeName": "cpe:2.3:o:draytek:virgor2915_firmware:-:*:*:*:*:*:*:*",
+      "cpeNameId": "6C76B748-95C3-421C-8BF7-4B3C0A7860C5"
     }
   ]
 }

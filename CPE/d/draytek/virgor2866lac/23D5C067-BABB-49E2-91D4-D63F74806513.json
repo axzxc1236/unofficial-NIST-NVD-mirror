@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:h:draytek:virgor2866lac:-:*:*:*:*:*:*:*",
   "cpeNameId": "23D5C067-BABB-49E2-91D4-D63F74806513",
-  "lastModified": "2023-03-20T16:51:16.080",
+  "lastModified": "2025-10-07T19:12:32.623",
   "created": "2023-03-09T16:12:52.937",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.draytek.com/about/security-advisory/cross-site-scripting-vulnerability-(cve-2023-23313)/",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.draytek.com/products/vigor2866-lte/",
-      "type": "Product"
+      "cpeName": "cpe:2.3:h:draytek:vigor2866lac:-:*:*:*:*:*:*:*",
+      "cpeNameId": "BEB67731-95C8-4630-8653-3B0D71FA5304"
     }
   ]
 }
