@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:firebirdsql:firebird:2.5:*:*:*:*:*:*:*",
   "cpeNameId": "297C3A1C-C4DE-4B67-AB71-20B24638117F",
-  "lastModified": "2021-03-04T16:24:18.867",
+  "lastModified": "2025-10-09T19:11:46.160",
   "created": "2019-06-10T18:06:18.300",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "http://www.firebirdsql.org/file/documentation/release_notes/html/en/2_5/rlsnotes25.html",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:firebirdsql:firebird:2.5.0:-:*:*:*:*:*:*",
+      "cpeNameId": "8C026894-D14B-404A-9F81-3419FBA75A18"
     }
   ],
   "deprecates": [

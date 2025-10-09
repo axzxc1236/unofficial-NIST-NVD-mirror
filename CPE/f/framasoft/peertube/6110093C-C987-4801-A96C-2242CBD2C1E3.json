@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:framasoft:peertube:4.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "6110093C-C987-4801-A96C-2242CBD2C1E3",
-  "lastModified": "2022-01-14T16:30:47.280",
+  "lastModified": "2025-10-09T17:08:31.267",
   "created": "2022-01-14T16:24:00.743",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://joinpeertube.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/Chocobozzz/PeerTube/tags",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:framasoft:peertube:4.0.0:-:*:*:*:*:*:*",
+      "cpeNameId": "30C22AA5-1A05-4F81-B1D5-FB795F8186EB"
     }
   ]
 }
