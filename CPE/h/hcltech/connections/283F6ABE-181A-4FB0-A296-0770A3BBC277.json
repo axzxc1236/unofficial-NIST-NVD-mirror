@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:hcltech:connections:8.0:*:*:*:*:*:*:*",
   "cpeNameId": "283F6ABE-181A-4FB0-A296-0770A3BBC277",
-  "lastModified": "2023-11-25T04:35:20.817",
+  "lastModified": "2025-10-14T12:28:51.397",
   "created": "2023-11-25T04:35:20.817",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0108434",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:hcltech:connections:8.0:-:*:*:*:*:*:*",
+      "cpeNameId": "3B634D18-8EBD-4C8F-AA33-E08CE5A6A898"
     }
   ]
 }
