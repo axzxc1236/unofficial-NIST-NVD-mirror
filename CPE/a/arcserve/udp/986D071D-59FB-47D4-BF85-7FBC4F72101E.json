@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:arcserve:udp:7.0:*:*:*:*:*:*:*",
   "cpeNameId": "986D071D-59FB-47D4-BF85-7FBC4F72101E",
-  "lastModified": "2019-09-19T12:46:08.313",
+  "lastModified": "2025-10-17T14:13:35.230",
   "created": "2019-09-19T12:46:08.313",
   "titles": [
     {
@@ -10,22 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.arcserve.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.arcserve.com/data-protection-solutions/arcserve-udp/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://support.arcserve.com/s/topic/0TO1J000000I3ppWAC/arcserve-udp-patch-index?language=en_US",
-      "type": "Version"
-    },
-    {
-      "ref": "https://support.arcserve.com/s/article/208668196?language=en_US",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:arcserve:udp:7.0:-:*:*:*:*:*:*",
+      "cpeNameId": "D7ED351A-01FD-46C6-8CE5-0E264F36ACD4"
     }
   ]
 }

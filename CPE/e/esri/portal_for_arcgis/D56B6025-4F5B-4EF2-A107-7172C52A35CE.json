@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:esri:portal_for_arcgis:11.2:*:*:*:*:*:*:*",
   "cpeNameId": "D56B6025-4F5B-4EF2-A107-7172C52A35CE",
-  "lastModified": "2025-01-15T18:21:25.960",
+  "lastModified": "2025-10-17T14:42:10.713",
   "created": "2025-01-15T18:21:25.960",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/portal-for-arcgis-security-2024-update-2-released/",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:esri:portal_for_arcgis:11.2:-:*:*:*:*:*:*",
+      "cpeNameId": "18FC6080-EE1E-4A4D-98C7-3E2DF88CCF5E"
     }
   ]
 }

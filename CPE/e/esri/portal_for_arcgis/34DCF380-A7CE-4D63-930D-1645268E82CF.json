@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:esri:portal_for_arcgis:11.0:*:*:*:*:*:*:*",
   "cpeNameId": "34DCF380-A7CE-4D63-930D-1645268E82CF",
-  "lastModified": "2023-08-19T02:38:52.163",
+  "lastModified": "2025-10-17T14:42:10.713",
   "created": "2023-01-04T21:20:03.347",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/portal-for-arcgis-security-2022-update-2-patch-is-now-available/",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://enterprise.arcgis.com/en/portal/",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:esri:portal_for_arcgis:11.0:-:*:*:*:*:*:*",
+      "cpeNameId": "0E13D46E-1339-4460-9F58-A28A5EA02E84"
     }
   ]
 }
