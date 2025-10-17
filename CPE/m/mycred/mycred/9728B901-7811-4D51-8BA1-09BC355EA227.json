@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mycred:mycred:2.4.10:*:*:*:*:wordpress:*:*",
   "cpeNameId": "9728B901-7811-4D51-8BA1-09BC355EA227",
-  "lastModified": "2023-07-24T18:21:54.393",
+  "lastModified": "2025-10-17T16:52:50.380",
   "created": "2023-07-24T16:40:53.987",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://wordpress.org/plugins/mycred/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://patchstack.com/database/vulnerability/mycred/wordpress-mycred-plugin-2-5-cross-site-request-forgery-csrf?_s_id=cve",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:wpexperts:mycred:2.4.10:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "B4250197-B7BB-4278-9924-8661357C79D5"
     }
   ]
 }

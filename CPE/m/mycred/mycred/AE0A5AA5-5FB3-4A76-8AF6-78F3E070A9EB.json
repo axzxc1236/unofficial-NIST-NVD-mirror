@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mycred:mycred:2.6.3:*:*:*:*:wordpress:*:*",
   "cpeNameId": "AE0A5AA5-5FB3-4A76-8AF6-78F3E070A9EB",
-  "lastModified": "2024-08-28T16:11:54.893",
+  "lastModified": "2025-10-17T16:52:50.380",
   "created": "2024-08-28T16:11:54.893",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://wordpress.org/plugins/mycred/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://patchstack.com/database/vulnerability/mycred/wordpress-mycred-plugin-2-7-2-sensitive-data-exposure-vulnerability?_s_id=cve",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:wpexperts:mycred:2.6.3:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "AD8CDDD4-51D2-4AB9-A688-87FC591703D9"
     }
   ]
 }

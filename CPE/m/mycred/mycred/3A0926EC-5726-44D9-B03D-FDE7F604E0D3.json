@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mycred:mycred:2.3.2:*:*:*:*:wordpress:*:*",
   "cpeNameId": "3A0926EC-5726-44D9-B03D-FDE7F604E0D3",
-  "lastModified": "2022-03-01T14:01:53.727",
+  "lastModified": "2025-10-17T16:52:50.380",
   "created": "2022-01-27T17:10:47.280",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://wpscan.com/vulnerability/7608829d-2820-49e2-a10e-e93eb3005f68",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/mycred/#developers",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:wpexperts:mycred:2.3.2:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "083141BD-9177-4F0D-AE95-11C80AB1C8D2"
     }
   ]
 }

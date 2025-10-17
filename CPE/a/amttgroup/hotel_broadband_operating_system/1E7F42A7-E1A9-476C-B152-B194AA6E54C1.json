@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:amttgroup:hotel_broadband_operating_system:-:*:*:*:*:*:*:*",
   "cpeNameId": "1E7F42A7-E1A9-476C-B152-B194AA6E54C1",
-  "lastModified": "2024-12-27T16:59:09.690",
+  "lastModified": "2025-10-17T17:03:23.703",
   "created": "2024-12-27T16:59:09.690",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://amttgrp.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wiki.shikangsi.com/post/share/ba791f6d-7f63-494f-bd73-827ed7f26e2e",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:amttgroup:hibos:-:*:*:*:*:*:*:*",
+      "cpeNameId": "A7BEDAE2-2472-4548-9220-303071F0C18C"
     }
   ]
 }
