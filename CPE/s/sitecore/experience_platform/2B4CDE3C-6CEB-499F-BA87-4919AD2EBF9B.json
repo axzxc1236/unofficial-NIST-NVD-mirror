@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:sitecore:experience_platform:10.4:*:*:*:*:*:*:*",
   "cpeNameId": "2B4CDE3C-6CEB-499F-BA87-4919AD2EBF9B",
-  "lastModified": "2025-05-29T20:18:11.600",
+  "lastModified": "2025-10-23T19:03:48.217",
   "created": "2025-05-29T20:18:11.600",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1003408",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://developers.sitecore.com/downloads/Sitecore_Experience_Platform",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:sitecore:experience_platform:10.4:-:*:*:*:*:*:*",
+      "cpeNameId": "97BDA0BC-B255-44D1-A2F5-651725FA2A68"
     }
   ]
 }
