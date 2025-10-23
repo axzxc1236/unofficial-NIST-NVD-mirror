@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:zohocorp:manageengine_admanager_plus:6611:*:*:*:*:*:*:*",
   "cpeNameId": "20E8755A-94D5-4C0F-B044-AD13F3C91D92",
-  "lastModified": "2021-04-05T12:00:45.013",
+  "lastModified": "2025-10-23T13:52:46.107",
   "created": "2018-02-28T16:31:18.537",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.manageengine.com/products/ad-manager/release-notes.html",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.manageengine.com/products/ad-manager/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.zohocorp.com/index.html",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:zohocorp:manageengine_admanager_plus:6.6:6611:*:*:*:*:*:*",
+      "cpeNameId": "CFF798E7-BCE7-49DA-B2A9-B926AA7FC64A"
     }
   ]
 }
