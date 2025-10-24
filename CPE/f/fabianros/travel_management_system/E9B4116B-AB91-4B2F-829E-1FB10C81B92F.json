@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:fabianros:travel_management_system:1.0:*:*:*:*:*:*:*",
   "cpeNameId": "E9B4116B-AB91-4B2F-829E-1FB10C81B92F",
-  "lastModified": "2025-04-21T12:20:03.403",
+  "lastModified": "2025-10-23T20:06:00.793",
   "created": "2025-04-21T12:20:03.403",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/Huandtx/cve/blob/main/cve/sql1.md",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://code-projects.org/travel-management-system-using-php-source-code/",
-      "type": "Project"
+      "cpeName": "cpe:2.3:a:fabian:travel_management_system:1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "24116613-9219-4EE4-B25C-D40BD6706F93"
     }
   ]
 }

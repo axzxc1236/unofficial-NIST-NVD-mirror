@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:fabianros:payroll_management_system:1.0:*:*:*:*:*:*:*",
   "cpeNameId": "F01230CF-9A64-4B4D-97DC-1F55A8C843F6",
-  "lastModified": "2025-05-28T14:09:26.660",
+  "lastModified": "2025-10-23T20:06:00.793",
   "created": "2025-05-28T14:09:26.660",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://code-projects.org/payroll-management-system-in-php-with-source-code/",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:fabian:payroll_management_system:1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "D9145BA9-9410-466D-8629-A65316D0C446"
     }
   ]
 }

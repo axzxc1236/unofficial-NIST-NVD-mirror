@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:fabianros:simple_car_rental_system:1.0:*:*:*:*:*:*:*",
   "cpeNameId": "F1AAD56D-2E25-43A0-A81D-DF92D06E3C9E",
-  "lastModified": "2024-12-11T19:28:59.880",
+  "lastModified": "2025-10-23T20:06:00.793",
   "created": "2024-12-11T19:28:59.880",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://code-projects.org/simple-car-rental-system-in-php-with-source-code/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/sil3n/cve/issues/2",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:fabian:simple_car_rental_system:1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "D9C03BE0-4BAE-4FF3-A18C-2FB2296CF6BF"
     }
   ]
 }

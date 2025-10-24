@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:fabianros:personal_diary_management_system:1.0:*:*:*:*:*:*:*",
   "cpeNameId": "0A950F93-2A6C-48CB-8DD3-8C5EF1ACD6A2",
-  "lastModified": "2025-05-28T14:09:26.660",
+  "lastModified": "2025-10-23T20:06:00.793",
   "created": "2025-05-28T14:09:26.660",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://code-projects.org/personal-diary-management-system-in-c-with-source-code/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/zzzxc643/cve/blob/main/Diary%20Management%20System%20Stack%20Buffer%20Overflow.md",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:fabian:personal_diary_management_system:1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "685035FB-8C54-49E4-85D4-0BB735A55D0D"
     }
   ]
 }

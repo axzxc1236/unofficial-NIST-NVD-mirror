@@ -2,18 +2,18 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:fabian:chat_system:1.0:*:*:*:*:*:*:*",
   "cpeNameId": "9D42D9D2-6FF6-49BE-84D1-707D5ED869EF",
-  "lastModified": "2025-10-23T12:19:51.613",
+  "lastModified": "2025-10-23T20:06:00.793",
   "created": "2025-10-23T12:19:51.613",
   "titles": [
     {
-      "title": "fabian Chat System 1.0",
+      "title": "Fabian Ros Chat System 1.0",
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecates": [
     {
-      "ref": "https://code-projects.org/chat-system-using-php-source-code/",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:fabianros:chat_system:1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "B65DDA64-B0DF-4FDD-AF50-B438904E15F7"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:fabianros:online_book_shop:1.0:*:*:*:*:*:*:*",
   "cpeNameId": "F5926E67-57EE-4956-B64C-A9F0D1923662",
-  "lastModified": "2025-05-28T14:09:26.660",
+  "lastModified": "2025-10-23T20:06:00.793",
   "created": "2025-05-28T14:09:26.660",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://code-projects.org/online-book-shop-using-php-source-code/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://code-projects.org/author/fabian/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://gist.github.com/th4s1s/03262c6ce877137b61d745a2e4fe8a63",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:fabian:online_book_shop:1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "DE671F97-B8E1-4863-8129-182AA1819129"
     }
   ]
 }

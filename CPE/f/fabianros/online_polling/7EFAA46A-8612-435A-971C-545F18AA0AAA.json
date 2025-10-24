@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:fabianros:online_polling:1.0:*:*:*:*:*:*:*",
   "cpeNameId": "7EFAA46A-8612-435A-971C-545F18AA0AAA",
-  "lastModified": "2024-12-11T19:28:59.880",
+  "lastModified": "2025-10-23T20:06:00.793",
   "created": "2024-12-11T19:28:59.880",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://code-projects.org/online-polling-using-php-source-code/#google_vignette",
-      "type": "Project"
-    },
-    {
-      "ref": "https://code-projects.org/author/fabian/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:fabian:online_polling:1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "32640A6D-E665-4E86-90F0-71B251F88D7E"
     }
   ]
 }

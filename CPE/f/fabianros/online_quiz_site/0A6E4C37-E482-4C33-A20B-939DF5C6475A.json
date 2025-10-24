@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:fabianros:online_quiz_site:1.0:*:*:*:*:*:*:*",
   "cpeNameId": "0A6E4C37-E482-4C33-A20B-939DF5C6475A",
-  "lastModified": "2024-12-11T19:28:59.880",
+  "lastModified": "2025-10-23T20:06:00.793",
   "created": "2024-12-11T19:28:59.880",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://code-projects.org/online-quiz-site-using-php-source-code/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/t4rrega/cve/issues/5",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:fabian:online_quiz_site:1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "708D57BA-1E93-4BB6-B1BC-CD3DC0D51BE9"
     }
   ]
 }

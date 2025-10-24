@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:fabianros:library_management_system:2.0:*:*:*:*:*:*:*",
   "cpeNameId": "8A5EDEC6-68E8-4EE2-8B93-C230C5F5137C",
-  "lastModified": "2023-12-29T15:31:15.447",
+  "lastModified": "2025-10-23T20:06:00.793",
   "created": "2023-12-29T15:31:15.447",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://code-projects.org/library-management-system-in-php-with-source-code-ver-2-0/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://code-projects.org/author/fabian/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:fabian:library_management_system:2.0:*:*:*:*:*:*:*",
+      "cpeNameId": "C7C9742B-BD35-4B3C-8005-FC1107650550"
     }
   ]
 }

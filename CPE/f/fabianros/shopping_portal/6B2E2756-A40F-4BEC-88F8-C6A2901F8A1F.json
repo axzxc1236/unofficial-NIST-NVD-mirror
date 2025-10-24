@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:fabianros:shopping_portal:1.0:*:*:*:*:*:*:*",
   "cpeNameId": "6B2E2756-A40F-4BEC-88F8-C6A2901F8A1F",
-  "lastModified": "2025-04-21T12:20:03.403",
+  "lastModified": "2025-10-23T20:06:00.793",
   "created": "2025-04-21T12:20:03.403",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/passevery/vul/issues/1",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://code-projects.org/shopping-portal-using-php-source-code/",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:fabian:shopping_portal:1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "916B750A-1C99-47E6-8BB4-7B21CE4CBBAB"
     }
   ]
 }

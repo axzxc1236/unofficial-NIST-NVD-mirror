@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:fabianros:online_notice_board:1.0:*:*:*:*:*:*:*",
   "cpeNameId": "47E5D23D-969C-407F-80DB-D221585740E1",
-  "lastModified": "2024-12-11T19:28:59.880",
+  "lastModified": "2025-10-23T20:06:00.793",
   "created": "2024-12-11T19:28:59.880",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/LamentXU123/cve/blob/main/RCE1.md",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://code-projects.org/online-notice-board-using-php-source-code/",
-      "type": "Project"
+      "cpeName": "cpe:2.3:a:fabian:online_notice_board:1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "40C9221E-2298-4CA5-8C1B-9D7F824023A0"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:fabianros:chat_system:1.0:*:*:*:*:*:*:*",
   "cpeNameId": "B65DDA64-B0DF-4FDD-AF50-B438904E15F7",
-  "lastModified": "2025-04-21T12:20:03.403",
+  "lastModified": "2025-10-23T20:06:00.793",
   "created": "2025-04-21T12:20:03.403",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://code-projects.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://vuldb.com/?ctiid.289769",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:fabian:chat_system:1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "9D42D9D2-6FF6-49BE-84D1-707D5ED869EF"
     }
   ]
 }
