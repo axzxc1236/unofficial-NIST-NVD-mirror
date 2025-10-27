@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:microsoft:azure_rtos_usbx:6.1.12:*:*:*:*:*:*:*",
   "cpeNameId": "40EA86ED-C1B0-4403-A6EF-6C842E8A8189",
-  "lastModified": "2022-10-11T14:26:24.547",
+  "lastModified": "2025-10-27T13:57:06.663",
   "created": "2022-10-11T14:23:35.330",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://azure.microsoft.com/en-us/products/rtos/#overview",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/azure-rtos/usbx",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/azure-rtos/usbx/tags",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:eclipse:threadx_usbx:6.1.12:*:*:*:*:*:*:*",
+      "cpeNameId": "ABEA9CCC-1877-4C76-A4C7-C0F6948DCCC0"
     }
   ]
 }

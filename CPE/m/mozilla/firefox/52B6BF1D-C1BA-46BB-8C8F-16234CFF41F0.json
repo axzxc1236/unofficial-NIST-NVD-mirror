@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mozilla:firefox:67.0.3:*:*:*:*:*:*:*",
   "cpeNameId": "52B6BF1D-C1BA-46BB-8C8F-16234CFF41F0",
-  "lastModified": "2020-01-13T18:39:44.567",
+  "lastModified": "2025-10-27T12:16:44.657",
   "created": "2020-01-13T18:39:44.567",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.mozilla.org/en-US/firefox/releases/",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:mozilla:firefox:67.0.3:*:*:*:-:*:*:*",
+      "cpeNameId": "DDB4D692-DF52-459E-8890-6877EA0EED5C"
     }
   ]
 }

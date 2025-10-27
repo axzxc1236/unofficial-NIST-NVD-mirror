@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:microsoft:azure_rtos_usbx:6.3.0:*:*:*:*:*:*:*",
   "cpeNameId": "78155E50-84C8-4588-8231-B09344400530",
-  "lastModified": "2023-12-07T19:35:40.490",
+  "lastModified": "2025-10-27T13:57:06.663",
   "created": "2023-12-07T19:35:40.490",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/azure-rtos/usbx/security/advisories/GHSA-grhp-f66q-x857",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/azure-rtos/usbx/tags",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:eclipse:threadx_usbx:6.3.0:*:*:*:*:*:*:*",
+      "cpeNameId": "878198EC-C3B3-4165-ACD2-D055D16C9CBD"
     }
   ]
 }

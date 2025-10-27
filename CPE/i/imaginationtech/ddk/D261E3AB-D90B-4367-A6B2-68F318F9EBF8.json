@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:imaginationtech:ddk:24.3:*:*:*:*:*:*:*",
   "cpeNameId": "D261E3AB-D90B-4367-A6B2-68F318F9EBF8",
-  "lastModified": "2025-10-17T19:43:33.437",
+  "lastModified": "2025-10-27T13:12:27.127",
   "created": "2025-10-17T19:43:33.437",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.imaginationtech.com/gpu-driver-vulnerabilities/",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:imaginationtech:ddk:24.3:-:*:*:*:*:*:*",
+      "cpeNameId": "88208811-A257-436C-8851-82147CA697C9"
     }
   ]
 }
