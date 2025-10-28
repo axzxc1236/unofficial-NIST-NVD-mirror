@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:whmcs:whmpress:6.2:revision-3:*:*:*:wordpress:*:*",
   "cpeNameId": "F5AAB2AD-CD25-4CAE-8656-805E2C0458B0",
-  "lastModified": "2025-10-27T18:51:48.700",
+  "lastModified": "2025-10-28T12:36:43.300",
   "created": "2025-10-27T18:51:48.700",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://whmpress.com/docs/whmpress/change-log/",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:whmcs:whmpress:6.2:revision3:*:*:*:wordpress:*:*",
+      "cpeNameId": "D0461760-FE05-4F2E-A141-EF6C2EB9503C"
     }
   ]
 }

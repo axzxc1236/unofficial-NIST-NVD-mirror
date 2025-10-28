@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:couchdb:3.3.2:*:*:*:*:*:*:*",
   "cpeNameId": "20BB2C69-C7AC-47B4-8F8C-86F2B0558D11",
-  "lastModified": "2023-05-15T15:26:54.603",
+  "lastModified": "2025-10-28T13:56:50.700",
   "created": "2023-05-09T13:48:46.650",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://docs.couchdb.org/en/stable/cve/2023-26268.html",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://lists.apache.org/thread/ldkqs0nhpmho26bdxf4fon7w75hsq5gl",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/CVEProject/cvelist/blob/master/2023/26xxx/CVE-2023-26268.json",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:apache:couchdb:3.3.2:-:*:*:*:*:*:*",
+      "cpeNameId": "C44DBE00-CD84-4EAC-B377-D172FBC95AFF"
     }
   ]
 }
