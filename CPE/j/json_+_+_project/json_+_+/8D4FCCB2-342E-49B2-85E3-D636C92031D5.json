@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:json\\+\\+_project:json\\+\\+:2014-10-26:*:*:*:*:*:*:*",
   "cpeNameId": "8D4FCCB2-342E-49B2-85E3-D636C92031D5",
-  "lastModified": "2020-02-05T15:45:49.823",
+  "lastModified": "2025-10-28T16:45:16.300",
   "created": "2020-02-05T15:45:49.823",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/nlohmann/json/",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:tunnuz:json:2014-10-26:*:*:*:*:*:*:*",
+      "cpeNameId": "5DAD35E2-E4F8-4463-A969-962961115776"
     }
   ]
 }

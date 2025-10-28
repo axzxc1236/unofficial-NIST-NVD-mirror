@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:oracle:vm_virtualbox:7.1.6:*:*:*:*:*:*:*",
   "cpeNameId": "103FA15D-C854-4CAC-9F4A-50C008B776D2",
-  "lastModified": "2025-04-21T12:47:21.930",
+  "lastModified": "2025-10-28T18:39:58.310",
   "created": "2025-04-21T12:47:21.930",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecates": [
     {
-      "ref": "https://www.oracle.com/security-alerts/cpuapr2025.html",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:oracle:vm_virtualbox:71.6:*:*:*:*:*:*:*",
+      "cpeNameId": "40649A6F-4D0D-4188-AC63-10DB73209B57"
     }
   ]
 }
