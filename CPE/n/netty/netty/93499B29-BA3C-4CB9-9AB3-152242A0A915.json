@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:netty:netty:5.0.0:alpha1:*:*:*:*:*:*",
   "cpeNameId": "93499B29-BA3C-4CB9-9AB3-152242A0A915",
-  "lastModified": "2019-09-30T11:55:15.070",
+  "lastModified": "2025-10-29T14:21:34.303",
   "created": "2019-09-30T11:55:15.070",
   "titles": [
     {
@@ -10,16 +10,14 @@
       "lang": "en"
     }
   ],
-  "refs": [
-    {
-      "ref": "https://github.com/netty/netty/releases",
-      "type": "Version"
-    }
-  ],
   "deprecates": [
     {
       "cpeName": "cpe:2.3:a:netty_project:netty:5.0.0:alpha1:*:*:*:*:*:*",
       "cpeNameId": "A1954320-3B03-4B27-8B90-91875A8E4489"
+    },
+    {
+      "cpeName": "cpe:2.3:a:netty:netty:5.0.0.alpha1:*:*:*:*:*:*:*",
+      "cpeNameId": "33979ED4-CA14-4B46-BB70-B3F80DF5C730"
     }
   ]
 }

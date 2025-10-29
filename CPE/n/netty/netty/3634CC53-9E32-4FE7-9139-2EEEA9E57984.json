@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:netty:netty:5.0.0.alpha2:*:*:*:*:*:*:*",
   "cpeNameId": "3634CC53-9E32-4FE7-9139-2EEEA9E57984",
-  "lastModified": "2022-06-22T13:55:36.400",
+  "lastModified": "2025-10-29T14:21:34.303",
   "created": "2021-12-14T19:38:28.770",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://netty.io/downloads.html",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:netty:netty:5.0.0:alpha2:*:*:*:*:*:*",
+      "cpeNameId": "1BE17EF4-6989-4E78-8A74-9BA3B0DE9D04"
     }
   ]
 }
