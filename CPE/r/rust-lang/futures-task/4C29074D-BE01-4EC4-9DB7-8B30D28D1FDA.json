@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:rust-lang:futures-task:0.3.0:*:*:*:*:rust:*:*",
   "cpeNameId": "4C29074D-BE01-4EC4-9DB7-8B30D28D1FDA",
-  "lastModified": "2021-01-08T15:16:12.033",
+  "lastModified": "2025-10-29T19:37:31.847",
   "created": "2021-01-08T15:16:12.033",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://crates.io/crates/futures-task/versions",
-      "type": "Version"
-    },
-    {
-      "ref": "https://rustsec.org/advisories/RUSTSEC-2020-0060.html",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:rust-lang:futures-task:0.3.0:-:*:*:*:rust:*:*",
+      "cpeNameId": "AF12C36A-491C-4FE6-A93A-537EE50A5B5A"
     }
   ]
 }
