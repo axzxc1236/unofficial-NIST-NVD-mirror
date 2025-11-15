@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:jackrabbit:2.21.26:*:*:*:*:*:*:*",
   "cpeNameId": "7DB90769-ED32-42AA-84BD-157C040D24CF",
-  "lastModified": "2025-07-23T15:22:29.300",
+  "lastModified": "2025-10-31T12:42:39.960",
   "created": "2025-07-23T15:22:29.300",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://jackrabbit.apache.org/jcr/index.html",
-      "type": "Product"
-    },
-    {
-      "ref": "https://archive.apache.org/dist/jackrabbit/",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:apache:jackrabbit:2.21.26:beta:*:*:*:*:*:*",
+      "cpeNameId": "2DBCF7D8-1F2D-48BE-91C3-6838F208A188"
     }
   ]
 }

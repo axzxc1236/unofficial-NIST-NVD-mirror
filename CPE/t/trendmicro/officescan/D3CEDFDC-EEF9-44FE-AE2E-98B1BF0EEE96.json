@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:trendmicro:officescan:xg:*:*:*:*:*:*:*",
   "cpeNameId": "D3CEDFDC-EEF9-44FE-AE2E-98B1BF0EEE96",
-  "lastModified": "2020-02-27T16:44:59.450",
+  "lastModified": "2025-10-31T14:46:20.320",
   "created": "2020-02-27T16:44:59.450",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://success.trendmicro.com/product-support/officescan-xg",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:trendmicro:officescan:xg:-:*:*:*:*:*:*",
+      "cpeNameId": "4A14C883-FBDB-4554-A044-9B9E39368753"
     }
   ]
 }

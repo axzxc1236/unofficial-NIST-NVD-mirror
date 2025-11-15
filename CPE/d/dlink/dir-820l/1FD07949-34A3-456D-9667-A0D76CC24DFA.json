@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:h:dlink:dir-820l:a1:*:*:*:*:*:*:*",
   "cpeNameId": "1FD07949-34A3-456D-9667-A0D76CC24DFA",
-  "lastModified": "2023-03-15T18:11:40.327",
+  "lastModified": "2025-11-03T18:22:56.023",
   "created": "2023-03-15T17:50:45.047",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecates": [
     {
-      "ref": "https://github.com/migraine-sudo/D_Link_Vuln/tree/main/cmd%20Inject%20In%20tools_AccountName",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:h:dlink:dir820la1:-:*:*:*:*:*:*:*",
+      "cpeNameId": "1406D483-4586-4B24-BF2C-5EBEBB7AA931"
     }
   ]
 }

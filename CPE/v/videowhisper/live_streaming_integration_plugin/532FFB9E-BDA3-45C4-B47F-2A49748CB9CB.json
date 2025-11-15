@@ -1,12 +1,12 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:videowhisper:live_streaming_integration_plugin:2.2:*:*:*:*:*:*:*",
   "cpeNameId": "532FFB9E-BDA3-45C4-B47F-2A49748CB9CB",
-  "lastModified": "2013-09-12T15:06:14.430",
+  "lastModified": "2025-11-03T18:53:49.627",
   "created": "2013-09-10T17:03:14.397",
   "titles": [
     {
-      "title": "VideoWhisper Live Streaming Integration plugin 2.2",
+      "title": "VideoWhisper Live Streaming Integration (Broadcast Live Video) 2.2 for WordPress",
       "lang": "en"
     }
   ],
@@ -16,6 +16,12 @@
     },
     {
       "ref": "http://www.videowhisper.com/?p=WordPress+Live+Streaming"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:videowhisper:videowhisper_live_streaming_integration:2.2:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "91035790-20DB-46AE-A4B8-5C52CD978958"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:dynamics_365:7.0:*:*:*:*:field_service:*:*",
   "cpeNameId": "081F1236-63D3-49FE-8916-2E118EF6B59B",
-  "lastModified": "2020-01-23T19:59:35.777",
+  "lastModified": "2025-11-14T19:44:40.470",
   "created": "2020-01-23T19:59:35.777",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://docs.microsoft.com/en-us/dynamics365/field-service/version-history",
-      "type": "Product"
-    },
-    {
-      "ref": "https://mbs.microsoft.com/customersource/Global/365Enterprise/downloads/product-releases/365fieldservice7",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:microsoft:dynamics_365:7.0:*:*:*:field_service:*:*:*",
+      "cpeNameId": "0919B4E3-B47A-471B-8990-92DEB60FDEF1"
     }
   ]
 }

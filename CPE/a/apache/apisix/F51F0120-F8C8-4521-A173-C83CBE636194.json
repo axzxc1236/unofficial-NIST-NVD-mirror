@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:apisix:0.9rc1:*:*:*:*:*:*:*",
   "cpeNameId": "F51F0120-F8C8-4521-A173-C83CBE636194",
-  "lastModified": "2021-07-07T11:57:05.340",
+  "lastModified": "2025-11-05T14:46:34.877",
   "created": "2021-07-07T11:55:20.397",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/apache/apisix/tags",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://apisix.apache.org/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:apache:apisix:0.9:rc1:*:*:*:*:*:*",
+      "cpeNameId": "96CAF62F-3FC6-4749-A8F0-BAE61E09311E"
     }
   ]
 }

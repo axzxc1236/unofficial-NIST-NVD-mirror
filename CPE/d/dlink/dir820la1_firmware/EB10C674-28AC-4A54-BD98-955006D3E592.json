@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:dlink:dir820la1_firmware:102b22:*:*:*:*:*:*:*",
   "cpeNameId": "EB10C674-28AC-4A54-BD98-955006D3E592",
-  "lastModified": "2022-10-20T00:19:17.670",
+  "lastModified": "2025-11-03T18:22:56.023",
   "created": "2022-08-09T15:30:55.823",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.dlink.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/1759134370/iot/blob/main/DIR-810L.md",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:o:dlink:dir-820l_firmware:1.02b22:*:*:*:*:*:*:*",
+      "cpeNameId": "B8332687-1D9E-4CCF-AD88-32E83188BECD"
     }
   ]
 }

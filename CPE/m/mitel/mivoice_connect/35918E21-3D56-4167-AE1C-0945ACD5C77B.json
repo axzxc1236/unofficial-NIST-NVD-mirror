@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mitel:mivoice_connect:19.3:sp2:*:*:*:*:*:*",
   "cpeNameId": "35918E21-3D56-4167-AE1C-0945ACD5C77B",
-  "lastModified": "2023-08-11T23:44:56.230",
+  "lastModified": "2025-11-03T18:05:44.983",
   "created": "2023-06-01T13:19:30.027",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/security-bulletin_23-0003-001-v1.pdf",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.mitel.com/document-center/business-phone-systems/mivoice-connect/mivoice-connect-platform/193-sp2/en/mivoice-connect-193-sp2-release-notes",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:mitel:mivoice_connect:22.24.1500.0:*:*:*:*:*:*:*",
+      "cpeNameId": "720C4D0A-A446-4EA6-A9C4-C129B4FD21A3"
     }
   ]
 }

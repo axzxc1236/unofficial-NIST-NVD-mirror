@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:vtk:vtk:9.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "97E92AB9-E561-46E5-AFDF-C496957DF337",
-  "lastModified": "2022-08-29T16:44:13.953",
+  "lastModified": "2025-11-05T18:49:17.080",
   "created": "2022-08-29T15:48:36.270",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://gitlab.kitware.com/vtk/vtk/-/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://gitlab.kitware.com/vtk/vtk/-/issues/17818",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://vtk.org/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:vtk:vtk:9.0.0:-:*:*:*:*:*:*",
+      "cpeNameId": "C7644C51-CD98-4AFD-8105-1B3CE921123B"
     }
   ]
 }

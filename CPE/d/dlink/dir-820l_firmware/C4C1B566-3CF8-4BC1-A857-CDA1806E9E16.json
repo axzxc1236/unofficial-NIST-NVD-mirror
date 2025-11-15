@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:dlink:dir-820l_firmware:1.06:b02:*:*:*:*:*:*",
   "cpeNameId": "C4C1B566-3CF8-4BC1-A857-CDA1806E9E16",
-  "lastModified": "2023-08-21T13:38:51.947",
+  "lastModified": "2025-11-03T18:30:02.210",
   "created": "2023-03-17T12:44:13.563",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/migraine-sudo/D_Link_Vuln/tree/main/Permanent%20DDOS%20vulnerability%20in%20emailInfo",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://us.dlink.com/en/consumer",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:o:dlink:dir-820l_firmware:1.06b02:*:*:*:*:*:*:*",
+      "cpeNameId": "32B4E7EC-3015-4B7B-BB07-5B5F18031C98"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:thm:pilos:2.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "E22D0248-B359-4B87-BBD9-99FA2C73545E",
-  "lastModified": "2023-11-18T04:55:38.207",
+  "lastModified": "2025-11-04T18:54:29.533",
   "created": "2023-11-18T04:55:38.207",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/THM-Health/PILOS/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/THM-Health/PILOS/security/advisories/GHSA-mc6f-fj9h-5735",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.thm.de/ges/en/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:thm:pilos:2.0.0:-:*:*:*:*:*:*",
+      "cpeNameId": "F40BAE62-A435-4AB5-AE8B-2E6A364535E0"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:o:dlink:dir-820l_firmware:1.05b03:*:*:*:*:*:*:*",
   "cpeNameId": "E468BF1B-F826-4B7A-9616-3C4722AA8C0F",
-  "lastModified": "2023-12-16T03:42:31.200",
+  "lastModified": "2025-11-03T18:40:00.937",
   "created": "2023-12-16T03:42:31.200",
   "titles": [
     {
@@ -10,14 +10,18 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecates": [
     {
-      "ref": "http://legacyfiles.us.dlink.com/DIR-820L/REVA/FIRMWARE/",
-      "type": "Version"
+      "cpeName": "cpe:2.3:o:dlink:dir820la1_firmware:105b03:*:*:*:*:*:*:*",
+      "cpeNameId": "577416D1-F5A0-4454-B5A5-F50A037C22DA"
     },
     {
-      "ref": "https://legacy.us.dlink.com/pages/product.aspx?id=00c2150966b046b58ba95d8ae3a8f73d",
-      "type": "Product"
+      "cpeName": "cpe:2.3:o:dlink:dir-820l_firmware:1.05:b03:*:*:*:*:*:*",
+      "cpeNameId": "C22F79A7-12CA-4DF1-B419-AABB7D77D9CA"
+    },
+    {
+      "cpeName": "cpe:2.3:o:dlink:dir-820l_firmware:105b03:*:*:*:*:*:*:*",
+      "cpeNameId": "E4E0CD4B-DC5D-4A2D-AD04-36522AEBE5BB"
     }
   ]
 }

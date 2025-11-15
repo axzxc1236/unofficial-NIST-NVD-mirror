@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:vmware:cloud_foundation:3.10.2:*:*:*:*:*:*:*",
   "cpeNameId": "1394D2E3-CB03-42BD-B69E-E5B53672CA9C",
-  "lastModified": "2022-09-06T18:44:37.950",
+  "lastModified": "2025-10-31T11:44:38.620",
   "created": "2021-07-14T17:25:37.520",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.vmware.com/security/advisories/VMSA-2021-0014.html",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://docs.vmware.com/en/VMware-Cloud-Foundation/3.10.2/rn/vmware-cloud-foundation-3102-release-notes/index.html",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:vmware:cloud_foundation:3.10.2:*:*:*:*:*:*:*",
+      "cpeNameId": "5AD29F9E-CB5D-4D15-A7AB-9F7D308377DD"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:vmware:cloud_foundation:4.1.0.1:*:*:*:*:*:*:*",
   "cpeNameId": "3F350A21-7753-4E94-B340-A91F87D59724",
-  "lastModified": "2021-11-23T23:27:40.853",
+  "lastModified": "2025-10-31T11:44:38.620",
   "created": "2021-09-09T12:58:48.187",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecates": [
     {
-      "ref": "https://docs.vmware.com/en/VMware-Cloud-Foundation/4.1/rn/VMware-Cloud-Foundation-41-Release-Notes.html",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.vmware.com/products/cloud-foundation.html",
-      "type": "Product"
+      "cpeName": "cpe:2.3:o:vmware:cloud_foundation:4.1.0.1:*:*:*:*:*:*:*",
+      "cpeNameId": "D0B8CD7A-0BBE-4E35-BF7E-D5E6E1F7FC50"
     }
   ]
 }

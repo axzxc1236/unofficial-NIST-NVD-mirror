@@ -2,26 +2,22 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:o:dlink:dir-820l_firmware:1.06b02:*:*:*:*:*:*:*",
   "cpeNameId": "32B4E7EC-3015-4B7B-BB07-5B5F18031C98",
-  "lastModified": "2023-08-21T13:38:51.947",
+  "lastModified": "2025-11-03T18:30:02.210",
   "created": "2023-03-16T13:21:20.380",
   "titles": [
     {
-      "title": "D-Link DIR-820L Firmware 1.06b02",
+      "title": "D-Link DIR-820L Firmware 1.06B02",
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecates": [
     {
-      "ref": "https://github.com/migraine-sudo/D_Link_Vuln/tree/main/stackoverflow%20%20in%20reserveDHCP_HostName_1.1.1.0",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:o:dlink:dir820la1_firmware:106b02:*:*:*:*:*:*:*",
+      "cpeNameId": "E0EAA17C-C0E2-47C5-9E27-C7D7DA093444"
     },
     {
-      "ref": "https://www.dlinktw.com.tw/techsupport/ProductInfo.aspx?m=DIR-820L",
-      "type": "Version"
-    },
-    {
-      "ref": "https://us.dlink.com/en/consumer",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:o:dlink:dir-820l_firmware:1.06:b02:*:*:*:*:*:*",
+      "cpeNameId": "C4C1B566-3CF8-4BC1-A857-CDA1806E9E16"
     }
   ]
 }

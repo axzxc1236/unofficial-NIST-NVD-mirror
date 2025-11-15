@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:ibm:sterling_partner_engagement_manager:6.2.1:*:*:*:standard:*:*:*",
   "cpeNameId": "5070A221-60E4-423C-A20B-F75B6E8F1AE2",
-  "lastModified": "2023-02-28T21:55:26.040",
+  "lastModified": "2025-11-13T19:56:44.577",
   "created": "2023-01-17T23:59:19.290",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecates": [
     {
-      "ref": "https://www.ibm.com/support/pages/node/6854331",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:ibm:sterling_partner_engagement_manager:6.2.1.0:*:*:*:standard:*:*:*",
+      "cpeNameId": "D89308BC-22BE-4D79-8AB7-DD25A14FCA82"
     }
   ]
 }

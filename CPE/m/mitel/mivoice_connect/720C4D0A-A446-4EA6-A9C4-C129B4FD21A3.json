@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:mitel:mivoice_connect:22.24.1500.0:*:*:*:*:*:*:*",
   "cpeNameId": "720C4D0A-A446-4EA6-A9C4-C129B4FD21A3",
-  "lastModified": "2023-09-28T11:09:50.100",
+  "lastModified": "2025-11-03T18:05:44.983",
   "created": "2023-09-28T11:09:50.100",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecates": [
     {
-      "ref": "https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-23-0004",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:mitel:mivoice_connect:19.3:sp2:*:*:*:*:*:*",
+      "cpeNameId": "35918E21-3D56-4167-AE1C-0945ACD5C77B"
     }
   ]
 }
