@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:bencollins:jwt_c_library:1.13.1:*:*:*:*:*:*:*",
   "cpeNameId": "94D25CB8-48B1-4ED7-B41E-0E70B693718F",
-  "lastModified": "2024-02-14T21:46:00.840",
+  "lastModified": "2025-11-18T15:44:10.423",
   "created": "2024-02-14T21:46:00.840",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/benmcollins/libjwt",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/benmcollins/libjwt/tags",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:libjwt:libjwt:1.13.1:*:*:*:*:*:*:*",
+      "cpeNameId": "5EE22EA0-C693-4F22-9877-69EADFE98B1E"
     }
   ]
 }

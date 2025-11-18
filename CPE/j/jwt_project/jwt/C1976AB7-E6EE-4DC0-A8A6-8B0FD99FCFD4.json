@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:jwt_project:jwt:1.0.2:*:*:*:*:*:*:*",
   "cpeNameId": "C1976AB7-E6EE-4DC0-A8A6-8B0FD99FCFD4",
-  "lastModified": "2020-02-24T17:55:07.547",
+  "lastModified": "2025-11-18T13:54:49.600",
   "created": "2020-02-24T17:55:07.547",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/emarref/jwt/tree/1.0.3",
-      "type": "Project"
-    },
-    {
-      "ref": "https://github.com/emarref/jwt/releases",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:emarref:jwt:1.0.2:*:*:*:*:*:*:*",
+      "cpeNameId": "DFD952B9-141B-4E73-994C-8F3B34E72303"
     }
   ]
 }

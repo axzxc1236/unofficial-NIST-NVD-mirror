@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:jwt_project:jwt:4.0.0:alpha1:*:*:*:*:*:*",
   "cpeNameId": "9B1B7D98-E344-4633-AB77-084C80BF63BA",
-  "lastModified": "2021-10-06T15:29:17.030",
+  "lastModified": "2025-11-18T14:00:59.213",
   "created": "2021-10-05T15:38:28.057",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/lcobucci/jwt/security/advisories/GHSA-7322-jrq4-x5hf",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/lcobucci/jwt/releases",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:lcobucci:jwt:4.0.0:alpha1:*:*:*:*:*:*",
+      "cpeNameId": "617BD1BE-0A20-4B62-9A47-1038AE435419"
     }
   ]
 }
