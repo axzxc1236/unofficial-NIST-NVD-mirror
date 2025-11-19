@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mozilla:firefox:50.1.0:*:*:*:*:*:*:*",
   "cpeNameId": "61E2FDD2-73E3-4F5B-8C80-9828F7438E79",
-  "lastModified": "2019-06-25T19:18:34.720",
+  "lastModified": "2025-11-18T20:31:22.210",
   "created": "2019-06-25T19:18:34.720",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.mozilla.org/en-US/firefox/50.1.0/releasenotes/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:mozilla:firefox:50.1.0:*:*:*:-:*:*:*",
+      "cpeNameId": "89A059CB-6DFA-493C-878D-98D9152D0291"
     }
   ]
 }

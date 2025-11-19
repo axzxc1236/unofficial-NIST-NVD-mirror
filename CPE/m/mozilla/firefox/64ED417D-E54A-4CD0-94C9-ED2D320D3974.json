@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mozilla:firefox:50.0.2:*:*:*:*:*:*:*",
   "cpeNameId": "64ED417D-E54A-4CD0-94C9-ED2D320D3974",
-  "lastModified": "2017-03-10T18:25:49.960",
+  "lastModified": "2025-11-18T20:31:22.210",
   "created": "2017-03-10T18:25:49.960",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.mozilla.org/en-US/firefox/releases/",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.mozilla.org/en-US/firefox/new/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:mozilla:firefox:50.0.2:*:*:*:-:*:*:*",
+      "cpeNameId": "65C7DC72-F4AB-46C0-84EC-F858E860CA20"
     }
   ]
 }
