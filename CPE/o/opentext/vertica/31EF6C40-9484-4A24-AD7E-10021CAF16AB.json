@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:opentext:vertica:24.1.0-0:*:*:*:*:*:*:*",
   "cpeNameId": "31EF6C40-9484-4A24-AD7E-10021CAF16AB",
-  "lastModified": "2024-07-26T15:10:49.710",
+  "lastModified": "2025-11-19T13:30:31.387",
   "created": "2024-07-26T15:10:49.710",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecates": [
     {
-      "ref": "https://docs.vertica.com/release-notes/24.1.x/resolved-issues/",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.vertica.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.opentext.com/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:microfocus:vertica:24.1.0-0:*:*:*:*:*:*:*",
+      "cpeNameId": "B14A9D63-A9B3-470D-8634-86C227862B3B"
     }
   ]
 }

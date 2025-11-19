@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:hp:vertica:7.1.1:*:*:*:*:*:*:*",
   "cpeNameId": "FEC37DC1-BC32-48E2-908A-326E3583E2BE",
-  "lastModified": "2015-11-13T22:25:53.817",
+  "lastModified": "2025-11-19T13:23:10.650",
   "created": "2015-11-04T15:51:00.300",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.vertica.com/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:opentext:vertica:7.1.1:*:*:*:*:*:*:*",
+      "cpeNameId": "50C8B237-02AE-4778-86B4-8D37598581E9"
     }
   ]
 }

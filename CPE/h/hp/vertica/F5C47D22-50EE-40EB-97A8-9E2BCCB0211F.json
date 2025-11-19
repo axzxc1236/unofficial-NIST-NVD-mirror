@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:hp:vertica:7.1.1-7:*:*:*:*:*:*:*",
   "cpeNameId": "F5C47D22-50EE-40EB-97A8-9E2BCCB0211F",
-  "lastModified": "2019-02-26T20:51:20.320",
+  "lastModified": "2025-11-19T13:23:10.650",
   "created": "2019-02-26T20:51:20.320",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "http://vertica.tips/release-history/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.vertica.com/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:opentext:vertica:7.1.1-7:*:*:*:*:*:*:*",
+      "cpeNameId": "B65B5BF3-2615-4909-AACE-FBAEF3B3C503"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microfocus:vertica:7.1:*:*:*:*:*:*:*",
   "cpeNameId": "A364A57F-6B3E-4730-B035-2BBD939ED4FF",
-  "lastModified": "2021-05-04T20:30:05.973",
+  "lastModified": "2025-11-19T13:30:31.387",
   "created": "2018-03-07T19:45:48.667",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.microfocus.com/en-us/home",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.vertica.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.vertica.com/docs/ReleaseNotes/8.1.x/Vertica_8.1.x_Release_Notes.htm",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:opentext:vertica:7.1:*:*:*:*:*:*:*",
+      "cpeNameId": "E03514BA-8CBA-4350-80A3-EFA7985ABD58"
     }
   ]
 }

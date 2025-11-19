@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:hp:vertica:7.2.0:*:*:*:*:*:*:*",
   "cpeNameId": "6B999B0D-FBAD-42DD-9A7A-E37C72D7530F",
-  "lastModified": "2016-05-09T14:27:44.657",
+  "lastModified": "2025-11-19T13:23:10.650",
   "created": "2016-05-09T14:27:44.657",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "http://www8.hp.com/us/en/software-solutions/advanced-sql-big-data-analytics/index.html",
-      "type": "Product"
-    },
-    {
-      "ref": "https://my.vertica.com/",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:opentext:vertica:7.2.0:*:*:*:*:*:*:*",
+      "cpeNameId": "073340E7-8A1A-483F-867F-2AF27FB4ADC6"
     }
   ]
 }
