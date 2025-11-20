@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:puppet:puppet:2019.1.3:*:*:*:-:*:*:*",
   "cpeNameId": "DED3658A-559C-46C3-9947-F939EEA986D0",
-  "lastModified": "2020-03-10T19:53:35.477",
+  "lastModified": "2025-11-20T18:30:37.727",
   "created": "2020-03-10T19:53:35.477",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://puppet.com/misc/version-history",
-      "type": "Version"
-    },
-    {
-      "ref": "https://puppet.com",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:puppet:puppet_enterprise:2019.1.3:*:*:*:*:*:*:*",
+      "cpeNameId": "AA4EC64B-5E5E-49BF-885C-1D2C2215D164"
     }
   ]
 }

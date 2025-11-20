@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:angularjs:angular.js:1.4.12:*:*:*:*:*:*:*",
   "cpeNameId": "17246792-AAF9-408E-A463-EF87C88D6810",
-  "lastModified": "2019-12-05T20:07:14.367",
+  "lastModified": "2025-11-20T18:00:14.787",
   "created": "2019-12-05T20:07:14.367",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://angularjs.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/angular/angular.js",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:angularjs:angularjs:1.4.12:*:*:*:*:*:*:*",
+      "cpeNameId": "E9F96EB0-1F64-4198-A996-CCEC24D10AFB"
     }
   ]
 }

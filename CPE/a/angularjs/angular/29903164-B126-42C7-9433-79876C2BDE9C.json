@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:angularjs:angular:1.8.0:*:*:*:*:node.js:*:*",
   "cpeNameId": "29903164-B126-42C7-9433-79876C2BDE9C",
-  "lastModified": "2022-05-09T17:42:05.897",
+  "lastModified": "2025-11-20T17:53:57.180",
   "created": "2022-05-06T18:06:43.070",
   "titles": [
     {
@@ -10,22 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/angular/angular.js/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.npmjs.com/package/angular",
-      "type": "Product"
-    },
-    {
-      "ref": "https://security.snyk.io/vuln/SNYK-JS-ANGULAR-2772735",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://angularjs.org/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:angularjs:angularjs:1.8.0:*:*:*:*:*:*:*",
+      "cpeNameId": "892DCD28-3E6B-4885-AEF9-519C7125629D"
     }
   ]
 }

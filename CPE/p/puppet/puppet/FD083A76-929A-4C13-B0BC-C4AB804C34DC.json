@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:puppet:puppet:2023.3:*:*:*:enterprise:*:*:*",
   "cpeNameId": "FD083A76-929A-4C13-B0BC-C4AB804C34DC",
-  "lastModified": "2023-11-25T03:54:19.637",
+  "lastModified": "2025-11-20T18:30:37.727",
   "created": "2023-11-25T03:54:19.637",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.puppet.com/security/cve/cve-2023-5255-denial-service-revocation-auto-renewed-certificates",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:puppet:puppet_enterprise:2023.3:*:*:*:*:*:*:*",
+      "cpeNameId": "4CE7B5DA-02D7-4CFA-9420-DC86813CBBF6"
     }
   ]
 }
