@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:wso2:micro_integrator:1.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "C8C06371-00F2-4839-9F6C-96EF6522B865",
-  "lastModified": "2021-08-10T16:19:30.747",
+  "lastModified": "2025-11-21T18:40:16.080",
   "created": "2021-04-08T10:51:59.323",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://docs.wso2.com/display/Security/Security+Advisory+WSO2-2020-1132",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://wso2.com/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:wso2:micro_integrator:1.0.0:-:*:*:*:*:*:*",
+      "cpeNameId": "33D328DD-30ED-404E-9F08-FC1002D3A808"
     }
   ]
 }
