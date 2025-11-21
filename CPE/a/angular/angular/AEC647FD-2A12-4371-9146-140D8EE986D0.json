@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:angular:angular:11.1.0:next_0:*:*:*:node.js:*:*",
   "cpeNameId": "AEC647FD-2A12-4371-9146-140D8EE986D0",
-  "lastModified": "2022-06-07T17:40:16.420",
+  "lastModified": "2025-11-20T20:32:26.480",
   "created": "2022-06-07T12:07:52.697",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.npmjs.com/package/@angular/core",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/angular/angular/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/angular/angular/pull/40136",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:angularjs:angularjs:11.1.0:next_0:*:*:*:*:*:*",
+      "cpeNameId": "6434A2FA-7450-43FB-9473-95FEBBC7E687"
     }
   ]
 }
