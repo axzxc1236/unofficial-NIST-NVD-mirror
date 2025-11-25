@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mozilla:firefox_esr:24.0.1:*:*:*:*:*:*:*",
   "cpeNameId": "AB54FEAD-4BD4-4213-BE90-FB4DCD4F7E60",
-  "lastModified": "2013-10-30T14:10:27.983",
+  "lastModified": "2025-11-25T17:50:16.803",
   "created": "2013-10-30T13:53:51.917",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "http://www.mozilla.org/en-US/firefox/organizations/faq/",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:mozilla:firefox:24.0.1:*:*:*:esr:*:*:*",
+      "cpeNameId": "7DC7CB70-2FC4-4D70-9161-4F8B51ED9D30"
     }
   ]
 }
