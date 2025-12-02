@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:wso2:identity_server_analytics:5.6.0:*:*:*:*:*:*:*",
   "cpeNameId": "667F1F27-A761-4B4B-BF06-674ED88682A1",
-  "lastModified": "2020-08-04T12:29:45.347",
+  "lastModified": "2025-12-02T19:21:06.287",
   "created": "2020-08-04T12:29:45.347",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://wso2.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://docs.wso2.com/display/Security/Security+Advisory+WSO2-2019-0665",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:wso2:identity_server_analytics:5.6.0:-:*:*:*:*:*:*",
+      "cpeNameId": "510E49EC-3344-4065-AA90-B80AFEE05DE4"
     }
   ]
 }
