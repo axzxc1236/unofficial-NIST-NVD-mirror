@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:wso2:api_manager_analytics:2.2.0:*:*:*:*:*:*:*",
   "cpeNameId": "3144CA5D-DFB0-4969-9B18-A1D4C3955C30",
-  "lastModified": "2021-05-04T18:06:13.180",
+  "lastModified": "2025-12-04T19:57:40.130",
   "created": "2020-08-24T14:08:27.660",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://docs.wso2.com/display/Security/Security+Advisory+WSO2-2020-0728",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://wso2.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://docs.wso2.com/display/AM220/About+this+Release",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:wso2:api_manager_analytics:2.2.0:-:*:*:*:*:*:*",
+      "cpeNameId": "3B797AFD-F4E4-418F-952E-278F1C2B4576"
     }
   ]
 }
