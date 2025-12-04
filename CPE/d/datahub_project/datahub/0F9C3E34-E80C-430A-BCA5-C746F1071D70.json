@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:datahub_project:datahub:0.7.0:*:*:*:*:*:*:*",
   "cpeNameId": "0F9C3E34-E80C-430A-BCA5-C746F1071D70",
-  "lastModified": "2022-10-31T18:28:46.200",
+  "lastModified": "2025-12-03T21:05:03.250",
   "created": "2022-10-31T17:45:09.070",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/datahub-project/datahub/security/advisories/GHSA-r8gm-v65f-c973",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/datahub-project/datahub/releases",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:datahub:datahub:0.7.0:*:*:*:*:*:*:*",
+      "cpeNameId": "748FD0E7-EE60-4F52-B097-56C511B8540B"
     }
   ]
 }
