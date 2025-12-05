@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:zetacomponenets:mvctools:2008-09-23:*:*:*:*:*:*:*",
   "cpeNameId": "B9590732-1704-4896-A5B9-3D8AF3E62154",
-  "lastModified": "2023-09-22T21:13:32.977",
+  "lastModified": "2025-12-05T16:24:10.990",
   "created": "2023-09-22T21:13:32.977",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "http://zetacomponents.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/zetacomponents/MvcTools/issues/12",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/zetacomponents/MvcTools/commit/6d48cd6830fc1df1d8c9d61caa1805fd6a1b7737",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:zetacomponents:mvctools:2008-09-23:*:*:*:*:*:*:*",
+      "cpeNameId": "030FF1CD-792C-4DC8-8032-E57B06A97E81"
     }
   ]
 }
