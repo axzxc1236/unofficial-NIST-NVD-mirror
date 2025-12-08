@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:pydantic_project:pydantic:0.29:*:*:*:*:*:*:*",
   "cpeNameId": "402B6358-F5E0-458C-A455-B8A12A109ED7",
-  "lastModified": "2021-05-21T19:13:00.800",
+  "lastModified": "2025-12-08T16:46:19.440",
   "created": "2021-05-21T15:48:38.213",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/samuelcolvin/pydantic/security/advisories/GHSA-5jqp-qgf6-3pvh",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/samuelcolvin/pydantic/releases",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:pydantic:pydantic:0.29:*:*:*:*:*:*:*",
+      "cpeNameId": "D842C23B-7F6D-4200-AF6A-4CCFD7E39825"
     }
   ]
 }
