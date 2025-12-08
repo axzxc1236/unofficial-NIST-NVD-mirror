@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:tenda:ac8v4_firmware:16.03.34.06:*:*:*:*:*:*:*",
   "cpeNameId": "61D8A7B4-DF95-4E20-BCB0-6100B6A2C8AE",
-  "lastModified": "2023-10-26T15:09:51.940",
+  "lastModified": "2025-12-08T13:14:17.633",
   "created": "2023-10-26T15:09:51.940",
   "titles": [
     {
@@ -12,8 +12,14 @@
   ],
   "refs": [
     {
-      "ref": "https://www.tendacn.com/product/download/ac8.html",
-      "type": "Product"
+      "ref": "https://github.com/zt20xx/CVE-2023-48194",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:tenda:ac8_firmware:16.03.34.06:*:*:*:*:*:*:*",
+      "cpeNameId": "98DB3E70-4EB9-4384-8C30-221AD91ED2CE"
     }
   ]
 }

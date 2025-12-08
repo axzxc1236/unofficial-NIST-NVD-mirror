@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:tenda:ac8v4_firmware:16.03.34.09:*:*:*:*:*:*:*",
   "cpeNameId": "FC9EF1A6-7F8F-43FF-A5CF-8A6C2924CD6E",
-  "lastModified": "2024-12-13T14:47:45.837",
+  "lastModified": "2025-12-08T13:14:17.633",
   "created": "2024-12-13T14:47:45.837",
   "titles": [
     {
@@ -12,12 +12,14 @@
   ],
   "refs": [
     {
-      "ref": "https://www.tenda.com.cn/download/detail-3683.html",
-      "type": "Version"
-    },
-    {
       "ref": "https://github.com/zt20xx/CVE-2023-48194",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:tenda:ac8_firmware:16.03.34.09:*:*:*:*:*:*:*",
+      "cpeNameId": "D488C4A5-E96E-4B57-A6BE-4424BD2E9414"
     }
   ]
 }

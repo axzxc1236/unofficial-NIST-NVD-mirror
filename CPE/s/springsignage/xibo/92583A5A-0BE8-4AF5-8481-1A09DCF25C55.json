@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:springsignage:xibo:1.4.0:*:*:*:*:*:*:*",
   "cpeNameId": "92583A5A-0BE8-4AF5-8481-1A09DCF25C55",
-  "lastModified": "2013-10-03T15:44:01.013",
+  "lastModified": "2025-12-08T14:49:54.013",
   "created": "2013-10-03T13:49:17.497",
   "titles": [
     {
@@ -10,12 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "http://wiki.xibo.org.uk/wiki/Category:Release_Notes"
-    },
-    {
-      "ref": "http://springsignage.com/"
+      "cpeName": "cpe:2.3:a:xibosignage:xibo:1.4.0:-:*:*:*:*:*:*",
+      "cpeNameId": "DC6C61EF-419B-4C86-B26F-03E6C6BE4FB5"
     }
   ]
 }

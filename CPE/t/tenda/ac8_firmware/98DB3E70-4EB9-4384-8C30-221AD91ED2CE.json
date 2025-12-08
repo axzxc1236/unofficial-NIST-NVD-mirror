@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:o:tenda:ac8_firmware:16.03.34.06:*:*:*:*:*:*:*",
   "cpeNameId": "98DB3E70-4EB9-4384-8C30-221AD91ED2CE",
-  "lastModified": "2023-09-28T13:11:24.200",
+  "lastModified": "2025-12-08T13:14:17.633",
   "created": "2023-09-28T13:11:24.200",
   "titles": [
     {
@@ -16,12 +16,22 @@
       "type": "Product"
     },
     {
-      "ref": "https://www.tenda.com.cn/default.html",
-      "type": "Vendor"
-    },
-    {
       "ref": "https://github.com/advisories/GHSA-qj82-g9mg-vp5w",
       "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/JohenanLi/router_vuls/blob/main/websReadEvent/websReadEvent.md",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.tenda.com.cn/download/detail-3683.html",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:tenda:ac8v4_firmware:16.03.34.06:*:*:*:*:*:*:*",
+      "cpeNameId": "61D8A7B4-DF95-4E20-BCB0-6100B6A2C8AE"
     }
   ]
 }
