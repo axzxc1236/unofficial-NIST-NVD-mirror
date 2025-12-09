@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:nextcloud:talk:14.0.0:rc2:*:*:*:*:*:*",
   "cpeNameId": "11F159D6-DA92-47C6-B7A6-D861F95683F4",
-  "lastModified": "2022-05-25T19:47:20.233",
+  "lastModified": "2025-12-09T16:20:31.100",
   "created": "2022-05-24T18:09:13.773",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/nextcloud/spreed/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-vxpr-hcqq-7fw7",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:nextcloud:talk:14.0.0:rc2:*:*:*:-:*:*",
+      "cpeNameId": "7A989206-5FA2-4707-A61D-4DE23C4E3EA6"
     }
   ]
 }

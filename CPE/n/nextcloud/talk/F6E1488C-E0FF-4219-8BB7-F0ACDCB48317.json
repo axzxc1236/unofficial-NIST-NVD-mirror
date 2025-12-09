@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:nextcloud:talk:16.0.0:beta2:*:*:*:*:*:*",
   "cpeNameId": "F6E1488C-E0FF-4219-8BB7-F0ACDCB48317",
-  "lastModified": "2023-04-07T23:30:48.030",
+  "lastModified": "2025-12-09T16:20:31.100",
   "created": "2023-04-05T16:45:21.813",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/nextcloud/spreed/releases",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:nextcloud:talk:16.0.0:beta2:*:*:*:-:*:*",
+      "cpeNameId": "2F26B6B8-470A-4DDA-8499-3611B63857AB"
     }
   ]
 }

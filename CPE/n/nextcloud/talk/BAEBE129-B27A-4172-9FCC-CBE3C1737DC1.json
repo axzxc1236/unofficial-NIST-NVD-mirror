@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:nextcloud:talk:1.1.0:*:*:*:*:*:*:*",
   "cpeNameId": "BAEBE129-B27A-4172-9FCC-CBE3C1737DC1",
-  "lastModified": "2018-10-10T17:50:50.447",
+  "lastModified": "2025-12-09T16:20:31.100",
   "created": "2018-10-10T17:50:50.447",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://apps.nextcloud.com/apps/spreed/releases?platform=14#14",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:nextcloud:talk:1.1.0:*:*:*:*:-:*:*",
+      "cpeNameId": "6F986915-0697-4212-B4C4-51FF52721AE3"
     }
   ]
 }

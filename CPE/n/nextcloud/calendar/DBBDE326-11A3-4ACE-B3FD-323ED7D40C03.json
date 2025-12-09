@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:nextcloud:calendar:4.4.0:*:*:*:*:*:*:*",
   "cpeNameId": "DBBDE326-11A3-4ACE-B3FD-323ED7D40C03",
-  "lastModified": "2023-10-20T10:36:31.160",
+  "lastModified": "2025-12-09T17:25:36.350",
   "created": "2023-10-20T10:36:31.160",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/nextcloud/calendar/blob/main/CHANGELOG.md",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-r936-8gwm-w452",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:nextcloud:calendar:4.4.0:-:*:*:*:*:*:*",
+      "cpeNameId": "E70620D3-479B-4448-AE3F-47893C58CA28"
     }
   ]
 }

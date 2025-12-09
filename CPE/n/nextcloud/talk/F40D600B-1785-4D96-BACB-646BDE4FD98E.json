@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:nextcloud:talk:3.2.7:*:*:*:*:*:*:*",
   "cpeNameId": "F40D600B-1785-4D96-BACB-646BDE4FD98E",
-  "lastModified": "2020-02-07T15:45:22.687",
+  "lastModified": "2025-12-09T16:20:31.100",
   "created": "2020-02-07T15:45:22.687",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/nextcloud/spreed",
-      "type": "Version"
-    },
-    {
-      "ref": "https://nextcloud.com/talk/",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:nextcloud:talk:3.2.7:*:*:*:*:-:*:*",
+      "cpeNameId": "0D35C61C-299C-493A-AA1B-F51793F2C967"
     }
   ]
 }

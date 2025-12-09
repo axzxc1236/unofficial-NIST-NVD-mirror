@@ -2,7 +2,7 @@
   "matchCriteriaId": "08B65EA3-F8F3-4B61-97BE-F593AE32C628",
   "criteria": "cpe:2.3:a:nextcloud:mail:*:*:*:*:*:nextcloud:*:*",
   "versionEndExcluding": "5.5.3",
-  "lastModified": "2025-12-08T21:25:54.143",
+  "lastModified": "2025-12-09T16:21:44.413",
   "cpeLastModified": "2025-12-08T21:25:54.143",
   "created": "2025-12-08T21:25:54.143",
   "status": "Active",
@@ -1414,6 +1414,394 @@
     {
       "cpeName": "cpe:2.3:a:nextcloud:mail:4.0.3:*:*:*:*:nextcloud:*:*",
       "cpeNameId": "DF0CAF17-D483-4978-B845-11DA2F0E6A31"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.0.5:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "9103A04C-F0E0-4E6B-B3B3-31C2A5970964"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.0.6:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "E861D751-91EA-4528-BC51-F24F58072414"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.0.7:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "7987F9FE-E798-4AEB-976C-C159B3B4469B"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.0.8:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "CF2E2FBE-5D81-4624-8070-F14A5F59E8B0"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.0.9:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "4C9B9730-0C52-41C6-9F50-6A53CF1BAE63"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.0.10:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "EDD8484F-7AD7-4A91-96DF-BBFA97C1A9A0"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.0.11:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "A4166A5C-46D1-444D-8060-27304765F3A6"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.1.0:-:*:*:*:nextcloud:*:*",
+      "cpeNameId": "68507C75-DE4F-472B-957E-0C267E41B226"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.1.0:beta1:*:*:*:nextcloud:*:*",
+      "cpeNameId": "AC18D7F2-83EA-4314-B5CB-8565DDD1AFC1"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.1.0:beta2:*:*:*:nextcloud:*:*",
+      "cpeNameId": "272CB3EC-3006-46C3-A30E-BA94BE0F64D4"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.1.0:beta3:*:*:*:nextcloud:*:*",
+      "cpeNameId": "8478C603-0501-420D-9B3F-A646E197EF7B"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.1.0:rc1:*:*:*:nextcloud:*:*",
+      "cpeNameId": "FED2205A-3167-485C-A868-8381B113DDDC"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.1.1:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "70F61CB2-7C35-47EB-A93F-7CA1F80A8DC2"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.1.2:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "60400A8A-CD03-42F4-9A01-B85060F4E136"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.2.0:-:*:*:*:nextcloud:*:*",
+      "cpeNameId": "E86B2B99-8714-446D-A352-95D44A6E1709"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.2.0:alpha1:*:*:*:nextcloud:*:*",
+      "cpeNameId": "B51930D9-D2C3-41D3-BA61-4E6FE1582BFA"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.2.0:alpha2:*:*:*:nextcloud:*:*",
+      "cpeNameId": "DF7340C6-9A8E-4F83-A0CD-90597ADE54D3"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.2.0:beta1:*:*:*:nextcloud:*:*",
+      "cpeNameId": "27A20904-86BB-4E19-BB8B-8CCA799B1C97"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.2.0:beta3:*:*:*:nextcloud:*:*",
+      "cpeNameId": "DC460B65-5FB5-412A-9AB2-A6A21FF0DF0A"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.2.0:beta4:*:*:*:nextcloud:*:*",
+      "cpeNameId": "2A13B03C-41AC-45DE-9C9A-EACA4EC49B0C"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.2.0:rc1:*:*:*:nextcloud:*:*",
+      "cpeNameId": "3364DB7B-7CBA-42AC-9134-520CD70C509F"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.2.0:rc2:*:*:*:nextcloud:*:*",
+      "cpeNameId": "BDAD1C9A-598F-44DF-B74C-11B6320718A1"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.2.0:rc3:*:*:*:nextcloud:*:*",
+      "cpeNameId": "FFFA65FA-FE97-4213-AFAD-263AC891B7F3"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.2.0:rc4:*:*:*:nextcloud:*:*",
+      "cpeNameId": "656881F3-9355-4F71-894D-641054033DA5"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.2.1:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "A56F2F35-D8B0-428E-9FCE-F915FA8FB1E4"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.2.2:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "8EA1B63B-DE49-4E03-8FC7-0E7718179D16"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.2.3:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "0921E62C-B5CE-4B54-A32F-709CEDC49408"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.2.4:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "2B6AA636-D5E0-487F-9E98-D36E6ED837DE"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.2.5:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "B564132F-175C-4FA6-A8AB-B2CA66874FD4"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.2.6:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "457FEC96-0165-4E34-A576-E308FDD71087"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.2.7:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "A5B56471-AAC6-4547-985B-375740A639F8"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.3.0:-:*:*:*:nextcloud:*:*",
+      "cpeNameId": "F322AF7A-B25D-4878-B9BA-9A019162193E"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.3.0:beta1:*:*:*:nextcloud:*:*",
+      "cpeNameId": "B2CC6213-0DB2-4F42-A1D5-EA3D2345894B"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.3.0:rc1:*:*:*:nextcloud:*:*",
+      "cpeNameId": "864468AB-99D6-43DE-88FB-331B5F2D29F2"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.3.0:rc2:*:*:*:nextcloud:*:*",
+      "cpeNameId": "DF85E1DF-BDC3-41C6-B683-122FFD76CF47"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.3.0:rc3:*:*:*:nextcloud:*:*",
+      "cpeNameId": "F3080E04-A7EA-4FE8-BE88-9344EDE735A2"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.3.0:rc5:*:*:*:nextcloud:*:*",
+      "cpeNameId": "D855A48F-7FD9-4E85-807A-791F5CA8D3ED"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.3.1:-:*:*:*:nextcloud:*:*",
+      "cpeNameId": "E6E4A566-4647-48D2-B8D3-9A7BA4ECADA0"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.3.1:rc0:*:*:*:nextcloud:*:*",
+      "cpeNameId": "0AB4F598-AEBD-4053-85B3-7675389B0AAC"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.3.2:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "D8D5E9A4-5FA3-4304-98F2-80885C8B1975"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.3.3:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "AA61451C-6C44-47F0-8728-74DFB678C2E5"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.3.4:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "5FE6B75B-F1FB-4291-9AC6-08BF99EAD646"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.3.5:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "A81FFEF2-8895-4409-B0A9-0AB082DE1DEE"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.3.6:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "2D93AF91-FF76-41F3-9FD5-1737073B5F32"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:4.3.7:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "41A9474D-F320-4080-84CD-C7444F22081A"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.0.0:-:*:*:*:nextcloud:*:*",
+      "cpeNameId": "DE6689EA-7F65-43A7-AC53-4FE84CA4E03C"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.0.0:dev1:*:*:*:nextcloud:*:*",
+      "cpeNameId": "4E2D49C0-78B2-4F9C-B31F-227BA8205805"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.0.0:rc1:*:*:*:nextcloud:*:*",
+      "cpeNameId": "EAD83E1A-0E15-4E1F-A288-62DC2C0AECAF"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.0.1:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "1D506567-18FF-4EA4-BC4A-1A6209B9E808"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.0.2:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "4E957461-8E9A-437F-AF30-75A529EB6D5C"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.0.3:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "04F833D4-D499-4211-B0B2-82D5CE54620D"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.0.4:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "C5EABD4E-7F71-445B-8B3D-7BB2A86DFDC2"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.0.5:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "6DFBAFEC-911A-42A1-9694-33D57A5089EE"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.0.6:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "D1126A2A-EC6D-4C7B-B416-A9A086603646"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.0.7:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "BBADD5FE-6E93-46FB-9838-EB5AC4212CC1"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.0.8:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "B05C4898-3E45-4B51-A83D-2869D99F7C8F"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.1.0:-:*:*:*:nextcloud:*:*",
+      "cpeNameId": "636735CE-A702-4528-825E-B85CBF92E574"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.1.0:alpha1:*:*:*:nextcloud:*:*",
+      "cpeNameId": "F366CCE7-9C3A-4096-BAFF-48ED6352C322"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.1.0:dev1:*:*:*:nextcloud:*:*",
+      "cpeNameId": "B792D93F-B564-4BF6-BF44-A8DF0067A1D8"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.1.0:dev2:*:*:*:nextcloud:*:*",
+      "cpeNameId": "3864E214-824F-4DE6-B949-5C0D488AE820"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.1.0:rc1:*:*:*:nextcloud:*:*",
+      "cpeNameId": "FDC3F656-9C58-4F04-BBE4-E569A8885EF3"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.1.1:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "D44A9C91-871F-400B-BB00-56F7C73F1EC9"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.1.2:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "022DA877-4E96-49FA-A0C6-E330FF59ECC2"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.1.3:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "15267832-823F-4046-B34E-C9FE2506F342"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.1.4:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "19B2C322-FEF2-424C-9584-B7BED6C2B05C"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.1.5:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "BDFBC8D6-7311-4103-AB16-A15B49FC1E65"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.1.6:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "E730B671-5E4F-499F-8957-6EEA52BA2526"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.1.7:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "B01FAA8E-62B1-4D62-B3F9-7D776D7D82C2"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.1.8:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "4E826D51-F212-4069-A505-9896D2E3BD92"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.1.9:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "B9624585-98BE-45E3-A854-4D7BC61BE280"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.1.10:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "D46C7021-6556-495A-9DD1-0204BD076ABB"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.1.11:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "81ED598D-9178-4AE7-9D4F-90C04A9E3171"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.2.0:-:*:*:*:nextcloud:*:*",
+      "cpeNameId": "E11BEC23-A7D1-44BD-9E8B-8A696519F63F"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.2.0:alpha1:*:*:*:nextcloud:*:*",
+      "cpeNameId": "C8769B0A-EFFC-460B-8315-192B506A87CC"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.2.0:beta1:*:*:*:nextcloud:*:*",
+      "cpeNameId": "26E83B15-963A-4A55-A8B5-796953F96BA4"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.2.0:beta2:*:*:*:nextcloud:*:*",
+      "cpeNameId": "65E7A9CF-8987-48E9-B37D-FEDEF1098FEC"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.2.0:rc0:*:*:*:nextcloud:*:*",
+      "cpeNameId": "2B64A48C-5DFE-45C9-84AB-CDBA30DA762B"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.2.1:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "EA81363C-BDD5-4FC3-BD3A-D6CF6D468197"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.3.0:-:*:*:*:nextcloud:*:*",
+      "cpeNameId": "BA5224AA-D159-41FA-AEAE-22264A274552"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.3.0:beta2:*:*:*:nextcloud:*:*",
+      "cpeNameId": "D8A12E2B-D57D-4D63-A277-4B3C9EB77E76"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.3.0:rc0:*:*:*:nextcloud:*:*",
+      "cpeNameId": "3D175DE7-BE7A-4BA9-B8D1-7B2E81B97DC9"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.3.1:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "884790A7-B20D-435F-B61F-E2108E0D26E3"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.3.2:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "694BB4CB-CE25-476F-900C-D5CAC61DEB80"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.3.3:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "5EB2F104-8FFB-43BF-811A-C80275AFC154"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.4.0:-:*:*:*:nextcloud:*:*",
+      "cpeNameId": "F341A9E3-B397-4403-BB68-0E6DCB0E8D4E"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.4.0:beta0:*:*:*:nextcloud:*:*",
+      "cpeNameId": "34D641F7-5DAB-45FA-816D-A4FB07F09AD3"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.4.0:beta1:*:*:*:nextcloud:*:*",
+      "cpeNameId": "A2B16640-ACD2-41B2-A028-462201D560D6"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.4.0:beta2:*:*:*:nextcloud:*:*",
+      "cpeNameId": "8925FA21-0A1F-4E63-BB46-6F64990A2DC4"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.4.0:rc0:*:*:*:nextcloud:*:*",
+      "cpeNameId": "6058AAB9-4407-4685-8549-C2908AF7DD01"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.4.0:rc1:*:*:*:nextcloud:*:*",
+      "cpeNameId": "062A8F01-1972-42BF-8300-17A463DD7C21"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.4.0:rc2:*:*:*:nextcloud:*:*",
+      "cpeNameId": "B44EB2A6-E46C-4C37-B598-689D5239595A"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.4.1:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "28BE1168-3B69-47D7-A710-C75CDD933E7B"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.5.0:-:*:*:*:nextcloud:*:*",
+      "cpeNameId": "F6D53FEF-B2AE-4583-8647-01D610D09D0F"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.5.0:rc1:*:*:*:nextcloud:*:*",
+      "cpeNameId": "289085BE-29CB-436D-9F33-464FD04AEEFB"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.5.0:rc2:*:*:*:nextcloud:*:*",
+      "cpeNameId": "8A91680F-EA70-4147-8E5A-7408CE2255A2"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.5.1:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "0F8DF7C0-35EC-45AC-BD74-E18EEBB9C866"
+    },
+    {
+      "cpeName": "cpe:2.3:a:nextcloud:mail:5.5.2:*:*:*:*:nextcloud:*:*",
+      "cpeNameId": "A4119134-0102-4167-9A58-9815204BE029"
     }
   ]
 }

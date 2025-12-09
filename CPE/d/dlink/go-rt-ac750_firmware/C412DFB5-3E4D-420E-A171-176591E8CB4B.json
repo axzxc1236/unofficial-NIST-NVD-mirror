@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:dlink:go-rt-ac750_firmware:200b02:*:*:*:*:*:*:*",
   "cpeNameId": "C412DFB5-3E4D-420E-A171-176591E8CB4B",
-  "lastModified": "2023-09-27T11:49:27.253",
+  "lastModified": "2025-12-09T19:31:54.317",
   "created": "2023-09-27T11:49:27.253",
   "titles": [
     {
@@ -10,26 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://drive.google.com/file/d/1_UUpraFTxxB97ujrgVLQZXQ8Q8M58BAF/view",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/yzskyt/Vuln/blob/main/Go-RT-AC750/Go-RT-AC750.md",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://eu.dlink.com/uk/en/products/go-rt-ac750-wireless-ac750-dual-band-easy-router",
-      "type": "Product"
-    },
-    {
-      "ref": "https://us.dlink.com/en/consumer",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.dlink.com/en/security-bulletin",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:o:dlink:go-rt-ac750_firmware:2.00b02:*:*:*:*:*:*:*",
+      "cpeNameId": "81B326D1-6702-4837-9D6C-9C8499B6750E"
     }
   ]
 }

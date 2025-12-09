@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:nextcloud:talk:6.0.5:*:*:*:*:*:*:*",
   "cpeNameId": "5247609F-52A1-478C-BB3C-5DEEB81EB4AC",
-  "lastModified": "2020-06-09T14:51:34.297",
+  "lastModified": "2025-12-09T16:20:31.100",
   "created": "2020-06-09T14:51:34.297",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://nextcloud.com/security/advisory/?id=NC-SA-2020-021",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://apps.nextcloud.com/apps/spreed/releases?",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:nextcloud:talk:6.0.5:*:*:*:*:-:*:*",
+      "cpeNameId": "007FCF00-FB6E-4BF1-88D1-3FDA5BFE4AA9"
     }
   ]
 }
