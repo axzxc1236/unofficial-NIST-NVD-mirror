@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:i-librarian:i\\,_librarian:4.6:*:*:*:*:*:*:*",
   "cpeNameId": "3467B9DC-5EB7-4D3E-946C-FE6BB74E28E6",
-  "lastModified": "2018-04-13T14:25:35.753",
+  "lastModified": "2025-12-10T18:55:23.913",
   "created": "2018-04-13T14:25:35.753",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/mkucej/i-librarian",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/mkucej/i-librarian/releases",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:scilico:i\\,_librarian:4.6:*:*:*:*:*:*:*",
+      "cpeNameId": "FE054268-214E-4380-B424-63C3774F6506"
     }
   ]
 }

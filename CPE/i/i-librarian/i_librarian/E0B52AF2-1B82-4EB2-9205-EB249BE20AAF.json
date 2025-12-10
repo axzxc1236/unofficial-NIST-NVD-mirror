@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:i-librarian:i_librarian:4.9:*:*:*:*:*:*:*",
   "cpeNameId": "E0B52AF2-1B82-4EB2-9205-EB249BE20AAF",
-  "lastModified": "2019-05-10T17:10:00.930",
+  "lastModified": "2025-12-10T18:58:40.220",
   "created": "2019-05-10T17:10:00.930",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/mkucej/i-librarian/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://i-librarian.net/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:scilico:i\\,_librarian:4.9:*:*:*:*:*:*:*",
+      "cpeNameId": "3F23FF08-DEFE-4669-8503-CDB4FB8FD44C"
     }
   ]
 }
