@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:skywalking:0.3.0:*:*:*:*:node.js:*:*",
   "cpeNameId": "8C1DEA40-EC31-466F-BDDC-104C3A577172",
-  "lastModified": "2022-07-21T15:54:38.260",
+  "lastModified": "2025-12-10T12:53:31.930",
   "created": "2022-07-21T14:56:44.520",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/apache/skywalking-nodejs",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.npmjs.com/package/skywalking-backend-js",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:apache:skywalking_nodejs_agent:0.3.0:*:*:*:*:node.js:*:*",
+      "cpeNameId": "72C835E4-403D-45D1-897C-55242F1789CE"
     }
   ]
 }
