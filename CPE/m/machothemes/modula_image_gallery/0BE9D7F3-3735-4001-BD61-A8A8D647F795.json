@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:machothemes:modula_image_gallery:2.2.5:*:*:*:*:wordpress:*:*",
   "cpeNameId": "0BE9D7F3-3735-4001-BD61-A8A8D647F795",
-  "lastModified": "2020-04-14T16:13:28.323",
+  "lastModified": "2025-12-15T15:39:10.513",
   "created": "2020-04-14T16:13:28.323",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/MachoThemes/modula-lite/blob/master/changelog.txt",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/modula-best-grid-gallery/#description",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.machothemes.com/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:wpchill:modula_image_gallery:2.2.5:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "53DEB1FB-4952-458F-A045-74E44060BF8E"
     }
   ]
 }

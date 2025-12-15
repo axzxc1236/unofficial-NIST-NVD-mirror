@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:howardehrenberg:parallax_image:1.6:*:*:*:*:wordpress:*:*",
   "cpeNameId": "C69E8F8D-1219-460F-88EF-18CDE15FCA11",
-  "lastModified": "2023-12-04T19:55:43.117",
+  "lastModified": "2025-12-15T15:57:52.450",
   "created": "2023-12-04T19:55:43.117",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://wordpress.org/plugins/parallax-image/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.howardehrenberg.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://patchstack.com/database/vulnerability/parallax-image/wordpress-parallax-image-plugin-1-7-1-cross-site-scripting-xss-vulnerability?_s_id=cve",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:duckdiverllc:parallax_image:1.6:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "B1CACF87-DB22-44B0-BF10-52C4D573FB74"
     }
   ]
 }

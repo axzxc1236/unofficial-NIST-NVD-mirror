@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:howardehrenberg:parallax_image:1.7.1:*:*:*:*:wordpress:*:*",
   "cpeNameId": "204DBB02-F56D-4857-8223-A9872866F607",
-  "lastModified": "2023-12-04T19:55:43.117",
+  "lastModified": "2025-12-15T15:57:52.450",
   "created": "2023-12-04T19:55:43.117",
   "titles": [
     {
@@ -10,18 +10,18 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://wordpress.org/plugins/parallax-image/#developers",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:duckdiverllc:parallax_image:1.7.1:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "E9EFF7A2-E632-4135-AFC5-DDD29F34A68E"
     },
     {
-      "ref": "https://www.howardehrenberg.com/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:duckdiverllc:parallax_image:1.9:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "46AD14F0-95AF-4153-A205-65730EE4891C"
     },
     {
-      "ref": "https://patchstack.com/database/vulnerability/parallax-image/wordpress-parallax-image-plugin-1-7-1-cross-site-scripting-xss-vulnerability?_s_id=cve",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:duckdiverllc:parallax_image:1.9.1:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "E62E89BD-F0DE-4C5D-B105-A08577A49A58"
     }
   ]
 }
