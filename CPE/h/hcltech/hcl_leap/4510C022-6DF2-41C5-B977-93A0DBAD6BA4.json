@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:hcltech:hcl_leap:9.3:*:*:*:*:*:*:*",
   "cpeNameId": "4510C022-6DF2-41C5-B977-93A0DBAD6BA4",
-  "lastModified": "2023-02-23T18:08:44.387",
+  "lastModified": "2025-12-18T22:16:51.793",
   "created": "2023-02-17T15:42:06.127",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecates": [
     {
-      "ref": "https://www.hcltechsw.com/leap/features#:~:text=HCL%20Leap%20is%20an%20agile,processes%20to%20achieve%20greater%20efficiency.",
-      "type": "Product"
-    },
-    {
-      "ref": "https://hclwiki.atlassian.net/wiki/spaces/HL/pages/461476/New+Features+by+Version",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:hcltech:leap:9.3:*:*:*:*:*:*:*",
+      "cpeNameId": "1208FDBE-7DFA-4098-86D7-84A17EFCDA39"
     }
   ]
 }
