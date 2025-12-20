@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:kentico:kentico:6.0.44:*:*:*:*:*:*:*",
   "cpeNameId": "7A4A4DCD-6C4A-464D-9B2D-5CD73CDCE224",
-  "lastModified": "2019-04-08T17:57:16.327",
+  "lastModified": "2025-12-19T20:45:07.553",
   "created": "2019-04-08T17:57:16.327",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.kentico.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://devnet.kentico.com/download/hotfixes/hotfixes-for-older-versions",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:kentico:xperience:6.0.44:*:*:*:*:*:*:*",
+      "cpeNameId": "57DE35D1-0E47-45A2-BEF4-28848ACD3233"
     }
   ]
 }

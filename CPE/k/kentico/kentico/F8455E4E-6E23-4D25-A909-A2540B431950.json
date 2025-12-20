@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:kentico:kentico:10.0.46:*:*:*:*:*:*:*",
   "cpeNameId": "F8455E4E-6E23-4D25-A909-A2540B431950",
-  "lastModified": "2019-04-08T18:00:17.030",
+  "lastModified": "2025-12-19T20:47:25.487",
   "created": "2019-04-08T18:00:17.030",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.nuget.org/packages/Kentico.Libraries/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.kentico.com/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:kentico:xperience:10.0.46:*:*:*:*:*:*:*",
+      "cpeNameId": "00028ABF-7F33-495F-9CCD-17EB75B38E64"
     }
   ]
 }

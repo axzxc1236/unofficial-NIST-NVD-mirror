@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:kentico:kentico_experience_cms:13.0.43:*:*:*:*:*:*:*",
   "cpeNameId": "0426FDF6-F5AF-49D2-A36A-48D043511707",
-  "lastModified": "2022-02-07T20:23:37.220",
+  "lastModified": "2025-12-19T20:57:35.633",
   "created": "2021-12-03T19:14:24.087",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://appcheck-ng.com/persistent-xss-kentico-cms/",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.kentico.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://xperience.io/",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:kentico:xperience:13.0.43:*:*:*:*:*:*:*",
+      "cpeNameId": "3D9E8487-FBE8-4D2B-BE79-42C5DD43545C"
     }
   ]
 }
