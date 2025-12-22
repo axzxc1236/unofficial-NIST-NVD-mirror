@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:robocode_project:robocode:1.7.2.0:*:*:*:*:*:*:*",
   "cpeNameId": "ADE11B7A-8C26-4F1E-BCC4-7DCC8AC30B8D",
-  "lastModified": "2019-08-01T14:42:24.003",
+  "lastModified": "2025-12-22T17:41:41.827",
   "created": "2019-08-01T14:42:24.003",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://sourceforge.net/projects/robocode/files/robocode%20sources/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://robocode.sourceforge.io/",
-      "type": "Project"
+      "cpeName": "cpe:2.3:a:robocode:robocode:1.7.2.0:-:*:*:*:*:*:*",
+      "cpeNameId": "72D4E7C8-D6B0-4743-8A52-33722769B5F5"
     }
   ]
 }
