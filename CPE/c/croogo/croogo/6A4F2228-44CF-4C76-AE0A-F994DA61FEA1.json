@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:croogo:croogo:3.0.0:beta.1:*:*:*:*:*:*",
   "cpeNameId": "6A4F2228-44CF-4C76-AE0A-F994DA61FEA1",
-  "lastModified": "2019-02-06T13:56:40.507",
+  "lastModified": "2025-12-31T15:08:07.763",
   "created": "2019-02-06T13:56:40.507",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/croogo/croogo/releases",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:croogo:croogo:3.0.0:beta1:*:*:*:*:*:*",
+      "cpeNameId": "D68C4240-5A75-4613-A187-471809EA7EA0"
     }
   ]
 }
