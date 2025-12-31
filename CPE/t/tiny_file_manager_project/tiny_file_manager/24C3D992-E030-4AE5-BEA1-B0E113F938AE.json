@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:tiny_file_manager_project:tiny_file_manager:2.3.8:*:*:*:*:*:*:*",
   "cpeNameId": "24C3D992-E030-4AE5-BEA1-B0E113F938AE",
-  "lastModified": "2020-01-08T18:30:42.357",
+  "lastModified": "2025-12-31T19:40:50.980",
   "created": "2020-01-08T18:30:42.357",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/prasathmani/tinyfilemanager/security/advisories/GHSA-w72h-v37j-rrwr",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/prasathmani/tinyfilemanager/",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:prasathmani:tiny_file_manager:2.3.8:*:*:*:*:*:*:*",
+      "cpeNameId": "34E93928-ACD8-473C-B56F-F46AD27D530E"
     }
   ]
 }

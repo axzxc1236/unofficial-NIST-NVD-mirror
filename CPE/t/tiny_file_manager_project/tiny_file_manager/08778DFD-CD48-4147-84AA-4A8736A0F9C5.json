@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:tiny_file_manager_project:tiny_file_manager:2.2.0:*:*:*:*:*:*:*",
   "cpeNameId": "08778DFD-CD48-4147-84AA-4A8736A0F9C5",
-  "lastModified": "2020-01-08T18:30:42.140",
+  "lastModified": "2025-12-31T19:40:50.980",
   "created": "2020-01-08T18:30:42.140",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/prasathmani/tinyfilemanager/",
-      "type": "Version"
+      "cpeName": "cpe:2.3:a:prasathmani:tiny_file_manager:2.2.0:*:*:*:*:*:*:*",
+      "cpeNameId": "1D7E65D0-5C15-4F1C-B436-0DBD35D87AE2"
     }
   ]
 }
