@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:h:comtechtel:stampede_fx-1010:-:*:*:*:*:*:*:*",
   "cpeNameId": "1A9EEA83-C293-4633-BF0B-CEB73EDD4350",
-  "lastModified": "2020-02-27T17:55:48.573",
+  "lastModified": "2026-01-02T14:48:24.767",
   "created": "2020-02-27T17:55:48.573",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "http://www.comtechtel.com/home",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.digisat.org/comtech-stampede-fx-1010-wan-compression-bandwidth-optimization-platform",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.zerodaylab.com/vulnerabilities/CVE-2020/CVE-2020-7242.html",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:h:comtech:stampede_fx-1010:-:*:*:*:*:*:*:*",
+      "cpeNameId": "6381B5BE-87CF-4636-9A53-D5535412A388"
     }
   ]
 }
