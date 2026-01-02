@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:jeecg:jeecg-boot:3.5.0:*:*:*:*:*:*:*",
   "cpeNameId": "555D0AAA-F9C2-459A-BAB8-AEFDB52826DD",
-  "lastModified": "2023-10-30T14:03:43.517",
+  "lastModified": "2026-01-02T19:31:16.220",
   "created": "2023-10-30T14:03:43.517",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/J0hnWalker/jeecg-boot-sqli",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/jeecgboot/jeecg-boot/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "http://www.jeecg.com/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:jeecg:jeecg_boot:3.5.0:*:*:*:*:*:*:*",
+      "cpeNameId": "01327DE6-35CE-43DA-8091-6546F50B0804"
     }
   ]
 }
