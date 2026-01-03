@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gitea:gitea:1.12.6:*:*:*:*:*:*:*",
   "cpeNameId": "ACE611BC-1AFC-49A5-AAC8-A6ED0B2FCA6B",
-  "lastModified": "2020-12-02T18:53:47.263",
+  "lastModified": "2026-01-02T20:33:54.480",
   "created": "2020-12-02T18:53:47.263",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://blog.gitea.io/2020/11/gitea-1.12.6-is-released/",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:gitea:gitea:1.12.6:*:*:*:*:-:*:*",
+      "cpeNameId": "CAC4582C-A114-4B3F-8D5F-F24FD1B668CD"
     }
   ]
 }

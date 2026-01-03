@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gitea:gitea:1.13.1:*:*:*:*:*:*:*",
   "cpeNameId": "B3D393A9-F162-45BC-B20E-9FBBE8046A36",
-  "lastModified": "2021-02-08T13:47:48.640",
+  "lastModified": "2026-01-02T20:33:54.480",
   "created": "2021-02-08T13:47:48.640",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/go-gitea/gitea",
-      "type": "Version"
-    },
-    {
-      "ref": "https://gitea.io/en-us/",
-      "type": "Vendor"
+      "cpeName": "cpe:2.3:a:gitea:gitea:1.13.1:*:*:*:*:-:*:*",
+      "cpeNameId": "8C185B81-450B-459C-AA7B-AE68075E9A27"
     }
   ]
 }

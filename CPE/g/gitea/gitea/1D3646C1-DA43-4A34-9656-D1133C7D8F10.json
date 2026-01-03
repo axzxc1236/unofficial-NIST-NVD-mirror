@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gitea:gitea:1.11.0:dev:*:*:*:*:*:*",
   "cpeNameId": "1D3646C1-DA43-4A34-9656-D1133C7D8F10",
-  "lastModified": "2020-05-21T20:09:09.060",
+  "lastModified": "2026-01-02T20:38:48.490",
   "created": "2020-05-21T20:09:09.060",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/go-gitea/gitea/releases",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:gitea:gitea:1.11.0:dev:*:*:*:-:*:*",
+      "cpeNameId": "8603C123-CCDF-4718-B6F6-936E54D2C3B6"
     }
   ]
 }
