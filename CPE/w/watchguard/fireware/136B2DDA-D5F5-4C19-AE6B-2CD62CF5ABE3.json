@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:watchguard:fireware:11.12.4:*:*:*:*:*:*:*",
   "cpeNameId": "136B2DDA-D5F5-4C19-AE6B-2CD62CF5ABE3",
-  "lastModified": "2019-11-06T15:09:46.377",
+  "lastModified": "2026-01-05T18:24:23.407",
   "created": "2019-11-06T15:09:46.377",
   "titles": [
     {
@@ -10,10 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.watchguard.com/wgrd-blog/fireware-11124-now-available",
-      "type": "Product"
+      "cpeName": "cpe:2.3:o:watchguard:fireware:11.12.4:-:*:*:*:*:*:*",
+      "cpeNameId": "6BA8C781-3DA1-4AC3-82B7-D3363FF27C82"
     }
   ]
 }

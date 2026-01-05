@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:sandboxie:sandboxie:5.55.13:*:*:*:*:*:*:*",
   "cpeNameId": "ABC453D8-4047-4AC8-B1E5-8F964F35E6C0",
-  "lastModified": "2022-10-06T14:28:26.697",
+  "lastModified": "2026-01-05T19:26:08.727",
   "created": "2022-05-10T17:46:06.050",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://github.com/sandboxie-plus/Sandboxie/blob/master/CHANGELOG.md",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/sandboxie-plus/Sandboxie/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://sandboxie-plus.com/sandboxie/",
-      "type": "Product"
+      "cpeName": "cpe:2.3:a:sandboxie-plus:sandboxie:5.55.13:*:*:*:classic:*:*:*",
+      "cpeNameId": "D7A895E2-3F81-4764-8659-072C09901167"
     }
   ]
 }
