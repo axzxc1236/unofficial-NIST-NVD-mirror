@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:square:squalor:-:*:*:*:*:go:*:*",
   "cpeNameId": "426DD3EC-D3E4-46D2-B4B7-1169F8704329",
-  "lastModified": "2023-09-28T11:09:50.100",
+  "lastModified": "2026-01-06T18:49:28.203",
   "created": "2023-09-28T11:09:50.100",
   "titles": [
     {
@@ -10,18 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://square.github.io/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://pkg.go.dev/github.com/square/squalor?tab=versions",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/square/squalor/commit/f6f0a47cc344711042eb0970cb423e6950ba3f93",
-      "type": "Advisory"
+      "cpeName": "cpe:2.3:a:squaredup:squalor:-:*:*:*:*:go:*:*",
+      "cpeNameId": "FCF8799C-2296-464F-B4C8-6D339E1DE59B"
     }
   ]
 }
