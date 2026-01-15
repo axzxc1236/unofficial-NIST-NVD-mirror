@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:adguard-dns:adguard_dns:2.1.4:*:*:*:*:*:*:*",
   "cpeNameId": "240038DB-AE23-4E3C-9DCD-6368D348C6AA",
-  "lastModified": "2023-08-31T16:31:58.540",
+  "lastModified": "2026-01-14T19:43:39.957",
   "created": "2023-08-31T13:45:55.887",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://adguard-dns.io/en/versions.html#2.2",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:adguard:adguard_dns:2.1.4:*:*:*:*:*:*:*",
+      "cpeNameId": "50A63562-9DEA-471E-BDB7-BC82225E530E"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:themepoints:testimonials:1.0:*:*:*:*:wordpress:*:*",
   "cpeNameId": "5B0CC875-B97C-42A5-9DC4-C6FCF1438A8D",
-  "lastModified": "2022-10-28T16:57:09.803",
+  "lastModified": "2026-01-07T20:32:20.660",
   "created": "2022-10-28T16:54:42.813",
   "titles": [
     {
@@ -10,14 +10,10 @@
       "lang": "en"
     }
   ],
-  "refs": [
+  "deprecatedBy": [
     {
-      "ref": "https://www.themepoints.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/super-testimonial/#developers",
-      "type": "Change Log"
+      "cpeName": "cpe:2.3:a:themepoints:super_testimonials:1.0:*:*:*:free:wordpress:*:*",
+      "cpeNameId": "C0AC7795-4373-4AE5-A13F-626679CA721A"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:creativemindssolutions:video_lessons_manager:1.7.2:*:*:*:*:wordpress:*:*",
   "cpeNameId": "477FF741-ED72-408E-BB03-668FD6FB9D6C",
-  "lastModified": "2021-11-24T16:45:32.987",
+  "lastModified": "2026-01-13T16:51:47.273",
   "created": "2021-11-24T15:09:10.100",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://wpscan.com/vulnerability/4a90be69-41eb-43e9-962d-34316497b4df",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cminds:video_lessons_manager:1.7.2:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "A1929F51-0F77-4D1E-A9EE-E639416631F5"
     }
   ]
 }

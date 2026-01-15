@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:h:unitronicsplc:vision1210:-:*:*:*:*:*:*:*",
   "cpeNameId": "B89D7D17-2893-4A99-B237-D9CCF496CA9B",
-  "lastModified": "2024-05-16T15:31:13.773",
+  "lastModified": "2026-01-08T19:23:33.890",
   "created": "2024-05-16T15:31:13.773",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.unitronicsplc.com/vision-series-vision1210/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:h:unitronics:vision1210:-:*:*:*:*:*:*:*",
+      "cpeNameId": "BDAD5614-BC46-4DAF-82A0-FDB082383EA9"
     }
   ]
 }

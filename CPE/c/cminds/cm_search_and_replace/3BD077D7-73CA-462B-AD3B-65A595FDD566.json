@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:cminds:cm_search_and_replace:1.0.5:*:*:*:*:wordpress:*:*",
   "cpeNameId": "3BD077D7-73CA-462B-AD3B-65A595FDD566",
-  "lastModified": "2025-05-27T17:31:20.870",
+  "lastModified": "2026-01-13T19:24:47.793",
   "created": "2025-05-27T17:31:20.870",
   "titles": [
     {
@@ -18,6 +18,16 @@
     {
       "ref": "https://www.cminds.com/changelog/?id=48",
       "type": "Change Log"
+    },
+    {
+      "ref": "https://www.cminds.com/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cminds:cm_on_demand_search_and_replace:1.0.5:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "4D7004A0-48E6-427F-9E2A-EF3CCF35C12A"
     }
   ]
 }

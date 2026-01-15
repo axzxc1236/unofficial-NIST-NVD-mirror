@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cminds:cm_on_demand_search_and_replace:1.5.3:*:*:*:*:wordpress:*:*",
   "cpeNameId": "9D85D4D6-A186-4DA2-865B-D72E694092CB",
-  "lastModified": "2023-08-23T18:19:03.110",
+  "lastModified": "2026-01-13T19:24:47.793",
   "created": "2023-08-23T15:51:00.577",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://www.cminds.com/changelog/?id=48",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cminds:cm_search_and_replace:1.5.3:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "8C74C28F-2489-4DC8-9E63-E562E2E8A6FD"
     }
   ]
 }

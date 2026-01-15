@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:creativemindssolutions:video_lessons_manager:3.0.2:*:*:*:*:wordpress:*:*",
   "cpeNameId": "56ED82D4-52B2-4C3E-BCF0-BACDC6EE9F81",
-  "lastModified": "2022-07-27T17:31:55.170",
+  "lastModified": "2026-01-13T16:51:47.273",
   "created": "2022-07-27T16:34:50.323",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.cminds.com/wordpress-plugins-library/video-lessons-manager-plugin-for-wordpress/#changelog",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cminds:video_lessons_manager:3.0.2:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "BFA8F5B1-BDA5-423F-A90C-D13A7D031A2D"
     }
   ]
 }

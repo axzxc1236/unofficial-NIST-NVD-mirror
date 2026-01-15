@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:change_wp-admin_login_project:change_wp-admin_login:1.0.5:*:*:*:*:wordpress:*:*",
   "cpeNameId": "E27C384A-E91C-4034-8FD7-DE40DCE34B65",
-  "lastModified": "2022-06-06T22:47:04.743",
+  "lastModified": "2026-01-14T18:30:45.233",
   "created": "2022-06-06T18:25:59.567",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://wpscan.com/vulnerability/257f9e14-4f43-4852-8384-80c15d087633",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:wpexperts:all_in_one_login:1.0.5:*:*:*:-:wordpress:*:*",
+      "cpeNameId": "CE6ADFF9-B2B2-446F-9DE7-67D6FC27EE51"
     }
   ]
 }

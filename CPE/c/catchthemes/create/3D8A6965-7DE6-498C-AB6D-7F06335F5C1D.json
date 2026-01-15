@@ -1,0 +1,37 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:catchthemes:create:2.4.1:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "3D8A6965-7DE6-498C-AB6D-7F06335F5C1D",
+  "lastModified": "2026-01-12T13:46:34.147",
+  "created": "2026-01-07T19:09:23.313",
+  "titles": [
+    {
+      "title": "Catch Themes Create 2.4.1 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://patchstack.com/database/wordpress/theme/create/vulnerability/wordpress-create-theme-2-9-1-cross-site-scripting-xss-vulnerability",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://themes.trac.wordpress.org/log/create",
+      "type": "Version"
+    },
+    {
+      "ref": "https://wordpress.org/themes/create/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://catchthemes.com/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:catchthemes:create:2.4.1:*:*:*:free:wordpress:*:*",
+      "cpeNameId": "59D487E9-599E-4D10-AE2C-5C8751C34483"
+    }
+  ]
+}
