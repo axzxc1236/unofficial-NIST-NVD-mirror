@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:stopbadbots:block_and_stop_bad_bots:5.50:*:*:*:*:wordpress:*:*",
   "cpeNameId": "48A99940-8223-45C7-A5CE-D480DD46E0E5",
-  "lastModified": "2021-09-21T12:21:44.530",
+  "lastModified": "2026-01-16T19:23:16.610",
   "created": "2021-09-17T14:35:56.990",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://stopbadbots.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:billminozzi:stop_bad_bots:5.50:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "09C3B977-6E4E-456A-AFDD-94CE17B18A7C"
     }
   ]
 }

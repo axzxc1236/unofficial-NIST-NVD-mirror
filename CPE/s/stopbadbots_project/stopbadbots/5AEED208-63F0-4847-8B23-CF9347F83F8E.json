@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:stopbadbots_project:stopbadbots:7.03:*:*:*:*:wordpress:*:*",
   "cpeNameId": "5AEED208-63F0-4847-8B23-CF9347F83F8E",
-  "lastModified": "2022-12-13T14:24:30.470",
+  "lastModified": "2026-01-16T19:23:16.610",
   "created": "2022-12-13T14:20:16.187",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://plugins.trac.wordpress.org/browser/stopbadbots/#tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:billminozzi:stop_bad_bots:7.03:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "A1CD7580-1C8E-4685-8FF1-54B4A60D4B86"
     }
   ]
 }

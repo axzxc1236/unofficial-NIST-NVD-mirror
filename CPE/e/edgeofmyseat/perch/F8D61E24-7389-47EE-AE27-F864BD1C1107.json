@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:edgeofmyseat:perch:3.0.3:*:*:*:*:*:*:*",
   "cpeNameId": "F8D61E24-7389-47EE-AE27-F864BD1C1107",
-  "lastModified": "2019-11-18T12:53:00.537",
+  "lastModified": "2026-01-16T19:22:10.100",
   "created": "2019-11-18T12:53:00.537",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://grabaperch.com/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:grabaperch:perch:3.0.3:*:*:*:*:*:*:*",
+      "cpeNameId": "72FFE2E3-70C2-4FCB-9AA2-9A1E521A4DB6"
     }
   ]
 }

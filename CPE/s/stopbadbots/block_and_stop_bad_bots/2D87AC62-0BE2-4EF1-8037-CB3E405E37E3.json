@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:stopbadbots:block_and_stop_bad_bots:6.68:*:*:*:*:wordpress:*:*",
   "cpeNameId": "2D87AC62-0BE2-4EF1-8037-CB3E405E37E3",
-  "lastModified": "2021-12-16T16:29:48.303",
+  "lastModified": "2026-01-16T19:23:16.610",
   "created": "2021-12-16T15:55:53.593",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://wordpress.org/plugins/stopbadbots/#developers",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:billminozzi:stop_bad_bots:6.68:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "9D529A9B-B67F-4ADB-9A73-60A14CC45FC1"
     }
   ]
 }
