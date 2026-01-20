@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ibericode:html_forms:1.3.7:*:*:*:*:wordpress:*:*",
   "cpeNameId": "7C46A749-2033-4C16-A0A8-F3B0FBCD0AB3",
-  "lastModified": "2022-11-29T16:20:30.940",
+  "lastModified": "2026-01-20T19:16:10.040",
   "created": "2022-11-29T16:12:21.463",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://ibericode.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:linksoftwarellc:html_forms:1.3.7:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "A9459AC6-5B05-47E6-ACF9-E00F78B12432"
     }
   ]
 }

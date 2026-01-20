@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:smartsearchwp:smartsearchwp:2.4.0:*:*:*:*:wordpress:*:*",
   "cpeNameId": "125B3E03-9BFC-48AC-90E2-FD33BB99A12C",
-  "lastModified": "2024-10-09T13:41:21.983",
+  "lastModified": "2026-01-20T18:46:35.110",
   "created": "2024-10-09T13:41:21.983",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.smartsearchwp.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:webdigit:chatbot_with_chatgpt:2.4.0:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "13DF5E15-C66F-4280-BE63-6FAD5765E2D2"
     }
   ]
 }

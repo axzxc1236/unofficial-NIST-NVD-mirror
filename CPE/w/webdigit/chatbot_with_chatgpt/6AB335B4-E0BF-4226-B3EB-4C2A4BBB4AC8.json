@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:webdigit:chatbot_with_chatgpt:1.1.7.1:*:*:*:*:wordpress:*:*",
   "cpeNameId": "6AB335B4-E0BF-4226-B3EB-4C2A4BBB4AC8",
-  "lastModified": "2025-05-21T12:24:33.940",
+  "lastModified": "2026-01-20T18:46:35.110",
   "created": "2025-05-21T12:24:33.940",
   "titles": [
     {
@@ -12,12 +12,14 @@
   ],
   "refs": [
     {
-      "ref": "https://wpscan.com/vulnerability/d48fdab3-669c-4870-a2f9-6c39a7c25fd8/",
-      "type": "Advisory"
-    },
-    {
       "ref": "https://wordpress.org/plugins/smartsearchwp/#developers",
       "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:smartsearchwp:smartsearchwp:1.1.7.1:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "F0E6861C-FE5F-475C-A1A4-B34C4D66715B"
     }
   ]
 }

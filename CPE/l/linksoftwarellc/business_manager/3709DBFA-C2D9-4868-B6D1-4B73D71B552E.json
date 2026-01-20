@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:linksoftwarellc:business_manager:1.0.2:*:*:*:*:wordpress:*:*",
   "cpeNameId": "3709DBFA-C2D9-4868-B6D1-4B73D71B552E",
-  "lastModified": "2021-10-18T15:17:48.253",
+  "lastModified": "2026-01-20T17:18:20.263",
   "created": "2021-10-18T13:26:17.790",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://plugins.trac.wordpress.org/browser/business-manager/#tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:bzmngr:business_manager:1.0.2:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "AA56DE4E-2AA7-4077-AB52-596AFCDEC83E"
     }
   ]
 }
