@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:phpfm_project:phpfilemanager:0.9.0:*:*:*:*:*:*:*",
   "cpeNameId": "843D6001-6940-4F8A-B51F-5525E8B57A1C",
-  "lastModified": "2021-08-10T16:03:47.173",
+  "lastModified": "2026-01-22T14:15:12.527",
   "created": "2021-07-29T16:12:12.100",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://sourceforge.net/projects/phpfm/files/",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:dulldusk:phpfilemanager:0.9.0:*:*:*:*:*:*:*",
+      "cpeNameId": "020F2C7C-0A9F-48E4-9373-52F210D4036F"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:articatech:artica_proxy:4.30.000000:*:*:*:*:*:*:*",
   "cpeNameId": "0277A2F3-EAA7-4C76-BD04-EA8AC45DD7C3",
-  "lastModified": "2022-11-07T19:08:32.887",
+  "lastModified": "2026-01-22T14:59:28.110",
   "created": "2022-08-24T17:27:57.793",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/Fjowel/CVE-2022-37153",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:articatech:artica_proxy:4.30.000000:-:*:*:*:*:*:*",
+      "cpeNameId": "99D1C5AC-35BC-491C-9B6A-C6009E07D959"
     }
   ]
 }

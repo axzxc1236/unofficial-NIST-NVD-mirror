@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:phpfm_project:phpfilemanager:0.9.8:*:*:*:*:*:*:*",
   "cpeNameId": "B6C5265A-3A58-4F05-A6F8-59A6132A0A54",
-  "lastModified": "2021-07-29T16:10:16.420",
+  "lastModified": "2026-01-22T14:15:12.527",
   "created": "2017-09-06T15:04:46.000",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "http://hyp3rlinx.altervista.org/advisories/AS-PHPFILEMANAGER0728.txt",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:dulldusk:phpfilemanager:0.9.8:*:*:*:*:*:*:*",
+      "cpeNameId": "332E227D-79D6-4DBB-84C9-3B36774FDAA9"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:articatech:artica_proxy:4.30.000000:*:*:*:community:*:*:*",
   "cpeNameId": "8F437952-42E8-4A59-9CFC-2F82BB0686F3",
-  "lastModified": "2020-06-29T14:54:28.360",
+  "lastModified": "2026-01-22T14:59:28.110",
   "created": "2020-06-29T14:54:28.360",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/InfoSec4Fun/CVE-2020-13158",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:articatech:artica_proxy:4.30.000000:-:*:*:*:*:*:*",
+      "cpeNameId": "99D1C5AC-35BC-491C-9B6A-C6009E07D959"
     }
   ]
 }
