@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:joomsky:js_help_desk:2.0.6:*:*:*:*:wordpress:*:*",
   "cpeNameId": "E9A01E07-49E3-43DF-BE68-AC273257272E",
-  "lastModified": "2019-09-03T13:18:28.797",
+  "lastModified": "2026-01-23T17:58:06.170",
   "created": "2019-09-03T13:18:28.797",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://wordpress.org/plugins/js-support-ticket/#developers",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:joomsky:js_help_desk:2.0.6:*:*:*:free:wordpress:*:*",
+      "cpeNameId": "F456B2F6-DCD9-4F63-AF9A-F29906FF37A0"
     }
   ]
 }

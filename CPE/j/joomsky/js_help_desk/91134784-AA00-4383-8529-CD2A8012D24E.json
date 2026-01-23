@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:joomsky:js_help_desk:1.1.2:*:*:*:*:wordpress:*:*",
   "cpeNameId": "91134784-AA00-4383-8529-CD2A8012D24E",
-  "lastModified": "2019-09-03T13:18:26.717",
+  "lastModified": "2026-01-23T17:58:06.170",
   "created": "2019-09-03T13:18:26.717",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.joomsky.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:joomsky:js_help_desk:1.1.2:*:*:*:free:wordpress:*:*",
+      "cpeNameId": "5C171882-56F3-4D45-A6D0-A79EFE0BE945"
     }
   ]
 }

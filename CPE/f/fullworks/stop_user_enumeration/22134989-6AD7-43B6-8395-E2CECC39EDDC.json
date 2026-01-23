@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:fullworks:stop_user_enumeration:1.3.12:*:*:*:*:wordpress:*:*",
   "cpeNameId": "22134989-6AD7-43B6-8395-E2CECC39EDDC",
-  "lastModified": "2019-07-24T13:15:49.703",
+  "lastModified": "2026-01-23T19:30:49.850",
   "created": "2019-07-24T13:15:49.703",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://wordpress.org/plugins/stop-user-enumeration/",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:fullworksplugins:stop_user_enumeration:1.3.12:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "01CDCBE3-F45C-489A-B2BA-33CD3ED1FF65"
     }
   ]
 }

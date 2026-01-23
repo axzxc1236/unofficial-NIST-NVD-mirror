@@ -1,13 +1,33 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:fullworks:stop_user_enumeration:1.4.0:*:*:*:*:wordpress:*:*",
   "cpeNameId": "4C025E09-916D-4A27-A251-182F14898A84",
-  "lastModified": "2026-01-05T18:26:09.640",
+  "lastModified": "2026-01-23T19:30:49.850",
   "created": "2026-01-05T18:26:09.640",
   "titles": [
     {
       "title": "Fullworks Stop User Enumeration 1.4.0 for Wordpress",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/stop-user-enumeration/#developers",
+      "type": "Version"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/stop-user-enumeration/",
+      "type": "Project"
+    },
+    {
+      "ref": "https://fullworks.net/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:fullworksplugins:stop_user_enumeration:1.4.0:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "94AF7055-0B79-4E2D-842F-DF25B971EA6B"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:thegreenbow:windows_standard_vpn:6.87:*:*:*:*:*:*:*",
   "cpeNameId": "A0A0E6B6-80D1-4AA9-BE03-C8C2DC9E3104",
-  "lastModified": "2023-12-29T15:15:26.877",
+  "lastModified": "2026-01-23T18:52:12.320",
   "created": "2023-12-29T15:15:26.877",
   "titles": [
     {
@@ -12,12 +12,18 @@
   ],
   "refs": [
     {
-      "ref": "https://www.thegreenbow.com/en/products/endpoint-secure-connection/?product_support=workstation",
-      "type": "Product"
-    },
-    {
       "ref": "https://www.thegreenbow.com/en/support/security-alerts/#deeplink-16093",
       "type": "Advisory"
+    },
+    {
+      "ref": "https://www.thegreenbow.com/en/products/endpoint-secure-connection/?product_support=workstation",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:thegreenbow:thegreenbow_vpn_client:6.87.001:*:*:*:standard:windows:*:*",
+      "cpeNameId": "38F71A2B-E5F5-4233-944A-C3E7BBC7AA6E"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:fullworks:redirect_404_error_page_to_homepage_or_custom_page_with_logs:1.1:*:*:*:*:wordpress:*:*",
   "cpeNameId": "A745A644-3FA6-4E34-BD88-76E78D2AEEA7",
-  "lastModified": "2021-11-11T01:36:31.223",
+  "lastModified": "2026-01-23T19:31:38.080",
   "created": "2021-11-11T01:20:20.083",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://wordpress.org/plugins/redirect-404-error-page-to-homepage-or-custom-page/#developers",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:wpvibes:redirect_404_error_page_to_homepage_or_custom_page_with_logs:1.1:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "96893BD5-4038-457E-A87E-6D8B868ACCCC"
     }
   ]
 }

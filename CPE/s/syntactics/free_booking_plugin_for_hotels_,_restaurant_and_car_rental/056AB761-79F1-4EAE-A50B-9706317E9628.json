@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:syntactics:free_booking_plugin_for_hotels\\,_restaurant_and_car_rental:1.3.1:*:*:*:*:wordpress:*:*",
   "cpeNameId": "056AB761-79F1-4EAE-A50B-9706317E9628",
-  "lastModified": "2025-06-10T12:11:03.300",
+  "lastModified": "2026-01-23T19:32:27.247",
   "created": "2025-06-10T12:11:03.300",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.syntacticsinc.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:syntacticsinc:easync:1.3.1:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "E497D3E3-BE61-4A6D-9A67-9707D04D48EE"
     }
   ]
 }
