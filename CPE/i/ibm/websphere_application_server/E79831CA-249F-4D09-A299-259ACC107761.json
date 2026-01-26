@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "E79831CA-249F-4D09-A299-259ACC107761",
-  "lastModified": "2016-08-15T18:48:24.230",
+  "lastModified": "2026-01-26T15:03:08.577",
   "created": "2016-08-15T18:48:24.230",
   "titles": [
     {
@@ -18,6 +18,20 @@
     {
       "ref": "http://www.ibm.com/us-en/?lnk=m",
       "type": "Vendor"
+    },
+    {
+      "ref": "https://www.ibm.com/support/pages/node/959023",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.ibm.com/support/pages/node/7148426",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.0:*:*:*:-:*:*:*",
+      "cpeNameId": "82D01060-90A9-44D7-9BAC-961D387C6C38"
     }
   ]
 }
