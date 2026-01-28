@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ssziparchive_project:ssziparchive:0.1.0:*:*:*:*:*:*:*",
   "cpeNameId": "535CFBC1-AB39-457D-9038-3D6350C3B3A9",
-  "lastModified": "2023-01-23T15:40:02.270",
+  "lastModified": "2026-01-28T15:51:44.647",
   "created": "2023-01-09T16:14:49.020",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/samsoffes/ssziparchive",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:ziparchive_project:ziparchive:0.1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "F668DE82-426A-402D-B895-142515EB47C1"
     }
   ]
 }
