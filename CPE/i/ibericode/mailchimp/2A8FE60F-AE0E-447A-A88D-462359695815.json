@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ibericode:mailchimp:4.5.3:*:*:*:*:wordpress:*:*",
   "cpeNameId": "2A8FE60F-AE0E-447A-A88D-462359695815",
-  "lastModified": "2019-08-16T14:00:02.040",
+  "lastModified": "2026-01-27T21:00:01.637",
   "created": "2019-08-16T14:00:02.040",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://wordpress.org/plugins/mailchimp-for-wp/#developers",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:ibericode:mailchimp_for_wordpress:4.5.3:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "B42571A4-3FC9-49F8-BE15-6FF67C6E1239"
     }
   ]
 }

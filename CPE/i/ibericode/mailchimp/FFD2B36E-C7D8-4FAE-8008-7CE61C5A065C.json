@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ibericode:mailchimp:4.0.11:*:*:*:*:wordpress:*:*",
   "cpeNameId": "FFD2B36E-C7D8-4FAE-8008-7CE61C5A065C",
-  "lastModified": "2019-08-16T13:59:53.417",
+  "lastModified": "2026-01-27T21:00:01.637",
   "created": "2019-08-16T13:59:53.417",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://ibericode.com",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:ibericode:mailchimp_for_wordpress:4.0.11:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "3063CD65-8E5C-4FC6-9E58-E8965B06A3BF"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ibericode:mailchimp:4.5.5:*:*:*:*:wordpress:*:*",
   "cpeNameId": "8D731074-C79E-4599-A045-B3421F372B54",
-  "lastModified": "2022-11-29T17:04:23.037",
+  "lastModified": "2026-01-27T21:00:01.637",
   "created": "2022-11-29T17:03:25.720",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.mc4wp.com/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:ibericode:mailchimp_for_wordpress:4.5.5:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "C21577A2-9B44-4A91-ACE3-0D328CDDA95E"
     }
   ]
 }
