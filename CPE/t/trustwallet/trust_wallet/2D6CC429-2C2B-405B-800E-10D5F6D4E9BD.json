@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:trustwallet:trust_wallet:3.1.1:*:*:*:*:*:*:*",
   "cpeNameId": "2D6CC429-2C2B-405B-800E-10D5F6D4E9BD",
-  "lastModified": "2023-08-18T17:28:08.040",
+  "lastModified": "2026-01-29T19:19:32.027",
   "created": "2023-05-03T17:24:06.237",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://exchange.xforce.ibmcloud.com/vulnerabilities/253914",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:trustwallet:trust_wallet_core:3.1.1:*:*:*:*:*:*:*",
+      "cpeNameId": "46BB94FF-5D41-4876-A61D-3E2A4D620373"
     }
   ]
 }
