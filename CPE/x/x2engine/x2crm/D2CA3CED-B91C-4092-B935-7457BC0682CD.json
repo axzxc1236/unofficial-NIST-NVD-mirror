@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:x2engine:x2crm:5.4.1:*:*:*:*:*:*:*",
   "cpeNameId": "D2CA3CED-B91C-4092-B935-7457BC0682CD",
-  "lastModified": "2020-09-16T13:00:08.813",
+  "lastModified": "2026-01-30T16:42:00.253",
   "created": "2020-09-16T13:00:08.813",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/X2Engine/X2CRM/releases",
       "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:x2crm:x2crm:5.4.1:*:*:*:*:*:*:*",
+      "cpeNameId": "DA1DA357-2D57-47B3-8F5F-8DE0670DC337"
     }
   ]
 }

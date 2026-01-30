@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:x2crm:x2crm:5.3.1:*:*:*:*:*:*:*",
   "cpeNameId": "88740DB8-6585-4868-B7E8-60C14FFBF45D",
-  "lastModified": "2023-05-24T17:28:29.650",
+  "lastModified": "2026-01-30T16:42:00.253",
   "created": "2023-04-20T12:17:09.017",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://sourceforge.net/projects/x2engine/files/",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:x2engine:x2crm:5.3.1:*:*:*:*:*:*:*",
+      "cpeNameId": "012001AA-A016-4796-92C0-C2D209CFDDF3"
     }
   ]
 }
