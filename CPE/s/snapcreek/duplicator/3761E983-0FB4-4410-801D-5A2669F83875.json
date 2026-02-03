@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:snapcreek:duplicator:1.3.20:*:*:*:lite:wordpress:*:*",
   "cpeNameId": "3761E983-0FB4-4410-801D-5A2669F83875",
-  "lastModified": "2021-10-12T14:22:16.520",
+  "lastModified": "2026-02-02T15:06:20.273",
   "created": "2021-10-12T14:19:46.800",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://snapcreek.com/duplicator/docs/changelog-legacy/",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:awesomemotive:duplicator:1.3.20:*:*:*:lite:wordpress:*:*",
+      "cpeNameId": "6D23E498-435E-4410-B1EC-5F66EA634332"
     }
   ],
   "deprecates": [

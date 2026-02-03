@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:snapcreek:duplicator:3.8.0.2:*:*:*:pro:wordpress:*:*",
   "cpeNameId": "943157E6-1B6C-416C-A4BA-8A1DA092D099",
-  "lastModified": "2019-07-18T12:48:29.797",
+  "lastModified": "2026-02-02T15:06:20.273",
   "created": "2019-07-18T12:48:29.797",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://snapcreek.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:awesomemotive:duplicator:3.8.0.2:*:*:*:pro:wordpress:*:*",
+      "cpeNameId": "3FB2E885-C117-46DA-9B2D-9A0C2817E847"
     }
   ]
 }
