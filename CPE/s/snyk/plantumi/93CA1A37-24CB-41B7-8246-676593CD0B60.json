@@ -1,13 +1,33 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:snyk:plantumi:1.2026.1:*:*:*:*:*:*:*",
   "cpeNameId": "93CA1A37-24CB-41B7-8246-676593CD0B60",
-  "lastModified": "2026-01-23T18:50:10.230",
+  "lastModified": "2026-02-03T14:48:39.893",
   "created": "2026-01-23T18:50:10.230",
   "titles": [
     {
       "title": "Snyk Plantumi 1.2026.1",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://snyk.io/product/open-source-security-management/?--&utm_medium=paid-search&utm_source=google&utm_campaign=dm_goog-ps_aom_240916_amer-brand-bm&utm_content=br_sca&utm_term=snyk%20sca&campaign_id=21901588718&ad_group_id=174027740607&ad_id=755048876345&match_type=b&target=kwd-1443061537886&gad_s",
+      "type": "Product"
+    },
+    {
+      "ref": "https://security.snyk.io/vuln/SNYK-JAVA-NETSOURCEFORGEPLANTUML-14552230",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/plantuml/plantuml/tags?after=v2017.11",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:plantuml:plantuml:1.2026.1:*:*:*:*:*:*:*",
+      "cpeNameId": "A89E907F-4E0A-400E-9FF8-92875339DC53"
     }
   ]
 }
