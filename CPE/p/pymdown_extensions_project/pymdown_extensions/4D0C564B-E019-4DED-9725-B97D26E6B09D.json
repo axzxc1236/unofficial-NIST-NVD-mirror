@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:pymdown_extensions_project:pymdown_extensions:3.4.0:*:*:*:*:*:*:*",
   "cpeNameId": "4D0C564B-E019-4DED-9725-B97D26E6B09D",
-  "lastModified": "2023-05-31T12:17:25.413",
+  "lastModified": "2026-02-03T21:06:43.197",
   "created": "2023-05-23T17:15:56.270",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/facelessuser/pymdown-extensions/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:facelessuser:pymdown_extensions:3.4.0:*:*:*:*:*:*:*",
+      "cpeNameId": "41BF74EF-34BA-4528-9435-AAF3CCAFFBEF"
     }
   ]
 }
