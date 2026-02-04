@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:node-tar_project:node-tar:4.4.4:*:*:*:*:*:*:*",
   "cpeNameId": "F7FAD272-78D3-4FA6-AF09-0AAF43EB1B20",
-  "lastModified": "2019-05-22T19:04:06.727",
+  "lastModified": "2026-02-04T18:31:45.707",
   "created": "2019-05-22T19:04:06.727",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/npm/node-tar/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:isaacs:tar:4.4.4:*:*:*:*:node.js:*:*",
+      "cpeNameId": "785F3171-F7E2-40A2-AAF1-2F7BD85C1EFD"
     }
   ]
 }

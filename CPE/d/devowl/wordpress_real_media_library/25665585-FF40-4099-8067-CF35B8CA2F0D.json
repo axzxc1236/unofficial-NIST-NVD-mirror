@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:devowl:wordpress_real_media_library:4.8.7:*:*:*:*:wordpress:*:*",
   "cpeNameId": "25665585-FF40-4099-8067-CF35B8CA2F0D",
-  "lastModified": "2021-09-02T13:41:17.727",
+  "lastModified": "2026-02-04T19:22:22.867",
   "created": "2021-09-02T13:37:47.310",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://devowlio.gitbook.io/changelogs/plugins/real-media-library",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:devowl:real_media_library:4.8.7:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "824B553A-7842-4F3B-A500-0BF04F395882"
     }
   ]
 }

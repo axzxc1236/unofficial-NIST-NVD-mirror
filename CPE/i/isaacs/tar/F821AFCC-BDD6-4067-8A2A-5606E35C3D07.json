@@ -2,12 +2,36 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:isaacs:tar:2.1.0:*:*:*:*:node.js:*:*",
   "cpeNameId": "F821AFCC-BDD6-4067-8A2A-5606E35C3D07",
-  "lastModified": "2025-12-02T15:53:25.750",
+  "lastModified": "2026-02-04T18:31:45.707",
   "created": "2025-12-02T15:53:25.750",
   "titles": [
     {
       "title": "isaacs tar 2.1.0 for Node.js",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.npmjs.com/package/tar?activeTab=versions",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/isaacs/node-tar/tags",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/isaacs/node-tar",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.npmjs.com/package/tar",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:node-tar_project:node-tar:2.1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "A35B37F7-91BF-4A46-9A50-07E0561C3673"
     }
   ]
 }
