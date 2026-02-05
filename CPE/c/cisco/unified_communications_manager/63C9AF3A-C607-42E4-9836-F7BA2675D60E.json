@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cisco:unified_communications_manager:15.0:*:*:*:*:*:*:*",
   "cpeNameId": "63C9AF3A-C607-42E4-9836-F7BA2675D60E",
-  "lastModified": "2025-01-15T15:21:14.950",
+  "lastModified": "2026-02-05T18:11:21.480",
   "created": "2025-01-15T15:21:14.950",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://github.com/CVEProject/cvelistV5/blob/main/cves/2024/20xxx/CVE-2024-20488.json",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:unified_communications_manager:15.0:*:*:*:-:*:*:*",
+      "cpeNameId": "D732E70A-105C-41DB-8862-8ACD9ED859C5"
     }
   ]
 }

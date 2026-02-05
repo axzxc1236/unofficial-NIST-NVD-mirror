@@ -2,12 +2,32 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:cilium:cilium:1.18.0:-:*:*:*:*:*:*",
   "cpeNameId": "154ABEA5-4B99-4957-BEE4-E2929BB6FA4A",
-  "lastModified": "2025-12-03T20:13:08.990",
+  "lastModified": "2026-02-05T18:11:21.480",
   "created": "2025-12-03T20:13:08.990",
   "titles": [
     {
-      "title": "Cilium 1.18.0 -",
+      "title": "Cilium 1.18.0 ",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://cilium.io/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/cilium/cilium/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/cilium/cilium",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cilium:cilium:1.18.0:*:*:*:*:*:*:*",
+      "cpeNameId": "B6B3C9CD-0867-407F-8000-62C3918411E6"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cisco:unified_communications_manager:12.5:*:*:*:*:*:*:*",
   "cpeNameId": "97D17B07-CBD8-440A-A79F-DEDF423AAF94",
-  "lastModified": "2020-01-15T18:51:37.617",
+  "lastModified": "2026-02-05T18:11:21.480",
   "created": "2020-01-15T18:51:37.617",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.cisco.com/c/en/us/support/unified-communications/unified-communications-manager-callmanager/products-release-notes-list.html",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:unified_communications_manager:12.5:*:*:*:-:*:*:*",
+      "cpeNameId": "EE19A6F3-F00C-4D99-A120-9984A875173D"
     }
   ]
 }
