@@ -2,12 +2,32 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:argoproj:argo_workflows:3.7.0:rc3:*:*:*:go:*:*",
   "cpeNameId": "9DF9CC7E-4A11-4BC4-876A-50078F63C478",
-  "lastModified": "2025-12-16T13:23:14.847",
+  "lastModified": "2026-02-06T20:49:29.827",
   "created": "2025-12-16T13:23:14.847",
   "titles": [
     {
       "title": "Argoproj Argo Workflows 3.7.0 Release Candidate 3 for Go",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/argoproj/argo-workflows/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://pkg.go.dev/github.com/argoproj/argo-workflows/v3?tab=versions",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/argoproj/argo-workflows",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:argo_workflows_project:argo_workflows:3.7.0:rc3:*:*:*:kubernetes:*:*",
+      "cpeNameId": "CDE3C043-182F-4523-9455-723336C92F5A"
     }
   ]
 }

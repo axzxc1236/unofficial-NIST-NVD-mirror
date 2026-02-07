@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:argo_workflows_project:argo_workflows:2.7.2:*:*:*:*:kubernetes:*:*",
   "cpeNameId": "42EE9D1F-A287-4DBC-A13F-55B129D80C17",
-  "lastModified": "2022-05-16T21:13:43.130",
+  "lastModified": "2026-02-06T20:49:29.827",
   "created": "2022-05-16T14:10:35.187",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/argoproj/argo-workflows/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:argoproj:argo_workflows:2.7.2:*:*:*:*:go:*:*",
+      "cpeNameId": "BA7BAD44-A18E-4F43-BC17-5A21A53C64E0"
     }
   ]
 }

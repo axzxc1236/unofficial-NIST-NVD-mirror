@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:argo_workflows_project:argo_workflows:2.7.0:rc4:*:*:*:kubernetes:*:*",
   "cpeNameId": "4B5ABB80-1565-4CBE-A28D-C4D2B3CA3556",
-  "lastModified": "2022-05-16T21:13:43.130",
+  "lastModified": "2026-02-06T20:49:29.827",
   "created": "2022-05-16T14:10:35.187",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/argoproj/argo-workflows/security/advisories/GHSA-cmv8-6362-r5w9",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:argoproj:argo_workflows:2.7.0:rc4:*:*:*:go:*:*",
+      "cpeNameId": "9058342A-7AC5-4C3A-B35B-D95AE4450AE1"
     }
   ]
 }
