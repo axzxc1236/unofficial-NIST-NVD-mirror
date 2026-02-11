@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:azure_hdinsights:-:*:*:*:*:*:*:*",
   "cpeNameId": "7CE2DD77-C50E-4CC8-943B-5CD65BCD58F5",
-  "lastModified": "2023-07-27T18:25:20.450",
+  "lastModified": "2026-02-11T18:49:19.880",
   "created": "2023-03-17T13:06:26.957",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://learn.microsoft.com/en-us/azure/hdinsight/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:azure_hdinsight:-:*:*:*:*:*:*:*",
+      "cpeNameId": "71DAB577-2C74-4E71-B7E3-DA1D27831EFE"
     }
   ]
 }
