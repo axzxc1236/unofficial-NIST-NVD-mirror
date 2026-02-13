@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:remote_desktop:10.3.9:*:*:*:*:macos:*:*",
   "cpeNameId": "E0DF2377-4C34-4F8E-B092-C33B4B56B31E",
-  "lastModified": "2020-05-04T12:44:26.467",
+  "lastModified": "2026-02-12T22:01:59.620",
   "created": "2020-05-04T12:44:26.467",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://apps.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:windows_app:10.3.9:*:*:*:*:macos:*:*",
+      "cpeNameId": "DEFF229D-A536-4F8E-B4D9-F990825863DB"
     }
   ]
 }

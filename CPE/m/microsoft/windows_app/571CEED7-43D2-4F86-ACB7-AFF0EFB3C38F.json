@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:windows_app:10.6.7:*:*:*:*:macos:*:*",
+  "cpeNameId": "571CEED7-43D2-4F86-ACB7-AFF0EFB3C38F",
+  "lastModified": "2026-02-12T22:01:59.620",
+  "created": "2026-02-12T22:01:59.620",
+  "titles": [
+    {
+      "title": "Microsoft Windows App (Remote Desktop) 10.6.7 for MacOS",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://apps.apple.com/us/app/windows-app/id1295203466?mt=12",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://learn.microsoft.com/en-us/windows-app/whats-new?tabs=macos",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:remote_desktop:10.6.7:*:*:*:*:macos:*:*",
+      "cpeNameId": "78348A52-A620-44EC-A5CE-DB417E29E9D5"
+    }
+  ]
+}
