@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:alist_project:alist:3.2.0:*:*:*:*:*:*:*",
   "cpeNameId": "7FF16D9E-2DD9-481B-828A-C2852868FC11",
-  "lastModified": "2022-12-13T02:02:38.080",
+  "lastModified": "2026-02-13T21:18:02.773",
   "created": "2022-12-13T02:01:06.427",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/alist-org/alist/tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:alistgo:alist:3.2.0:*:*:*:*:*:*:*",
+      "cpeNameId": "4C2C14D8-1993-48C3-9E95-78CEE32A40E0"
     }
   ]
 }

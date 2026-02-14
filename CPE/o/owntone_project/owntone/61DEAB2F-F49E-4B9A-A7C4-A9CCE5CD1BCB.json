@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:owntone_project:owntone:22.2:*:*:*:*:*:*:*",
   "cpeNameId": "61DEAB2F-F49E-4B9A-A7C4-A9CCE5CD1BCB",
-  "lastModified": "2021-08-17T23:34:40.617",
+  "lastModified": "2026-02-13T21:04:41.903",
   "created": "2021-08-17T17:40:40.873",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/owntone/owntone-server/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:owntone:owntone_server:22.2:*:*:*:*:*:*:*",
+      "cpeNameId": "420CF4A1-B9B0-494F-8C88-218C237B00BD"
     }
   ]
 }

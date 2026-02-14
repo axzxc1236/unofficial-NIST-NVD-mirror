@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:alist_project:alist:1.0.1:*:*:*:*:*:*:*",
   "cpeNameId": "007A70CF-B1F5-458A-B36F-FA4C20364FB1",
-  "lastModified": "2022-03-17T16:56:02.707",
+  "lastModified": "2026-02-13T21:18:02.773",
   "created": "2022-03-16T17:06:41.770",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/Xhofe/alist/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:alistgo:alist:1.0.1:*:*:*:*:*:*:*",
+      "cpeNameId": "C8FBF10D-F43A-4408-9879-3A326FF21243"
     }
   ]
 }
