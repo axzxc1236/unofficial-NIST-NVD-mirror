@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:atarim:atarim:-:*:*:*:*:wordpress:*:*",
   "cpeNameId": "6E9841F3-A3FB-4929-A990-2D5A2CF748D0",
-  "lastModified": "2023-09-13T13:32:53.800",
+  "lastModified": "2026-02-17T19:24:46.860",
   "created": "2023-09-13T13:32:53.800",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://atarim.io/",
       "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:atarim:visual_website_collaboration\\,_feedback_\\&_project_management:-:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "0E044D43-130B-421B-8F4B-5E2DF7ECB4C8"
     }
   ]
 }
