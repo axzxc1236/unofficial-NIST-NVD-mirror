@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:craftcms:craft_cms:4.10.0:*:*:*:*:*:*:*",
   "cpeNameId": "68849FA7-94C1-42DB-94D0-A0BA0FDD7380",
-  "lastModified": "2025-02-24T13:12:41.460",
+  "lastModified": "2026-02-18T15:33:37.933",
   "created": "2025-02-24T13:12:41.460",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/craftcms/cms",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:craftcms:craft_cms:4.10.0:-:*:*:*:*:*:*",
+      "cpeNameId": "754A0BA2-8A5B-40E3-8536-7C5EC4476717"
     }
   ]
 }

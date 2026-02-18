@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ibm:jazz_reporting_service:6.0.3:*:*:*:*:*:*:*",
   "cpeNameId": "863ED879-4BBB-4BA9-8D3E-1BB46E592DD0",
-  "lastModified": "2019-04-30T18:19:25.933",
+  "lastModified": "2026-02-18T14:02:32.330",
   "created": "2019-04-30T18:19:25.933",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://jazz.net/downloads/jazz-reporting-service/",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:ibm:jazz_reporting_service:6.0.3:-:*:*:*:*:*:*",
+      "cpeNameId": "84C6666A-21E4-4E96-8017-869A87BA7527"
     }
   ]
 }

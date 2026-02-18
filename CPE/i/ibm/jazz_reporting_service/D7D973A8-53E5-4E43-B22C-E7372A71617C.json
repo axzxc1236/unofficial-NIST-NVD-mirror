@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ibm:jazz_reporting_service:6.0.2:*:*:*:*:*:*:*",
   "cpeNameId": "D7D973A8-53E5-4E43-B22C-E7372A71617C",
-  "lastModified": "2016-07-08T16:02:28.697",
+  "lastModified": "2026-02-18T14:02:32.330",
   "created": "2016-07-08T16:02:28.697",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "http://www.ibm.com/us-en/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:ibm:jazz_reporting_service:6.0.2:-:*:*:*:*:*:*",
+      "cpeNameId": "AE6C7AB9-8FCB-4E4B-B55D-D43579B587FC"
     }
   ]
 }

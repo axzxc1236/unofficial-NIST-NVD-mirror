@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ibm:jazz_reporting_service:7.0:*:*:*:*:*:*:*",
   "cpeNameId": "05D71045-01D0-4D69-9FDF-F1B36834E0DD",
-  "lastModified": "2026-02-12T19:01:20.867",
+  "lastModified": "2026-02-18T14:02:32.330",
   "created": "2020-05-29T17:00:59.300",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.ibm.com/support/pages/node/6217403",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:ibm:jazz_reporting_service:7.0:-:*:*:*:*:*:*",
+      "cpeNameId": "45ABEFA6-D71E-4047-A7AA-5534E58C56BB"
     }
   ]
 }
