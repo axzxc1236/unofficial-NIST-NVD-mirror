@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:siemens:simatic_cn_4100:2.7:*:*:*:*:*:*:*",
   "cpeNameId": "BEEBE140-E39B-4500-97B6-FDA22E2FF78A",
-  "lastModified": "2024-04-18T15:19:25.003",
+  "lastModified": "2026-02-18T18:23:36.747",
   "created": "2024-04-18T15:19:25.003",
   "titles": [
     {
@@ -12,12 +12,18 @@
   ],
   "refs": [
     {
-      "ref": "https://support.industry.siemens.com/cs/document/109814144/communication-node-simatic-cn-4100-v2-7?dti=0&lc=en-WW",
-      "type": "Version"
-    },
-    {
       "ref": "http://www.siemens.com/",
       "type": "Vendor"
+    },
+    {
+      "ref": "https://support.industry.siemens.com/cs/document/109814144/communication-node-simatic-cn-4100-v2-7?dti=0&lc=en-WW",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:siemens:simatic_cn_4100_firmware:2.7:*:*:*:*:*:*:*",
+      "cpeNameId": "8ACD61C9-E122-4CAB-B6B9-830D23E5E609"
     }
   ]
 }

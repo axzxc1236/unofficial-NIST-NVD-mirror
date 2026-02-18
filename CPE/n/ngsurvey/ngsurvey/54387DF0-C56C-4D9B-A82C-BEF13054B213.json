@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ngsurvey:ngsurvey:2.4.28:*:*:*:*:*:*:*",
   "cpeNameId": "54387DF0-C56C-4D9B-A82C-BEF13054B213",
-  "lastModified": "2023-08-11T23:44:56.230",
+  "lastModified": "2026-02-18T18:22:01.227",
   "created": "2023-08-07T13:13:38.980",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.ngsurvey.com/home",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:ngsurvey:ngsurvey:2.4.28:*:*:*:-:*:*:*",
+      "cpeNameId": "DF8D111B-F488-458A-851F-176B6613DDD6"
     }
   ]
 }

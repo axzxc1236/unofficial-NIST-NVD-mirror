@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:textpattern:textpattern:4.9.0:*:*:*:*:*:*:*",
   "cpeNameId": "73F20E73-082B-49A2-9D96-C4F2C6A8170E",
-  "lastModified": "2022-09-21T14:20:33.643",
+  "lastModified": "2026-02-18T18:17:51.873",
   "created": "2021-08-21T03:03:12.407",
   "titles": [
     {
@@ -12,12 +12,18 @@
   ],
   "refs": [
     {
-      "ref": "https://github.com/textpattern/textpattern-default-theme/milestone/5",
-      "type": "Version"
-    },
-    {
       "ref": "https://textpattern.com/",
       "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/textpattern/textpattern-default-theme/milestone/5",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:textpattern:textpattern:4.9.0:-:*:*:*:*:*:*",
+      "cpeNameId": "1F79CF70-AED1-40CC-8FDE-070731A6CCFB"
     }
   ]
 }
