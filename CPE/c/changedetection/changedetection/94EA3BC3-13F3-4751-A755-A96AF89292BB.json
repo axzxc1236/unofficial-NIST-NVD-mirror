@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:changedetection:changedetection:0.45.11:*:*:*:*:*:*:*",
   "cpeNameId": "94EA3BC3-13F3-4751-A755-A96AF89292BB",
-  "lastModified": "2024-01-26T16:46:57.417",
+  "lastModified": "2026-02-19T17:44:46.277",
   "created": "2024-01-26T16:46:57.417",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/dgtlmoon/changedetection.io/tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:webtechnologies:changedetection:0.45.11:*:*:*:*:*:*:*",
+      "cpeNameId": "81EBD93A-3B3B-4BF4-A7AE-38E6D7FABB48"
     }
   ]
 }

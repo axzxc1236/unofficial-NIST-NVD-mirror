@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mcms_project:mcms:4.5.4:*:*:*:*:*:*:*",
   "cpeNameId": "E0240568-97F7-4167-85F4-75F4BA3A4350",
-  "lastModified": "2020-04-21T14:52:06.577",
+  "lastModified": "2026-02-19T18:39:55.267",
   "created": "2020-04-21T14:52:06.577",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://gitee.com/mingSoft/MCMS/issues",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:mingsoft:mcms:4.5.4:*:*:*:*:*:*:*",
+      "cpeNameId": "61DF3D65-101D-4F50-BC40-050C8EF513EA"
     }
   ]
 }

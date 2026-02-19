@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:changedetection:changedetection:0.39.1:*:*:*:*:*:*:*",
   "cpeNameId": "74CE8CCB-2857-455F-9ECB-42CF1EEE6F34",
-  "lastModified": "2023-02-27T14:31:58.020",
+  "lastModified": "2026-02-19T17:44:46.277",
   "created": "2023-02-27T11:53:53.050",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://changedetection.io/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:webtechnologies:changedetection:0.39.1:*:*:*:*:*:*:*",
+      "cpeNameId": "5CDBD365-58B5-412E-A4BA-35E4F18CA1CB"
     }
   ]
 }

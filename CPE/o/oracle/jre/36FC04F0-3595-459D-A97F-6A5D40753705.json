@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:oracle:jre:15:*:*:*:*:*:*:*",
   "cpeNameId": "36FC04F0-3595-459D-A97F-6A5D40753705",
-  "lastModified": "2025-07-18T16:44:36.787",
+  "lastModified": "2026-02-19T17:50:17.510",
   "created": "2025-07-18T16:44:36.787",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html",
       "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:oracle:jre:15.0:*:*:*:*:*:*:*",
+      "cpeNameId": "AF9DC6C8-0CCB-49CF-9387-FDC1283C027F"
     }
   ]
 }
