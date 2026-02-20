@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.1.0:*:*:*:*:*:*:*",
   "cpeNameId": "686507CB-E1F6-4A9E-9245-42FDC7BD5A5D",
-  "lastModified": "2022-06-27T18:02:30.883",
+  "lastModified": "2026-02-20T18:38:47.087",
   "created": "2022-06-07T14:27:35.510",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.dell.com/en-ie",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:dell:powerscale_onefs:9.1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "C1D5BEEC-CA95-4E07-AF31-006BB257A505"
     }
   ]
 }

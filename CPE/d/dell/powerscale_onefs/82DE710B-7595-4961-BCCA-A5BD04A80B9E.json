@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:o:dell:powerscale_onefs:9.1.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "82DE710B-7595-4961-BCCA-A5BD04A80B9E",
-  "lastModified": "2022-05-16T03:02:01.230",
+  "lastModified": "2026-02-20T18:38:47.087",
   "created": "2021-08-13T16:28:35.420",
   "titles": [
     {
@@ -18,6 +18,16 @@
     {
       "ref": "https://www.delltechnologies.com/asset/es-es/products/storage/industry-market/h8202-isilon-onefs-wp.pdf",
       "type": "Product"
+    },
+    {
+      "ref": "https://www.dell.com/support/product-details/en-us/product/isilon-onefs/drivers",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.1.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "39330CED-927C-4501-B293-D17839F443A3"
     }
   ]
 }

@@ -1,13 +1,29 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.12.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "2967EE81-676B-43F6-9391-4D7C4A8EFEE1",
-  "lastModified": "2025-10-16T18:12:49.737",
+  "lastModified": "2026-02-20T18:38:47.087",
   "created": "2025-10-16T18:12:49.737",
   "titles": [
     {
       "title": "Dell PowerScale OneFS 9.12.0.0",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.dell.com/support/kbdoc/en-us/000363686/dsa-2025-319-security-update-for-dell-powerscale-onefs-multiple-vulnerabilities?ref=emcadvisory_000363686_Medium_null",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.dell.com/support/product-details/en-us/product/isilon-onefs/overview",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:dell:powerscale_onefs:9.12.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "93B6CD3C-DF7D-475C-BFB1-D86715AF91CC"
     }
   ]
 }

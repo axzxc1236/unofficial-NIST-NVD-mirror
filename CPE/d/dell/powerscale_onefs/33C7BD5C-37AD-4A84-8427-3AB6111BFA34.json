@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.5.0.7:*:*:*:*:*:*:*",
   "cpeNameId": "33C7BD5C-37AD-4A84-8427-3AB6111BFA34",
-  "lastModified": "2025-01-15T13:33:38.693",
+  "lastModified": "2026-02-20T18:38:47.087",
   "created": "2025-01-15T13:33:38.693",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.dell.com/support/kbdoc/en-us/000222691/dsa-2024-062-security-update-for-dell-powerscale-onefs-for-proprietary-code-vulnerabilities",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:dell:powerscale_onefs:9.5.0.7:*:*:*:*:*:*:*",
+      "cpeNameId": "3EC81A8F-D6D4-48DD-A5DC-3947FEDA06A0"
     }
   ]
 }

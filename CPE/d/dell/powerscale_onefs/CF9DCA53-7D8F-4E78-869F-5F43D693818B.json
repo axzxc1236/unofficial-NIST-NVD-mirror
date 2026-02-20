@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.11.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "CF9DCA53-7D8F-4E78-869F-5F43D693818B",
-  "lastModified": "2025-10-16T18:12:49.737",
+  "lastModified": "2026-02-20T18:38:47.087",
   "created": "2025-10-16T18:12:49.737",
   "titles": [
     {
@@ -18,6 +18,24 @@
     {
       "ref": "https://www.dell.com/support/home/en-ie/product-support/product/isilon-onefs/drivers",
       "type": "Version"
+    },
+    {
+      "ref": "https://www.dell.com/support/product-details/en-us/product/isilon-onefs/overview",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.dell.com/support/kbdoc/en-us/000184794/powerscale-onefs-current-patches",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.dell.com/support/kbdoc/en-us/000363686/dsa-2025-319-security-update-for-dell-powerscale-onefs-multiple-vulnerabilities?ref=emcadvisory_000363686_Medium_null",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:dell:powerscale_onefs:9.11.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "0665E037-FD15-46CB-84FE-F4E2957E7EBF"
     }
   ]
 }

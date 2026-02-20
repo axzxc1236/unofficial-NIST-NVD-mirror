@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dell:powerscale_onefs:8.2.0:*:*:*:*:*:*:*",
   "cpeNameId": "0E9F6825-19B5-4C53-AC06-FAB31C028CF6",
-  "lastModified": "2022-07-30T03:52:15.603",
+  "lastModified": "2026-02-20T18:38:47.087",
   "created": "2022-07-08T13:36:38.500",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.dell.com/support/kbdoc/en-us/000200681/dsa-2022-118-dell-emc-powerscale-onefs-security-update?lang=en",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:dell:powerscale_onefs:8.2.0:*:*:*:*:*:*:*",
+      "cpeNameId": "FD5D7E9C-75FF-45A8-A518-3DE091FB1FF3"
     }
   ]
 }

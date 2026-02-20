@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.5.0.6:*:*:*:*:*:*:*",
   "cpeNameId": "8E32212E-9C14-42FA-B1B2-8EE43560EE76",
-  "lastModified": "2023-11-14T18:53:18.690",
+  "lastModified": "2026-02-20T18:38:47.087",
   "created": "2023-11-14T18:53:18.690",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.dell.com/support/kbdoc/en-us/000218934/powerscale-onefs-security-updates-for-multiple-security-vulnerabilities",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:dell:powerscale_onefs:9.5.0.6:*:*:*:*:*:*:*",
+      "cpeNameId": "6C2668B8-24D7-488A-86A1-0665EFCBFE67"
     }
   ]
 }

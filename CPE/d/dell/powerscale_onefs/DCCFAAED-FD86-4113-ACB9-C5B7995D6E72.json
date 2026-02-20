@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.11.0.1:*:*:*:*:*:*:*",
   "cpeNameId": "DCCFAAED-FD86-4113-ACB9-C5B7995D6E72",
-  "lastModified": "2026-02-05T18:11:21.480",
+  "lastModified": "2026-02-20T18:38:47.087",
   "created": "2026-02-05T18:11:21.480",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.dell.com/support/product-details/en-us/product/isilon-onefs/overview",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:dell:powerscale_onefs:9.11.0.1:*:*:*:*:*:*:*",
+      "cpeNameId": "913E95AE-331E-4CC5-A8E1-E6296E2C1413"
     }
   ]
 }

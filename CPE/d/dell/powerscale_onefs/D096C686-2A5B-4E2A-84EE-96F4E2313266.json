@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.10.1.1:*:*:*:*:*:*:*",
   "cpeNameId": "D096C686-2A5B-4E2A-84EE-96F4E2313266",
-  "lastModified": "2025-07-18T19:28:42.367",
+  "lastModified": "2026-02-20T18:38:47.087",
   "created": "2025-07-18T19:28:42.367",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.delltechnologies.com/asset/en-us/products/storage/industry-market/h18031-onefs-prior-release-contents.pdf.external",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:dell:powerscale_onefs:9.10.1.1:*:*:*:*:*:*:*",
+      "cpeNameId": "7DC40642-C6E0-46C4-9033-5DD128BA6B79"
     }
   ]
 }

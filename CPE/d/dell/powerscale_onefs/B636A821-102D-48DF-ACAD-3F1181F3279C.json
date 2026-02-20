@@ -1,13 +1,29 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dell:powerscale_onefs:9.8.0.3:*:*:*:*:*:*:*",
   "cpeNameId": "B636A821-102D-48DF-ACAD-3F1181F3279C",
-  "lastModified": "2025-10-16T18:12:49.737",
+  "lastModified": "2026-02-20T18:38:47.087",
   "created": "2025-10-16T18:12:49.737",
   "titles": [
     {
       "title": "Dell PowerScale OneFS 9.8.0.3",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.dell.com/support/kbdoc/en-us/000184794/powerscale-onefs-current-patches",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.dell.com/support/product-details/en-us/product/isilon-onefs/overview",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:dell:powerscale_onefs:9.8.0.3:*:*:*:*:*:*:*",
+      "cpeNameId": "706A777E-95DA-44BE-9882-5FF8DDDEA1D7"
     }
   ]
 }
