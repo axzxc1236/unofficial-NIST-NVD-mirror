@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:wootsify:sites_library:1.3.4:*:*:*:*:wordpress:*:*",
   "cpeNameId": "A979C5F4-2A4A-423B-9E9E-A61AC011B353",
-  "lastModified": "2024-02-03T01:39:22.613",
+  "lastModified": "2026-02-20T20:05:59.450",
   "created": "2024-02-03T01:39:22.613",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://woostify.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:woostify:sites_library:1.3.4:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "ECDE4C4C-18AF-49C2-9D60-00C448F4D4E2"
     }
   ]
 }
