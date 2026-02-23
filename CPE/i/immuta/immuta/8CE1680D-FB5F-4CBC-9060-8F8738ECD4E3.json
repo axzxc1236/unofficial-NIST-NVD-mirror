@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:immuta:immuta:2.8.2:*:*:*:*:*:*:*",
   "cpeNameId": "8CE1680D-FB5F-4CBC-9060-8F8738ECD4E3",
-  "lastModified": "2021-05-10T17:03:44.773",
+  "lastModified": "2026-02-23T17:45:46.877",
   "created": "2020-11-12T18:17:35.467",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://documentation.immuta.com/2.8/",
       "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:bishopfox:immuta:2.8.2:*:*:*:*:*:*:*",
+      "cpeNameId": "71EDCF81-B605-41DF-84D1-B9D87F2FE5AA"
     }
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:grafana:grafana:10.0.0:preview:*:*:-:*:*:*",
+  "cpeNameId": "D0095CFD-C5CF-4DB4-8BAE-5A010EFD55D7",
+  "lastModified": "2026-02-23T20:03:11.937",
+  "created": "2026-02-23T20:03:11.937",
+  "titles": [
+    {
+      "title": "Grafana 10.0.0 Preview OSS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/grafana/grafana",
+      "type": "Version"
+    },
+    {
+      "ref": "https://grafana.com/grafana/download",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:grafana:grafana:10.0.0:*:*:*:enterprise:*:*:*",
+      "cpeNameId": "02A55A86-12EC-4CB4-ABBF-5E2E643473B3"
+    }
+  ]
+}

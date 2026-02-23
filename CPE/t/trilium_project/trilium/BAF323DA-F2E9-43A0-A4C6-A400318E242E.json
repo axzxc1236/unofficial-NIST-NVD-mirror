@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:trilium_project:trilium:0.33.2:beta:*:*:*:*:*:*",
   "cpeNameId": "BAF323DA-F2E9-43A0-A4C6-A400318E242E",
-  "lastModified": "2022-07-13T17:54:20.397",
+  "lastModified": "2026-02-23T17:58:52.840",
   "created": "2022-07-13T17:01:16.203",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/zadam/trilium/tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:triliumnotes:trilium:0.33.2:beta:*:*:*:*:*:*",
+      "cpeNameId": "F46D8E21-3000-47B1-B7D6-3A5DB4D086F6"
     }
   ]
 }

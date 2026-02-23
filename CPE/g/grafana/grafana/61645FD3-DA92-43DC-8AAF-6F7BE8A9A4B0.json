@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:grafana:grafana:11.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "61645FD3-DA92-43DC-8AAF-6F7BE8A9A4B0",
-  "lastModified": "2025-01-15T19:15:27.340",
+  "lastModified": "2026-02-23T19:55:41.410",
   "created": "2025-01-15T19:15:27.340",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://grafana.com/docs/grafana/latest/whatsnew/whats-new-in-v11-0/",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:grafana:grafana:11.0.0:-:*:*:-:*:*:*",
+      "cpeNameId": "F8677A6A-F887-4112-8828-75AB9880A1DF"
     }
   ]
 }
