@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:grafana:grafana:9.4.1:*:*:*:*:*:*:*",
   "cpeNameId": "0A92FA7E-DA10-421A-9BFA-CFBB3A8F1E37",
-  "lastModified": "2023-04-04T14:56:25.700",
+  "lastModified": "2026-02-23T20:16:55.870",
   "created": "2023-03-24T18:00:13.400",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://grafana.com/security/security-advisories/cve-2023-1410/",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:grafana:grafana:9.4.1:*:*:*:-:*:*:*",
+      "cpeNameId": "6D79E9E9-93F8-4F00-968C-67C2CF778784"
     }
   ]
 }

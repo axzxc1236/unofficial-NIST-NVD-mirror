@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:grafana:grafana:10.4.0:*:*:*:*:*:*:*",
   "cpeNameId": "9DCEA8AB-8C2B-4B73-AA79-D15F9A318909",
-  "lastModified": "2025-01-15T19:15:27.340",
+  "lastModified": "2026-02-23T20:08:26.363",
   "created": "2025-01-15T19:15:27.340",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/grafana/grafana",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:grafana:grafana:10.4.0:*:*:*:-:*:*:*",
+      "cpeNameId": "416573EC-6C6E-4845-B533-B307C620BED2"
     }
   ]
 }

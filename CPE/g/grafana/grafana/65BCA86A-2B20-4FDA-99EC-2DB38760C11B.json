@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:grafana:grafana:9.4.0:*:*:*:enterprise:*:*:*",
   "cpeNameId": "65BCA86A-2B20-4FDA-99EC-2DB38760C11B",
-  "lastModified": "2023-10-25T12:51:23.590",
+  "lastModified": "2026-02-23T20:13:11.643",
   "created": "2023-10-25T12:51:23.590",
   "titles": [
     {
@@ -22,6 +22,16 @@
     {
       "ref": "https://grafana.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:grafana:grafana:9.4.0:beta1:*:*:enterprise:*:*:*",
+      "cpeNameId": "3207086B-9030-4D14-AFAB-09F55F7213B5"
+    },
+    {
+      "cpeName": "cpe:2.3:a:grafana:grafana:9.4.0:-:*:*:enterprise:*:*:*",
+      "cpeNameId": "0D6F4158-E5EB-4100-85C3-CD89AFAE23D4"
     }
   ]
 }

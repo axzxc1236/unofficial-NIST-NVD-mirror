@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:grafana:grafana:10.2.0:*:*:*:*:*:*:*",
   "cpeNameId": "530FC558-B6CA-432F-B331-E8C939CEAEDA",
-  "lastModified": "2025-01-15T19:15:27.340",
+  "lastModified": "2026-02-23T20:08:26.363",
   "created": "2025-01-15T19:15:27.340",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/grafana/grafana/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:grafana:grafana:10.2.0:*:*:*:-:*:*:*",
+      "cpeNameId": "9D22A5A9-1668-4BFE-95E2-3D90833917A9"
     }
   ]
 }

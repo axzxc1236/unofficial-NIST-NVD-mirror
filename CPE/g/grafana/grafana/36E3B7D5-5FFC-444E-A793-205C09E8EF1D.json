@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:grafana:grafana:9.3.13:*:*:*:*:*:*:*",
   "cpeNameId": "36E3B7D5-5FFC-444E-A793-205C09E8EF1D",
-  "lastModified": "2023-07-08T03:19:42.293",
+  "lastModified": "2026-02-23T20:16:55.870",
   "created": "2023-05-03T11:57:57.390",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://grafana.com/security/security-advisories/cve-2023-1387/",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:grafana:grafana:9.3.13:*:*:*:-:*:*:*",
+      "cpeNameId": "3950AC07-394A-47DC-9AD3-F6425D045C0C"
     }
   ]
 }

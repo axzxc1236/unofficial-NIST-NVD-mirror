@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:grafana:grafana:10.3.4:*:*:*:*:*:*:*",
   "cpeNameId": "B57D6928-7CC2-4262-8316-ADFB0FBB1F95",
-  "lastModified": "2025-03-17T11:45:25.070",
+  "lastModified": "2026-02-23T20:08:26.363",
   "created": "2025-03-17T11:45:25.070",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://grafana.com/security/security-advisories/cve-2024-1442/",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:grafana:grafana:10.3.4:*:*:*:-:*:*:*",
+      "cpeNameId": "51DAAC95-80F4-4BFA-8210-E3E829F74F10"
     }
   ]
 }

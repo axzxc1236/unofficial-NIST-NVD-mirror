@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:grafana:grafana:9.0.2:*:*:*:*:*:*:*",
   "cpeNameId": "E7A3327D-E3F9-4714-A9B0-AFF7471EA7AA",
-  "lastModified": "2022-07-20T18:40:44.273",
+  "lastModified": "2026-02-23T20:16:55.870",
   "created": "2022-07-20T15:13:09.500",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/grafana/grafana/security/advisories/GHSA-vw7q-p2qg-4m5f",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:grafana:grafana:9.0.2:*:*:*:-:*:*:*",
+      "cpeNameId": "BABF7051-0150-4269-A698-75E327E491A6"
     }
   ]
 }
