@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:h:zyxel:scr50axe:-:*:*:*:*:*:*:*",
   "cpeNameId": "7167BBE4-8E6E-42D3-96EA-88A1736E708E",
-  "lastModified": "2024-09-10T14:20:56.850",
+  "lastModified": "2026-02-24T19:30:52.253",
   "created": "2024-09-10T14:20:56.850",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-buffer-overflow-vulnerability-in-some-5g-nr-cpe-dsl-ethernet-cpe-fiber-ont-wifi-extender-and-security-router-devices-09-03-2024",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:h:zyxel:scr_50axe:-:*:*:*:*:*:*:*",
+      "cpeNameId": "0E41E558-4D70-4504-AA44-644A92B3C3F8"
     }
   ]
 }

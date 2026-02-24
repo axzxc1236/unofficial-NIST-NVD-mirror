@@ -2,12 +2,24 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:h:zyxel:scr_50axe:-:*:*:*:*:*:*:*",
   "cpeNameId": "0E41E558-4D70-4504-AA44-644A92B3C3F8",
-  "lastModified": "2025-12-09T17:13:02.827",
+  "lastModified": "2026-02-24T19:30:52.253",
   "created": "2025-12-09T17:13:02.827",
   "titles": [
     {
       "title": "Zyxel SCR 50AXE",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-uncontrolled-resource-consumption-and-command-injection-vulnerabilities-in-certain-4g-lte-5g-nr-cpe-dsl-ethernet-cpe-fiber-onts-security-routers-and-wireless-extenders-11-18-2025",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:h:zyxel:scr50axe:-:*:*:*:*:*:*:*",
+      "cpeNameId": "7167BBE4-8E6E-42D3-96EA-88A1736E708E"
     }
   ]
 }
