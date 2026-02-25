@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dokan-dev:dokanfs:0.6.0:*:*:*:*:*:*:*",
   "cpeNameId": "B6F5B73C-E339-4F07-8F5B-1414E88FD95C",
-  "lastModified": "2021-05-28T14:02:02.030",
+  "lastModified": "2026-02-24T21:15:14.150",
   "created": "2019-01-02T12:10:43.300",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://dokan-dev.github.io/dokany-doc/html/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:dokan_project:dokan:0.6.0:*:*:*:*:*:*:*",
+      "cpeNameId": "E19025FF-A23A-4B9D-BA67-9F86A719897A"
     }
   ]
 }

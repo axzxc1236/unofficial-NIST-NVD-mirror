@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:wedevs:dokan:3.7.6:*:*:*:*:wordpress:*:*",
   "cpeNameId": "ECD99FB6-DC5E-4AC5-9D2C-ED7F8055AFFC",
-  "lastModified": "2023-03-03T16:05:27.227",
+  "lastModified": "2026-02-24T21:08:26.287",
   "created": "2022-12-13T11:59:42.800",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://wedevs.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:dokan:dokan:3.7.6:*:*:*:lite:wordpress:*:*",
+      "cpeNameId": "74EF12A1-8123-4BF2-97C9-91A2FC9D19CF"
     }
   ]
 }

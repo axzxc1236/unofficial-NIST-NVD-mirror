@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:dokan:dokan:3.0.3:*:*:*:lite:wordpress:*:*",
   "cpeNameId": "54C59E9A-2860-4838-8105-0E32BE9B72E8",
-  "lastModified": "2025-04-28T12:13:03.767",
+  "lastModified": "2026-02-24T21:08:26.287",
   "created": "2025-04-28T12:13:03.767",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://wordpress.org/plugins/dokan-lite/",
       "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:wedevs:dokan:3.0.3:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "C0C73E0F-91A3-4A66-8201-A0EE27BEFE2E"
     }
   ]
 }
