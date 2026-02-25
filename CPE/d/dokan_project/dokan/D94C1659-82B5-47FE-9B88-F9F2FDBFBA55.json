@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dokan_project:dokan:1.0.4.1000:*:*:*:*:*:*:*",
   "cpeNameId": "D94C1659-82B5-47FE-9B88-F9F2FDBFBA55",
-  "lastModified": "2019-10-28T18:41:55.737",
+  "lastModified": "2026-02-25T15:30:14.823",
   "created": "2019-10-28T18:41:55.737",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/dokan-dev/dokany/blob/master/CHANGELOG.md",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:dokan-dev:dokany:1.0.4.1000:*:*:*:*:*:*:*",
+      "cpeNameId": "662455D9-B8DB-4DC7-8BF6-45578ACD4D7A"
     }
   ]
 }
