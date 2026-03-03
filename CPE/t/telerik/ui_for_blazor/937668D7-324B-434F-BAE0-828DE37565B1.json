@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:telerik:ui_for_blazor:9.1.0:*:*:*:*:*:*:*",
   "cpeNameId": "937668D7-324B-434F-BAE0-828DE37565B1",
-  "lastModified": "2025-07-09T12:26:46.263",
+  "lastModified": "2026-03-03T14:59:57.663",
   "created": "2025-07-09T12:26:46.263",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.telerik.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:progress:telerik_ui_for_blazor:9.1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "278CAFE7-3F7C-4D21-8145-983819E4E0E2"
     }
   ]
 }
