@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:modal_dialog_project:modal_dialog:3.0:*:*:*:*:wordpress:*:*",
   "cpeNameId": "E2D452BC-8BB0-420A-8F5D-9D8CFFE54DB8",
-  "lastModified": "2023-04-11T12:10:37.357",
+  "lastModified": "2026-03-03T18:47:12.063",
   "created": "2023-04-10T17:39:39.087",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://patchstack.com/database/vulnerability/modal-dialog/wordpress-modal-dialog-plugin-3-5-9-cross-site-scripting-xss-vulnerability?_s_id=cve",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:ylefebvre:modal_dialog:3.0:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "91CB1434-C68D-41F1-8AE7-2DB7BA130402"
     }
   ]
 }
