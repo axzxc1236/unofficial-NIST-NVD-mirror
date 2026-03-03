@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:free5gc:smf:1.2.0:*:*:*:*:*:*:*",
   "cpeNameId": "E26CBF23-00EB-4897-A8C3-756D0BE2E803",
-  "lastModified": "2023-12-09T00:30:32.643",
+  "lastModified": "2026-03-02T20:13:10.870",
   "created": "2023-12-09T00:30:32.643",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/free5gc/smf",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:free5gc:smf:1.2.0:*:*:*:*:go:*:*",
+      "cpeNameId": "5E559E22-EE0E-4DC2-9AD9-BB1CAD83056F"
     }
   ]
 }
