@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:wp_visitor_statistics_project:wp_visitor_statistics:5.5:*:*:*:*:wordpress:*:*",
   "cpeNameId": "8EC6417D-FED8-4EA6-B9A1-0F9A4F22B910",
-  "lastModified": "2022-08-04T16:16:10.403",
+  "lastModified": "2026-03-06T19:14:43.850",
   "created": "2022-08-04T16:00:32.070",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://wordpress.org/plugins/wp-stats-manager/#developers",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:codepress:visitor_statistics:5.5:*:*:*:-:wordpress:*:*",
+      "cpeNameId": "F20AC151-6258-424F-A0F8-D242F82ADE57"
     }
   ],
   "deprecates": [
