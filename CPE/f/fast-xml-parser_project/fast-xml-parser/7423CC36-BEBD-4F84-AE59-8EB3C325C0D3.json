@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:fast-xml-parser_project:fast-xml-parser:4.0.0:beta3:*:*:*:node.js:*:*",
   "cpeNameId": "7423CC36-BEBD-4F84-AE59-8EB3C325C0D3",
-  "lastModified": "2023-06-13T17:26:42.353",
+  "lastModified": "2026-03-09T13:32:07.903",
   "created": "2023-06-13T14:40:30.793",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/NaturalIntelligence/fast-xml-parser/tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:naturalintelligence:fast-xml-parser:4.0.0:beta3:*:*:*:*:*:*",
+      "cpeNameId": "9714C5CF-3C83-4921-894F-7D3519E5C7BE"
     }
   ]
 }
