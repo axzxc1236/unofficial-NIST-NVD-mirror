@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:startbooking:scheduling_plugin_-_online_booking:3.5.10:*:*:*:*:wordpress:*:*",
   "cpeNameId": "0F0CE667-81D4-489F-927D-B717BF5B5A98",
-  "lastModified": "2024-08-02T16:13:49.600",
+  "lastModified": "2026-03-10T19:19:01.287",
   "created": "2024-08-02T16:13:49.600",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/calendar-booking/scheduling-plugin-online-booking-for-wordpress-3510-missing-authorization-to-unauthenticated-service-disconnection",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:startbooking:scheduling_plugin:3.5.10:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "A24579B6-90DA-4E0B-92AF-8BDD4AE89366"
     }
   ]
 }
