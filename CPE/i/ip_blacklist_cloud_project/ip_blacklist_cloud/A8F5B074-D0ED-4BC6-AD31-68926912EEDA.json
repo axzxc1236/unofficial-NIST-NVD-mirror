@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ip_blacklist_cloud_project:ip_blacklist_cloud:5.00:*:*:*:*:wordpress:*:*",
   "cpeNameId": "A8F5B074-D0ED-4BC6-AD31-68926912EEDA",
-  "lastModified": "2023-01-27T14:24:48.620",
+  "lastModified": "2026-03-12T12:03:48.530",
   "created": "2023-01-23T16:57:11.040",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://wordpress.org/plugins/ip-blacklist-cloud/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:ad33lx:ip_blacklist_cloud:5.00:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "56A1C3CF-0CC3-4C23-80FA-AF0CA6933FBB"
     }
   ]
 }
