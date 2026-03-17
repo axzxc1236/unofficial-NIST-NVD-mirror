@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:gstreamer:gstreamer:1.10.1:*:*:*:*:*:*:*",
   "cpeNameId": "5E0C66DF-4CCF-4473-83ED-AA292B2E8988",
-  "lastModified": "2021-06-02T18:53:01.283",
+  "lastModified": "2026-03-17T15:52:33.870",
   "created": "2017-01-17T16:46:09.337",
   "titles": [
     {
@@ -12,12 +12,26 @@
   ],
   "refs": [
     {
-      "ref": "https://gstreamer.freedesktop.org/releases/1.10/#1.10.2",
+      "ref": "https://gstreamer.freedesktop.org/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/GStreamer/gstreamer",
       "type": "Version"
     },
     {
-      "ref": "https://gstreamer.freedesktop.org/",
-      "type": "Product"
+      "ref": "https://gstreamer.freedesktop.org/releases/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/GStreamer/gstreamer/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.10.1:*:*:*:*:*:*:*",
+      "cpeNameId": "6ABFABA5-59E3-459D-8669-E2D1D79DE075"
     }
   ]
 }

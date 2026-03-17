@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.24.8:*:*:*:*:*:*:*",
   "cpeNameId": "FB99CF57-6743-42B7-807D-89C558839E43",
-  "lastModified": "2024-11-01T14:00:27.090",
+  "lastModified": "2026-03-17T15:52:33.870",
   "created": "2024-11-01T14:00:27.090",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://gitlab.freedesktop.org/gstreamer/gstreamer/-/tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:gstreamer:gstreamer:1.24.8:*:*:*:*:*:*:*",
+      "cpeNameId": "70B15EB7-B1AE-4C5F-ABE2-8FF2800FA186"
     }
   ]
 }

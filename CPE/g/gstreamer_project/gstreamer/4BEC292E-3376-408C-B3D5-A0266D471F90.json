@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.6.4:*:*:*:*:*:*:*",
   "cpeNameId": "4BEC292E-3376-408C-B3D5-A0266D471F90",
-  "lastModified": "2020-02-24T16:45:32.270",
+  "lastModified": "2026-03-17T15:52:33.870",
   "created": "2020-02-24T16:45:32.270",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://gstreamer.freedesktop.org/releases/1.6/#1.6.4",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:gstreamer:gstreamer:1.6.4:*:*:*:*:*:*:*",
+      "cpeNameId": "9FE073BE-94C5-4C96-9B71-85ADE0475133"
     }
   ],
   "deprecates": [

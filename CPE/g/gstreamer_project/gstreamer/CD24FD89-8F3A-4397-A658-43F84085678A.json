@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.16.0:*:*:*:*:*:*:*",
   "cpeNameId": "CD24FD89-8F3A-4397-A658-43F84085678A",
-  "lastModified": "2019-04-29T16:47:06.667",
+  "lastModified": "2026-03-17T15:52:33.870",
   "created": "2019-04-29T16:47:06.667",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://gstreamer.freedesktop.org/security/sa-2019-0001.html",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:gstreamer:gstreamer:1.16.0:*:*:*:*:*:*:*",
+      "cpeNameId": "0978AE7B-50C8-4671-A515-C55BA469AE14"
     }
   ]
 }

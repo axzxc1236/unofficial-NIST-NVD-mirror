@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gstreamer_project:gstreamer:1.18.1:*:*:*:*:*:*:*",
   "cpeNameId": "E8121EA2-F878-45E8-AD8C-D6FBFAD801D6",
-  "lastModified": "2021-05-07T18:18:21.060",
+  "lastModified": "2026-03-17T15:52:33.870",
   "created": "2021-04-23T17:48:16.993",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://gstreamer.freedesktop.org/security/sa-2021-0002.html",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:gstreamer:gstreamer:1.18.1:*:*:*:*:*:*:*",
+      "cpeNameId": "322DD77C-8CE9-434C-B9C1-3DB4B67F5C44"
     }
   ]
 }

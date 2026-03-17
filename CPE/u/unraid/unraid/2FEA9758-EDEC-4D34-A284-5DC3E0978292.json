@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:unraid:unraid:6.8.0:*:*:*:*:*:*:*",
   "cpeNameId": "2FEA9758-EDEC-4D34-A284-5DC3E0978292",
-  "lastModified": "2020-03-20T18:38:42.123",
+  "lastModified": "2026-03-17T14:10:26.377",
   "created": "2020-03-20T18:38:42.123",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://unraid.net/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:unraid:unraid:6.8.0:*:*:*:*:*:*:*",
+      "cpeNameId": "2A3264CA-83CA-4367-8A6A-2A0B0963486B"
     }
   ]
 }
