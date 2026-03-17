@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:file-type_project:file-type:17.1.0:*:*:*:*:node.js:*:*",
   "cpeNameId": "12268901-21DF-438E-9941-509043650EC4",
-  "lastModified": "2022-07-27T17:31:55.170",
+  "lastModified": "2026-03-17T19:18:04.083",
   "created": "2022-07-27T16:46:43.103",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.npmjs.com/package/file-type",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:sindresorhus:file-type:17.1.0:*:*:*:*:node.js:*:*",
+      "cpeNameId": "7D2855B5-F8BF-4149-8801-D647AABFE387"
     }
   ]
 }
