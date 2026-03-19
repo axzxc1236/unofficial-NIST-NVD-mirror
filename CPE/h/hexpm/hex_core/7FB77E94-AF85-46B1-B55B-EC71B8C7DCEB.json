@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:hexpm:hex_core:0.2.0:*:*:*:*:*:*:*",
   "cpeNameId": "7FB77E94-AF85-46B1-B55B-EC71B8C7DCEB",
-  "lastModified": "2019-02-07T18:23:32.847",
+  "lastModified": "2026-03-19T19:49:20.817",
   "created": "2019-02-07T18:23:32.847",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/hexpm/hex_core/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:hex:hex_core:0.2.0:*:*:*:*:*:*:*",
+      "cpeNameId": "0A45F480-19F0-4370-ACF2-869556B61C5F"
     }
   ]
 }
