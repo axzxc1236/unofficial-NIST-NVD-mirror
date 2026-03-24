@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:minizip_project:minizip:2.5.1:*:*:*:*:*:*:*",
   "cpeNameId": "9E83B850-7ED1-47C6-A95C-AF92C67D7FF8",
-  "lastModified": "2019-02-25T13:28:27.733",
+  "lastModified": "2026-03-24T17:24:33.077",
   "created": "2019-02-25T13:28:27.733",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/nmoinvaz/minizip",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:zlib-ng:minizip-ng:2.5.1:*:*:*:*:*:*:*",
+      "cpeNameId": "A40A0948-6259-4277-87E0-E89E8F1B3576"
     }
   ]
 }
