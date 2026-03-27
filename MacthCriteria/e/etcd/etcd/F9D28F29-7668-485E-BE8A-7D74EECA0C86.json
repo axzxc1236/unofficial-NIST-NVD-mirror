@@ -2,7 +2,7 @@
   "matchCriteriaId": "F9D28F29-7668-485E-BE8A-7D74EECA0C86",
   "criteria": "cpe:2.3:a:etcd:etcd:*:*:*:*:*:*:*:*",
   "versionEndExcluding": "3.4.42",
-  "lastModified": "2026-03-26T16:02:49.467",
+  "lastModified": "2026-03-27T12:24:08.207",
   "cpeLastModified": "2026-03-26T16:02:49.467",
   "created": "2026-03-26T16:02:49.467",
   "status": "Active",
@@ -584,6 +584,26 @@
       "cpeNameId": "6D24A3C3-DB8C-458F-AD98-483187BF94E0"
     },
     {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.2.28:*:*:*:*:*:*:*",
+      "cpeNameId": "81B3860C-A542-414D-A328-8E850404BE29"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.2.29:*:*:*:*:*:*:*",
+      "cpeNameId": "4F23D0CC-05B8-472D-ABAE-E34E1F6C122A"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.2.30:*:*:*:*:*:*:*",
+      "cpeNameId": "12A4C497-932D-4D47-BFF8-E0626C0AF810"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.2.31:*:*:*:*:*:*:*",
+      "cpeNameId": "E275281B-1F6C-4B18-8517-1479A8196288"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.2.32:*:*:*:*:*:*:*",
+      "cpeNameId": "8260A944-B7CF-470F-A9FD-472FE9C7F9C6"
+    },
+    {
       "cpeName": "cpe:2.3:a:etcd:etcd:3.3.0:-:*:*:*:*:*:*",
       "cpeNameId": "726F520F-9169-4BAB-B17C-3227413C50B2"
     },
@@ -706,6 +726,22 @@
     {
       "cpeName": "cpe:2.3:a:etcd:etcd:3.3.23:*:*:*:*:*:*:*",
       "cpeNameId": "948B6A6A-959F-4EEA-ADD0-FFCEC249CA90"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.3.24:*:*:*:*:*:*:*",
+      "cpeNameId": "2526DA3C-720D-4B97-8DE0-265C0D122A61"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.3.25:*:*:*:*:*:*:*",
+      "cpeNameId": "C1CED2EB-DD1B-4520-B1F4-4D34E34CA52C"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.3.26:*:*:*:*:*:*:*",
+      "cpeNameId": "65DB3EE5-82E0-4876-9432-57A183A15075"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.3.27:*:*:*:*:*:*:*",
+      "cpeNameId": "FF108A92-6A7C-4EA7-9977-05FB034CE54F"
     },
     {
       "cpeName": "cpe:2.3:a:etcd:etcd:3.4.0:-:*:*:*:*:*:*",
@@ -834,6 +870,66 @@
     {
       "cpeName": "cpe:2.3:a:etcd:etcd:3.4.26:*:*:*:*:*:*:*",
       "cpeNameId": "6582DD91-85AA-4FD7-9ADB-67D87F71F020"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.4.27:*:*:*:*:*:*:*",
+      "cpeNameId": "39C9E8C1-A154-4134-9667-D6948CCAF978"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.4.28:*:*:*:*:*:*:*",
+      "cpeNameId": "2D9365A9-1837-4E6C-8E5B-133C8C685493"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.4.29:*:*:*:*:*:*:*",
+      "cpeNameId": "EA7887EF-E187-4C38-BD47-1B99B0BCBAE4"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.4.30:*:*:*:*:*:*:*",
+      "cpeNameId": "36D2665F-9414-4B45-A2C8-C03EE7F9E427"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.4.31:*:*:*:*:*:*:*",
+      "cpeNameId": "928E2D8E-BFB0-434F-A5B5-5985AAC7AD3B"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.4.32:*:*:*:*:*:*:*",
+      "cpeNameId": "A59BA362-F298-4D13-B33E-2396E25560B2"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.4.33:*:*:*:*:*:*:*",
+      "cpeNameId": "D71CADF2-1810-472F-B93E-37BB4F042E6F"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.4.34:*:*:*:*:*:*:*",
+      "cpeNameId": "D9D6F24B-A27E-4233-A70D-FF0AAD1D4CAB"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.4.35:*:*:*:*:*:*:*",
+      "cpeNameId": "7ADDC21D-D1CF-4733-BE9E-562A9AE83FE0"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.4.36:*:*:*:*:*:*:*",
+      "cpeNameId": "F319FDFA-0C76-4834-9E2F-3B8E3B1A2CD9"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.4.37:*:*:*:*:*:*:*",
+      "cpeNameId": "8EAE0702-C0F6-4848-8B9E-EBE625D0C6E8"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.4.38:*:*:*:*:*:*:*",
+      "cpeNameId": "B161BEF3-C475-4117-B75A-E707A467D29E"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.4.39:*:*:*:*:*:*:*",
+      "cpeNameId": "116151B0-4407-4803-8463-B2EDCA236E2D"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.4.40:*:*:*:*:*:*:*",
+      "cpeNameId": "3DFC2656-6684-43EC-83D5-0974EDB8FBB4"
+    },
+    {
+      "cpeName": "cpe:2.3:a:etcd:etcd:3.4.41:*:*:*:*:*:*:*",
+      "cpeNameId": "D2220C75-0F2C-4B1B-A6F2-A2427B8E96E2"
     }
   ]
 }
