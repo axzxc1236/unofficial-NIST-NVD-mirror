@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:nats:nats_server:2.7.0:-:*:*:*:*:*:*",
   "cpeNameId": "E5A4DF60-667B-49E0-9824-9F96C2E5DEB5",
-  "lastModified": "2022-02-09T18:06:05.040",
+  "lastModified": "2026-03-30T14:30:00.877",
   "created": "2022-02-09T17:48:52.140",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://advisories.nats.io/CVE/CVE-2022-24450.txt",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:linuxfoundation:nats-server:2.7.0:-:*:*:*:*:*:*",
+      "cpeNameId": "C4D88921-0358-4C20-B690-ECE12DF10B94"
     }
   ]
 }

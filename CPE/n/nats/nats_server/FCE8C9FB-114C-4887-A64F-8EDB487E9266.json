@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:nats:nats_server:2.1.7:*:*:*:*:*:*:*",
   "cpeNameId": "FCE8C9FB-114C-4887-A64F-8EDB487E9266",
-  "lastModified": "2021-04-02T14:44:14.733",
+  "lastModified": "2026-03-30T14:30:00.877",
   "created": "2021-03-17T15:12:00.233",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://advisories.nats.io/CVE/CVE-2021-3127.txt",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:linuxfoundation:nats-server:2.1.7:*:*:*:*:*:*:*",
+      "cpeNameId": "448A1739-D2D1-442E-AA94-056632B601D5"
     }
   ]
 }

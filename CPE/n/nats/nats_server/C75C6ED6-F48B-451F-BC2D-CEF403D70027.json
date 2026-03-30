@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:nats:nats_server:2.8.3:*:*:*:*:*:*:*",
   "cpeNameId": "C75C6ED6-F48B-451F-BC2D-CEF403D70027",
-  "lastModified": "2022-09-28T17:14:16.593",
+  "lastModified": "2026-03-30T14:30:00.877",
   "created": "2022-09-28T17:13:09.563",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/nats-io/nats-server/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:linuxfoundation:nats-server:2.8.3:*:*:*:*:*:*:*",
+      "cpeNameId": "7BB75BC0-BC63-4A85-A4C2-68DFC033E9A9"
     }
   ]
 }

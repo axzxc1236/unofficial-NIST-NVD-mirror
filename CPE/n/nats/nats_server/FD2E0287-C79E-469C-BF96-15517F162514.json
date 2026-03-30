@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:nats:nats_server:2.10.4:*:*:*:*:*:*:*",
   "cpeNameId": "FD2E0287-C79E-469C-BF96-15517F162514",
-  "lastModified": "2024-08-07T12:21:13.387",
+  "lastModified": "2026-03-30T14:30:00.877",
   "created": "2024-08-07T12:21:13.387",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/nats-io/nkeys/security/advisories/GHSA-mr45-rx8q-wcm9",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:linuxfoundation:nats-server:2.10.4:*:*:*:*:*:*:*",
+      "cpeNameId": "BB80D96B-3CDB-4E18-B132-7AEA932171B6"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:linuxfoundation:nats-server:2.1.7:*:*:*:*:*:*:*",
   "cpeNameId": "448A1739-D2D1-442E-AA94-056632B601D5",
-  "lastModified": "2020-11-16T15:26:06.880",
+  "lastModified": "2026-03-30T14:30:00.877",
   "created": "2020-11-16T15:26:06.880",
   "titles": [
     {
-      "title": "Linux Foundation NATS 2.1.7",
+      "title": "Linux Foundation NATS (NATS Server) 2.1.7",
       "lang": "en"
     }
   ],
@@ -22,6 +22,12 @@
     {
       "ref": "https://nats.io/",
       "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nats:nats_server:2.1.7:*:*:*:*:*:*:*",
+      "cpeNameId": "FCE8C9FB-114C-4887-A64F-8EDB487E9266"
     }
   ]
 }
