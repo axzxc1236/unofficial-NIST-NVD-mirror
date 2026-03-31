@@ -1,13 +1,33 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:n8n:n8n:1.120.1:*:*:*:*:node.js:*:*",
   "cpeNameId": "A33E5E9F-177E-4CCA-BE39-DDC6432CE15C",
-  "lastModified": "2025-12-30T20:03:20.950",
+  "lastModified": "2026-03-31T15:37:17.010",
   "created": "2025-12-30T20:03:20.950",
   "titles": [
     {
       "title": "n8n 1.120.1 for Node.js",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/n8n-io/n8n",
+      "type": "Product"
+    },
+    {
+      "ref": "https://n8n.io/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.npmjs.com/package/n8n?activeTab=versions",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:n8n:n8n:1.120.1:*:*:*:community:node.js:*:*",
+      "cpeNameId": "2F90DA47-30E7-400B-AD7C-8D77C9B68331"
     }
   ]
 }

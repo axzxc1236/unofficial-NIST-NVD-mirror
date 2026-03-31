@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:n8n:n8n:2.12.0:*:*:*:*:node.js:*:*",
   "cpeNameId": "E3CFEC08-1369-43EB-8275-50FDDDEB8973",
-  "lastModified": "2026-03-30T20:05:26.323",
+  "lastModified": "2026-03-31T15:37:17.010",
   "created": "2026-03-30T20:05:26.323",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://n8n.io/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:n8n:n8n:2.12.0:*:*:*:community:node.js:*:*",
+      "cpeNameId": "43029163-5D53-46D4-8C21-93C5B1D5AF94"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:n8n:n8n:1.48.1:*:*:*:*:node.js:*:*",
   "cpeNameId": "857135A7-36C0-40ED-A720-B3EF1BCCBC40",
-  "lastModified": "2025-05-05T11:43:53.103",
+  "lastModified": "2026-03-31T15:36:35.317",
   "created": "2025-05-05T11:43:53.103",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://www.npmjs.com/package/n8n",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:n8n:n8n:1.48.1:*:*:*:community:node.js:*:*",
+      "cpeNameId": "9C327AFF-0018-4E8E-A0AC-15CF3A20CD57"
     }
   ]
 }

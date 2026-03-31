@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:n8n:n8n:2.3.5:*:*:*:*:node.js:*:*",
   "cpeNameId": "DF8CE0E8-A46C-4E43-8CAC-86E4B83790BF",
-  "lastModified": "2026-02-05T22:51:58.343",
+  "lastModified": "2026-03-31T15:37:17.010",
   "created": "2026-02-05T22:51:58.343",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://github.com/n8n-io/n8n",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:n8n:n8n:2.3.5:*:*:*:community:node.js:*:*",
+      "cpeNameId": "79A1DA2F-81B8-4D8A-9180-185E5C172799"
     }
   ]
 }
