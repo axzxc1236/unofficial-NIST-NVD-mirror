@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:hyundai:hyundai_firmware:2017:*:*:*:*:*:*:*",
   "cpeNameId": "2C0A4BA2-8EE7-4EF4-89B6-DA93C7E84DDB",
-  "lastModified": "2023-02-17T19:02:16.197",
+  "lastModified": "2026-04-01T19:15:32.313",
   "created": "2022-08-26T14:28:30.603",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://i.blackhat.com/USA-22/Thursday/US-22-Csikor-RollBack-A-New-Time-Agnostic-Replay-Attack.pdf",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:hyundaiusa:hyundai_firmware:2017:*:*:*:*:*:*:*",
+      "cpeNameId": "CC9E5103-4912-4094-A39E-5DCF56358095"
     }
   ]
 }
