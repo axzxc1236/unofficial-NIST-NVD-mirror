@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:aida64:aida64:3.00.2500:*:*:*:*:*:*:*",
   "cpeNameId": "2CF2D126-9F62-48F3-8D9B-36F790E25F4B",
-  "lastModified": "2021-07-22T18:44:58.807",
+  "lastModified": "2026-04-02T12:34:55.590",
   "created": "2021-07-22T16:07:19.930",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.aida64.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:aida64:aida64:3.00.2500:*:*:*:-:*:*:*",
+      "cpeNameId": "0F3EF382-BD19-4A13-B1C4-1FCF616A5CFA"
     }
   ]
 }
