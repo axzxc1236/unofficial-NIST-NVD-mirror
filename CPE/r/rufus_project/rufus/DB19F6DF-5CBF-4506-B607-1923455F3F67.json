@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:rufus_project:rufus:3.4:*:*:*:*:*:*:*",
   "cpeNameId": "DB19F6DF-5CBF-4506-B607-1923455F3F67",
-  "lastModified": "2020-03-09T19:47:38.970",
+  "lastModified": "2026-04-07T13:07:23.397",
   "created": "2020-03-09T19:47:38.970",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/pbatard/rufus",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:akeo:rufus:3.4:*:*:*:*:*:*:*",
+      "cpeNameId": "9B21C4A7-9AD1-44A8-8465-F817EBC3E986"
     }
   ]
 }

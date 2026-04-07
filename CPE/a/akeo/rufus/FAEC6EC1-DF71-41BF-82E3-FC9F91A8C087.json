@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:akeo:rufus:3.7:*:*:*:*:*:*:*",
   "cpeNameId": "FAEC6EC1-DF71-41BF-82E3-FC9F91A8C087",
-  "lastModified": "2026-03-04T18:28:44.120",
+  "lastModified": "2026-04-07T13:07:23.397",
   "created": "2026-03-04T18:28:44.120",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://rufus.akeo.ie/",
       "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:rufus_project:rufus:3.7:*:*:*:*:*:*:*",
+      "cpeNameId": "3CB788CB-53F0-4DD8-AC1E-8DBC214EE959"
     }
   ]
 }

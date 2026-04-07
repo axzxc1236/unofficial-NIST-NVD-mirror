@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:akeo:rufus:1.0.6:*:*:*:*:*:*:*",
   "cpeNameId": "6E0E8391-BD5E-4BBB-857C-A136C348485A",
-  "lastModified": "2019-07-29T15:54:49.807",
+  "lastModified": "2026-04-07T13:07:23.397",
   "created": "2019-07-29T15:54:49.807",
   "titles": [
     {
@@ -16,8 +16,22 @@
       "type": "Change Log"
     },
     {
-      "ref": "https://www.akeo.com/",
+      "ref": "https://github.com/pbatard/rufus",
+      "type": "Product"
+    },
+    {
+      "ref": "https://rufus.akeo.ie/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://akeo.ie/",
       "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:rufus_project:rufus:1.0.6:*:*:*:*:*:*:*",
+      "cpeNameId": "EF4DC2C1-06B4-4EB5-9405-89DBDA11E43D"
     }
   ]
 }
