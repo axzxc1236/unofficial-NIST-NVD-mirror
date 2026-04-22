@@ -1,13 +1,33 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:adobe:connect:2021.3.4:*:*:*:*:windows:*:*",
   "cpeNameId": "480F2AF7-D7E2-4AC8-8D1B-6B8514BB5E22",
-  "lastModified": "2025-09-24T19:37:49.820",
+  "lastModified": "2026-04-22T19:12:44.310",
   "created": "2025-09-24T19:37:49.820",
   "titles": [
     {
       "title": "Adobe Connect 2021.3.4 for Windows",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://helpx.adobe.com/adobe-connect/connect-releasenotes.html",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://helpx.adobe.com/security/products/connect/apsb25-61.html",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://helpx.adobe.com/in/adobe-connect/connect-downloads-updates.html",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:adobe:connect_desktop_application:2021.3.4:*:*:*:*:windows:*:*",
+      "cpeNameId": "BF993569-0CCC-4214-A78A-DB4B98570354"
     }
   ]
 }

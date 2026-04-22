@@ -1,13 +1,33 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:adobe:connect:2023.6.382:*:*:*:*:windows:*:*",
   "cpeNameId": "E9EC29ED-B792-401C-B549-A7FF06860709",
-  "lastModified": "2025-09-24T19:37:49.820",
+  "lastModified": "2026-04-22T19:12:44.310",
   "created": "2025-09-24T19:37:49.820",
   "titles": [
     {
       "title": "Adobe Connect 2023.6.382 for Windows",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://helpx.adobe.com/in/adobe-connect/connect-downloads-updates.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://helpx.adobe.com/adobe-connect/connect-releasenotes.html",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://helpx.adobe.com/security/products/connect/apsb25-61.html",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:adobe:connect_desktop_application:2023.6.382:*:*:*:*:windows:*:*",
+      "cpeNameId": "7ADCCFBE-A2A2-48B8-B4BF-079F54D5D0BE"
     }
   ]
 }

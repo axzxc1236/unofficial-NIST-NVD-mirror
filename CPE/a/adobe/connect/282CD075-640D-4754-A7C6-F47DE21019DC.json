@@ -1,13 +1,33 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:adobe:connect:2025.8.189:*:*:*:*:windows:*:*",
   "cpeNameId": "282CD075-640D-4754-A7C6-F47DE21019DC",
-  "lastModified": "2025-09-24T19:37:49.820",
+  "lastModified": "2026-04-22T19:12:44.310",
   "created": "2025-09-24T19:37:49.820",
   "titles": [
     {
       "title": "Adobe Connect 2025.8.189 for Windows",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://helpx.adobe.com/in/adobe-connect/connect-downloads-updates.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://helpx.adobe.com/adobe-connect/connect-releasenotes.html",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://helpx.adobe.com/security/products/connect/apsb25-61.html",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:adobe:connect_desktop_application:2025.8.189:*:*:*:*:windows:*:*",
+      "cpeNameId": "287F7CB6-041F-48C1-B330-B714E48371F7"
     }
   ]
 }
