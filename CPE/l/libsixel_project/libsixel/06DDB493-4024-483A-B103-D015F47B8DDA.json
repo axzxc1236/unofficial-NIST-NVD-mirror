@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:libsixel_project:libsixel:1.10.1:*:*:*:*:*:*:*",
   "cpeNameId": "06DDB493-4024-483A-B103-D015F47B8DDA",
-  "lastModified": "2022-04-14T16:53:37.070",
+  "lastModified": "2026-04-24T12:59:24.520",
   "created": "2022-04-14T16:43:21.607",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/libsixel/libsixel/tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:libsixel:libsixel:1.10.1:*:*:*:*:*:*:*",
+      "cpeNameId": "2AC66FCE-F430-43D2-8DCE-5AFBD161FEA8"
     }
   ]
 }

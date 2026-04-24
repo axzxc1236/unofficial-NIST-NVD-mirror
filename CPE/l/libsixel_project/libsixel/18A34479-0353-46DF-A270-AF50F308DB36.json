@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:libsixel_project:libsixel:1.7.0:*:*:*:*:*:*:*",
   "cpeNameId": "18A34479-0353-46DF-A270-AF50F308DB36",
-  "lastModified": "2019-04-09T18:03:05.553",
+  "lastModified": "2026-04-24T12:56:58.623",
   "created": "2019-04-09T18:03:05.553",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/saitoha/libsixel/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:saitoha:libsixel:1.7.0:*:*:*:*:*:*:*",
+      "cpeNameId": "B8288D2C-08A0-4166-9966-081733FC3DA5"
     }
   ]
 }
