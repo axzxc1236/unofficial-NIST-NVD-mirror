@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dotnetnuke:dotnetnuke:07.04.00:*:*:*:*:*:*:*",
   "cpeNameId": "D714352A-D6C8-497B-93C5-C94961545745",
-  "lastModified": "2021-05-28T14:02:02.030",
+  "lastModified": "2026-04-24T17:34:37.240",
   "created": "2017-02-08T15:36:25.017",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "http://www.dnnsoftware.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:dnnsoftware:dotnetnuke:7.04.00:*:*:*:*:*:*:*",
+      "cpeNameId": "E40C589E-DCA7-4CFF-9C64-F10DBAAC61C6"
     }
   ]
 }

@@ -2,12 +2,28 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:dnnsoftware:dotnetnuke:7.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "330AC7BE-7FEB-4214-8DBD-34EF3F79D9C7",
-  "lastModified": "2025-10-01T15:49:25.617",
+  "lastModified": "2026-04-24T17:34:37.240",
   "created": "2025-10-01T15:49:25.617",
   "titles": [
     {
       "title": "DNN Software DotNetNuke (DNN) 7.0.0",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.dnnsoftware.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/dnnsoftware/Dnn.Platform",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:dotnetnuke:dotnetnuke:7.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "1CEEA5B5-569F-43DE-9816-B93657C1D16D"
     }
   ]
 }

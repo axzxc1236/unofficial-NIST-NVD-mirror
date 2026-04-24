@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dotnetnuke:dotnetnuke:6.2.0:*:*:*:*:*:*:*",
   "cpeNameId": "C198414E-0BD2-483D-9214-AFF132E21DC9",
-  "lastModified": "2014-03-14T18:33:35.760",
+  "lastModified": "2026-04-24T17:34:37.240",
   "created": "2014-03-13T15:16:33.187",
   "titles": [
     {
@@ -13,6 +13,12 @@
   "refs": [
     {
       "ref": "http://www.dnnsoftware.com/platform/manage/security-center"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:dnnsoftware:dotnetnuke:6.2.0:*:*:*:*:*:*:*",
+      "cpeNameId": "9E0F4076-B171-407F-8D09-F8F278B1A6E7"
     }
   ]
 }
