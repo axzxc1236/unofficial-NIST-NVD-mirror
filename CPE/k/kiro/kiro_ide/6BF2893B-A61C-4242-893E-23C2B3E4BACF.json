@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:kiro:kiro_ide:0.8.135:*:*:*:*:*:*:*",
   "cpeNameId": "6BF2893B-A61C-4242-893E-23C2B3E4BACF",
-  "lastModified": "2026-04-14T12:47:36.480",
+  "lastModified": "2026-04-28T17:48:27.757",
   "created": "2026-04-14T12:47:36.480",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://kiro.dev/changelog/ide/",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:amazon:kiro_ide:0.8.135:*:*:*:*:*:*:*",
+      "cpeNameId": "010830B4-CD82-4E53-9F6E-8E8ECF18CEA0"
     }
   ]
 }

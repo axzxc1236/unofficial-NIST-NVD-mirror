@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:kiro:kiro_cli:2.0:*:*:*:*:*:*:*",
   "cpeNameId": "8ADEB11A-F10B-4E20-BFA9-1C67FB1C5ADF",
-  "lastModified": "2026-04-14T12:47:36.480",
+  "lastModified": "2026-04-28T17:50:42.007",
   "created": "2026-04-14T12:47:36.480",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://kiro.dev/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:amazon:kiro_cli:2.0:*:*:*:*:*:*:*",
+      "cpeNameId": "031BA700-D440-4080-BEC5-BE186EAEC037"
     }
   ]
 }
