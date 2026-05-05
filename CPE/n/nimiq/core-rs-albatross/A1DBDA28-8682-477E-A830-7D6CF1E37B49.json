@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:nimiq:core-rs-albatross:1.0.0:-:*:*:*:rust:*:*",
   "cpeNameId": "A1DBDA28-8682-477E-A830-7D6CF1E37B49",
-  "lastModified": "2026-04-29T15:07:30.587",
+  "lastModified": "2026-05-05T18:17:13.890",
   "created": "2026-04-29T15:07:30.587",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/nimiq/core-rs-albatross/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:nimiq:nimiq_proof-of-stake:1.0.0:-:*:*:*:rust:*:*",
+      "cpeNameId": "AAA33C62-6BEB-4147-BCFB-69C50D0FB24A"
     }
   ]
 }

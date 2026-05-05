@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:nimiq:core-rs-albatross:1.0.0:rc1:*:*:*:rust:*:*",
   "cpeNameId": "FFF377DA-F131-47C4-983B-8CB2EFB5B08B",
-  "lastModified": "2026-04-29T15:06:38.883",
+  "lastModified": "2026-05-05T18:17:13.890",
   "created": "2026-04-29T15:06:38.883",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://github.com/nimiq",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:nimiq:nimiq_proof-of-stake:1.0.0:rc1:*:*:*:rust:*:*",
+      "cpeNameId": "620F62D9-1E90-4665-969A-5E8590B2D791"
     }
   ]
 }

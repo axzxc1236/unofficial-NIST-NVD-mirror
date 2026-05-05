@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:nimiq:nimiq_proof-of-stake:0.11.1:*:*:*:*:rust:*:*",
   "cpeNameId": "347C6BDF-9E5F-4FB6-A47A-B60493F36D80",
-  "lastModified": "2026-04-24T17:12:14.357",
+  "lastModified": "2026-05-05T18:17:13.890",
   "created": "2026-04-24T17:12:14.357",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://www.nimiq.com/albatross/",
       "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nimiq:core-rs-albatross:0.11.1:*:*:*:*:rust:*:*",
+      "cpeNameId": "E5F8E745-3503-4234-B313-2BB5502F87E6"
     }
   ]
 }
