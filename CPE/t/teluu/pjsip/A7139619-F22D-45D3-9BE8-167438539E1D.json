@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:teluu:pjsip:2.16:*:*:*:*:*:*:*",
   "cpeNameId": "A7139619-F22D-45D3-9BE8-167438539E1D",
-  "lastModified": "2026-04-28T16:58:56.620",
+  "lastModified": "2026-05-06T13:28:44.787",
   "created": "2026-04-28T16:58:56.620",
   "titles": [
     {
@@ -12,16 +12,26 @@
   ],
   "refs": [
     {
-      "ref": "http://www.teluu.com/",
-      "type": "Vendor"
-    },
-    {
       "ref": "http://www.pjsip.org/",
       "type": "Product"
     },
     {
       "ref": "https://github.com/pjsip/pjproject/releases",
       "type": "Change Log"
+    },
+    {
+      "ref": "https://www.teluu.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/pjsip/pjproject",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:pjsip:pjsip:2.16:*:*:*:*:*:*:*",
+      "cpeNameId": "E14BA1F8-748B-4A50-A832-F5B6CA1D2FB6"
     }
   ]
 }

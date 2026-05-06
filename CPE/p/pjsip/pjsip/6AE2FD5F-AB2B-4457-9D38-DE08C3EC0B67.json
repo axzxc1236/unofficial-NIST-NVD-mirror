@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:pjsip:pjsip:2.14.1:*:*:*:*:*:*:*",
   "cpeNameId": "6AE2FD5F-AB2B-4457-9D38-DE08C3EC0B67",
-  "lastModified": "2026-02-18T19:16:23.337",
+  "lastModified": "2026-05-06T13:28:44.787",
   "created": "2026-02-18T19:16:23.337",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.pjsip.org/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:teluu:pjsip:2.14.1:*:*:*:*:*:*:*",
+      "cpeNameId": "948532A5-C591-42B6-94B3-7E23D8DB6C2A"
     }
   ]
 }

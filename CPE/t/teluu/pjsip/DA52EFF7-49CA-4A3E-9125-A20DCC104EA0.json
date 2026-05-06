@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:teluu:pjsip:2.1:*:*:*:*:*:*:*",
   "cpeNameId": "DA52EFF7-49CA-4A3E-9125-A20DCC104EA0",
-  "lastModified": "2019-11-26T17:46:15.973",
+  "lastModified": "2026-05-06T13:28:44.787",
   "created": "2019-11-26T17:46:15.973",
   "titles": [
     {
@@ -16,8 +16,18 @@
       "type": "Vendor"
     },
     {
-      "ref": "http://www.pjsip.org/",
-      "type": "Vendor"
+      "ref": "https://github.com/pjsip/pjproject",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/pjsip/pjproject/releases",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:pjsip:pjsip:2.1:*:*:*:*:*:*:*",
+      "cpeNameId": "25AAED22-6247-4426-97A2-E0E1BD6BEB88"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:pjsip:pjsip:0.5.3:*:*:*:*:*:*:*",
   "cpeNameId": "21D8E6DB-AEA5-4D92-BD1A-3B7C396887BE",
-  "lastModified": "2022-04-05T21:33:26.367",
+  "lastModified": "2026-05-06T13:28:44.787",
   "created": "2022-04-05T15:17:39.327",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/pjsip/pjproject/security/advisories/GHSA-5x45-qp78-g4p4",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:teluu:pjsip:0.5.3:*:*:*:*:*:*:*",
+      "cpeNameId": "1FD120FF-62EA-4426-916E-F99F4FD4F855"
     }
   ]
 }
