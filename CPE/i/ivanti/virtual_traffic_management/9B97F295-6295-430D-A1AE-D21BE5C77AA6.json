@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ivanti:virtual_traffic_management:22.2:*:*:*:*:*:*:*",
   "cpeNameId": "9B97F295-6295-430D-A1AE-D21BE5C77AA6",
-  "lastModified": "2024-10-18T12:56:31.030",
+  "lastModified": "2026-05-14T19:36:21.070",
   "created": "2024-10-18T12:56:31.030",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.linkedin.com/pulse/critical-ivanti-virtual-traffic-manager-vulnerability-gczoe/",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:ivanti:virtual_traffic_manager:22.2:*:*:*:*:*:*:*",
+      "cpeNameId": "676DE748-BC2D-47DF-BC53-FAAAD08CE28B"
     }
   ]
 }
