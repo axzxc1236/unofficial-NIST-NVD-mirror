@@ -2,12 +2,28 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:mozilla:firefox:140.3.0:*:*:*:esr:*:*:*",
   "cpeNameId": "008DA674-7EB3-44C6-922E-C8DDBA952200",
-  "lastModified": "2025-11-24T20:40:04.493",
+  "lastModified": "2026-05-14T12:51:52.710",
   "created": "2025-11-24T20:40:04.493",
   "titles": [
     {
       "title": "Mozilla Firefox 140.3.0 ESR (Extended Support Release)",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.firefox.com/en-US/download/all/desktop-esr/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.mozilla.org/en-US/firefox/releases/",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:mozilla:firefox:140.3:*:*:*:esr:*:*:*",
+      "cpeNameId": "22E8707F-15D6-493C-9F13-37430CA98003"
     }
   ]
 }

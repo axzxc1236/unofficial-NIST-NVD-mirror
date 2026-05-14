@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:openjsf:\\@fastify\\/middie:5.1.0:*:*:*:*:fastify:*:*",
   "cpeNameId": "9F3C6B44-65BE-49C2-89AB-03D99EBB53DF",
-  "lastModified": "2026-04-29T18:39:17.897",
+  "lastModified": "2026-05-14T15:41:44.877",
   "created": "2026-04-29T18:39:17.897",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://openjsf.org/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:fastify:fastify\\/middie:5.1.0:*:*:*:*:node.js:*:*",
+      "cpeNameId": "9F045558-ABFD-4C51-82C6-82A448704869"
     }
   ]
 }
