@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:commons_configuration:2.3:*:*:*:*:*:*:*",
   "cpeNameId": "DDA12602-A18C-4E4C-A28C-11BB4B2CB5F4",
-  "lastModified": "2020-03-19T16:37:23.690",
+  "lastModified": "2026-05-15T12:40:54.673",
   "created": "2020-03-19T16:37:23.690",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://home.apache.org/~oheger/configuration-2.1-rc1/dependencies_1_10.html",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:apache:commons_configuration:2.3:-:*:*:*:*:*:*",
+      "cpeNameId": "33898B1E-66FC-429F-A8FB-940BA8C7411F"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:commons_configuration:1.4:*:*:*:*:*:*:*",
   "cpeNameId": "A5D75791-B409-4941-B29D-2B435A0C8E58",
-  "lastModified": "2025-04-21T14:27:00.867",
+  "lastModified": "2026-05-15T12:40:54.673",
   "created": "2025-04-21T14:27:00.867",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://commons.apache.org/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:apache:commons_configuration:1.4:-:*:*:*:*:*:*",
+      "cpeNameId": "7E4027BF-6D55-43FF-972C-C32B2A7106A8"
     }
   ]
 }
