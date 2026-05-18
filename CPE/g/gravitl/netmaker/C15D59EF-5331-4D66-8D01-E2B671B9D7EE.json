@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gravitl:netmaker:0.9.2:*:*:*:*:*:*:*",
   "cpeNameId": "C15D59EF-5331-4D66-8D01-E2B671B9D7EE",
-  "lastModified": "2022-03-11T15:57:05.140",
+  "lastModified": "2026-05-18T16:44:17.500",
   "created": "2022-02-24T18:48:21.747",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://gravitl.com/netmaker",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:netmaker:netmaker:0.9.2:*:*:*:*:*:*:*",
+      "cpeNameId": "96580313-505F-40F7-8E89-00A67D7BECEF"
     }
   ]
 }

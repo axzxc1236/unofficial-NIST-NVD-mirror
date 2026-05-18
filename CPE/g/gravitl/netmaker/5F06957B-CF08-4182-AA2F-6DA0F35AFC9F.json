@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gravitl:netmaker:0.18.7:*:*:*:*:*:*:*",
   "cpeNameId": "5F06957B-CF08-4182-AA2F-6DA0F35AFC9F",
-  "lastModified": "2023-08-30T15:54:05.173",
+  "lastModified": "2026-05-18T16:44:17.500",
   "created": "2023-08-30T13:34:20.777",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.netmaker.io/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:netmaker:netmaker:0.18.7:*:*:*:*:*:*:*",
+      "cpeNameId": "0500EF6F-8280-4C17-8555-A8A547E76E8E"
     }
   ]
 }

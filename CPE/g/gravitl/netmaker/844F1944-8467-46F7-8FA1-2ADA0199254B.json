@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gravitl:netmaker:0.26.0:*:*:*:*:*:*:*",
   "cpeNameId": "844F1944-8467-46F7-8FA1-2ADA0199254B",
-  "lastModified": "2026-03-18T15:02:45.410",
+  "lastModified": "2026-05-18T16:44:17.500",
   "created": "2026-03-18T15:02:45.410",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/gravitl/netmaker/tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:netmaker:netmaker:0.26.0:*:*:*:*:*:*:*",
+      "cpeNameId": "8EF7F3E0-615C-4BE6-AE99-3BF5C7499431"
     }
   ]
 }
