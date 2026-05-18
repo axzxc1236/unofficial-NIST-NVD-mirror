@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:parseplatform:parse-server:6.5.0:-:*:*:*:node.js:*:*",
   "cpeNameId": "4D7DD637-79C8-4CA0-BE0D-307E5466D436",
-  "lastModified": "2026-03-30T17:40:30.223",
+  "lastModified": "2026-05-18T14:07:17.810",
   "created": "2026-03-30T17:40:30.223",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.npmjs.com/package/parse-server",
       "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:parseplatform:parse-server:6.5.0:*:*:*:*:node.js:*:*",
+      "cpeNameId": "1B84CFBB-0D46-4484-ACED-08766B1AEC32"
     }
   ]
 }

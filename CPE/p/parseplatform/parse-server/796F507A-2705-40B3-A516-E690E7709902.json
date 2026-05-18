@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:parseplatform:parse-server:9.5.0:*:*:*:*:node.js:*:*",
   "cpeNameId": "796F507A-2705-40B3-A516-E690E7709902",
-  "lastModified": "2026-03-10T15:45:01.460",
+  "lastModified": "2026-05-18T14:07:17.810",
   "created": "2026-03-10T15:45:01.460",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/parse-community/parse-server/security/advisories/GHSA-x6fw-778m-wr9v",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:parseplatform:parse-server:9.5.0:-:*:*:*:node.js:*:*",
+      "cpeNameId": "D356509A-B950-4A2D-AA0D-ED4457079657"
     }
   ]
 }

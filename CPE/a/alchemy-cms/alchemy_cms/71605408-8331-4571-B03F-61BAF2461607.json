@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:alchemy-cms:alchemy_cms:4.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "71605408-8331-4571-B03F-61BAF2461607",
-  "lastModified": "2018-11-26T13:56:00.677",
+  "lastModified": "2026-05-18T14:03:42.800",
   "created": "2018-11-26T13:56:00.677",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/AlchemyCMS/alchemy_cms/blob/master/CHANGELOG.md",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:alchemy-cms:alchemy_cms:4.0.0:-:*:*:*:*:*:*",
+      "cpeNameId": "EA505A4C-CC5D-4943-B963-245CADD61C07"
     }
   ]
 }

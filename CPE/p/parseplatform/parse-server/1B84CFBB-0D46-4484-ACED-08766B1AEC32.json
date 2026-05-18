@@ -1,13 +1,29 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:parseplatform:parse-server:6.5.0:*:*:*:*:node.js:*:*",
   "cpeNameId": "1B84CFBB-0D46-4484-ACED-08766B1AEC32",
-  "lastModified": "2025-12-08T13:09:17.190",
+  "lastModified": "2026-05-18T14:07:17.810",
   "created": "2025-12-08T13:09:17.190",
   "titles": [
     {
       "title": "Parse Platform parse-server Parse-server 6.5.0 for Node.js",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/parse-community/parse-server/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.npmjs.com/package/parse-server",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:parseplatform:parse-server:6.5.0:-:*:*:*:node.js:*:*",
+      "cpeNameId": "4D7DD637-79C8-4CA0-BE0D-307E5466D436"
     }
   ]
 }
