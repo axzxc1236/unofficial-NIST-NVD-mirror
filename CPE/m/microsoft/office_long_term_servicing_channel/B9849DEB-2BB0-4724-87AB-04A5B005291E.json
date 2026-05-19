@@ -1,12 +1,12 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:office_long_term_servicing_channel:2021:*:*:*:*:*:x64:*",
   "cpeNameId": "B9849DEB-2BB0-4724-87AB-04A5B005291E",
-  "lastModified": "2022-06-22T16:42:38.240",
+  "lastModified": "2026-05-19T19:26:52.047",
   "created": "2022-02-10T15:03:33.643",
   "titles": [
     {
-      "title": "Microsoft Office Long Term Servicing Channel 2021 on X64",
+      "title": "Microsoft Office Long Term Servicing Channel (LTSC) 2021 on X64",
       "lang": "en"
     }
   ],
@@ -18,6 +18,18 @@
     {
       "ref": "https://www.microsoft.com/en-us/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:office_2021:-:*:*:*:ltsc:-:x64:*",
+      "cpeNameId": "5295A573-E5B6-4D7C-AD54-C130FD7526C6"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:office:2021:*:*:*:ltsc:*:x64:*",
+      "cpeNameId": "153061F4-6EF5-4E73-AC64-CC47E1CEF755"
     }
   ]
 }

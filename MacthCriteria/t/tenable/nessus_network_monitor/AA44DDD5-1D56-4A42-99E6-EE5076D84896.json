@@ -2,11 +2,15 @@
   "matchCriteriaId": "AA44DDD5-1D56-4A42-99E6-EE5076D84896",
   "criteria": "cpe:2.3:a:tenable:nessus_network_monitor:*:*:*:*:*:*:*:*",
   "versionEndExcluding": "6.5.1",
-  "lastModified": "2025-10-15T14:45:47.493",
+  "lastModified": "2026-05-19T17:56:17.250",
   "cpeLastModified": "2025-10-15T14:45:47.493",
   "created": "2025-10-15T14:45:47.493",
   "status": "Active",
   "matches": [
+    {
+      "cpeName": "cpe:2.3:a:tenable:nessus_network_monitor:-:*:*:*:*:*:*:*",
+      "cpeNameId": "752BF96E-8554-44F0-AEBE-4386AFB0EAF0"
+    },
     {
       "cpeName": "cpe:2.3:a:tenable:nessus_network_monitor:5.4:*:*:*:*:*:*:*",
       "cpeNameId": "CB3864F7-DD21-4CF1-A25D-29FD661AFBAB"
@@ -98,6 +102,10 @@
     {
       "cpeName": "cpe:2.3:a:tenable:nessus_network_monitor:5.13.1:*:*:*:*:*:*:*",
       "cpeNameId": "E05763AF-5227-402A-B0B5-557B459BD08F"
+    },
+    {
+      "cpeName": "cpe:2.3:a:tenable:nessus_network_monitor:6.5.0:*:*:*:*:*:*:*",
+      "cpeNameId": "DB1CE6B7-DC80-40D5-92AF-1BCA7E599055"
     }
   ]
 }

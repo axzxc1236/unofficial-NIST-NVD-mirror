@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:office_long_term_servicing_channel:2021:*:*:*:*:*:*:*",
   "cpeNameId": "CC62CDB8-848F-4816-B1CE-71BE4EEB5723",
-  "lastModified": "2021-12-13T19:29:36.160",
+  "lastModified": "2026-05-19T19:28:34.810",
   "created": "2021-10-14T12:43:57.323",
   "titles": [
     {
@@ -22,6 +22,22 @@
     {
       "ref": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-40471",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:office_2021:-:*:*:*:ltsc:-:x64:*",
+      "cpeNameId": "5295A573-E5B6-4D7C-AD54-C130FD7526C6"
+    },
+    {
+      "cpeName": "cpe:2.3:a:microsoft:office_2021:-:*:*:*:ltsc:-:x86:*",
+      "cpeNameId": "632FEF35-D9DB-4066-BCF0-B04EF113B5B5"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:office:2021:*:*:*:ltsc:*:*:*",
+      "cpeNameId": "1855C51D-0DFA-48F3-81D2-6506C2692685"
     }
   ]
 }

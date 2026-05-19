@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:office_long_term_servicing_channel:2021:*:*:*:*:*:x86:*",
   "cpeNameId": "205848F8-3E3E-4F61-9BE5-91DFA8791C85",
-  "lastModified": "2022-11-27T13:33:47.497",
+  "lastModified": "2026-05-19T19:26:52.047",
   "created": "2022-07-20T09:51:46.647",
   "titles": [
     {
@@ -14,6 +14,18 @@
     {
       "ref": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-33632",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:office_2021:-:*:*:*:ltsc:-:x86:*",
+      "cpeNameId": "632FEF35-D9DB-4066-BCF0-B04EF113B5B5"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:office:2021:*:*:*:ltsc:*:x86:*",
+      "cpeNameId": "50C79BCE-B6E4-4E9B-B9FD-E22ED9A1E608"
     }
   ]
 }

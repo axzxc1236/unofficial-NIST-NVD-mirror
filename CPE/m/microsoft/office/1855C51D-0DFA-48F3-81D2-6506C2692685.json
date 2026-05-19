@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:office:2021:*:*:*:ltsc:*:*:*",
   "cpeNameId": "1855C51D-0DFA-48F3-81D2-6506C2692685",
-  "lastModified": "2023-08-25T07:22:33.470",
+  "lastModified": "2026-05-19T18:38:59.530",
   "created": "2022-03-10T20:59:29.190",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.microsoft.com/en-us/microsoft-365/p/excel-mobile/9wzdncrfjbh3",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:office_long_term_servicing_channel:2021:*:*:*:*:*:*:*",
+      "cpeNameId": "CC62CDB8-848F-4816-B1CE-71BE4EEB5723"
     }
   ]
 }

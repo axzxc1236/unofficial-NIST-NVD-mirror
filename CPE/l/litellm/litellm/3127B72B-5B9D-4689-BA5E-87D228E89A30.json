@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:litellm:litellm:1.78.5-:stable_patch_1:*:*:*:*:*:*",
   "cpeNameId": "3127B72B-5B9D-4689-BA5E-87D228E89A30",
-  "lastModified": "2026-04-20T18:50:03.277",
+  "lastModified": "2026-05-19T18:03:15.007",
   "created": "2026-04-20T18:50:03.277",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/BerriAI/litellm/tags",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:litellm:litellm:1.78.5:stable_patch_1:*:*:*:*:*:*",
+      "cpeNameId": "D0EDE1B8-D723-4E27-9294-90F58D243719"
     }
   ]
 }

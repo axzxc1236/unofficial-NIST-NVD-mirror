@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:*:x64:*",
   "cpeNameId": "6719058C-C5DB-46DB-B7DB-740EC4364A7A",
-  "lastModified": "2018-03-14T17:57:42.910",
+  "lastModified": "2026-05-19T18:38:59.530",
   "created": "2018-03-14T17:57:42.910",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.microsoft.com/en-us/store/b/office?icid=TopNavSoftwareOffice&activetab=tab%3ahomeorpersonal",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:office_2016:-:*:*:*:click-to-run:*:x64:*",
+      "cpeNameId": "B65C872B-B187-4D89-83AF-7857AEC16838"
     }
   ]
 }
