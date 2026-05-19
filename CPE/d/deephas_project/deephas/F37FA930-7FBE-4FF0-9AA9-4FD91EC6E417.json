@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:deephas_project:deephas:1.0.7:*:*:*:*:node.js:*:*",
   "cpeNameId": "F37FA930-7FBE-4FF0-9AA9-4FD91EC6E417",
-  "lastModified": "2020-11-24T00:18:42.653",
+  "lastModified": "2026-05-19T13:37:22.430",
   "created": "2020-11-24T00:18:42.653",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.npmjs.com/package/deephas",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:sharpred:deephas:1.0.7:*:*:*:*:node.js:*:*",
+      "cpeNameId": "7D32B7AB-B3D8-476B-B275-56E3B88852AA"
     }
   ]
 }
