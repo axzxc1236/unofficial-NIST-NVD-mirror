@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:vllm:vllm:0.5.0:*:*:*:*:*:*:*",
   "cpeNameId": "592188B7-C1FA-4C33-A6F4-2AE3781C4C35",
-  "lastModified": "2025-05-13T12:23:48.327",
+  "lastModified": "2026-05-20T14:30:35.770",
   "created": "2025-05-13T12:23:48.327",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/vllm-project/vllm/security/advisories/GHSA-9f8f-2vmf-885j",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:vllm:vllm:0.5.0:-:*:*:*:*:*:*",
+      "cpeNameId": "1BBEF0AD-126C-4FF3-A973-22094A512CB2"
     }
   ]
 }

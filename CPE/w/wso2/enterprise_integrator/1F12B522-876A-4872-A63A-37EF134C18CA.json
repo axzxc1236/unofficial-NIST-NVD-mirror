@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:wso2:enterprise_integrator:6.3.0:*:*:*:*:*:*:*",
   "cpeNameId": "1F12B522-876A-4872-A63A-37EF134C18CA",
-  "lastModified": "2021-06-17T17:29:45.357",
+  "lastModified": "2026-05-20T15:04:08.267",
   "created": "2020-08-24T14:08:27.660",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://docs.wso2.com/display/Security/Security+Advisory+WSO2-2020-0728",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:wso2:enterprise_integrator:6.3.0:-:*:*:*:*:*:*",
+      "cpeNameId": "C32A84FD-CC2C-4BA2-8230-E32277831DB6"
     }
   ]
 }
