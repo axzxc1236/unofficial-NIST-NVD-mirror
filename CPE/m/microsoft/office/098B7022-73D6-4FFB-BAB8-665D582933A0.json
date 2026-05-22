@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:office:16.0.19426.20044:*:*:*:*:android:*:*",
   "cpeNameId": "098B7022-73D6-4FFB-BAB8-665D582933A0",
-  "lastModified": "2026-05-19T19:04:24.533",
+  "lastModified": "2026-05-22T14:49:53.277",
   "created": "2026-05-19T19:04:24.533",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62199",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:365_copilot:16.0.19426.20044:*:*:*:*:android:*:*",
+      "cpeNameId": "47CB6CD9-DE7C-4C1F-B895-46387410A072"
     }
   ]
 }

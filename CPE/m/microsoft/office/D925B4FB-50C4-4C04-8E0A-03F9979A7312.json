@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:office:-:*:*:*:*:android:*:*",
   "cpeNameId": "D925B4FB-50C4-4C04-8E0A-03F9979A7312",
-  "lastModified": "2023-07-27T18:25:20.450",
+  "lastModified": "2026-05-22T14:49:53.277",
   "created": "2023-02-22T17:21:47.447",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:365_copilot:-:*:*:*:*:android:*:*",
+      "cpeNameId": "ED86808E-F01D-4480-BBCE-7B2DB3239A60"
     }
   ]
 }
