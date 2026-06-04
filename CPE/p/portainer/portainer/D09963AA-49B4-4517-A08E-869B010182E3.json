@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:portainer:portainer:2.24.1:*:*:*:*:*:*:*",
   "cpeNameId": "D09963AA-49B4-4517-A08E-869B010182E3",
-  "lastModified": "2025-05-21T12:03:37.183",
+  "lastModified": "2026-06-04T13:32:51.950",
   "created": "2025-05-21T12:03:37.183",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/portainer/portainer/tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:portainer:portainer:2.24.1:*:*:*:community:*:*:*",
+      "cpeNameId": "3E6212E5-5197-4882-AF81-8412F7CA8DB2"
     }
   ]
 }

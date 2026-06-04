@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:portainer:portainer:2.6.1:*:*:*:*:*:*:*",
   "cpeNameId": "1BD85218-8DE8-4600-BE08-404D97E0A5C0",
-  "lastModified": "2021-09-30T18:38:44.907",
+  "lastModified": "2026-06-04T13:32:51.950",
   "created": "2021-09-30T18:29:08.823",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/portainer/portainer/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:portainer:portainer:2.6.1:*:*:*:community:*:*:*",
+      "cpeNameId": "FBAC28AF-C11B-4DF6-8DD3-736A129A2BFD"
     }
   ]
 }
