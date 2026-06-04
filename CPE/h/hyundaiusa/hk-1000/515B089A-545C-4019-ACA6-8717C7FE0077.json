@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:h:hyundaiusa:hk-1000:-:*:*:*:*:*:*:*",
   "cpeNameId": "515B089A-545C-4019-ACA6-8717C7FE0077",
-  "lastModified": "2026-04-01T19:15:32.313",
+  "lastModified": "2026-06-04T18:59:35.770",
   "created": "2026-04-01T19:15:32.313",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "http://hd-kasse.com/en/kasse_about01.php",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:h:hyundai-pay:kasse_hk-1000:-:*:*:*:*:*:*:*",
+      "cpeNameId": "116EE29D-6BC6-4A0A-8512-5EE605BC2D5A"
     }
   ],
   "deprecates": [

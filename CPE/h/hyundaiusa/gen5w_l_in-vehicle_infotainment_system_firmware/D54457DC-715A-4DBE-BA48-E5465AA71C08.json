@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:hyundaiusa:gen5w_l_in-vehicle_infotainment_system_firmware:ae_e_pe_eur.s5w_l001.001.211214:*:*:*:*:*:*:*",
   "cpeNameId": "D54457DC-715A-4DBE-BA48-E5465AA71C08",
-  "lastModified": "2026-04-01T19:15:32.313",
+  "lastModified": "2026-06-04T18:30:25.940",
   "created": "2026-04-01T19:15:32.313",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://sowhat.iit.cnr.it:8443/can-work/chimaera",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:hyundai:gen5w_l_firmware:ae_e_pe_eur.s5w_l001.001.211214:*:*:*:*:*:*:*",
+      "cpeNameId": "AC0DF9CA-9480-4659-8C87-ED8A07EE43AC"
     }
   ],
   "deprecates": [
