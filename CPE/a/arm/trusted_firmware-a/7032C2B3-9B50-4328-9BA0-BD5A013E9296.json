@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:arm:trusted_firmware-a:2.8.2:*:*:*:lts:*:*:*",
   "cpeNameId": "7032C2B3-9B50-4328-9BA0-BD5A013E9296",
-  "lastModified": "2024-12-17T13:59:55.807",
+  "lastModified": "2026-06-05T20:04:27.637",
   "created": "2024-12-17T13:59:55.807",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/ARM-software/arm-trusted-firmware",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:trustedfirmware:trusted_firmware-a:2.8.2:*:*:*:lts:*:*:*",
+      "cpeNameId": "E90D0C38-05AE-493A-B7B8-76ACC24B42EC"
     }
   ]
 }

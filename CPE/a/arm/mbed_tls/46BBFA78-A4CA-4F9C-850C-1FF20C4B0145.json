@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:arm:mbed_tls:2.16.10:-:*:*:*:*:*:*",
   "cpeNameId": "46BBFA78-A4CA-4F9C-850C-1FF20C4B0145",
-  "lastModified": "2021-04-07T17:51:44.353",
+  "lastModified": "2026-06-05T19:38:32.047",
   "created": "2021-03-19T13:32:00.710",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://tls.mbed.org/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:trustedfirmware:mbed_tls:2.16.10:-:*:*:*:*:*:*",
+      "cpeNameId": "CE96DAB4-C9AE-4F4C-AA89-2D2116D8B7D7"
     }
   ]
 }

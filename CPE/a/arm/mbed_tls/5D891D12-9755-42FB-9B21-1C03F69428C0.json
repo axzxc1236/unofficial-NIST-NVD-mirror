@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:arm:mbed_tls:-:*:*:*:*:*:*:*",
   "cpeNameId": "5D891D12-9755-42FB-9B21-1C03F69428C0",
-  "lastModified": "2022-07-25T14:00:58.427",
+  "lastModified": "2026-06-05T19:38:32.047",
   "created": "2022-07-20T16:17:26.263",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://mbed-tls.readthedocs.io/en/latest/security-advisories/advisories/mbedtls-security-advisory-2022-07.html",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:trustedfirmware:mbed_tls:-:*:*:*:*:*:*:*",
+      "cpeNameId": "453A781D-74D5-4FB5-9BB6-8C1F7F281A7A"
     }
   ]
 }

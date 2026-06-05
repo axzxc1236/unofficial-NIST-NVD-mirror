@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:trustedfirmware:mbed_tls:-:*:*:*:*:*:*:*",
+  "cpeNameId": "453A781D-74D5-4FB5-9BB6-8C1F7F281A7A",
+  "lastModified": "2026-06-05T19:38:32.047",
+  "created": "2026-06-05T19:38:32.047",
+  "titles": [
+    {
+      "title": "Trusted Firmware Mbed TLS",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.trustedfirmware.org/projects/mbed-tls",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/Mbed-TLS/mbedtls/releases",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:arm:mbed_tls:-:*:*:*:*:*:*:*",
+      "cpeNameId": "5D891D12-9755-42FB-9B21-1C03F69428C0"
+    }
+  ]
+}

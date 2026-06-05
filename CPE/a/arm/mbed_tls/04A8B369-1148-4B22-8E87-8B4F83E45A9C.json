@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:arm:mbed_tls:2.7.15:*:*:*:*:*:*:*",
   "cpeNameId": "04A8B369-1148-4B22-8E87-8B4F83E45A9C",
-  "lastModified": "2020-04-16T18:29:52.277",
+  "lastModified": "2026-06-05T19:38:32.047",
   "created": "2020-04-16T18:29:52.277",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/ARMmbed/mbedtls/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:trustedfirmware:mbed_tls:2.7.15:*:*:*:*:*:*:*",
+      "cpeNameId": "E7EDC3FB-E8E5-4554-B66E-297869D4D7E3"
     }
   ],
   "deprecates": [

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:arm:mbed_tls:3.5.2:*:*:*:*:*:*:*",
   "cpeNameId": "F1B00E48-1816-4462-AA27-57EA983387FC",
-  "lastModified": "2024-02-03T01:39:22.613",
+  "lastModified": "2026-06-05T19:38:32.047",
   "created": "2024-02-03T01:39:22.613",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/Mbed-TLS/mbedtls/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:trustedfirmware:mbed_tls:3.5.2:*:*:*:*:*:*:*",
+      "cpeNameId": "A8909772-86CE-4086-8A97-D471CE18A2AE"
     }
   ]
 }

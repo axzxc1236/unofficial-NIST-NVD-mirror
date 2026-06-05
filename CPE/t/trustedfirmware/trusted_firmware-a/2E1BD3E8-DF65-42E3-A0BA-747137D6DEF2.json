@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:trustedfirmware:trusted_firmware-a:-:*:*:*:-:*:*:*",
+  "cpeNameId": "2E1BD3E8-DF65-42E3-A0BA-747137D6DEF2",
+  "lastModified": "2026-06-05T20:04:27.637",
+  "created": "2026-06-05T20:04:27.637",
+  "titles": [
+    {
+      "title": "Trusted Firmware-A (TF-A)",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.trustedfirmware.org/projects/tf-a",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/TrustedFirmware-A/trusted-firmware-a",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/TrustedFirmware-A/trusted-firmware-a/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:arm:trusted_firmware-a:-:*:*:*:-:*:*:*",
+      "cpeNameId": "FE253341-269F-498F-BF72-175267210E03"
+    }
+  ]
+}

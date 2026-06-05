@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:linaro:tf-psa-crypto:1.1.0:*:*:*:*:*:*:*",
   "cpeNameId": "62456C73-125A-48AE-9AC5-67C66408D7CE",
-  "lastModified": "2026-06-01T17:01:44.180",
+  "lastModified": "2026-06-05T19:40:20.693",
   "created": "2026-06-01T17:01:44.180",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://www.linaro.org/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:trustedfirmware:tf-psa-crypto:1.1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "ABEA83AD-F010-4CA5-B2F6-79224FDAD2BA"
     }
   ]
 }

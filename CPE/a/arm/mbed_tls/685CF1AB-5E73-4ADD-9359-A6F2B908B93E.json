@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:arm:mbed_tls:2.6.1:rc1:*:*:*:*:*:*",
   "cpeNameId": "685CF1AB-5E73-4ADD-9359-A6F2B908B93E",
-  "lastModified": "2018-07-26T17:19:01.407",
+  "lastModified": "2026-06-05T19:38:32.047",
   "created": "2018-07-26T17:19:01.407",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.arm.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:trustedfirmware:mbed_tls:2.6.1:rc1:*:*:*:*:*:*",
+      "cpeNameId": "949FA02D-DD60-4D0A-9E4A-35223AD92B03"
     }
   ]
 }

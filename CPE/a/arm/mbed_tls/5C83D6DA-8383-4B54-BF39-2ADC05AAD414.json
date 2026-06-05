@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:arm:mbed_tls:2.16.6:*:*:*:*:*:*:*",
   "cpeNameId": "5C83D6DA-8383-4B54-BF39-2ADC05AAD414",
-  "lastModified": "2020-04-16T18:29:52.323",
+  "lastModified": "2026-06-05T19:38:32.047",
   "created": "2020-04-16T18:29:52.323",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://tls.mbed.org/tech-updates/releases",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:trustedfirmware:mbed_tls:2.16.6:*:*:*:*:*:*:*",
+      "cpeNameId": "2DB93DC0-635A-4042-B288-F324029A27BB"
     }
   ],
   "deprecates": [

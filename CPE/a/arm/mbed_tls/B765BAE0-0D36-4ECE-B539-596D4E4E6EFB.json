@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:arm:mbed_tls:2.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "B765BAE0-0D36-4ECE-B539-596D4E4E6EFB",
-  "lastModified": "2018-07-26T17:21:04.200",
+  "lastModified": "2026-06-05T19:38:32.047",
   "created": "2018-07-26T17:21:04.200",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://tls.mbed.org/download-archive",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:trustedfirmware:mbed_tls:2.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "7F3616A8-1950-4B09-AB06-78372D41A5A0"
     }
   ],
   "deprecates": [
