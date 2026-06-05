@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:sharpcompress_project:sharpcompress:0.10.1.1:*:*:*:*:*:*:*",
   "cpeNameId": "16B9929D-68A1-4C49-ADAB-485F74FA6D8F",
-  "lastModified": "2019-10-24T18:24:06.710",
+  "lastModified": "2026-06-05T03:10:18.100",
   "created": "2019-10-24T18:24:06.710",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/adamhathcock/sharpcompress",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:adamhathcock:sharpcompress:0.10.1.1:*:*:*:*:*:*:*",
+      "cpeNameId": "C7C3CBA5-63AF-4391-B84C-2ADAAC5A677F"
     }
   ]
 }
