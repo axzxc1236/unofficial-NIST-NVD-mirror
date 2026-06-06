@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:trustedfirmware:op-tee:3.14.0:-:*:*:*:*:*:*",
+  "cpeNameId": "320FB6FC-F081-4267-9651-5C7F5A026D28",
+  "lastModified": "2026-06-05T20:13:25.387",
+  "created": "2026-06-05T20:13:25.387",
+  "titles": [
+    {
+      "title": "Trusted Firmware OP-TEE 3.14.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.trustedfirmware.org/projects/op-tee",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/OP-TEE/optee_os",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/OP-TEE/optee_os/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:linaro:op-tee:3.14.0:-:*:*:*:*:*:*",
+      "cpeNameId": "7090B8A4-52E2-40D4-95D8-43D8DF8CAD3C"
+    }
+  ]
+}

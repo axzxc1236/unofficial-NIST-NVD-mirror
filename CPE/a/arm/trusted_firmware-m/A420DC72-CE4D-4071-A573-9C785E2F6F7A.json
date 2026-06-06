@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:arm:trusted_firmware-m:1.3.0:rc2:*:*:*:*:*:*",
   "cpeNameId": "A420DC72-CE4D-4071-A573-9C785E2F6F7A",
-  "lastModified": "2024-12-17T13:59:55.807",
+  "lastModified": "2026-06-05T20:07:06.873",
   "created": "2024-12-17T13:59:55.807",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://trustedfirmware-m.readthedocs.io/en/latest/releases/index.html",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:trustedfirmware:trusted_firmware-m:1.3.0:rc2:*:*:*:*:*:*",
+      "cpeNameId": "93F2BC8F-877E-4657-A771-F2C097199DEF"
     }
   ]
 }

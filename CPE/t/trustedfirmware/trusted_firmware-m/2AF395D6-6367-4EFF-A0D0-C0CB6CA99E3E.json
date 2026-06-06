@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:trustedfirmware:trusted_firmware-m:1.4.0:*:*:*:*:*:*:*",
   "cpeNameId": "2AF395D6-6367-4EFF-A0D0-C0CB6CA99E3E",
-  "lastModified": "2023-09-27T10:04:32.310",
+  "lastModified": "2026-06-05T20:36:28.483",
   "created": "2023-09-27T10:04:32.310",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.trustedfirmware.org/blog/tfm-v1-4-0-blog/",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:trustedfirmware:trusted_firmware-m:1.4.0:-:*:*:*:*:*:*",
+      "cpeNameId": "2D3ECE26-6331-4C23-A41B-B4CDC5C0E515"
     }
   ]
 }

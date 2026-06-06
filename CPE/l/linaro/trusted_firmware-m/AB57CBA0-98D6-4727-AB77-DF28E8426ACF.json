@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:linaro:trusted_firmware-m:1.1:*:*:*:*:*:*:*",
   "cpeNameId": "AB57CBA0-98D6-4727-AB77-DF28E8426ACF",
-  "lastModified": "2021-06-03T16:05:16.523",
+  "lastModified": "2026-06-05T20:36:28.483",
   "created": "2021-05-26T20:01:33.130",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.linaro.org/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:trustedfirmware:trusted_firmware-m:1.1:-:*:*:*:*:*:*",
+      "cpeNameId": "2FF780B2-84E2-45E1-BF99-136B5C82FA95"
     }
   ]
 }

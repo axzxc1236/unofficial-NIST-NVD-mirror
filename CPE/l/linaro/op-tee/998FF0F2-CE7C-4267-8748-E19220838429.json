@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:linaro:op-tee:3.18.0:rc1:*:*:*:*:*:*",
   "cpeNameId": "998FF0F2-CE7C-4267-8748-E19220838429",
-  "lastModified": "2026-06-04T19:15:25.037",
+  "lastModified": "2026-06-05T20:13:25.387",
   "created": "2026-06-04T19:15:25.037",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://github.com/OP-TEE/optee_os/tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:trustedfirmware:op-tee:3.18.0:rc1:*:*:*:*:*:*",
+      "cpeNameId": "09AD8A6B-944B-464B-A0C1-2CE18A5C8B90"
     }
   ]
 }

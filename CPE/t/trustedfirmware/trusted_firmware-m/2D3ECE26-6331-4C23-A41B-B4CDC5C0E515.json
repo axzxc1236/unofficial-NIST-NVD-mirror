@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:trustedfirmware:trusted_firmware-m:1.4.0:-:*:*:*:*:*:*",
+  "cpeNameId": "2D3ECE26-6331-4C23-A41B-B4CDC5C0E515",
+  "lastModified": "2026-06-05T20:36:28.483",
+  "created": "2026-06-05T20:07:06.873",
+  "titles": [
+    {
+      "title": "Trusted Firmware-M 1.4.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.trustedfirmware.org/projects/tf-m",
+      "type": "Product"
+    },
+    {
+      "ref": "https://git.trustedfirmware.org/TF-M/trusted-firmware-m.git/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:arm:trusted_firmware-m:1.4.0:-:*:*:*:*:*:*",
+      "cpeNameId": "80B0042B-22C0-4188-9946-C48620F0DF30"
+    },
+    {
+      "cpeName": "cpe:2.3:a:trustedfirmware:trusted_firmware-m:1.4.0:*:*:*:*:*:*:*",
+      "cpeNameId": "2AF395D6-6367-4EFF-A0D0-C0CB6CA99E3E"
+    }
+  ]
+}

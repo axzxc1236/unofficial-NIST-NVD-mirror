@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:trustedfirmware:trusted_firmware-m:1.0:rc1:*:*:*:*:*:*",
+  "cpeNameId": "398539B7-FE89-4CA5-A0AF-C9203D3A4E7E",
+  "lastModified": "2026-06-05T20:36:28.483",
+  "created": "2026-06-05T20:07:06.873",
+  "titles": [
+    {
+      "title": "Trusted Firmware-M 1.0 Release Candidate 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.trustedfirmware.org/projects/tf-m",
+      "type": "Product"
+    },
+    {
+      "ref": "https://git.trustedfirmware.org/TF-M/trusted-firmware-m.git/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:arm:trusted_firmware-m:1.0:rc1:*:*:*:*:*:*",
+      "cpeNameId": "0FEC864D-90A4-4289-A041-6884FB19A9A7"
+    },
+    {
+      "cpeName": "cpe:2.3:a:linaro:trusted_firmware-m:1.0:rc1:*:*:*:*:*:*",
+      "cpeNameId": "BAC9F06A-8666-4C7F-8484-E65E0526E02B"
+    }
+  ]
+}

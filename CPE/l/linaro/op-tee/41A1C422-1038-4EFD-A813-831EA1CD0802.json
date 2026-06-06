@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:linaro:op-tee:4.8.0:rc1:*:*:*:*:*:*",
   "cpeNameId": "41A1C422-1038-4EFD-A813-831EA1CD0802",
-  "lastModified": "2026-04-27T14:50:29.330",
+  "lastModified": "2026-06-05T20:13:25.387",
   "created": "2026-04-27T14:50:29.330",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://www.op-tee.org/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:trustedfirmware:op-tee:4.8.0:rc1:*:*:*:*:*:*",
+      "cpeNameId": "897ACD53-9438-4956-8F2B-861D82683468"
     }
   ]
 }

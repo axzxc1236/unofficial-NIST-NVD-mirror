@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:linaro:trusted_firmware-m:-:*:*:*:*:*:*:*",
   "cpeNameId": "0B6FC39E-B674-473E-ACA5-8393A46FDAE4",
-  "lastModified": "2021-06-03T16:05:16.523",
+  "lastModified": "2026-06-05T20:36:28.483",
   "created": "2021-05-26T19:00:56.750",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://exchange.xforce.ibmcloud.com/vulnerabilities/202243",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:trustedfirmware:trusted_firmware-m:-:*:*:*:*:*:*:*",
+      "cpeNameId": "C0F7CF14-9ACD-42C5-A1F8-839937F8C4DC"
     }
   ]
 }
