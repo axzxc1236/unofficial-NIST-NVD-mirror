@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:buffalo:open_xdmod:8.1:*:*:*:*:*:*:*",
   "cpeNameId": "147A6FC1-088D-4D2B-8C68-A4AC1907B9CB",
-  "lastModified": "2019-05-06T11:28:10.170",
+  "lastModified": "2026-06-08T19:55:01.880",
   "created": "2019-05-06T11:28:10.170",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://open.xdmod.org/8.0/index.html",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:buffalo:open_xdmod:8.1.0:-:*:*:*:*:*:*",
+      "cpeNameId": "AFD01652-B665-4BE6-AB6A-BFFA696ABD4A"
     }
   ]
 }

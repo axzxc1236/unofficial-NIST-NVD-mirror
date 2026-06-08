@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:clerk:clerk.io:1.5.10:*:*:*:*:wordpress:*:*",
   "cpeNameId": "0F0E8DF0-56CD-4418-92AF-86E01993C7BD",
-  "lastModified": "2022-12-06T14:59:55.517",
+  "lastModified": "2026-06-08T19:28:20.433",
   "created": "2022-12-06T14:57:40.520",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://clerk.io/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:clerk.io:clerk.io:1.5.10:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "416C84DE-8494-403A-B1BD-3740872A12FB"
     }
   ]
 }
