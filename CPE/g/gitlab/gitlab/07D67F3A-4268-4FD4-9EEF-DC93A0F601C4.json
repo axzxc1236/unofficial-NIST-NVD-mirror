@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gitlab:gitlab:14.4.0:*:*:*:*:community:*:*",
   "cpeNameId": "07D67F3A-4268-4FD4-9EEF-DC93A0F601C4",
-  "lastModified": "2023-03-21T16:13:57.813",
+  "lastModified": "2026-06-12T14:34:00.577",
   "created": "2022-10-06T20:10:12.793",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://about.gitlab.com/releases/2021/10/22/gitlab-14-4-released/",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:gitlab:gitlab:14.4.0:*:*:*:community:*:*:*",
+      "cpeNameId": "0FD6D4E1-5FDE-48C4-B6B5-8C7DE232F647"
     }
   ]
 }

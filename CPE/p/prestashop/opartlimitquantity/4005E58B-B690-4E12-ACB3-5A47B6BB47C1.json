@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:prestashop:opartlimitquantity:1.4.5:*:*:*:*:prestashop:*:*",
   "cpeNameId": "4005E58B-B690-4E12-ACB3-5A47B6BB47C1",
-  "lastModified": "2023-11-27T01:13:56.353",
+  "lastModified": "2026-06-12T14:19:48.450",
   "created": "2023-11-27T01:13:56.353",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://addons.prestashop.com/en/registration-ordering-process/87052-op-art-limit-quantities-or-sell-in-multiple-quantities.html",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:store-opart:op\\'art_limit_quantity:1.4.5:*:*:*:*:prestashop:*:*",
+      "cpeNameId": "C90AC3EC-556F-41ED-A4D4-706428EBB122"
     }
   ]
 }
