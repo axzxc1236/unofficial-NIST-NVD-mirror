@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:pivotal_software:spring_data_commons:2.1.0:m1:*:*:*:*:*:*",
   "cpeNameId": "439F5981-33B1-435F-9944-EA2809B50BDF",
-  "lastModified": "2018-08-01T13:53:18.913",
+  "lastModified": "2026-06-15T18:57:47.483",
   "created": "2018-08-01T13:53:18.913",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://docs.spring.io/spring-data/commons/docs/current/reference/html/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:broadcom:spring_data_commons:2.1.0:milestone1:*:*:*:*:*:*",
+      "cpeNameId": "E25075A6-4AD1-4DCA-89BB-E09E699DB6B7"
     }
   ]
 }
