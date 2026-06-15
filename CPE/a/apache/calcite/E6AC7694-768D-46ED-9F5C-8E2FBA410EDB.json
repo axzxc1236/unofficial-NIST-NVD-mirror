@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:calcite:1.32.0:*:*:*:*:*:*:*",
   "cpeNameId": "E6AC7694-768D-46ED-9F5C-8E2FBA410EDB",
-  "lastModified": "2022-09-19T11:14:19.310",
+  "lastModified": "2026-06-15T13:11:07.913",
   "created": "2022-09-13T14:17:59.033",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://lists.apache.org/thread/ohdnhlgm6jvt3srw8l7spkm2d5vwm082",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:apache:calcite:1.32.0:-:*:*:*:*:*:*",
+      "cpeNameId": "2E9C5F98-1734-457F-8EE7-251EA0B97DBC"
     }
   ]
 }

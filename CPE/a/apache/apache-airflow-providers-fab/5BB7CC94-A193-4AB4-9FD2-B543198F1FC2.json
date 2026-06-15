@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:apache-airflow-providers-fab:1.1.0:*:*:*:*:*:*:*",
   "cpeNameId": "5BB7CC94-A193-4AB4-9FD2-B543198F1FC2",
-  "lastModified": "2025-05-13T18:31:44.260",
+  "lastModified": "2026-06-15T12:57:16.583",
   "created": "2025-05-13T18:31:44.260",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://airflow.apache.org/docs/apache-airflow-providers-fab/stable/changelog.html",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:apache:apache-airflow-providers-fab:1.1.0:-:*:*:*:*:*:*",
+      "cpeNameId": "5B1FF514-3207-4D3A-88F8-42E49582E16B"
     }
   ],
   "deprecates": [

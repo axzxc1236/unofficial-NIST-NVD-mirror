@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:apache:apache-airflow-providers-fab:1.0.3:-:*:*:*:*:*:*",
   "cpeNameId": "69E700D4-145C-4A8F-9066-E54C0758C53D",
-  "lastModified": "2026-05-27T15:40:44.887",
+  "lastModified": "2026-06-15T12:57:16.583",
   "created": "2026-05-27T15:40:44.887",
   "titles": [
     {
@@ -22,6 +22,20 @@
     {
       "ref": "https://api.github.com/repos/apache/airflow/git/refs/tags",
       "type": "Version"
+    },
+    {
+      "ref": "https://airflow.apache.org/docs/apache-airflow-providers-fab/stable/index.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://airflow.apache.org/docs/apache-airflow-providers-fab/stable/changelog.html",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:apache:apache-airflow-providers-fab:1.0.3:*:*:*:*:*:*:*",
+      "cpeNameId": "57ABBF5C-A0DA-465B-A015-D3BB7A10F7F6"
     }
   ]
 }

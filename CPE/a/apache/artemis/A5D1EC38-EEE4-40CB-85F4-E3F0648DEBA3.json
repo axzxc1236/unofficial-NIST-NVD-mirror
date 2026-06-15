@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:apache:artemis:2.41.0:*:*:*:*:*:*:*",
+  "cpeNameId": "A5D1EC38-EEE4-40CB-85F4-E3F0648DEBA3",
+  "lastModified": "2026-06-15T13:03:40.357",
+  "created": "2026-06-15T13:00:51.120",
+  "titles": [
+    {
+      "title": "Apache Software Foundation Artemis (previously ActiveMQ Artemis) 2.41.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://artemis.apache.org/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://artemis.apache.org/components/artemis/documentation/latest/versions.html",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/apache/artemis",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/apache/artemis/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:apache:activemq_artemis:2.41.0:*:*:*:*:*:*:*",
+      "cpeNameId": "7AAE4928-E6CC-4657-A268-7BC530581F23"
+    }
+  ]
+}

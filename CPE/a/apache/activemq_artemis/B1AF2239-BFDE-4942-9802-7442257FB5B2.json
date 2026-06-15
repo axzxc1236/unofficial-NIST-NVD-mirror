@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:activemq_artemis:2.9.0:*:*:*:*:*:*:*",
   "cpeNameId": "B1AF2239-BFDE-4942-9802-7442257FB5B2",
-  "lastModified": "2019-07-10T15:10:51.357",
+  "lastModified": "2026-06-15T13:03:40.357",
   "created": "2019-07-10T15:10:51.357",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/apache/activemq-artemis/releases",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:apache:artemis:2.9.0:*:*:*:*:*:*:*",
+      "cpeNameId": "3B1E2919-ACAE-4DEE-819F-F578C9052EA2"
     }
   ]
 }

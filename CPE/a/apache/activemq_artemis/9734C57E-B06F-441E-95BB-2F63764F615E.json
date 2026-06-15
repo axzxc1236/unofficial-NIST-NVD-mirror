@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:activemq_artemis:2.44.0:*:*:*:*:*:*:*",
   "cpeNameId": "9734C57E-B06F-441E-95BB-2F63764F615E",
-  "lastModified": "2026-04-16T16:59:45.617",
+  "lastModified": "2026-06-15T13:03:40.357",
   "created": "2026-04-16T16:59:45.617",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/apache/artemis/tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:apache:artemis:2.44.0:*:*:*:*:*:*:*",
+      "cpeNameId": "FCEA17ED-4E00-4EA2-84A8-4E1ED9AAB44D"
     }
   ]
 }

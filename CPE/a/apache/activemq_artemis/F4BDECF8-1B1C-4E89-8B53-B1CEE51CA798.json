@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:activemq_artemis:2.25.0:*:*:*:*:*:*:*",
   "cpeNameId": "F4BDECF8-1B1C-4E89-8B53-B1CEE51CA798",
-  "lastModified": "2024-10-17T13:00:46.867",
+  "lastModified": "2026-06-15T13:03:40.357",
   "created": "2024-10-17T13:00:46.867",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://activemq.apache.org/components/artemis/documentation/latest/versions.html",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:apache:artemis:2.25.0:*:*:*:*:*:*:*",
+      "cpeNameId": "E661E406-D184-4977-9B44-1AD37CFD04E2"
     }
   ]
 }

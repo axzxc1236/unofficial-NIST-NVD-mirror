@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:jmespath_project:jmespath:1.2:*:*:*:*:ruby:*:*",
   "cpeNameId": "FBAD5F55-6797-4CA1-A1C4-4EA3C1456E14",
-  "lastModified": "2022-06-13T21:04:31.190",
+  "lastModified": "2026-06-15T15:13:33.760",
   "created": "2022-06-10T16:39:58.477",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/jmespath/jmespath.rb/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:jmespath:jmespath:1.2:*:*:*:*:ruby:*:*",
+      "cpeNameId": "2D7C3B58-3FD3-426F-8D35-186066251C49"
     }
   ]
 }

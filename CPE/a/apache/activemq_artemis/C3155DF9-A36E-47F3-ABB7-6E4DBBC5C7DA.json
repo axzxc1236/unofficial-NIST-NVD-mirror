@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:activemq_artemis:2.19.0:*:*:*:*:*:*:*",
   "cpeNameId": "C3155DF9-A36E-47F3-ABB7-6E4DBBC5C7DA",
-  "lastModified": "2022-02-08T18:39:59.900",
+  "lastModified": "2026-06-15T13:03:40.357",
   "created": "2022-02-08T17:18:04.840",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/apache/activemq-artemis/tags",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:apache:artemis:2.19.0:*:*:*:*:*:*:*",
+      "cpeNameId": "109EBF33-AF6C-4BD4-9934-695ED9A96DC4"
     }
   ]
 }
