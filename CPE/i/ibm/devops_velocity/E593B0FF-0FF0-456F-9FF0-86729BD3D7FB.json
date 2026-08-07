@@ -1,13 +1,33 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ibm:devops_velocity:5.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "E593B0FF-0FF0-456F-9FF0-86729BD3D7FB",
-  "lastModified": "2025-11-19T20:54:14.390",
+  "lastModified": "2026-07-27T18:14:16.270",
   "created": "2025-11-19T20:54:14.390",
   "titles": [
     {
       "title": "IBM DevOps Velocity 5.0.0",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.ibm.com/docs/en/devops-velocity/5.0.0?topic=notes-whats-new",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.ibm.com/products/devops-velocity",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.ibm.com/support/pages/node/7172750",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:hcltech:devops_velocity:5.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "E429C2AD-0818-44E2-B5FB-2842B43882C4"
     }
   ]
 }

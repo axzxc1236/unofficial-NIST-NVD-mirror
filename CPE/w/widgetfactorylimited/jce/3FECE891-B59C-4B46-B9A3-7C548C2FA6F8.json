@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:widgetfactorylimited:jce:2.5.2:*:*:*:*:joomla\\!:*:*",
   "cpeNameId": "3FECE891-B59C-4B46-B9A3-7C548C2FA6F8",
-  "lastModified": "2020-03-11T18:45:04.940",
+  "lastModified": "2026-06-17T14:14:55.427",
   "created": "2020-03-11T18:45:04.940",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.joomlacontenteditor.net/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:widgetfactorylimited:jce:2.5.2:*:*:*:core:joomla\\!:*:*",
+      "cpeNameId": "A24A9BDF-B702-40F0-87FC-67A1174068A9"
     }
   ]
 }

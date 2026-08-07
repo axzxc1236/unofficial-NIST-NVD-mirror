@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:jsrsasign_project:jsrsasign:4.0.5:*:*:*:*:node.js:*:*",
   "cpeNameId": "6EC4CAA2-5F7D-47A2-9AAC-9DCA86D746CA",
-  "lastModified": "2020-06-25T18:42:39.257",
+  "lastModified": "2026-06-22T03:18:31.867",
   "created": "2020-06-25T18:42:39.257",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.npmjs.com/package/jsrsasign",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:kjur:jsrsasign:4.0.5:*:*:*:*:node.js:*:*",
+      "cpeNameId": "5AFE05DF-8BBB-48FB-8FCD-2B2AC0019B95"
     }
   ]
 }

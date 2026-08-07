@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:vmware:spring_data_rest:2.6.12:*:*:*:*:*:*:*",
+  "cpeNameId": "1478D7E6-4007-4455-A8F0-3AFC1759A6EA",
+  "lastModified": "2026-06-26T18:44:14.703",
+  "created": "2026-06-26T18:44:14.703",
+  "titles": [
+    {
+      "title": "VMware Spring Data Rest 2.6.12",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://spring.io/security/cve-2026-41728",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/spring-projects/spring-data-rest/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://spring.io/projects/spring-data-rest",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:pivotal_software:spring_data_rest:2.6.12:*:*:*:*:*:*:*",
+      "cpeNameId": "391E31E6-101B-4B3E-B2D1-E9C1E1249A05"
+    }
+  ]
+}

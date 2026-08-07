@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:stylemixthemes:motors_-_car_dealer\\,_classifieds_\\&_listing:1.4.7:*:*:*:*:wordpress:*:*",
   "cpeNameId": "299CDA55-3958-4F11-9F37-C584DBE33003",
-  "lastModified": "2024-12-23T15:10:10.603",
+  "lastModified": "2026-07-17T16:54:20.847",
   "created": "2024-12-23T15:10:10.603",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/motors-car-dealership-classified-listings/motors-car-dealer-classifieds-listing-149-missing-authorization",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:stylemixthemes:motors_-_car_dealer\\,_classifieds_\\&_listing:1.4.7:*:*:*:starter:wordpress:*:*",
+      "cpeNameId": "6B683703-E824-403D-AF98-C3C77AA49862"
     }
   ]
 }

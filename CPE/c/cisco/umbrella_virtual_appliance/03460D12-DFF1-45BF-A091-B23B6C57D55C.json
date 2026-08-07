@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cisco:umbrella_virtual_appliance:1.5.5:*:*:*:*:*:*:*",
+  "cpeNameId": "03460D12-DFF1-45BF-A091-B23B6C57D55C",
+  "lastModified": "2026-06-22T15:00:00.023",
+  "created": "2026-06-22T15:00:00.023",
+  "titles": [
+    {
+      "title": "Cisco Umbrella Virtual Appliance 1.5.5",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-umbrella-priv-esc-F4wJB7AU",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://community.cisco.com/t5/custom/page/page-id/customFilteredByMultiLabel/page/1?board=umbrella-release-notes&labels=virtual+appliance",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://securitydocs.cisco.com/docs/umbrella-dns/gov/olh/153175.dita",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.cve.org/CVERecord?id=CVE-2026-20246",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:cisco:umbrella_insights_virtual_appliance:1.5.5:*:*:*:*:*:*:*",
+      "cpeNameId": "776EF7D1-9209-4B9E-A909-7BC6C9FADCFA"
+    }
+  ]
+}

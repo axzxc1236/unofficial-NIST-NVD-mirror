@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:arcinformatique:pcvue:15.1.0:*:*:*:*:*:*:*",
   "cpeNameId": "30AF1D7D-E37A-4BB1-8BB2-15380443710F",
-  "lastModified": "2026-03-16T14:07:13.743",
+  "lastModified": "2026-07-09T18:32:08.463",
   "created": "2026-03-16T14:07:13.743",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.arcinformatique.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:arcinfo:pcvue:15.1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "E6287322-C2E6-44DC-BE9A-80E3418AF4B6"
     }
   ]
 }

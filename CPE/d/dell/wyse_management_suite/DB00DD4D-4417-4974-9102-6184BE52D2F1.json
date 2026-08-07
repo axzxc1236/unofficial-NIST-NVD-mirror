@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dell:wyse_management_suite:5.5:*:*:*:*:*:*:*",
   "cpeNameId": "DB00DD4D-4417-4974-9102-6184BE52D2F1",
-  "lastModified": "2026-02-25T14:50:04.307",
+  "lastModified": "2026-07-02T15:05:55.930",
   "created": "2026-02-25T14:50:04.307",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.dell.com/support/product-details/en-us/product/wyse-wms/drivers",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:dell:wyse_management_suite:5.5:-:*:*:*:*:*:*",
+      "cpeNameId": "974E226B-D712-49D2-8BAF-E9EC8B460440"
     }
   ]
 }

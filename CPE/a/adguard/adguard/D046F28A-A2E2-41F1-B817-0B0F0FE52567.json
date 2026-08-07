@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:adguard:adguard:6.1.298.1564:*:*:*:*:windows:*:*",
   "cpeNameId": "D046F28A-A2E2-41F1-B817-0B0F0FE52567",
-  "lastModified": "2023-02-17T19:13:11.887",
+  "lastModified": "2026-07-28T19:03:12.507",
   "created": "2023-02-06T19:11:18.733",
   "titles": [
     {
@@ -12,16 +12,26 @@
   ],
   "refs": [
     {
-      "ref": "https://github.com/Marsel-marsel/CVE-2022-45770",
-      "type": "Advisory"
-    },
-    {
       "ref": "https://adguard.com/en/versions/windows/release.html",
       "type": "Change Log"
     },
     {
-      "ref": "https://adguard.com/en/welcome.html",
-      "type": "Vendor"
+      "ref": "https://adguard.com/en/adguard-windows/overview.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/AdguardTeam/AdguardForWindows",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/AdguardTeam/AdguardForWindows/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:adguard:adguard_for_windows:6.1.298.1564:*:*:*:*:*:*:*",
+      "cpeNameId": "681E3226-7392-47CF-B9F6-C7882D002195"
     }
   ]
 }

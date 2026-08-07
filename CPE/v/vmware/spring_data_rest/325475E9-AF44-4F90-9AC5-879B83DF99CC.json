@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:vmware:spring_data_rest:3.0.0:milestone3:*:*:*:*:*:*",
+  "cpeNameId": "325475E9-AF44-4F90-9AC5-879B83DF99CC",
+  "lastModified": "2026-06-26T18:44:14.703",
+  "created": "2026-06-26T18:44:14.703",
+  "titles": [
+    {
+      "title": "VMware Spring Data Rest 3.0.0 Milestone 3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://spring.io/security/cve-2026-41728",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/spring-projects/spring-data-rest/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://spring.io/projects/spring-data-rest",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:pivotal_software:spring_data_rest:3.0.0:milestone3:*:*:*:*:*:*",
+      "cpeNameId": "B19C48F0-A3C3-4142-8BA3-3A9D6D9B7520"
+    }
+  ]
+}

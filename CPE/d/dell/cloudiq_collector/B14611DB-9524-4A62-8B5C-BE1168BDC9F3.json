@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:dell:cloudiq_collector:1.10.17:*:*:*:*:*:*:*",
   "cpeNameId": "B14611DB-9524-4A62-8B5C-BE1168BDC9F3",
-  "lastModified": "2023-09-29T11:33:57.233",
+  "lastModified": "2026-08-07T13:55:12.640",
   "created": "2023-09-29T11:33:57.233",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.dell.com/support/kbdoc/en-us/000213696/dsa-2023-165-dell-cloudiq-collector-security-update-for-missing-encryption-of-sensitive-data-vulnerability",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:dell:aiops_collector:1.10.17:*:*:*:*:*:*:*",
+      "cpeNameId": "D9F8678F-35B4-4E7A-89FB-61C88B2FCBC9"
     }
   ]
 }

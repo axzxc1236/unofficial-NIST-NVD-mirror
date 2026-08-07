@@ -1,13 +1,29 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:adguard:adguard_for_windows:7.20.0:beta3:*:*:*:*:*:*",
   "cpeNameId": "09C7369F-BF97-4F83-BEA1-711067029989",
-  "lastModified": "2025-11-10T16:19:16.917",
+  "lastModified": "2026-07-28T19:03:12.507",
   "created": "2025-11-10T16:19:16.917",
   "titles": [
     {
       "title": "AdGuard for Windows 7.20.0 Beta 3",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/AdguardTeam/AdguardForWindows/tags",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://adguard.com/en/adguard-windows/overview.html",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:adguard:adguard:7.20.0:beta3:*:*:*:windows:*:*",
+      "cpeNameId": "4E891A8B-96B8-4244-A0C4-9050916A492E"
     }
   ]
 }

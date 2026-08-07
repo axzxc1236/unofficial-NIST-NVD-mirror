@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:airflow_providers_amazon:9.9.0:-:*:*:*:*:*:*",
   "cpeNameId": "6009D88B-94FF-4337-A880-68EAE700D563",
-  "lastModified": "2026-03-10T15:15:46.810",
+  "lastModified": "2026-07-02T16:25:23.063",
   "created": "2026-03-10T15:15:46.810",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://lists.apache.org/thread/spwwrsmwxod7fpttcd7n7zs46j839l77",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:apache:apache-airflow-providers-amazon:9.9.0:-:*:*:*:*:*:*",
+      "cpeNameId": "79744AB1-CBC9-40D2-B631-306F2E49EFF4"
     }
   ]
 }

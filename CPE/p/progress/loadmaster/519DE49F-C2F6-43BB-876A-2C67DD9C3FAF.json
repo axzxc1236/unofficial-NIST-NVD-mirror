@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:progress:loadmaster:7.2.54.4:*:*:*:*:*:*:*",
   "cpeNameId": "519DE49F-C2F6-43BB-876A-2C67DD9C3FAF",
-  "lastModified": "2024-11-20T14:56:13.580",
+  "lastModified": "2026-07-13T19:49:31.120",
   "created": "2024-11-20T14:56:13.580",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://docs.progress.com/category/loadmaster-release-notes-ga",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:progress:loadmaster:7.2.54.4:*:*:*:*:*:*:*",
+      "cpeNameId": "4559C475-0339-4278-838F-B71919FCB4FA"
     }
   ]
 }

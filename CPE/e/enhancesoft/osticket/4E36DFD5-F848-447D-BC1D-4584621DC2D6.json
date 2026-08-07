@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:enhancesoft:osticket:1.10.4:*:*:*:*:*:*:*",
   "cpeNameId": "4E36DFD5-F848-447D-BC1D-4584621DC2D6",
-  "lastModified": "2019-07-02T17:15:57.743",
+  "lastModified": "2026-07-10T18:20:35.780",
   "created": "2019-07-02T17:15:57.743",
   "titles": [
     {
@@ -16,12 +16,22 @@
       "type": "Version"
     },
     {
-      "ref": "https://enhancesoft.com/products/",
-      "type": "Product"
-    },
-    {
       "ref": "https://enhancesoft.com/",
       "type": "Vendor"
+    },
+    {
+      "ref": "https://osticket.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/osTicket/osTicket/tags",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:osticket:osticket:1.10.4:*:*:*:*:*:*:*",
+      "cpeNameId": "61CB4C51-5130-4B0E-A7F7-D5D3C3EFAB3F"
     }
   ]
 }

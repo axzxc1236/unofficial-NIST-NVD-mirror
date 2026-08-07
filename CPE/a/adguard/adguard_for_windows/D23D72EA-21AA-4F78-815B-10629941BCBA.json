@@ -1,13 +1,29 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:adguard:adguard_for_windows:6.1.278.1411:beta:*:*:*:*:*:*",
   "cpeNameId": "D23D72EA-21AA-4F78-815B-10629941BCBA",
-  "lastModified": "2025-11-10T16:19:16.917",
+  "lastModified": "2026-07-28T19:03:12.507",
   "created": "2025-11-10T16:19:16.917",
   "titles": [
     {
       "title": "AdGuard for Windows 6.1.278.1411 Beta",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/AdguardTeam/AdguardForWindows/tags",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://adguard.com/en/adguard-windows/overview.html",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:adguard:adguard:6.1.278.1411:beta:*:*:*:windows:*:*",
+      "cpeNameId": "B8D31A14-C43E-43B0-B732-1CE943A0EF1A"
     }
   ]
 }

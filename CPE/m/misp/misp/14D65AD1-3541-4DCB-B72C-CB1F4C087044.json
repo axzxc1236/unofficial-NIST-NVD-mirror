@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:misp:misp:2.4.112:*:*:*:*:*:*:*",
   "cpeNameId": "14D65AD1-3541-4DCB-B72C-CB1F4C087044",
-  "lastModified": "2019-09-11T17:59:14.117",
+  "lastModified": "2026-06-22T19:23:18.580",
   "created": "2019-09-11T17:59:14.117",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/MISP/MISP/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:misp-project:misp:2.4.112:*:*:*:*:*:*:*",
+      "cpeNameId": "22D37574-06F3-4236-9844-06E9821872E8"
     }
   ]
 }

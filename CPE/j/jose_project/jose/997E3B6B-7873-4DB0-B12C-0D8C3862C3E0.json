@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:jose_project:jose:0.11.2:*:*:*:*:node.js:*:*",
   "cpeNameId": "997E3B6B-7873-4DB0-B12C-0D8C3862C3E0",
-  "lastModified": "2021-04-23T17:07:14.350",
+  "lastModified": "2026-06-22T03:10:06.180",
   "created": "2021-04-22T13:58:14.703",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.npmjs.com/package/jose",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:panva:jose:0.11.2:*:*:*:*:node.js:*:*",
+      "cpeNameId": "DEC23C8A-23EA-4EF2-91CB-B11CED83BA23"
     }
   ]
 }

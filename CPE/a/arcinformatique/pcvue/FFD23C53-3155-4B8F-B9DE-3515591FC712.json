@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:arcinformatique:pcvue:15.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "FFD23C53-3155-4B8F-B9DE-3515591FC712",
-  "lastModified": "2026-03-04T18:06:02.947",
+  "lastModified": "2026-07-09T18:32:08.463",
   "created": "2026-03-04T18:06:02.947",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.pcvue.com/.well-known/bulletins/Security_Bulletin_2026-2.pdf",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:arcinfo:pcvue:15.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "9580B638-58E1-4A71-B562-173ED408D742"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:strapi:strapi:3.0.0:alpha6.4:*:*:*:node.js:*:*",
   "cpeNameId": "D3A6BB0B-8B82-471F-883B-BA86D928EB3C",
-  "lastModified": "2020-02-06T19:03:13.693",
+  "lastModified": "2026-07-02T16:08:00.757",
   "created": "2020-02-06T19:03:13.693",
   "titles": [
     {
@@ -22,6 +22,16 @@
     {
       "ref": "https://www.npmjs.com/package/strapi",
       "type": "Product"
+    },
+    {
+      "ref": "https://github.com/strapi/strapi/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:strapi:strapi:3.0.0:alpha6.4:*:*:*:*:*:*",
+      "cpeNameId": "0A7C3FA2-C6EE-4FEA-909C-F9270DAA9A07"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:pnpm:pnpm:8.6.8:*:*:*:*:*:node.js:*",
   "cpeNameId": "9B24A7CD-ECEB-4711-B8D3-922A1FAF39EF",
-  "lastModified": "2023-08-11T23:44:56.230",
+  "lastModified": "2026-06-22T01:48:04.347",
   "created": "2023-08-04T14:17:26.330",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/pnpm/pnpm/security/advisories/GHSA-5r98-f33j-g8h7",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:pnpm:pnpm:8.6.8:*:*:*:*:node.js:*:*",
+      "cpeNameId": "686A86E2-7918-4A1C-B3C9-83204B3BF766"
     }
   ]
 }

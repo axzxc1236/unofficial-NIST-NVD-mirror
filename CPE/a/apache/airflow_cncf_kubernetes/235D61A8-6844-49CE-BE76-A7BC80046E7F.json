@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:airflow_cncf_kubernetes:6.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "235D61A8-6844-49CE-BE76-A7BC80046E7F",
-  "lastModified": "2023-06-05T17:31:26.413",
+  "lastModified": "2026-07-02T17:01:47.360",
   "created": "2023-06-05T16:25:26.647",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://airflow.apache.org/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:apache:apache-airflow-providers-cncf-kubernetes:6.0.0:-:*:*:*:*:*:*",
+      "cpeNameId": "26BF41F0-5ABE-4B94-AC36-23B6F072087D"
     }
   ]
 }

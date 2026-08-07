@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:misp:misp:-:*:*:*:*:*:*:*",
   "cpeNameId": "C8B431E8-B166-41C6-A97B-1D7F41DDE271",
-  "lastModified": "2024-09-04T17:40:50.690",
+  "lastModified": "2026-06-22T19:19:16.783",
   "created": "2024-09-04T17:40:50.690",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/MISP/MISP/tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:misp-project:misp:-:*:*:*:*:*:*:*",
+      "cpeNameId": "DCB89951-C9FB-4F2D-BA71-962D50FF3312"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:hp:laserjet_pro_mfp_m478-m479_w1a82a_firmware:002_2322c:*:*:*:*:*:*:*",
   "cpeNameId": "A25CE08B-2203-4B92-98E3-7D70E2E4B64F",
-  "lastModified": "2023-07-17T19:01:19.280",
+  "lastModified": "2026-06-25T17:22:59.120",
   "created": "2023-07-07T14:59:46.790",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://support.hp.com/us-en/product/hp-color-laserjet-pro-mfp-m478-m479-series/19202514",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:hp:w1a82a_firmware:002_2322c:*:*:*:*:*:*:*",
+      "cpeNameId": "1A21022C-CDED-4F9E-B5DE-951389F65FF4"
     }
   ]
 }

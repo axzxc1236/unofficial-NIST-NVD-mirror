@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:apache:apache-airflow-providers-cncf-kubernetes:5.1.1:-:*:*:*:*:*:*",
+  "cpeNameId": "9BA2F09E-25F9-4C0F-8EB2-8ECBB8C0EBA5",
+  "lastModified": "2026-07-02T17:01:47.360",
+  "created": "2026-07-02T17:01:47.360",
+  "titles": [
+    {
+      "title": "Apache apache-airflow-providers-cncf-kubernetes 5.1.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://pypi.org/project/apache-airflow-providers-cncf-kubernetes/#history",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/apache/airflow/tree/main/providers/cncf/kubernetes",
+      "type": "Product"
+    },
+    {
+      "ref": "https://airflow.apache.org/docs/apache-airflow-providers-cncf-kubernetes/stable/index.html",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:apache:airflow_cncf_kubernetes:5.1.1:*:*:*:*:*:*:*",
+      "cpeNameId": "D2786133-58DE-4B15-A9BE-F511BE0EE113"
+    }
+  ]
+}

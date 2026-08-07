@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:invisible-island:ncurses:6.1:20191012:*:*:*:*:*:*",
   "cpeNameId": "CA528355-66B6-4B0C-8F99-940C8773466C",
-  "lastModified": "2026-03-27T13:17:39.720",
+  "lastModified": "2026-07-23T18:58:25.760",
   "created": "2026-03-27T13:17:39.720",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://invisible-island.net/",
       "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:gnu:ncurses:6.1.20191012:*:*:*:*:*:*:*",
+      "cpeNameId": "604E24BE-1140-49A8-95F8-882360FABF83"
     }
   ]
 }

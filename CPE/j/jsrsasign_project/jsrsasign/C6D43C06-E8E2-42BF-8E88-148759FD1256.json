@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:jsrsasign_project:jsrsasign:9.0.2:*:*:*:*:node.js:*:*",
   "cpeNameId": "C6D43C06-E8E2-42BF-8E88-148759FD1256",
-  "lastModified": "2021-04-14T20:18:22.090",
+  "lastModified": "2026-06-22T03:18:31.867",
   "created": "2021-04-09T13:35:05.500",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/kjur/jsrsasign",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:kjur:jsrsasign:9.0.2:*:*:*:*:node.js:*:*",
+      "cpeNameId": "FCA5E722-15F8-49F7-8FB4-5DBBE826D0D9"
     }
   ]
 }

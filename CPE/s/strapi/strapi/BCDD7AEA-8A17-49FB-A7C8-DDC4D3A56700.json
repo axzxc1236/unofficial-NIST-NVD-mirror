@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:strapi:strapi:4.0.5:*:*:*:*:*:*:*",
   "cpeNameId": "BCDD7AEA-8A17-49FB-A7C8-DDC4D3A56700",
-  "lastModified": "2022-07-22T01:21:14.653",
+  "lastModified": "2026-07-02T16:00:48.177",
   "created": "2022-06-06T15:18:36.007",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.synopsys.com/blogs/software-security/cyrc-advisory-strapi/",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:strapi:strapi:4.0.5:*:*:*:*:node.js:*:*",
+      "cpeNameId": "56308363-EEF9-4E75-B383-473B669A72CE"
     }
   ]
 }

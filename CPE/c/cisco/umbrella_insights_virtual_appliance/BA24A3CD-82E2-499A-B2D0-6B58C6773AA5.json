@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:cisco:umbrella_insights_virtual_appliance:1.5.6:*:*:*:*:*:*:*",
   "cpeNameId": "BA24A3CD-82E2-499A-B2D0-6B58C6773AA5",
-  "lastModified": "2022-11-21T14:21:44.673",
+  "lastModified": "2026-06-22T15:00:00.023",
   "created": "2022-11-21T13:57:53.947",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://support.umbrella.com/hc/en-us/sections/4404390294164-Virtual-Appliance-Release-Notes",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:umbrella_virtual_appliance:1.5.6:*:*:*:*:*:*:*",
+      "cpeNameId": "FD56304C-6D66-4716-8E62-05B2D29489ED"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:pivotal_software:spring_data_rest:3.0.0:milestone2:*:*:*:*:*:*",
   "cpeNameId": "62A69CB9-6435-47C9-98AF-A8DDC0796833",
-  "lastModified": "2019-06-10T13:42:09.757",
+  "lastModified": "2026-06-26T18:44:14.703",
   "created": "2019-06-10T13:42:09.757",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/spring-projects/spring-data-rest/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:vmware:spring_data_rest:3.0.0:milestone2:*:*:*:*:*:*",
+      "cpeNameId": "531D194E-9EBE-4285-B8B6-55328D3F4ACF"
     }
   ]
 }

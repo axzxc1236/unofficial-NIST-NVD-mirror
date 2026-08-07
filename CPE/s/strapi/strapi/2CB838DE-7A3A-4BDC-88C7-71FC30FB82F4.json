@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:strapi:strapi:4.14.3:*:*:*:*:*:*:*",
   "cpeNameId": "2CB838DE-7A3A-4BDC-88C7-71FC30FB82F4",
-  "lastModified": "2023-11-13T13:08:17.510",
+  "lastModified": "2026-07-02T15:51:41.117",
   "created": "2023-11-13T13:08:17.510",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/strapi/strapi/tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:strapi:strapi:4.14.3:*:*:*:*:node.js:*:*",
+      "cpeNameId": "455CF84F-39AC-4CD4-B056-568DECB87968"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:misp:misp:2.4.61:*:*:*:*:*:*:*",
   "cpeNameId": "1E8B7387-8170-4ECF-A231-0327F4DA91AA",
-  "lastModified": "2019-03-04T14:28:15.323",
+  "lastModified": "2026-06-22T19:23:18.580",
   "created": "2019-03-04T14:28:15.323",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/MISP/MISP",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:misp-project:misp:2.4.61:*:*:*:*:*:*:*",
+      "cpeNameId": "734A71AD-1A44-40FE-B72B-D94B7F5B0392"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gnu:ncurses:5.2.:*:*:*:*:*:*:*",
   "cpeNameId": "5A001CA3-EF41-49A4-9046-A20C8DC78B39",
-  "lastModified": "2018-10-30T13:32:05.093",
+  "lastModified": "2026-07-23T18:58:25.760",
   "created": "2018-10-30T13:32:05.093",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.gnu.org/software/ncurses",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:invisible-island:ncurses:5.2.:*:*:*:*:*:*:*",
+      "cpeNameId": "61F6F985-70C6-429D-A5D0-D08C8DF7AF5C"
     }
   ]
 }

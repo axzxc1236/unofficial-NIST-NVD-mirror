@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:oracle:mysql_shell:-:*:*:*:*:*:*:*",
   "cpeNameId": "C87994DF-FDD4-48CC-B9DE-E27B6A4021D0",
-  "lastModified": "2022-07-26T13:01:46.607",
+  "lastModified": "2026-06-22T16:44:43.870",
   "created": "2022-07-21T17:04:05.680",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.oracle.com/security-alerts/cpujul2022.html",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:oracle:mysql_shell:-:*:*:*:*:-:*:*",
+      "cpeNameId": "375F459C-09F8-4D6B-A53E-CE480FD84A9E"
     }
   ]
 }

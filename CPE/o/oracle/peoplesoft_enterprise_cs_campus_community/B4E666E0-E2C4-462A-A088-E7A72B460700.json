@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:oracle:peoplesoft_enterprise_cs_campus_community:9.2:*:*:*:*:*:*:*",
   "cpeNameId": "B4E666E0-E2C4-462A-A088-E7A72B460700",
-  "lastModified": "2020-07-01T14:07:08.857",
+  "lastModified": "2026-07-31T19:17:42.927",
   "created": "2020-07-01T14:07:08.857",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://support.oracle.com/knowledge/PeopleSoft%20Enterprise/2130029_1.html",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:oracle:peoplesoft_enterprise_campus_software_campus_community:9.2:*:*:*:*:*:*:*",
+      "cpeNameId": "7F799143-5366-4EAE-8617-8E9646882283"
     }
   ]
 }

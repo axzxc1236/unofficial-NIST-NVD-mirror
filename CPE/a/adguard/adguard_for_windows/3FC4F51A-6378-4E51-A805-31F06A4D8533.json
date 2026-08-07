@@ -1,13 +1,29 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:adguard:adguard_for_windows:6.3.1399.4073:-:*:*:*:*:*:*",
   "cpeNameId": "3FC4F51A-6378-4E51-A805-31F06A4D8533",
-  "lastModified": "2025-11-10T16:19:16.917",
+  "lastModified": "2026-07-28T18:59:27.750",
   "created": "2025-11-10T16:19:16.917",
   "titles": [
     {
       "title": "AdGuard for Windows 6.3.1399.4073",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://adguard.com/en/adguard-windows/overview.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/AdguardTeam/AdguardForWindows/tags",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:adguard:adguard:6.3.1399.4073:-:*:*:*:windows:*:*",
+      "cpeNameId": "BDA95C21-1051-4DE7-9F05-7931D503A5B9"
     }
   ]
 }

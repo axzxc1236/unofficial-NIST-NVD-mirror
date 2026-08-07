@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:osticket:osticket:-:*:*:*:*:*:*:*",
   "cpeNameId": "CC5F884B-A6BD-405D-9148-19398D36BD16",
-  "lastModified": "2022-11-09T16:47:58.307",
+  "lastModified": "2026-07-10T18:20:35.780",
   "created": "2022-07-19T13:46:17.600",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/osTicket/osTicket-plugins/commit/a7842d494889fd5533d13deb3c6a7789768795ae",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:enhancesoft:osticket:-:*:*:*:*:*:*:*",
+      "cpeNameId": "5DD46608-F294-492B-8B5E-4C9F56F1A403"
     }
   ]
 }

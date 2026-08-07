@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:osticket:osticket:1.14.3:*:*:*:*:*:*:*",
   "cpeNameId": "DF8F6A54-8E37-41FB-9702-1AC57D8ADAFA",
-  "lastModified": "2020-09-04T04:07:18.340",
+  "lastModified": "2026-07-10T18:20:35.780",
   "created": "2020-09-04T04:07:18.340",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/osTicket/osTicket/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:enhancesoft:osticket:1.14.3:*:*:*:*:*:*:*",
+      "cpeNameId": "F11FA409-7DF9-4397-B460-5E600CADAEFD"
     }
   ]
 }

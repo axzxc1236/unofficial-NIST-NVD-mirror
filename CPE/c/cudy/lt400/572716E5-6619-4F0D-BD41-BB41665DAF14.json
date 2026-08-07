@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:h:cudy:lt400:-:*:*:*:*:*:*:*",
   "cpeNameId": "572716E5-6619-4F0D-BD41-BB41665DAF14",
-  "lastModified": "2023-08-30T13:03:17.610",
+  "lastModified": "2026-06-24T17:41:42.367",
   "created": "2023-07-25T17:14:46.557",
   "titles": [
     {
@@ -16,12 +16,18 @@
       "type": "Product"
     },
     {
-      "ref": "https://github.com/CalfCrusher/CVE-2023-31851",
-      "type": "Advisory"
-    },
-    {
       "ref": "https://www.cudy.com/",
       "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/CalfCrusher/CVE-2023-31851",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:h:cuby:lt400:-:*:*:*:*:*:*:*",
+      "cpeNameId": "AA23F4B7-6432-4877-8081-FE307EAC10B5"
     }
   ]
 }

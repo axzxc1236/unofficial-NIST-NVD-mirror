@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:ibm:engineering_workflow_management:7.0.3:*:*:*:*:*:*:*",
   "cpeNameId": "D2CA6FAF-2ADA-4468-B7FC-539AE9C0717F",
-  "lastModified": "2025-11-19T15:51:14.657",
+  "lastModified": "2026-06-26T15:30:38.760",
   "created": "2025-11-19T15:51:14.657",
   "titles": [
     {
@@ -14,6 +14,20 @@
     {
       "ref": "https://www.ibm.com/products/ibm-engineering-workflow-management",
       "type": "Product"
+    },
+    {
+      "ref": "https://www.ibm.com/docs/en/engineering-lifecycle-management-suite/workflow-management",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.ibm.com/docs/en/engineering-lifecycle-management-suite/workflow-management/7.0.3?topic=overview-whats-new",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:ibm:engineering_workflow_management:7.0.3:-:*:*:*:*:*:*",
+      "cpeNameId": "25E07150-F297-4202-8C67-6DAD982A0509"
     }
   ]
 }

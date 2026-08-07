@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gnu:ncurses:6.1.20191012:*:*:*:*:*:*:*",
   "cpeNameId": "604E24BE-1140-49A8-95F8-882360FABF83",
-  "lastModified": "2019-10-28T18:53:36.440",
+  "lastModified": "2026-07-23T18:58:25.760",
   "created": "2019-10-28T18:53:36.440",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://lists.gnu.org/archive/html/bug-ncurses/2019-10/msg00045.html",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:invisible-island:ncurses:6.1:20191012:*:*:*:*:*:*",
+      "cpeNameId": "CA528355-66B6-4B0C-8F99-940C8773466C"
     }
   ]
 }

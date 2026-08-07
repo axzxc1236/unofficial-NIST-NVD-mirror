@@ -2,7 +2,7 @@
   "matchCriteriaId": "15E2A681-427E-4BF5-9F1C-EB94A13C7143",
   "criteria": "cpe:2.3:a:jetbrains:kotlin:*:*:*:*:*:*:*:*",
   "versionEndExcluding": "2.1.0",
-  "lastModified": "2026-02-24T22:37:14.443",
+  "lastModified": "2026-06-29T13:39:14.520",
   "cpeLastModified": "2026-02-24T22:37:14.443",
   "created": "2026-02-24T22:37:14.443",
   "status": "Active",
@@ -6984,12 +6984,372 @@
       "cpeNameId": "95354C86-17A6-4DA4-98AF-D5DF86998248"
     },
     {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.4.10:*:*:*:*:*:*:*",
+      "cpeNameId": "279B07B6-1178-45EC-87BE-8354A6DAB86E"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.4.20:-:*:*:*:*:*:*",
+      "cpeNameId": "C21999EB-D990-437B-8189-6BF492B777C8"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.4.20:milestone1:*:*:*:*:*:*",
+      "cpeNameId": "59079D9C-3B08-42B8-B2C5-CC9E05C0C070"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.4.20:milestone2:*:*:*:*:*:*",
+      "cpeNameId": "A939F524-D9B2-4961-917E-1C8AC457BF84"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.4.20:rc:*:*:*:*:*:*",
+      "cpeNameId": "B72B8D90-7A81-4F63-A551-0C9B31B46ECD"
+    },
+    {
       "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.4.21:*:*:*:*:*:*:*",
       "cpeNameId": "2297F404-AE04-45E3-99BF-0BE487EDEBFA"
     },
     {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.4.21:-:*:*:*:*:*:*",
+      "cpeNameId": "D756BC86-D701-4D5A-83AA-975B81D6969A"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.4.21-2:*:*:*:*:*:*:*",
+      "cpeNameId": "54727D46-83A3-44B7-B949-10A9896A7B05"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.4.30:-:*:*:*:*:*:*",
+      "cpeNameId": "FD652F44-C4B0-43BF-99C4-3532575206CA"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.4.30:milestone1:*:*:*:*:*:*",
+      "cpeNameId": "652524E6-44A4-4C83-8A1F-26AFCEB5DB3D"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.4.30:rc:*:*:*:*:*:*",
+      "cpeNameId": "685B5DBC-D277-4304-9134-CCF80F0D9691"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.4.31:*:*:*:*:*:*:*",
+      "cpeNameId": "4709CF26-7F33-472E-B194-4187903FE7E9"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.4.32:*:*:*:*:*:*:*",
+      "cpeNameId": "DC9D16B9-5807-4402-8881-59FA2202C401"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.5.0:-:*:*:*:*:*:*",
+      "cpeNameId": "F4F2D728-605F-4E1A-A412-1FC2E6EE397B"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.5.0:milestone1:*:*:*:*:*:*",
+      "cpeNameId": "802AB02E-F1B2-4639-A28F-35703120B5F7"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.5.0:milestone2:*:*:*:*:*:*",
+      "cpeNameId": "3F0E6950-DE1B-41AB-A54B-C36950AF6404"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.5.0:rc:*:*:*:*:*:*",
+      "cpeNameId": "E5DF640C-3C05-4A1E-86EA-EF159C3E6337"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.5.10:*:*:*:*:*:*:*",
+      "cpeNameId": "AB5B50FC-85EB-42FC-A069-DB18714EDAAF"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.5.20:-:*:*:*:*:*:*",
+      "cpeNameId": "1D0F5A31-979A-430D-BF06-2DC12E9B921E"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.5.20:milestone1:*:*:*:*:*:*",
+      "cpeNameId": "7EFCB243-0CC4-4981-ABAA-AF6DAEB20AA6"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.5.20:rc:*:*:*:*:*:*",
+      "cpeNameId": "9CD1D533-7B60-40CA-A951-2346F211917E"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.5.21:*:*:*:*:*:*:*",
+      "cpeNameId": "C85227DF-6F30-4F35-9285-B3BFAD259EA7"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.5.30:-:*:*:*:*:*:*",
+      "cpeNameId": "05834624-A4EA-44B2-9108-FCFA948C2FBC"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.5.30:milestone1:*:*:*:*:*:*",
+      "cpeNameId": "41BA6A72-C8BE-4B6C-9516-B99E5FB18FC4"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.5.30:rc:*:*:*:*:*:*",
+      "cpeNameId": "9DEBA338-3327-454A-99C2-FE5A2033A46F"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.5.31:*:*:*:*:*:*:*",
+      "cpeNameId": "DDB62382-ED55-47D6-979B-79D82C1D5786"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.5.32:*:*:*:*:*:*:*",
+      "cpeNameId": "AB75087D-DEA5-4E1D-AF3C-95893D7C52E1"
+    },
+    {
       "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.6.0:-:*:*:*:*:*:*",
       "cpeNameId": "BA094008-4F21-414B-93C7-C874D75820E7"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.6.0:milestone1:*:*:*:*:*:*",
+      "cpeNameId": "CBDA6632-5D2A-40B0-B15E-45C382C0C51D"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.6.0:rc:*:*:*:*:*:*",
+      "cpeNameId": "25A71773-DFFF-456E-AA91-6274FB658F51"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.6.0:rc2:*:*:*:*:*:*",
+      "cpeNameId": "392AC480-923C-480E-9737-619B803BD711"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.6.10:-:*:*:*:*:*:*",
+      "cpeNameId": "42B54C2A-980B-4A10-8E0A-346CDDD21ADC"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.6.10:rc:*:*:*:*:*:*",
+      "cpeNameId": "08931C57-2023-4F99-8146-41E39E8A8C65"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.6.20:-:*:*:*:*:*:*",
+      "cpeNameId": "C4E12507-1A4E-4DA8-8042-11B048CA5AF6"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.6.20:milestone1:*:*:*:*:*:*",
+      "cpeNameId": "E67112A4-C0A7-4196-B83D-E7B6D4989C2A"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.6.20:rc:*:*:*:*:*:*",
+      "cpeNameId": "4327F23A-8C44-4068-A1E4-95E310C300AF"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.6.20:rc2:*:*:*:*:*:*",
+      "cpeNameId": "865CD7C3-9618-4683-B2E9-C4A267E2A026"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.6.21:*:*:*:*:*:*:*",
+      "cpeNameId": "CAFCF6E7-FD94-499D-93AB-D1D506DD7BCB"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.7.0:-:*:*:*:*:*:*",
+      "cpeNameId": "53B48F74-2B96-4F52-B7E1-647BBA7CECB5"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.7.0:beta:*:*:*:*:*:*",
+      "cpeNameId": "AFC894C3-6C2F-4C29-BD46-403BE0A0A13A"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.7.0:rc:*:*:*:*:*:*",
+      "cpeNameId": "CF71651B-06E2-419E-87EA-83F20A50F64D"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.7.0:rc2:*:*:*:*:*:*",
+      "cpeNameId": "364CD03D-5218-4229-8006-6C9B1853E767"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.7.10:-:*:*:*:*:*:*",
+      "cpeNameId": "6ADDB538-57AB-4A1A-92A7-DF4980D30A50"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.7.20:-:*:*:*:*:*:*",
+      "cpeNameId": "996C2F33-F964-46A6-8930-4A663FF85DFB"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.7.20:beta:*:*:*:*:*:*",
+      "cpeNameId": "83797834-A3CC-4E9B-9CDF-9F18B08F5873"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.7.20:rc:*:*:*:*:*:*",
+      "cpeNameId": "38EB18C1-DEC6-4F09-85E7-8757B43F4EA9"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.7.21:*:*:*:*:*:*:*",
+      "cpeNameId": "E4F8A97B-8735-4BF4-AA35-0569169D02CE"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.7.22:*:*:*:*:*:*:*",
+      "cpeNameId": "76A8E86A-1A34-49C4-9219-4A5EEF77D1FE"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.8.0:*:*:*:*:*:*:*",
+      "cpeNameId": "B2FA53F7-0E24-48D5-956E-2403B181CDB2"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.8.0:beta:*:*:*:*:*:*",
+      "cpeNameId": "C716A9B2-7A6A-4E6E-AB48-5AC479C4CD62"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.8.0:rc:*:*:*:*:*:*",
+      "cpeNameId": "8EF8AB1C-CA59-425E-8FDB-91D3A8C5A5FD"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.8.0:rc2:*:*:*:*:*:*",
+      "cpeNameId": "D88B387E-F26A-4482-BA15-FF6386246409"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.8.10:*:*:*:*:*:*:*",
+      "cpeNameId": "BE65B78F-D87D-47E4-B70E-3FBB652594B7"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.8.20:-:*:*:*:*:*:*",
+      "cpeNameId": "5CAA4414-D1A0-4958-A2E6-94026B09568D"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.8.20:beta:*:*:*:*:*:*",
+      "cpeNameId": "4983F67B-D88A-46FB-9406-065C6FA523F1"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.8.20:rc:*:*:*:*:*:*",
+      "cpeNameId": "A2696528-3262-471E-AB53-93926535D437"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.8.20:rc2:*:*:*:*:*:*",
+      "cpeNameId": "D31BE202-3419-4F97-B483-4FCD5021ED51"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.8.21:*:*:*:*:*:*:*",
+      "cpeNameId": "8B95653E-8C1D-457D-B750-CE1B3011F5F4"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.8.22:*:*:*:*:*:*:*",
+      "cpeNameId": "D804F2E0-4885-49A6-8429-C6F69B8AD444"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.9.0:*:*:*:*:*:*:*",
+      "cpeNameId": "F6250B9E-7271-47A2-851D-5DF7E24B68EC"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.9.0:beta:*:*:*:*:*:*",
+      "cpeNameId": "AA579C57-04A7-47AD-A438-F34D43015B3B"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.9.0:rc:*:*:*:*:*:*",
+      "cpeNameId": "06F26E17-7231-445A-82F0-041B922AD828"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.9.10:*:*:*:*:*:*:*",
+      "cpeNameId": "0A7D159A-A800-4009-AD50-D45DAEFE8898"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.9.20:-:*:*:*:*:*:*",
+      "cpeNameId": "80033073-B034-480B-9096-2EAA8C0EC748"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.9.20:beta:*:*:*:*:*:*",
+      "cpeNameId": "064C122A-F293-4D7D-A65E-E5F4CFB2FBF6"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.9.20:beta2:*:*:*:*:*:*",
+      "cpeNameId": "37949A9D-595E-4DA4-8D87-0B161161C0D0"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.9.20:rc:*:*:*:*:*:*",
+      "cpeNameId": "1E97BC9E-D94B-4DD2-A736-FDE25AAD7559"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.9.20:rc2:*:*:*:*:*:*",
+      "cpeNameId": "1D845D29-E2C2-4D62-8428-E01FF9BFA075"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.9.21:*:*:*:*:*:*:*",
+      "cpeNameId": "265C186C-658D-402B-B08A-9483200831F0"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.9.22:*:*:*:*:*:*:*",
+      "cpeNameId": "C628F83E-EB3B-423F-8EE2-9548A15A0BA0"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.9.23:*:*:*:*:*:*:*",
+      "cpeNameId": "1C883EE5-F44C-4673-B38A-47CD66B5EF3E"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.9.24:*:*:*:*:*:*:*",
+      "cpeNameId": "06119B71-BD6C-4615-8E1F-F4B91C181F2F"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:1.9.25:*:*:*:*:*:*:*",
+      "cpeNameId": "52E892A1-11F0-4631-81AF-465792666B60"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.0:-:*:*:*:*:*:*",
+      "cpeNameId": "7C81D5A2-2614-490C-A839-D95039054AE2"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.0:beta1:*:*:*:*:*:*",
+      "cpeNameId": "19BB4DFA-16B3-4866-A588-3E8EA75F5592"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.0:beta2:*:*:*:*:*:*",
+      "cpeNameId": "20325468-9BD8-4EA6-A5AA-B900B78E44E8"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.0:beta3:*:*:*:*:*:*",
+      "cpeNameId": "BD28E7F8-A940-4331-93D8-78543B67AD0D"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.0:beta4:*:*:*:*:*:*",
+      "cpeNameId": "535DF3DF-CE20-44DA-BE34-A978CD0A0C28"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.0:beta5:*:*:*:*:*:*",
+      "cpeNameId": "9D9C89CB-2E7C-45AA-85A5-599BE83185B9"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.0:rc1:*:*:*:*:*:*",
+      "cpeNameId": "EB3B3037-3577-434A-80A8-ED8E448C0E28"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.0:rc2:*:*:*:*:*:*",
+      "cpeNameId": "D970DC6E-2AA3-4B20-A32E-E58CE26D6FCD"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.0:rc3:*:*:*:*:*:*",
+      "cpeNameId": "7834313F-8850-4B0B-84E0-D60A225418A9"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.10:-:*:*:*:*:*:*",
+      "cpeNameId": "0B7A3854-EF31-4ED5-9FED-7C1886DF0B27"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.10:rc:*:*:*:*:*:*",
+      "cpeNameId": "17056F78-4E12-4A4C-93BF-CB569DF0E1F3"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.10:rc2:*:*:*:*:*:*",
+      "cpeNameId": "B266C813-EFB5-454D-8530-866E1D530E94"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.20:-:*:*:*:*:*:*",
+      "cpeNameId": "740E9609-4CBF-473B-9694-C7E22ED63E73"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.20:beta1:*:*:*:*:*:*",
+      "cpeNameId": "8793AF5F-8A30-4D86-9E59-5138594D2710"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.20:beta2:*:*:*:*:*:*",
+      "cpeNameId": "A09F4BD4-4711-460C-BB20-B59E4AAFFA27"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.20:rc:*:*:*:*:*:*",
+      "cpeNameId": "0B2E3C25-054C-4F09-B406-9619375007C8"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.20:rc2:*:*:*:*:*:*",
+      "cpeNameId": "A2401123-218E-4FE0-8CE3-41079E104251"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.21:-:*:*:*:*:*:*",
+      "cpeNameId": "81187091-17D6-4837-9C5E-BDF2CAE4C180"
+    },
+    {
+      "cpeName": "cpe:2.3:a:jetbrains:kotlin:2.0.21:rc:*:*:*:*:*:*",
+      "cpeNameId": "FDF93E2D-F027-4B73-B748-1937FC5FC8F8"
     }
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:dell:aiops_collector:1.10.17:*:*:*:*:*:*:*",
+  "cpeNameId": "D9F8678F-35B4-4E7A-89FB-61C88B2FCBC9",
+  "lastModified": "2026-08-07T13:55:12.640",
+  "created": "2026-08-07T13:55:12.640",
+  "titles": [
+    {
+      "title": "Dell AIOps Collector (Previously CloudIQ Collector) 1.10.17",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.dell.com/support/kbdoc/en-us/000304306/apex-aiops-observability-how-do-i-install-the-new-apex-aiops-observability-collector-v1-17-0",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.dell.com/support/kbdoc/en-in/000213696/dsa-2023-165-dell-cloudiq-collector-security-update-for-missing-encryption-of-sensitive-data-vulnerability?ref=emcadvisory_000213696_Medium_",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.dell.com/support/kbdoc/en-in/000477931/dsa-2026-231-security-update-for-dell-aiops-collector-for-default-credential-vulnerability",
+      "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:dell:cloudiq_collector:1.10.17:*:*:*:*:*:*:*",
+      "cpeNameId": "B14611DB-9524-4A62-8B5C-BE1168BDC9F3"
+    }
+  ]
+}

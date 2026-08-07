@@ -2,11 +2,11 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:apache:apache-airflow-providers-amazon:4.1.0:-:*:*:*:*:*:*",
   "cpeNameId": "D03F4CD1-11AB-4428-850E-002CEBBA892C",
-  "lastModified": "2023-05-22T14:30:28.910",
+  "lastModified": "2026-07-02T16:32:00.520",
   "created": "2023-03-06T16:37:15.217",
   "titles": [
     {
-      "title": "Apache Software Foundation Apache Airflow Providers Amazon 4.1.0",
+      "title": "Apache Airflow Providers Amazon (apache-airflow-providers-amazon) 4.1.0",
       "lang": "en"
     }
   ],
@@ -18,6 +18,20 @@
     {
       "ref": "https://airflow.apache.org/docs/apache-airflow-providers-amazon/stable/index.html#changelog",
       "type": "Version"
+    },
+    {
+      "ref": "https://pypi.org/project/apache-airflow-providers-amazon/#history",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/apache/airflow/tree/main/providers/amazon",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:apache:airflow_providers_amazon:4.1.0:-:*:*:*:*:*:*",
+      "cpeNameId": "8C7C8C59-AFA6-4171-B9D1-20AE84AC52EC"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:jsrsasign_project:jsrsasign:10.8.5:*:*:*:*:node.js:*:*",
   "cpeNameId": "6D68AA5D-457F-4205-B641-21571C0BCD04",
-  "lastModified": "2024-01-29T13:57:19.257",
+  "lastModified": "2026-06-22T03:18:31.867",
   "created": "2024-01-29T13:57:19.257",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/kjur/jsrsasign/tags",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:kjur:jsrsasign:10.8.5:*:*:*:*:node.js:*:*",
+      "cpeNameId": "5A291954-123A-4E55-AD84-F0E34FA104B0"
     }
   ]
 }

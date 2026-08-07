@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:strapi:strapi:3.0.0:beta11:*:*:*:*:*:*",
   "cpeNameId": "DAB90FC1-6DAF-4C13-B3CA-BE870E579CAE",
-  "lastModified": "2020-06-24T02:32:00.267",
+  "lastModified": "2026-07-02T16:08:00.757",
   "created": "2020-06-24T02:32:00.267",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://strapi.io/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:strapi:strapi:3.0.0:beta11:*:*:*:node.js:*:*",
+      "cpeNameId": "A8F1F851-3585-4700-B0FE-54408503082F"
     }
   ],
   "deprecates": [

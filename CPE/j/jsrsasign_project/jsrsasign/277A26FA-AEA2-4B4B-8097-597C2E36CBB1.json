@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:jsrsasign_project:jsrsasign:10.5.20:*:*:*:*:node.js:*:*",
   "cpeNameId": "277A26FA-AEA2-4B4B-8097-597C2E36CBB1",
-  "lastModified": "2022-07-12T13:08:10.930",
+  "lastModified": "2026-06-22T03:18:31.867",
   "created": "2022-07-11T16:20:47.707",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/kjur/jsrsasign/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:kjur:jsrsasign:10.5.20:*:*:*:*:node.js:*:*",
+      "cpeNameId": "0C6CCD88-465C-4E76-8C4A-0F8C25BE9D2E"
     }
   ]
 }

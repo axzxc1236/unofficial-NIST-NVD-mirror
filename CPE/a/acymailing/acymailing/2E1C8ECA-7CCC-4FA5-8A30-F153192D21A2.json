@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:acymailing:acymailing:8.1.0:*:*:*:*:joomla\\!:*:*",
   "cpeNameId": "2E1C8ECA-7CCC-4FA5-8A30-F153192D21A2",
-  "lastModified": "2023-04-06T13:19:54.037",
+  "lastModified": "2026-07-13T15:14:22.133",
   "created": "2023-04-04T17:56:44.230",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.bugbounty.ch/advisories/CVE-2023-28731",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:acymailing:acymailing:8.1.0:*:*:*:-:joomla\\!:*:*",
+      "cpeNameId": "27B65E34-C28D-44F9-B643-E4147889BAC1"
     }
   ]
 }

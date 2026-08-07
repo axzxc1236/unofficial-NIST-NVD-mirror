@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:fit2cloud:halo:1.5.0:*:*:*:*:*:*:*",
   "cpeNameId": "D34E6E31-921A-466D-9B43-07390858F5FF",
-  "lastModified": "2022-08-02T11:32:33.743",
+  "lastModified": "2026-07-02T15:27:29.507",
   "created": "2022-05-03T20:35:21.230",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/halo-dev/halo/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:fit2cloud:halo:1.5.0:-:*:*:*:*:*:*",
+      "cpeNameId": "C68C01B3-4DB3-4024-A983-AD7D9E8C76B4"
     }
   ]
 }

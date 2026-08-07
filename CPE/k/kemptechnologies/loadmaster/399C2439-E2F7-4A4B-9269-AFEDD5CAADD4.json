@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:kemptechnologies:loadmaster:7.0-7:*:*:*:*:*:*:*",
   "cpeNameId": "399C2439-E2F7-4A4B-9269-AFEDD5CAADD4",
-  "lastModified": "2020-01-13T17:51:07.607",
+  "lastModified": "2026-07-13T19:49:31.120",
   "created": "2020-01-13T17:51:07.607",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.fxc.jp/news/Product_Overview-LoadMaster_Release_Notes.pdf",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:progress:loadmaster:7.0-7:*:*:*:*:*:*:*",
+      "cpeNameId": "A56362D1-5A34-4CC1-BEE2-D4522F07F1A8"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:drupal:artificial_intelligence:1.0.0:alpha4:*:*:*:drupal:*:*",
   "cpeNameId": "8E45F065-3079-4989-9AFB-6D103AD6293F",
-  "lastModified": "2025-04-16T19:29:06.490",
+  "lastModified": "2026-07-16T15:21:36.193",
   "created": "2025-04-16T19:29:06.490",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.drupal.org/project/ai/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:artificial_intelligence_project:artificial_intelligence:1.0.0:alpha4:*:*:*:drupal:*:*",
+      "cpeNameId": "63D5F60E-3CA8-44A7-815C-06D72722EEFD"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gnu:ncurses:6.2:*:*:*:*:*:*:*",
   "cpeNameId": "0F9095FE-22C7-4443-97BB-E027065AA654",
-  "lastModified": "2021-02-01T13:13:40.497",
+  "lastModified": "2026-07-23T18:58:25.760",
   "created": "2021-02-01T13:13:40.497",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://invisible-island.net/ncurses/announce.html",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:invisible-island:ncurses:6.2:-:*:*:*:*:*:*",
+      "cpeNameId": "C4810A17-68D3-44BC-819C-0E7EC231400A"
     }
   ]
 }

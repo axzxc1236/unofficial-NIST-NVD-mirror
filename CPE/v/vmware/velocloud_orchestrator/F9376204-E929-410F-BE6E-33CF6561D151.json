@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:vmware:velocloud_orchestrator:3.3.2:patch2:*:*:*:*:*:*",
   "cpeNameId": "F9376204-E929-410F-BE6E-33CF6561D151",
-  "lastModified": "2020-08-03T17:08:31.233",
+  "lastModified": "2026-07-28T14:54:01.770",
   "created": "2020-08-03T17:08:31.233",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.vmware.com/security/advisories/VMSA-2020-0016.html",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:arista:velocloud_orchestrator:3.3.2:patch2:*:*:*:*:*:*",
+      "cpeNameId": "2CFC966D-BEF3-493C-8881-872CDB7C1BE0"
     }
   ]
 }

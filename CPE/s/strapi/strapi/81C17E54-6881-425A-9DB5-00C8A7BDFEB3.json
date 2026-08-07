@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:strapi:strapi:4.1.12:-:*:*:*:*:*:*",
   "cpeNameId": "81C17E54-6881-425A-9DB5-00C8A7BDFEB3",
-  "lastModified": "2022-11-09T20:55:24.030",
+  "lastModified": "2026-07-02T16:00:48.177",
   "created": "2022-07-23T01:46:46.343",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/strapi/strapi/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:strapi:strapi:4.1.12:*:*:*:*:node.js:*:*",
+      "cpeNameId": "896BD206-5562-4CAE-8E8C-69E3D5845F75"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:pivotal_software:spring_data_rest:3.1.0:rc1:*:*:*:*:*:*",
   "cpeNameId": "91B9D084-CA3E-468F-BF85-9F77474ADC22",
-  "lastModified": "2018-08-01T13:53:29.663",
+  "lastModified": "2026-06-26T18:44:14.703",
   "created": "2018-08-01T13:53:29.663",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://projects.spring.io/spring-data-rest/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:vmware:spring_data_rest:3.1.0:rc1:*:*:*:*:*:*",
+      "cpeNameId": "7884EC1B-F298-4F1E-83A7-74D9BB8C6803"
     }
   ]
 }

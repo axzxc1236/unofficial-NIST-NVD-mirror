@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:pivotal_software:spring_data_rest:2.6.12:*:*:*:*:*:*:*",
   "cpeNameId": "391E31E6-101B-4B3E-B2D1-E9C1E1249A05",
-  "lastModified": "2018-08-01T13:53:26.930",
+  "lastModified": "2026-06-26T18:44:14.703",
   "created": "2018-08-01T13:53:26.930",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://pivotal.io/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:vmware:spring_data_rest:2.6.12:*:*:*:*:*:*:*",
+      "cpeNameId": "1478D7E6-4007-4455-A8F0-3AFC1759A6EA"
     }
   ]
 }

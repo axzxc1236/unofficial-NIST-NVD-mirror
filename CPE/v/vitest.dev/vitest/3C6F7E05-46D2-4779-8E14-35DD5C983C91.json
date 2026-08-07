@@ -1,13 +1,33 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:vitest.dev:vitest:4.0.0beta7:beta7:*:*:*:node.js:*:*",
   "cpeNameId": "3C6F7E05-46D2-4779-8E14-35DD5C983C91",
-  "lastModified": "2025-09-10T19:31:01.393",
+  "lastModified": "2026-08-06T17:30:46.327",
   "created": "2025-09-10T19:31:01.393",
   "titles": [
     {
       "title": "Vitest.dev Vitest 4.0.0beta7 Beta 7 for Node.js",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.npmjs.com/package/vitest?activeTab=versions",
+      "type": "Version"
+    },
+    {
+      "ref": "https://vitest.dev/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/vitest-dev/vitest/tags",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:vitest.dev:vitest:4.0.0:beta7:*:*:*:node.js:*:*",
+      "cpeNameId": "1C8E4E25-EC57-460E-82E8-FD1204D7BCD7"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gnu:ncurses:-:*:*:*:*:*:*:*",
   "cpeNameId": "2E15C972-6BE6-49B9-BAD7-86119ACECF2A",
-  "lastModified": "2024-07-31T16:10:33.880",
+  "lastModified": "2026-07-23T18:58:25.760",
   "created": "2024-07-31T16:10:33.880",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://ftp.gnu.org/gnu/ncurses/",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:invisible-island:ncurses:-:*:*:*:*:*:*:*",
+      "cpeNameId": "54C40B3E-9927-49CA-A252-9CA8E8465F38"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:python:pyxml:-:*:*:*:*:*:*:*",
   "cpeNameId": "FA8F98AA-E4E8-4269-85B8-76F7666C4159",
-  "lastModified": "2021-07-15T15:40:10.083",
+  "lastModified": "2026-07-20T14:35:41.700",
   "created": "2019-11-25T19:49:42.557",
   "titles": [
     {
@@ -14,6 +14,24 @@
     {
       "ref": "https://sourceforge.net/projects/pyxml/",
       "type": "Product"
+    },
+    {
+      "ref": "https://www.python.org/community/sigs/current/xml-sig/",
+      "type": "Project"
+    },
+    {
+      "ref": "https://pyxml.sourceforge.net/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://pyxml.sourceforge.net/topics/",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:a_m_kuchling:pyxml:-:*:*:*:*:*:*:*",
+      "cpeNameId": "6784F00C-203A-4C45-9FEE-3DBDC1A51F78"
     }
   ]
 }

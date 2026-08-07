@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:misp:misp:2.5.9:*:*:*:*:*:*:*",
   "cpeNameId": "A3ED22D3-CB2A-46D5-8A26-DAC1DBFEBE35",
-  "lastModified": "2026-04-14T20:29:17.603",
+  "lastModified": "2026-06-22T19:23:18.580",
   "created": "2026-04-14T20:29:17.603",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.misp-project.org/",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:misp-project:misp:2.5.9:*:*:*:*:*:*:*",
+      "cpeNameId": "768AD774-AFEE-4AD9-BB23-50CB4A18CFB1"
     }
   ]
 }

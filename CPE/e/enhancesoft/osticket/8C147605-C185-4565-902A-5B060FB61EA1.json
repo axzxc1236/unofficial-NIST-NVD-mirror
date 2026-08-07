@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:enhancesoft:osticket:1.12.1:*:*:*:*:*:*:*",
   "cpeNameId": "8C147605-C185-4565-902A-5B060FB61EA1",
-  "lastModified": "2020-05-05T13:21:13.327",
+  "lastModified": "2026-07-10T18:20:35.780",
   "created": "2020-05-05T13:21:13.327",
   "titles": [
     {
@@ -12,16 +12,26 @@
   ],
   "refs": [
     {
-      "ref": "https://github.com/osTicket/osTicket/releases",
-      "type": "Change Log"
-    },
-    {
       "ref": "https://osticket.com/",
       "type": "Vendor"
     },
     {
       "ref": "https://enhancesoft.com/",
       "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/osTicket/osTicket",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/osTicket/osTicket/tags",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:osticket:osticket:1.12.1:*:*:*:*:*:*:*",
+      "cpeNameId": "C9AE3C6E-FBAC-4EA5-9D3D-1593303EC9BA"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:misp-project:misp:2.4.167:*:*:*:*:*:*:*",
   "cpeNameId": "C7B082E2-452E-4B19-9D3F-545AB2767A80",
-  "lastModified": "2024-04-23T11:56:54.000",
+  "lastModified": "2026-06-23T13:42:00.707",
   "created": "2024-04-23T11:56:54.000",
   "titles": [
     {
-      "title": "MISP Project MISP 2.4.167",
+      "title": "MISP Project MISP (Malware Information Sharing Platform) 2.4.167",
       "lang": "en"
     }
   ],
@@ -16,8 +16,22 @@
       "type": "Vendor"
     },
     {
-      "ref": "https://github.com/MISP/MISP/releases/tag/v2.4.139",
-      "type": "Change Log"
+      "ref": "https://github.com/MISP/MISP",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/MISP/MISP/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:misp:misp:2.4.167:*:*:*:*:*:*:*",
+      "cpeNameId": "8874E3BE-7BB2-4C00-AF7D-CDE460F1D79B"
+    },
+    {
+      "cpeName": "cpe:2.3:a:misp-project:malware_information_sharing_platform:2.4.167:*:*:*:*:*:*:*",
+      "cpeNameId": "82411511-04C2-4DD1-B7E8-9221D0E45221"
     }
   ]
 }

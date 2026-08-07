@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gnu:ncurses:6.3:-:*:*:*:*:*:*",
   "cpeNameId": "D6FEBFD8-C675-44C7-A969-4C456D539DED",
-  "lastModified": "2022-09-03T03:59:50.990",
+  "lastModified": "2026-07-23T18:58:25.760",
   "created": "2022-04-26T15:15:28.640",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/mirror/ncurses/tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:invisible-island:ncurses:6.3:-:*:*:*:*:*:*",
+      "cpeNameId": "C623B38D-512D-4FEF-B34D-12CAA39BFBFA"
     }
   ]
 }

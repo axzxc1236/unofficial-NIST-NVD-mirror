@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:hp:laserjet_pro_mfp_m478-m479_w1a81a_firmware:002_2310a:*:*:*:*:*:*:*",
   "cpeNameId": "43FD765A-DB1B-415F-AE1A-97C73A3E85EF",
-  "lastModified": "2023-05-09T17:12:56.497",
+  "lastModified": "2026-06-25T17:22:59.120",
   "created": "2023-05-09T14:25:02.057",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://support.hp.com/us-en/document/ish_7920137-7920161-16/hpsbpi03841",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:hp:w1a81a_firmware:002_2310a:*:*:*:*:*:*:*",
+      "cpeNameId": "FCA80B77-8255-4308-961A-584381BA0059"
     }
   ]
 }

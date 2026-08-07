@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:retro_basketball_shoes_online_store_project:retro_basketball_shoes_online_store:1.0:*:*:*:*:*:*:*",
   "cpeNameId": "E90C399A-C500-4684-8166-06C0D280E846",
-  "lastModified": "2023-09-07T17:28:27.467",
+  "lastModified": "2026-07-31T18:26:49.717",
   "created": "2023-04-26T12:08:21.127",
   "titles": [
     {
@@ -12,12 +12,18 @@
   ],
   "refs": [
     {
-      "ref": "https://www.campcodes.com/projects/php/retro-basketball-shoes-online-store-in-php-mysql/",
-      "type": "Project"
-    },
-    {
       "ref": "https://vuldb.com/?id.226973",
       "type": "Advisory"
+    },
+    {
+      "ref": "https://www.campcodes.com/projects/php/retro-basketball-shoes-online-store-in-php-mysql/",
+      "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:campcodes:retro_basketball_shoes_online_store:1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "0F740D6D-753A-4BF8-9466-568246611E7D"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:stylemixthemes:motors_-_car_dealer\\,_classifieds_\\&_listing:1.4.6:*:*:*:*:wordpress:*:*",
   "cpeNameId": "B7A64044-8B92-4FDB-B9BA-7904CE6A0756",
-  "lastModified": "2023-11-25T03:54:19.637",
+  "lastModified": "2026-07-17T16:54:20.847",
   "created": "2023-11-25T03:54:19.637",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://patchstack.com/database/vulnerability/motors-car-dealership-classified-listings/wordpress-motors-car-dealer-classifieds-listing-plugin-1-4-6-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:stylemixthemes:motors_-_car_dealer\\,_classifieds_\\&_listing:1.4.6:*:*:*:starter:wordpress:*:*",
+      "cpeNameId": "C97DB197-3C55-466F-A3F8-4B5A84BE91A8"
     }
   ]
 }

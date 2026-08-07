@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:getk2:k2:-:*:*:*:*:joomla\\!:*:*",
   "cpeNameId": "9E09E74A-01EB-4177-816E-1591F1FC596F",
-  "lastModified": "2020-01-14T16:17:03.470",
+  "lastModified": "2026-06-26T14:53:03.707",
   "created": "2020-01-14T16:17:03.470",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.joomlaworks.net/forum/k2-en/51381-after-update-to-2-10-1-the-pics-in-the-k2-module-are-blown-with-the-wind",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:joomlaworks:k2:-:*:*:*:*:joomla\\!:*:*",
+      "cpeNameId": "C8DD5971-AE35-417A-AD18-B9B38050EE09"
     }
   ]
 }

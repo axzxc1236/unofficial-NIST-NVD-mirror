@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:strapi:strapi:4.7.1:*:*:*:*:*:*:*",
   "cpeNameId": "C4FC9FDB-87B2-4980-BD36-C6D8EC760830",
-  "lastModified": "2023-05-09T12:35:02.540",
+  "lastModified": "2026-07-02T15:51:41.117",
   "created": "2023-04-26T11:51:00.040",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.ghostccamm.com/blog/multi_strapi_vulns/#cve-2023-22621-ssti-to-rce-by-exploiting-email-templates-in-strapi-versions-455",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:strapi:strapi:4.7.1:*:*:*:*:node.js:*:*",
+      "cpeNameId": "83DD417C-278D-49C2-8235-2879E4D57329"
     }
   ]
 }

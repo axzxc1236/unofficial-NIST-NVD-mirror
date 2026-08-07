@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:artificial_intelligence_project:artificial_intelligence:1.0.4:*:*:*:*:drupal:*:*",
   "cpeNameId": "1D3F3452-6310-42D8-8A1F-D788A17B2DC7",
-  "lastModified": "2025-06-17T17:27:10.060",
+  "lastModified": "2026-07-16T15:21:36.193",
   "created": "2025-06-17T17:27:10.060",
   "titles": [
     {
@@ -12,12 +12,18 @@
   ],
   "refs": [
     {
-      "ref": "https://www.drupal.org/sa-contrib-2025-004",
-      "type": "Advisory"
-    },
-    {
       "ref": "https://www.drupal.org/project/ai/releases",
       "type": "Change Log"
+    },
+    {
+      "ref": "https://www.drupal.org/project/ai",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:drupal:artificial_intelligence:1.0.4:*:*:*:*:drupal:*:*",
+      "cpeNameId": "284E5A70-4A0B-4B1E-AD7A-6E918D516EDA"
     }
   ]
 }

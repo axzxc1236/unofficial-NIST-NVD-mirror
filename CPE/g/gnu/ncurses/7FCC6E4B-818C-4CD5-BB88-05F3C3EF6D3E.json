@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gnu:ncurses:6.1.20180414:*:*:*:*:*:*:*",
   "cpeNameId": "7FCC6E4B-818C-4CD5-BB88-05F3C3EF6D3E",
-  "lastModified": "2019-08-07T19:06:27.697",
+  "lastModified": "2026-07-27T13:43:06.743",
   "created": "2019-08-07T19:06:27.697",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://bugzilla.redhat.com/show_bug.cgi?id=1566575",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:invisible-island:ncurses:6.1:20180414:*:*:*:*:*:*",
+      "cpeNameId": "72EC35EA-AD3E-436A-BFEC-20AEA3C381D8"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:jose_project:jose:2.0.5:*:*:*:*:node.js:*:*",
   "cpeNameId": "33E98157-CC98-4E02-8068-DED6A3C9071F",
-  "lastModified": "2021-04-22T14:15:06.603",
+  "lastModified": "2026-06-22T03:10:06.180",
   "created": "2021-04-22T12:30:23.793",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/panva/jose/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:panva:jose:2.0.5:*:*:*:*:node.js:*:*",
+      "cpeNameId": "7A5931A2-8716-406B-ABFC-2AD585F577D5"
     }
   ]
 }

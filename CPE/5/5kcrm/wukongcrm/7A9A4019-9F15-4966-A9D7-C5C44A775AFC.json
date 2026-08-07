@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:5kcrm:wukongcrm:9.0:*:*:*:java:*:*:*",
   "cpeNameId": "7A9A4019-9F15-4966-A9D7-C5C44A775AFC",
-  "lastModified": "2025-11-19T13:53:54.027",
+  "lastModified": "2026-07-14T15:06:01.100",
   "created": "2025-11-19T13:53:54.027",
   "titles": [
     {
@@ -14,6 +14,20 @@
     {
       "ref": "https://github.com/Aiyakami/CVE-1/issues/6",
       "type": "Advisory"
+    },
+    {
+      "ref": "https://www.5kcrm.com/upgrade_log",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/WuKongOpenSource/WukongCRM-9.0-JAVA",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:5kcrm:wukong_crm:9.0:*:*:*:java:*:*:*",
+      "cpeNameId": "95D21A36-7DD1-459D-A315-75809EF1F8E7"
     }
   ]
 }

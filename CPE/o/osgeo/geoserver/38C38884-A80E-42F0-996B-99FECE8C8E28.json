@@ -1,13 +1,37 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:osgeo:geoserver:2.25.0:*:*:*:*:*:*:*",
   "cpeNameId": "38C38884-A80E-42F0-996B-99FECE8C8E28",
-  "lastModified": "2025-08-27T19:16:15.807",
+  "lastModified": "2026-06-18T18:46:43.197",
   "created": "2025-08-27T19:16:15.807",
   "titles": [
     {
       "title": "OSGeo GeoServer 2.25.0",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.osgeo.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "http://geoserver.org/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/geoserver/geoserver/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/geoserver/geoserver",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:osgeo:geoserver:2.25.0:-:*:*:*:*:*:*",
+      "cpeNameId": "64811E0F-116E-4180-B087-EC04DBB1DEDF"
     }
   ]
 }

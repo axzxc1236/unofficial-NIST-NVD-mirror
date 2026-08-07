@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:vmware:velocloud_orchestrator:3.3.1:*:*:*:*:*:*:*",
   "cpeNameId": "B6DC915E-B021-4B52-A5A1-8639CD7C2D68",
-  "lastModified": "2020-08-03T17:08:31.030",
+  "lastModified": "2026-07-28T14:54:01.770",
   "created": "2020-08-03T17:08:31.030",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://my.vmware.com/web/vmware/downloads/info/slug/networking_security/vmware_sd_wan/3_1_1#product_downloads",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:arista:velocloud_orchestrator:3.3.1:*:*:*:*:*:*:*",
+      "cpeNameId": "BE5C9242-DA19-444C-9889-1C074A31AF4E"
     }
   ]
 }

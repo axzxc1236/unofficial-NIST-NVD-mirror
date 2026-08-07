@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:adobe:campaign:8.1.14:*:*:*:classic:*:*:*",
   "cpeNameId": "49D01180-05D5-4882-8110-362FA4608D96",
-  "lastModified": "2022-12-21T20:43:40.753",
+  "lastModified": "2026-08-06T14:48:20.837",
   "created": "2022-12-19T17:39:12.133",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:adobe:campaign:8.1.14:*:*:*:-:*:*:*",
+      "cpeNameId": "42092B94-54DC-497B-AC3F-3741064E2213"
     }
   ]
 }

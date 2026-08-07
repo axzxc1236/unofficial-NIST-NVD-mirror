@@ -2,11 +2,11 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:dell:recoverpoint_for_virtual_machines:5.2.0.2:*:*:*:*:*:*:*",
   "cpeNameId": "8DC030FA-A090-4B39-89D9-631C8A603123",
-  "lastModified": "2020-05-28T14:53:28.880",
+  "lastModified": "2026-07-10T14:57:26.683",
   "created": "2020-05-28T14:53:28.880",
   "titles": [
     {
-      "title": "Dell Recoverpoint For Virtual Machines 5.2.0.2",
+      "title": "Dell RecoverPoint for Virtual Machines 5.2.0.2",
       "lang": "en"
     }
   ],
@@ -18,6 +18,16 @@
     {
       "ref": "https://www.dell.com/support/security/en-us/details/533842/DSA-2019-078-Dell-EMC-RecoverPoint-OS-Command-Injection-Vulnerability",
       "type": "Advisory"
+    },
+    {
+      "ref": "https://www.dell.com/support/product-details/en-us/product/recoverpoint-for-virtual-machines/drivers",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:emc:recoverpoint_for_virtual_machines:5.2.0.2:*:*:*:*:*:*:*",
+      "cpeNameId": "36ACC701-236D-43EB-8B68-C352E5E2E4DD"
     }
   ]
 }

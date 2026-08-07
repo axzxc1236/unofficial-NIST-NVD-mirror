@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:snowflake:snowflake-connector-python:-:*:*:*:*:*:*:*",
   "cpeNameId": "DEBB7AD9-2E0C-432D-A04B-B21E3956FCA9",
-  "lastModified": "2023-02-21T17:43:46.510",
+  "lastModified": "2026-07-10T19:56:30.077",
   "created": "2022-11-10T11:19:32.233",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.snowflake.com/en/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:snowflake:snowflake_connector:-:*:*:*:*:python:*:*",
+      "cpeNameId": "9863AEBE-F4C1-4070-8A05-6DCB65E2786D"
     }
   ]
 }
