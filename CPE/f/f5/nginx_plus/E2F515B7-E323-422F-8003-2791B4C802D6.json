@@ -1,13 +1,29 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:f5:nginx_plus:r34:p1:*:*:*:*:*:*",
   "cpeNameId": "E2F515B7-E323-422F-8003-2791B4C802D6",
-  "lastModified": "2025-10-21T17:06:20.100",
+  "lastModified": "2026-08-10T19:57:17.833",
   "created": "2025-10-21T17:06:20.100",
   "titles": [
     {
       "title": "F5 NGINX Plus R34 Patch 1",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://my.f5.com/manage/s/article/K000152786",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://docs.nginx.com/nginx/releases/",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:f5:nginx_plus:r34:p1:*:*:continuous_releases:*:*:*",
+      "cpeNameId": "6E4FC0FD-8B6C-4840-AB9B-BE079113D5C4"
     }
   ]
 }

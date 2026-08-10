@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:f5:nginx_plus:r22:*:*:*:*:*:*:*",
   "cpeNameId": "680DF1A2-275A-4F50-A70D-75B5B8524B7C",
-  "lastModified": "2022-10-24T13:32:36.910",
+  "lastModified": "2026-08-10T19:57:17.833",
   "created": "2022-10-22T01:11:01.240",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.f5.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:f5:nginx_plus:r22:*:*:*:continuous_releases:*:*:*",
+      "cpeNameId": "6A1B1174-5771-4F43-9B95-7E48DD65102B"
     }
   ]
 }

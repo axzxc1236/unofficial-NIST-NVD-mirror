@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:f5:nginx_plus:r32:p4:*:*:*:*:*:*",
   "cpeNameId": "9D09589E-8532-473A-AB64-DAD68A87F7FA",
-  "lastModified": "2026-06-26T14:30:25.353",
+  "lastModified": "2026-08-10T19:57:17.833",
   "created": "2026-06-26T14:30:25.353",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://my.f5.com/manage/s/article/K000160367",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:f5:nginx_plus:r32:p4:*:*:continuous_releases:*:*:*",
+      "cpeNameId": "62CF0897-CF02-4D69-8D38-055436A08B3E"
     }
   ]
 }

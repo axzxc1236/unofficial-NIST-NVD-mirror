@@ -1,13 +1,29 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:f5:nginx_plus:r33:-:*:*:*:*:*:*",
   "cpeNameId": "92AECE80-0A31-4925-B574-9422A3DB0FBD",
-  "lastModified": "2025-10-21T17:06:20.100",
+  "lastModified": "2026-08-10T19:57:17.833",
   "created": "2025-10-21T17:06:20.100",
   "titles": [
     {
       "title": "F5 NGINX Plus R33",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://my.f5.com/manage/s/article/K000152786",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://docs.nginx.com/nginx/releases/",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:f5:nginx_plus:r33:-:*:*:continuous_releases:*:*:*",
+      "cpeNameId": "3B893DC2-0AF6-4FAF-976D-D86F8F9A8516"
     }
   ]
 }

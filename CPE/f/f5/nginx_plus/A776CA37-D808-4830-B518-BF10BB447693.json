@@ -1,13 +1,29 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:f5:nginx_plus:r32:p2:*:*:*:*:*:*",
   "cpeNameId": "A776CA37-D808-4830-B518-BF10BB447693",
-  "lastModified": "2025-10-21T17:06:20.100",
+  "lastModified": "2026-08-10T19:57:17.833",
   "created": "2025-10-21T17:06:20.100",
   "titles": [
     {
       "title": "F5 NGINX Plus R32 Patch 2",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://docs.nginx.com/nginx/releases/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://my.f5.com/manage/s/article/K000152786",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:f5:nginx_plus:r32:p2:*:*:continuous_releases:*:*:*",
+      "cpeNameId": "ADCD9B02-F388-46FF-B5BE-821141FC40D8"
     }
   ]
 }

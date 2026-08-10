@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:microsoft:open_management_infrastructure:-:*:*:*:*:*:*:*",
   "cpeNameId": "3A348A9F-08DD-43FD-9EF5-2456DE1C8070",
-  "lastModified": "2022-10-31T18:33:17.617",
+  "lastModified": "2026-08-10T19:29:08.383",
   "created": "2022-08-10T15:36:53.293",
   "titles": [
     {
@@ -14,6 +14,16 @@
     {
       "ref": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-33640",
       "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/microsoft/omi",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:azure_open_management_infrastructure:-:*:*:*:*:*:*:*",
+      "cpeNameId": "1C83686E-D6BC-4773-A4DA-C57CBBCBD1F1"
     }
   ]
 }

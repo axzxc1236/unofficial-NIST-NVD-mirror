@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:f5:nginx_plus:r30:p2:*:*:*:*:*:*",
   "cpeNameId": "5CF33CA9-5712-4ECB-87E7-C58BF86F9348",
-  "lastModified": "2024-08-29T15:40:02.280",
+  "lastModified": "2026-08-10T19:57:17.833",
   "created": "2024-08-29T15:40:02.280",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.f5.com/company/blog/nginx/updating-nginx-for-the-vulnerabilities-in-the-http-3-module",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:f5:nginx_plus:r30:p2:*:*:continuous_releases:*:*:*",
+      "cpeNameId": "9DD69DED-6968-4B82-BB41-FDA3E3E387B6"
     }
   ]
 }

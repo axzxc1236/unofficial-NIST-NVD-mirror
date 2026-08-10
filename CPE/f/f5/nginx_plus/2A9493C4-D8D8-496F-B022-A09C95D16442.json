@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:f5:nginx_plus:r29:-:*:*:*:*:*:*",
   "cpeNameId": "2A9493C4-D8D8-496F-B022-A09C95D16442",
-  "lastModified": "2023-10-18T15:52:30.480",
+  "lastModified": "2026-08-10T19:57:17.833",
   "created": "2023-10-18T15:52:30.480",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://docs.nginx.com/nginx/releases/#support-for-current-and-previous-releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:f5:nginx_plus:r29:-:*:*:continuous_releases:*:*:*",
+      "cpeNameId": "51B7D50A-54E9-4C31-AED5-DE179A1BBA59"
     }
   ]
 }
