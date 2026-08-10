@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:f5:nginx_ingress_controller:3.1.1:*:*:*:*:*:*:*",
   "cpeNameId": "3EE0C222-7CBB-4EC5-BF6B-35AC064EFA26",
-  "lastModified": "2025-04-16T11:44:48.313",
+  "lastModified": "2026-08-10T15:46:02.983",
   "created": "2025-04-16T11:44:48.313",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.nginx.com/products/nginx-ingress-controller/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:f5:nginx_ingress_controller:3.1.1:*:*:*:continuous_releases:*:*:*",
+      "cpeNameId": "A2F81FB4-E314-4FFD-99C9-696AB4FA69D6"
     }
   ]
 }

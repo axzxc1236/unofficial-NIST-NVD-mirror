@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:f5:nginx_ingress_controller:5.5.1:*:*:*:*:*:*:*",
   "cpeNameId": "81FFC199-C0BA-4608-AC40-5B2A8773440E",
-  "lastModified": "2026-06-18T14:50:39.990",
+  "lastModified": "2026-08-10T15:46:02.983",
   "created": "2026-06-18T14:50:39.990",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/nginx/kubernetes-ingress/tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:f5:nginx_ingress_controller:5.5.1:*:*:*:continuous_releases:*:*:*",
+      "cpeNameId": "E1994B82-7117-49DD-A846-AAC9DD15D68A"
     }
   ]
 }

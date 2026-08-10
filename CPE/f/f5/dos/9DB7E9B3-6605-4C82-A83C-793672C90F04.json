@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:f5:dos:4.7.0:*:*:*:*:nginx:*:*",
   "cpeNameId": "9DB7E9B3-6605-4C82-A83C-793672C90F04",
-  "lastModified": "2026-06-18T14:38:31.350",
+  "lastModified": "2026-08-10T15:31:07.533",
   "created": "2026-06-18T14:38:31.350",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://my.f5.com/manage/s/article/K000161028",
       "type": "Advisory"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:f5:nginx_dos:4.7.0:*:*:*:*:*:*:*",
+      "cpeNameId": "E83BDCC8-6EE2-47EF-A575-C79615AEFBCA"
     }
   ]
 }
