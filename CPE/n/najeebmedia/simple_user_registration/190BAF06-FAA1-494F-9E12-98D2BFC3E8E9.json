@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:najeebmedia:simple_user_registration:5.5:*:*:*:*:wordpress:*:*",
   "cpeNameId": "190BAF06-FAA1-494F-9E12-98D2BFC3E8E9",
-  "lastModified": "2025-04-23T17:45:45.793",
+  "lastModified": "2026-08-11T14:08:28.033",
   "created": "2025-04-23T17:45:45.793",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://patchstack.com/database/vulnerability/wp-registration/wordpress-simple-user-registration-plugin-5-5-account-takeover-vulnerability?_s_id=cve",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:najeebmedia:memberhero:5.5:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "F1199F99-B496-4A59-8324-B7D906544565"
     }
   ]
 }
