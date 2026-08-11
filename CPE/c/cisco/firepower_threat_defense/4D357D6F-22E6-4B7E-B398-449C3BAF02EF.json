@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:cisco:firepower_threat_defense:6.5.0:*:*:*:*:*:*:*",
   "cpeNameId": "4D357D6F-22E6-4B7E-B398-449C3BAF02EF",
-  "lastModified": "2025-07-18T15:34:55.400",
+  "lastModified": "2026-08-11T19:42:47.633",
   "created": "2025-07-18T15:34:55.400",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-xss-multiple-FCB3vPZe",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:secure_firewall_threat_defense:6.5.0:*:*:*:*:*:*:*",
+      "cpeNameId": "398B91B6-1BAB-47FC-9A6C-D07982CB0347"
     }
   ]
 }

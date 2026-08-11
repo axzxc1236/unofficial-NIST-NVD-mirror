@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cisco:firepower_threat_defense_software:7.4.2.1:*:*:*:*:*:*:*",
   "cpeNameId": "EB71D65B-6565-4EEF-BDA4-455AAE32F989",
-  "lastModified": "2026-05-20T12:35:34.903",
+  "lastModified": "2026-08-11T19:40:47.230",
   "created": "2026-05-20T12:35:34.903",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://software.cisco.com/download/home/286322194/type/286306337/release/7.6.4",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:secure_firewall_threat_defense:7.4.2.1:*:*:*:*:*:*:*",
+      "cpeNameId": "EA9BDC5D-F7B0-4803-972C-4A74CA20E8E7"
     }
   ]
 }

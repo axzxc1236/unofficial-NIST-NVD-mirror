@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cisco:firepower_threat_defense_software:10.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "D6A1B7D5-DFF7-4939-8B5D-16BB5F68E8E0",
-  "lastModified": "2026-05-20T12:35:34.903",
+  "lastModified": "2026-08-11T19:40:47.230",
   "created": "2026-05-20T12:35:34.903",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.cisco.com/c/en/us/support/security/firepower-ngfw/products-release-notes-list.html",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:secure_firewall_threat_defense:10.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "8C8209DD-0196-425F-9BB0-0088DA569BA5"
     }
   ]
 }
