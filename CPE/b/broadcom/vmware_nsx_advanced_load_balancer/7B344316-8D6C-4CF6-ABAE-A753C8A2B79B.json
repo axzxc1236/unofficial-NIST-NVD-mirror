@@ -1,13 +1,25 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:broadcom:vmware_nsx_advanced_load_balancer:31.1:*:*:*:*:*:*:*",
   "cpeNameId": "7B344316-8D6C-4CF6-ABAE-A753C8A2B79B",
-  "lastModified": "2025-08-14T01:48:52.850",
+  "lastModified": "2026-08-13T15:02:28.903",
   "created": "2025-08-14T01:48:52.850",
   "titles": [
     {
       "title": "Broadcom Vmware Nsx Advanced Load Balancer 31.1",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://techdocs.broadcom.com/us/en/vmware-security-load-balancing/avi-load-balancer/avi-load-balancer/31-1/support-for-nsx-segments-spanning-multiple-vds-in-vcenter-cloud.html",
+      "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:broadcom:vmware_avi_load_balancer:31.1:*:*:*:*:*:*:*",
+      "cpeNameId": "A934A151-CE74-4AB9-BFF3-30F4429A401D"
     }
   ]
 }
