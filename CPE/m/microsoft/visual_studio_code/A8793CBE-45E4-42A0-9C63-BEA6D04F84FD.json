@@ -1,0 +1,33 @@
+{
+  "deprecated": true,
+  "cpeName": "cpe:2.3:a:microsoft:visual_studio_code:1.132.1:*:*:*:*:*:*:*",
+  "cpeNameId": "A8793CBE-45E4-42A0-9C63-BEA6D04F84FD",
+  "lastModified": "2026-08-14T13:37:06.550",
+  "created": "2026-08-14T13:33:59.480",
+  "titles": [
+    {
+      "title": "Microsoft Visual Studio Code 1.132.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/microsoft/vscode/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://code.visualstudio.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70336",
+      "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:visual_studio_code:1.132.1:*:*:*:*:-:*:*",
+      "cpeNameId": "3921AFCB-BD36-46A7-BF48-554ECA305670"
+    }
+  ]
+}
