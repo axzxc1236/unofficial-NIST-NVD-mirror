@@ -2,18 +2,28 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:tenable:security_center:-:*:*:*:*:*:*:*",
   "cpeNameId": "5BE60FCB-940C-4D1F-B1C0-C1162062A977",
-  "lastModified": "2023-09-02T02:38:23.107",
+  "lastModified": "2026-08-17T14:50:49.470",
   "created": "2023-07-05T14:43:18.610",
   "titles": [
     {
-      "title": "Tenable Security Center -",
+      "title": "Tenable Security Center",
       "lang": "en"
     }
   ],
   "refs": [
     {
-      "ref": "https://www.tenable.com/security/tns-2023-21",
-      "type": "Advisory"
+      "ref": "https://www.tenable.com/products/security-center",
+      "type": "Product"
+    },
+    {
+      "ref": "https://docs.tenable.com/release-notes/Content/security-center/tenablesc.htm",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:tenable:securitycenter:-:*:*:*:*:*:*:*",
+      "cpeNameId": "8AB68A8F-2DD5-4D67-B814-120E8171855C"
     }
   ]
 }

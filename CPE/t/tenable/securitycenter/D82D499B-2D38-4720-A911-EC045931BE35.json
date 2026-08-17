@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:tenable:securitycenter:5.19.0:*:*:*:*:*:*:*",
   "cpeNameId": "D82D499B-2D38-4720-A911-EC045931BE35",
-  "lastModified": "2023-01-06T14:08:16.053",
+  "lastModified": "2026-08-17T14:50:49.470",
   "created": "2022-11-09T17:58:20.867",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.tenable.com/products/securitycenter",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:tenable:security_center:5.19.0:*:*:*:*:*:*:*",
+      "cpeNameId": "4637FC46-6AB7-4189-8E21-6E5824A091F4"
     }
   ]
 }

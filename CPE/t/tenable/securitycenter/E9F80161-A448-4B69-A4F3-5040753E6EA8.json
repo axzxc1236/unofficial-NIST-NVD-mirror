@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:tenable:securitycenter:5.7.0:*:*:*:*:*:*:*",
   "cpeNameId": "E9F80161-A448-4B69-A4F3-5040753E6EA8",
-  "lastModified": "2019-06-27T13:56:16.807",
+  "lastModified": "2026-08-17T14:50:49.470",
   "created": "2019-06-27T13:56:16.807",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://docs.tenable.com/releasenotes/securitycenter/securitycenter570.htm",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:tenable:security_center:5.7.0:*:*:*:*:*:*:*",
+      "cpeNameId": "ABE7C1A4-1B42-49A9-9BC3-22CA9DBE2A8C"
     }
   ]
 }

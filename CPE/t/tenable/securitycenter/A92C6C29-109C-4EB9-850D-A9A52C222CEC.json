@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:tenable:securitycenter:5.5.0:*:*:*:*:*:*:*",
   "cpeNameId": "A92C6C29-109C-4EB9-850D-A9A52C222CEC",
-  "lastModified": "2019-07-15T15:53:16.117",
+  "lastModified": "2026-08-17T14:50:49.470",
   "created": "2019-07-15T15:53:16.117",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.tenable.com/security/tns-2017-13",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:tenable:security_center:5.5.0:*:*:*:*:*:*:*",
+      "cpeNameId": "21B7D5FC-206A-415F-8EC5-2D984FBF80B7"
     }
   ]
 }
