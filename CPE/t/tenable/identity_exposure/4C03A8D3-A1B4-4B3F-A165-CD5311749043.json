@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:tenable:identity_exposure:-:*:*:*:*:*:*:*",
   "cpeNameId": "4C03A8D3-A1B4-4B3F-A165-CD5311749043",
-  "lastModified": "2026-05-19T17:55:53.370",
+  "lastModified": "2026-08-17T18:30:28.270",
   "created": "2026-05-19T17:55:53.370",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.tenable.com/security/tns-2024-04",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:tenable:identity_exposure:-:*:*:*:on-premises:*:*:*",
+      "cpeNameId": "060D748C-1A99-4C5F-ADCB-3C27BFF2245F"
     }
   ]
 }
