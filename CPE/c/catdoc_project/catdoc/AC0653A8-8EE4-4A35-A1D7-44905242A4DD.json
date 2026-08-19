@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:catdoc_project:catdoc:0.95:*:*:*:*:*:*:*",
   "cpeNameId": "AC0653A8-8EE4-4A35-A1D7-44905242A4DD",
-  "lastModified": "2023-12-29T10:51:47.557",
+  "lastModified": "2026-08-19T17:05:12.700",
   "created": "2023-12-29T10:51:47.557",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/petewarden/catdoc",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:fossies:catdoc:0.95:*:*:*:*:*:*:*",
+      "cpeNameId": "B643EE87-2B06-43B6-854B-94BB99395298"
     }
   ]
 }

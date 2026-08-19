@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:rand_project:rand:0.3.13:*:*:*:*:*:*:*",
   "cpeNameId": "8B45B2F9-CE29-4200-8EDF-84064CD5477F",
-  "lastModified": "2020-09-15T14:06:53.590",
+  "lastModified": "2026-08-19T19:21:55.070",
   "created": "2020-09-15T14:06:53.590",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://rustsec.org/advisories/RUSTSEC-2019-0035.html",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:rust-random:rand:0.3.13:*:*:*:*:rust:*:*",
+      "cpeNameId": "AD0E8B91-A1DD-4CCB-8BF5-A1C773053D34"
     }
   ]
 }

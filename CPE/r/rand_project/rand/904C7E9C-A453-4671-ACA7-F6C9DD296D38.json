@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:rand_project:rand:0.5.0:-:*:*:*:*:*:*",
   "cpeNameId": "904C7E9C-A453-4671-ACA7-F6C9DD296D38",
-  "lastModified": "2020-09-15T14:06:56.623",
+  "lastModified": "2026-08-19T19:21:55.070",
   "created": "2020-09-15T14:06:56.623",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://crates.io/crates/rand/versions",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:rust-random:rand:0.5.0:-:*:*:*:rust:*:*",
+      "cpeNameId": "EEBFC226-1D2E-40E1-A536-DFAC7BBEC303"
     }
   ]
 }
