@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mozilla:firefox:120.0:*:*:*:*:iphone_os:*:*",
   "cpeNameId": "07CB87EC-A3C3-4BA6-8B9F-CC0325916E67",
-  "lastModified": "2023-12-09T04:54:11.803",
+  "lastModified": "2026-08-19T15:30:33.807",
   "created": "2023-12-09T04:54:11.803",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2023-51/",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:mozilla:firefox_mobile:120.0:*:*:*:*:iphone_os:*:*",
+      "cpeNameId": "8F3D781F-28CF-4ABE-B976-363A77D00C1E"
     }
   ]
 }

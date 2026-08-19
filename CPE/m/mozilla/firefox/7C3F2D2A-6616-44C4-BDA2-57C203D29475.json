@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mozilla:firefox:92.0:*:*:*:*:android:*:*",
   "cpeNameId": "7C3F2D2A-6616-44C4-BDA2-57C203D29475",
-  "lastModified": "2021-11-04T14:58:05.737",
+  "lastModified": "2026-08-19T15:29:21.807",
   "created": "2021-11-03T16:57:06.460",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-38/",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:mozilla:firefox_mobile:92.0:*:*:*:*:android:*:*",
+      "cpeNameId": "54B50055-7DF2-4688-B543-C447FAF68F78"
     }
   ]
 }

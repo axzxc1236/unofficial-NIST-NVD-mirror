@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mozilla:firefox:21.0:*:*:*:*:iphone_os:*:*",
   "cpeNameId": "3D8679E4-2D10-4FE0-A61A-41686ED29D97",
-  "lastModified": "2020-05-27T17:12:54.783",
+  "lastModified": "2026-08-19T15:30:33.807",
   "created": "2020-05-27T17:12:54.783",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://apps.apple.com/us/app/firefox-private-safe-browser/id989804926?ct=mozorg-releasenotes_page-appstore-button",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:mozilla:firefox_mobile:21.0:*:*:*:*:iphone_os:*:*",
+      "cpeNameId": "C3FAEF2D-FF8C-4C48-A732-3B082C381DB4"
     }
   ]
 }

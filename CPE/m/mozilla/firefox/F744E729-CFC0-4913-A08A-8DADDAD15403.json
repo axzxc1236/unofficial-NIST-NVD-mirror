@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mozilla:firefox:84.0:*:*:*:*:android:*:*",
   "cpeNameId": "F744E729-CFC0-4913-A08A-8DADDAD15403",
-  "lastModified": "2021-01-08T19:05:08.470",
+  "lastModified": "2026-08-19T15:29:21.807",
   "created": "2021-01-08T19:05:08.470",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2020-54/",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:mozilla:firefox_mobile:84.0:*:*:*:*:android:*:*",
+      "cpeNameId": "2C31DFD9-2ADB-42E3-80B6-B2C48AE156FD"
     }
   ]
 }

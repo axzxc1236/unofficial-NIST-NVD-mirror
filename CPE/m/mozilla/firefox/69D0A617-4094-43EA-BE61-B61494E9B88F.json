@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mozilla:firefox:112.0:*:*:*:*:android:*:*",
   "cpeNameId": "69D0A617-4094-43EA-BE61-B61494E9B88F",
-  "lastModified": "2023-12-16T04:05:58.243",
+  "lastModified": "2026-08-19T15:29:21.807",
   "created": "2023-12-16T04:05:58.243",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2023-13/",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:mozilla:firefox_mobile:112.0:*:*:*:*:android:*:*",
+      "cpeNameId": "CF70A9A5-6BDB-48AF-997E-4E053C015577"
     }
   ]
 }

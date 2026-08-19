@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mozilla:firefox:129:*:*:*:*:android:*:*",
   "cpeNameId": "91A0CF4B-4FD0-42E9-BB33-1A0A4CEB3713",
-  "lastModified": "2024-10-16T19:55:13.033",
+  "lastModified": "2026-08-19T15:29:21.807",
   "created": "2024-10-16T19:55:13.033",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.mozilla.org/en-US/firefox/129.0/releasenotes/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:mozilla:firefox_mobile:129.0:*:*:*:*:android:*:*",
+      "cpeNameId": "42B531CC-975C-4453-A746-E435E7A5FBB0"
     }
   ]
 }

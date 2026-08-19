@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mozilla:firefox:26.0:*:*:*:*:iphone_os:*:*",
   "cpeNameId": "BFDA0A1E-3812-4909-BA68-53C1DB42F644",
-  "lastModified": "2020-07-13T13:22:53.887",
+  "lastModified": "2026-08-19T15:30:33.807",
   "created": "2020-07-13T13:22:53.887",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.mozilla.org/en-US/firefox/26.0/system-requirements/",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:mozilla:firefox_mobile:26.0:*:*:*:*:iphone_os:*:*",
+      "cpeNameId": "0A5953B2-72E6-4313-9B74-16E586C55E97"
     }
   ]
 }

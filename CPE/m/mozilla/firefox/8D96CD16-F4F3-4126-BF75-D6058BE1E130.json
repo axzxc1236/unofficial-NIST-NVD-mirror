@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mozilla:firefox:127.0:*:*:*:*:iphone_os:*:*",
   "cpeNameId": "8D96CD16-F4F3-4126-BF75-D6058BE1E130",
-  "lastModified": "2024-08-16T23:16:51.620",
+  "lastModified": "2026-08-19T15:30:33.807",
   "created": "2024-08-16T23:16:51.620",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://apps.apple.com/us/app/firefox-private-safe-browser/id989804926",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:mozilla:firefox_mobile:127.0:*:*:*:*:iphone_os:*:*",
+      "cpeNameId": "4427CD1E-A180-4B4E-BD0A-713A6D4A36B8"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mozilla:firefox:80.0:*:*:*:*:android:*:*",
   "cpeNameId": "CF81AAA8-9D81-4D3F-B839-82CD9804D6E3",
-  "lastModified": "2020-10-06T19:31:29.023",
+  "lastModified": "2026-08-19T15:29:21.807",
   "created": "2020-10-06T19:31:29.023",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.mozilla.org/en-US/firefox/android/80.0/releasenotes/",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:mozilla:firefox_mobile:80.0:*:*:*:*:android:*:*",
+      "cpeNameId": "A7A33090-EFAD-41EB-9079-5684584EFF19"
     }
   ]
 }

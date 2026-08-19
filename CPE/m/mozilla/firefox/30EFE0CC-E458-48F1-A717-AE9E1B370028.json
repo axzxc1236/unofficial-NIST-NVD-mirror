@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mozilla:firefox:-:*:*:*:*:iphone_os:*:*",
   "cpeNameId": "30EFE0CC-E458-48F1-A717-AE9E1B370028",
-  "lastModified": "2024-08-01T16:18:02.040",
+  "lastModified": "2026-08-19T15:30:33.807",
   "created": "2024-08-01T16:18:02.040",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=1837916",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:mozilla:firefox_mobile:-:*:*:*:*:iphone_os:*:*",
+      "cpeNameId": "9DCFA9DF-646C-4F55-8A91-A0FEA3EA0990"
     }
   ]
 }

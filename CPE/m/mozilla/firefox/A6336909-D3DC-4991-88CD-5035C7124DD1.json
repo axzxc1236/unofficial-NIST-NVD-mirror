@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:mozilla:firefox:102.0:*:*:*:*:ipados:*:*",
   "cpeNameId": "A6336909-D3DC-4991-88CD-5035C7124DD1",
-  "lastModified": "2022-12-27T18:05:08.333",
+  "lastModified": "2026-08-19T15:50:13.607",
   "created": "2022-12-27T16:06:16.820",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2022-27/",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:mozilla:firefox_mobile:102.0:*:*:*:*:iphone_os:*:*",
+      "cpeNameId": "63F68924-9EA3-4353-A1B0-53AA365087AD"
     }
   ]
 }

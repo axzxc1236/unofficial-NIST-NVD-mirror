@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:capricorn86:happy_dom:14.3.6:*:*:*:*:nodejs:*:*",
   "cpeNameId": "AABC2FA3-BC14-4B30-A064-969058619788",
-  "lastModified": "2026-04-01T13:28:27.753",
+  "lastModified": "2026-08-19T15:43:15.533",
   "created": "2026-04-01T13:28:27.753",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/capricorn86/happy-dom",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:capricorn86:happy_dom:14.3.6:*:*:*:*:node.js:*:*",
+      "cpeNameId": "D9887793-428A-4041-B495-8F7F572C39F8"
     }
   ]
 }
