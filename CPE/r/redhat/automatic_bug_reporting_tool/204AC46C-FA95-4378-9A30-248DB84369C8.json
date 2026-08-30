@@ -1,0 +1,37 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:redhat:automatic_bug_reporting_tool:2.1.12:*:*:*:*:*:*:*",
+  "cpeNameId": "204AC46C-FA95-4378-9A30-248DB84369C8",
+  "lastModified": "2026-08-26T20:06:00.887",
+  "created": "2026-08-26T20:06:00.887",
+  "titles": [
+    {
+      "title": "RedHat Automatic Bug Reporting Tool (ABRT) 2.1.12",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/abrt/abrt/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/abrt/abrt",
+      "type": "Product"
+    },
+    {
+      "ref": "https://abrt.readthedocs.io/en/latest/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/system_administrators_guide/ch-abrt",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:abrt_project:abrt:2.1.12:*:*:*:*:*:*:*",
+      "cpeNameId": "C43A72C4-BB36-4133-80A0-120AEFBF67DD"
+    }
+  ]
+}

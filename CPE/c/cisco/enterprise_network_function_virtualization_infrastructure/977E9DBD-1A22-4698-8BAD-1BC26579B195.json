@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cisco:enterprise_network_function_virtualization_infrastructure:3.12.3:*:*:*:*:*:*:*",
   "cpeNameId": "977E9DBD-1A22-4698-8BAD-1BC26579B195",
-  "lastModified": "2020-02-28T13:51:35.710",
+  "lastModified": "2026-08-24T18:22:58.150",
   "created": "2020-02-28T13:51:35.710",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.cisco.com/c/en/us/td/docs/routers/nfvis/release_notes/3-12/cisco-enterprise-nfvis-release-notes-3-12.html",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:enterprise_nfv_infrastructure_software:3.12.3:*:*:*:*:*:*:*",
+      "cpeNameId": "6BB61349-06E8-4626-9FF9-0A84D1DE2CBD"
     }
   ]
 }

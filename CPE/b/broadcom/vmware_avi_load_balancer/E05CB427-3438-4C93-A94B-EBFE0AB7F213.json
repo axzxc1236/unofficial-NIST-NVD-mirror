@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:broadcom:vmware_avi_load_balancer:30.2.7:*:*:*:*:*:*:*",
   "cpeNameId": "E05CB427-3438-4C93-A94B-EBFE0AB7F213",
-  "lastModified": "2026-08-13T15:53:24.123",
+  "lastModified": "2026-08-21T10:49:44.803",
   "created": "2026-08-13T15:51:38.123",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.broadcom.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:broadcom:vmware_avi_load_balancer:30.2.7:-:*:*:*:*:*:*",
+      "cpeNameId": "90D8E852-001B-4413-9D6C-FB72F21708C2"
     }
   ]
 }

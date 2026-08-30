@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:abrt_project:abrt:2.2.2:*:*:*:*:*:*:*",
   "cpeNameId": "A9DBC37C-ADFF-4767-B036-EDDB8F2FCC07",
-  "lastModified": "2019-10-09T17:37:50.317",
+  "lastModified": "2026-08-26T20:06:00.887",
   "created": "2019-10-09T17:37:50.317",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/abrt/abrt/releases",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:redhat:automatic_bug_reporting_tool:2.2.2:*:*:*:*:*:*:*",
+      "cpeNameId": "572E032B-94C8-4CAD-BD81-B4AD522ED691"
     }
   ]
 }

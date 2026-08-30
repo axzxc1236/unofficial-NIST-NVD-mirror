@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:versa-networks:versa_director:22.1.2:*:*:*:*:*:*:*",
   "cpeNameId": "FE34C53E-EF44-496C-AAE4-38437FEC1984",
-  "lastModified": "2024-09-04T20:02:04.240",
+  "lastModified": "2026-08-28T12:33:26.870",
   "created": "2024-09-04T20:02:04.240",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://versa-networks.com/blog/versa-security-bulletin-update-on-cve-2024-39717-versa-director-dangerous-file-type-upload-vulnerability/",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:versa-networks:versa_director:22.1.2:-:*:*:*:*:*:*",
+      "cpeNameId": "A95B64AC-DF05-4EA4-8355-0237D33FF2F6"
     }
   ]
 }

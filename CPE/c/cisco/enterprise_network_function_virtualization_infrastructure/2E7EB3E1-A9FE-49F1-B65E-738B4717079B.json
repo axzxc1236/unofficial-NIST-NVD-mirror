@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cisco:enterprise_network_function_virtualization_infrastructure:3.10.3:*:*:*:*:*:*:*",
   "cpeNameId": "2E7EB3E1-A9FE-49F1-B65E-738B4717079B",
-  "lastModified": "2021-04-02T17:56:57.200",
+  "lastModified": "2026-08-24T18:22:58.150",
   "created": "2019-08-14T16:37:06.877",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.cisco.com/c/en/us/support/routers/enterprise-nfv-infrastructure-software/products-release-notes-list.html",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:enterprise_nfv_infrastructure_software:3.10.3:*:*:*:*:*:*:*",
+      "cpeNameId": "1644D4B5-2B05-435C-BEA6-7EEFCD20E2FD"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:broadcom:vmware_avi_load_balancer:22.1.1:*:*:*:*:*:*:*",
   "cpeNameId": "43294077-8A78-413C-B0E8-FFA98806B76A",
-  "lastModified": "2026-08-13T15:02:28.903",
+  "lastModified": "2026-08-21T10:49:44.803",
   "created": "2026-08-13T15:02:28.903",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://techdocs.broadcom.com/us/en/vmware-security-load-balancing/avi-load-balancer/avi-load-balancer/32-1.html",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:broadcom:vmware_avi_load_balancer:22.1.1:-:*:*:*:*:*:*",
+      "cpeNameId": "6C912F93-C09D-4037-8F61-CC7F53352A0C"
     }
   ],
   "deprecates": [

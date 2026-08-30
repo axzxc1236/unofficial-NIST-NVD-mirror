@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:paloaltonetworks:prisma_access:5.0:*:*:*:preferred:*:*:*",
   "cpeNameId": "4F1DC046-5B30-41EF-AF55-7D7127899CC6",
-  "lastModified": "2025-01-22T14:27:51.687",
+  "lastModified": "2026-08-28T15:20:11.033",
   "created": "2025-01-22T14:27:51.687",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://docs.paloaltonetworks.com/prisma-access",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:paloaltonetworks:prisma_access:5.0.0:-:*:*:preferred:*:*:*",
+      "cpeNameId": "85ABED5F-F303-401A-8231-0CB5A9AAD448"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:abrt_project:abrt:2.0.17:*:*:*:*:*:*:*",
   "cpeNameId": "8AE0081D-F149-4D48-8D48-390D4B29E8EE",
-  "lastModified": "2019-10-09T17:37:46.177",
+  "lastModified": "2026-08-26T20:06:00.887",
   "created": "2019-10-09T17:37:46.177",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/abrt/abrt",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:redhat:automatic_bug_reporting_tool:2.0.17:*:*:*:*:*:*:*",
+      "cpeNameId": "175FECFB-5702-496E-8391-7E7CFA238F96"
     }
   ]
 }

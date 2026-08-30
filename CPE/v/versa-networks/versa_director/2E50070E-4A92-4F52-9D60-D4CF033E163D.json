@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:versa-networks:versa_director:20.2.3:*:*:*:*:*:*:*",
   "cpeNameId": "2E50070E-4A92-4F52-9D60-D4CF033E163D",
-  "lastModified": "2021-10-01T11:43:29.527",
+  "lastModified": "2026-08-28T12:33:26.870",
   "created": "2021-09-30T19:15:23.013",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://academy.versa-networks.com/upgrade_from_16_to_20/",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:versa-networks:versa_director:20.2.3:-:*:*:*:*:*:*",
+      "cpeNameId": "6106B1AF-971A-4F26-B033-9B5A71ACB57C"
     }
   ]
 }

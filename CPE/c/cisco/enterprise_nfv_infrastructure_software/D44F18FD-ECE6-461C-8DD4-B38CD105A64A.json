@@ -2,18 +2,32 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:cisco:enterprise_nfv_infrastructure_software:3.6.3:*:*:*:*:*:*:*",
   "cpeNameId": "D44F18FD-ECE6-461C-8DD4-B38CD105A64A",
-  "lastModified": "2021-03-16T18:32:14.317",
+  "lastModified": "2026-08-24T18:22:58.150",
   "created": "2018-06-19T16:16:37.610",
   "titles": [
     {
-      "title": "Cisco Enterprise NFV Infrastructure Software 3.6.3",
+      "title": "Cisco Enterprise Network Function Virtualization Infrastructure Software 3.6.3",
       "lang": "en"
     }
   ],
   "refs": [
     {
-      "ref": "https://software.cisco.com/download/home/286308649/type/286309317/release/3.8.1",
-      "type": "Version"
+      "ref": "https://www.cisco.com/c/en/us/support/routers/enterprise-nfv-infrastructure-software/products-release-notes-list.html",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.cisco.com/c/en/us/products/routers/enterprise-nfv-infrastructure-software/index.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.cisco.com/c/en/us/support/routers/enterprise-nfv-infrastructure-software/series.html",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:cisco:enterprise_network_function_virtualization_infrastructure:3.6.3:*:*:*:*:*:*:*",
+      "cpeNameId": "2EC52E96-A6E5-4A7F-940D-1E41E7E4D253"
     }
   ]
 }

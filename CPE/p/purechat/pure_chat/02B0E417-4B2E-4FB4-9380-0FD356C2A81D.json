@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:purechat:pure_chat:1.33:*:*:*:*:*:*:*",
   "cpeNameId": "02B0E417-4B2E-4FB4-9380-0FD356C2A81D",
-  "lastModified": "2024-06-17T13:31:22.667",
+  "lastModified": "2026-08-25T17:49:22.427",
   "created": "2024-06-17T13:31:22.667",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://purechat.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:purechat:pure_chat:1.33:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "2334116D-1006-4653-9FC7-314B47B5B1D7"
     }
   ]
 }
