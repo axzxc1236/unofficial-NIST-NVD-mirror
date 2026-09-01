@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:pivotal_software:spring_batch:4.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "1A4CA3C5-1755-45F0-9B32-598E6DBCC17D",
-  "lastModified": "2020-07-17T17:36:54.190",
+  "lastModified": "2026-09-01T18:07:18.263",
   "created": "2020-07-17T17:36:54.190",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/spring-projects/spring-batch/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:broadcom:spring_batch:4.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "BA8BCCD1-92DF-4428-A81F-7231E65874E8"
     }
   ]
 }
