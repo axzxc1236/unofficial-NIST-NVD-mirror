@@ -1,13 +1,33 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:intel:tdx_module:1.5.05.46.698:*:*:*:*:*:*:*",
   "cpeNameId": "67C661CD-7573-4AAC-AD27-48481860A6E9",
-  "lastModified": "2025-09-16T16:54:08.923",
+  "lastModified": "2026-08-31T13:37:56.760",
   "created": "2025-09-16T16:54:08.923",
   "titles": [
     {
       "title": "Intel Trust Domain Extensions (TDX) module 1.5.05.46.698",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01036.html",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.intel.com/content/www/us/en/download/738875/intel-trust-domain-extension-intel-tdx-module.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/intel/tdx-module",
+      "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:intel:tdx_module:1.5.05.46.698:*:*:*:*:*:*:*",
+      "cpeNameId": "6661A358-40C2-4FE9-AF03-A8EC4D57D756"
     }
   ]
 }

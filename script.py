@@ -52,7 +52,7 @@ class APIWorker():
         index = 0
         sleep_time = 0
         try:
-            async with niquests.AsyncSession(multiplexed=True, resolver="doh+cloudflare://", dns_cache=False) as s:
+            async with niquests.AsyncSession(multiplexed=True, resolver="doh+cloudflare://") as s:
                 while True:
                     print(f"[{datetime.now()}][{self.worker_name}] Making API request...")
                     self.query_parameters["startIndex"] = index
