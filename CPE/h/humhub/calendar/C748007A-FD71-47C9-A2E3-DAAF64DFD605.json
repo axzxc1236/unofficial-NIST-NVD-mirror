@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:humhub:calendar:1.7.13:*:*:*:*:*:*:*",
   "cpeNameId": "C748007A-FD71-47C9-A2E3-DAAF64DFD605",
-  "lastModified": "2026-03-18T15:36:19.730",
+  "lastModified": "2026-09-02T14:27:09.800",
   "created": "2026-03-18T15:36:19.730",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/humhub/calendar/tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:humhub:calendar:1.7.13:*:*:*:*:humhub:*:*",
+      "cpeNameId": "466C7224-46B7-4EF9-B99E-CA2B636C43EB"
     }
   ]
 }
