@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:isc:bind:9.10.7:s1:*:*:supported_preview:*:*:*",
   "cpeNameId": "36F8DB8C-E45A-426E-8D55-48A0983555B7",
-  "lastModified": "2019-12-10T15:55:33.440",
+  "lastModified": "2026-09-01T20:57:40.370",
   "created": "2019-12-10T15:55:33.440",
   "titles": [
     {
@@ -16,12 +16,34 @@
       "type": "Version"
     },
     {
-      "ref": "https://www.isc.org/downloads/bind/",
-      "type": "Product"
-    },
-    {
       "ref": "https://github.com/isc-projects/bind9/releases",
       "type": "Change Log"
+    },
+    {
+      "ref": "https://kb.isc.org/docs/cve-2019-6469",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://kb.isc.org/docs/cve-2019-6471",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://kb.isc.org/v1/docs/cve-2020-8625",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.isc.org/downloads/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://gitlab.isc.org/isc-projects/bind9/-/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:isc:bind:9.10.7:s1:*:*:*:*:*:*",
+      "cpeNameId": "A68CA145-B112-4916-A604-55537949410A"
     }
   ]
 }

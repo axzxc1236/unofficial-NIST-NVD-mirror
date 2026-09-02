@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:isc:bind:9.16.4:*:*:*:*:*:*:*",
   "cpeNameId": "3F031AA6-64A8-43C1-949D-21C57DD6D753",
-  "lastModified": "2020-06-22T19:03:12.973",
+  "lastModified": "2026-09-01T20:01:22.160",
   "created": "2020-06-22T19:03:12.973",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.isc.org/download/",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:isc:bind:9.16.4:*:*:*:-:*:*:*",
+      "cpeNameId": "307802A1-4DFB-4110-93E1-B8E6E70EC675"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:isc:bind:9.10.3:p2:*:*:*:*:*:*",
   "cpeNameId": "D606AA66-9759-45C7-BB8C-05E5FDDC2AAD",
-  "lastModified": "2016-01-22T19:02:39.897",
+  "lastModified": "2026-09-01T20:01:22.160",
   "created": "2016-01-22T19:02:39.897",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.isc.org/downloads/bind/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:isc:bind:9.10.3:p2:*:*:-:*:*:*",
+      "cpeNameId": "BA3E4677-A51D-434B-919B-7205F9F98F06"
     }
   ]
 }

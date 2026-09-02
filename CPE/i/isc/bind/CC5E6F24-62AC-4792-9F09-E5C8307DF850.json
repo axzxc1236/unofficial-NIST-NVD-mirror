@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:isc:bind:9.11.25:*:*:*:*:*:*:*",
   "cpeNameId": "CC5E6F24-62AC-4792-9F09-E5C8307DF850",
-  "lastModified": "2021-04-23T17:07:14.350",
+  "lastModified": "2026-09-01T20:01:22.160",
   "created": "2021-04-19T16:21:44.693",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.isc.org/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:isc:bind:9.11.25:*:*:*:-:*:*:*",
+      "cpeNameId": "F4755D06-47A0-45C2-ADCB-2191F0BD021F"
     }
   ]
 }

@@ -1,13 +1,19 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:isc:bind:9.11.30:s1:*:*:*:*:*:*",
   "cpeNameId": "79C796A9-E3EA-4654-A2ED-1E728883828B",
-  "lastModified": "2021-05-05T15:33:29.807",
+  "lastModified": "2026-09-01T20:57:40.370",
   "created": "2021-05-04T15:19:18.833",
   "titles": [
     {
       "title": "ISC BIND 9.11.30 S1",
       "lang": "en"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:isc:bind:9.11.30:s1:*:*:supported_preview:*:*:*",
+      "cpeNameId": "044F8A34-3485-4DD3-82DE-58DCA26B4BA6"
     }
   ]
 }

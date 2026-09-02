@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:isc:bind:9.12.0:b1:*:*:*:*:*:*",
   "cpeNameId": "CA250C75-CE78-45BC-8C53-34D85F07668A",
-  "lastModified": "2018-09-04T15:34:15.690",
+  "lastModified": "2026-09-01T20:01:22.160",
   "created": "2018-09-04T15:34:15.690",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "http://ftp.isc.org/isc/bind/",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:isc:bind:9.12.0:b1:*:*:-:*:*:*",
+      "cpeNameId": "7D51DDCB-09D8-4B18-88F2-FACA2B8493FC"
     }
   ]
 }

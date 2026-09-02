@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:isc:bind:9.11.4:-:*:*:*:*:*:*",
   "cpeNameId": "86961A6C-201E-49FA-AFBA-15A1FF864A76",
-  "lastModified": "2019-10-28T16:00:04.890",
+  "lastModified": "2026-09-01T20:01:22.160",
   "created": "2019-10-28T16:00:04.890",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/isc-projects/bind9/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:isc:bind:9.11.4:-:*:*:-:*:*:*",
+      "cpeNameId": "11F0154E-C901-443B-AC3F-294417DFFAFC"
     }
   ]
 }

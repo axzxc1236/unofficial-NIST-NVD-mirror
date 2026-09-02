@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:isc:bind:9.11.1:beta1:*:*:*:*:*:*",
   "cpeNameId": "220941E9-9649-4680-A012-56B4D8D5A46E",
-  "lastModified": "2021-04-19T16:16:24.830",
+  "lastModified": "2026-09-01T20:01:22.160",
   "created": "2019-01-22T15:35:46.383",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://gitlab.isc.org/isc-projects/bind9/-/tags",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:isc:bind:9.11.1:beta1:*:*:-:*:*:*",
+      "cpeNameId": "362AF6D3-1C25-4F03-93D8-2FF68377AD66"
     }
   ]
 }
