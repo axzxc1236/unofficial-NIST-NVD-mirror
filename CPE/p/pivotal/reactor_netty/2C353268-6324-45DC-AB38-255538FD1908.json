@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:pivotal:reactor_netty:1.0.16:*:*:*:*:*:*:*",
   "cpeNameId": "2C353268-6324-45DC-AB38-255538FD1908",
-  "lastModified": "2024-02-08T12:42:17.200",
+  "lastModified": "2026-09-04T18:59:12.370",
   "created": "2024-02-08T12:42:17.200",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://spring.io/security/cve-2023-34054",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:broadcom:reactor_netty:1.0.16:*:*:*:*:*:*:*",
+      "cpeNameId": "4C24B15C-1769-4364-8E87-09C457897F87"
     }
   ]
 }

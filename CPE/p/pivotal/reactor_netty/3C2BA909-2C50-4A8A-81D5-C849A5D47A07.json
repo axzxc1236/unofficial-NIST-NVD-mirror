@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:pivotal:reactor_netty:0.8.4:*:*:*:*:*:*:*",
   "cpeNameId": "3C2BA909-2C50-4A8A-81D5-C849A5D47A07",
-  "lastModified": "2019-10-21T11:56:54.177",
+  "lastModified": "2026-09-04T18:59:12.370",
   "created": "2019-10-21T11:56:54.177",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/reactor/reactor-netty/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:broadcom:reactor_netty:0.8.4:*:*:*:*:*:*:*",
+      "cpeNameId": "1B31A640-9C9C-4C19-87F7-128188A0E045"
     }
   ]
 }
