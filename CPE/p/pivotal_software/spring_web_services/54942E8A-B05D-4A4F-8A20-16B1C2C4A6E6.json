@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:pivotal_software:spring_web_services:2.0.0:milestone2:*:*:*:*:*:*",
   "cpeNameId": "54942E8A-B05D-4A4F-8A20-16B1C2C4A6E6",
-  "lastModified": "2020-02-04T15:29:09.390",
+  "lastModified": "2026-09-04T13:45:35.430",
   "created": "2020-02-04T15:29:09.390",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/spring-projects/spring-ws",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:broadcom:spring_web_services:2.0.0:milestone2:*:*:*:*:*:*",
+      "cpeNameId": "08BA0ADE-4FC9-48BC-978F-D646B7FC7442"
     }
   ]
 }
