@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:auth0:lock:9.1.2:*:*:*:*:*:*:*",
   "cpeNameId": "C95B5947-28C3-4A18-B0D9-5ECE108BD3EE",
-  "lastModified": "2020-02-05T18:44:39.473",
+  "lastModified": "2026-09-09T18:28:30.763",
   "created": "2020-02-05T18:44:39.473",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/auth0/lock/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:auth0:lock:9.1.2:*:*:*:*:node.js:*:*",
+      "cpeNameId": "0692B4A2-9323-4403-9CA0-3D278E7E24D3"
     }
   ]
 }

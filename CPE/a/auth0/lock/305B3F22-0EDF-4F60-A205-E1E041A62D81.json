@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:auth0:lock:11.24.0:*:*:*:*:*:*:*",
   "cpeNameId": "305B3F22-0EDF-4F60-A205-E1E041A62D81",
-  "lastModified": "2020-08-20T17:29:27.460",
+  "lastModified": "2026-09-09T18:28:26.243",
   "created": "2020-08-20T17:29:27.460",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/auth0/lock",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:auth0:lock:11.24.0:*:*:*:*:node.js:*:*",
+      "cpeNameId": "14F14456-D458-494B-ADE4-2DEB94D48633"
     }
   ]
 }
