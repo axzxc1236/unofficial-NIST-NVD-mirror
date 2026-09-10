@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:blazy_project:blazy:2.10:rc3:*:*:*:drupal:*:*",
   "cpeNameId": "A018CD59-3756-44A9-952D-83F1D87D59B0",
-  "lastModified": "2026-09-04T16:02:14.890",
+  "lastModified": "2026-09-10T10:38:24.823",
   "created": "2026-09-04T16:02:14.890",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.drupal.org/sa-contrib-2026-104",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:blazy_project:blazy:8.x-2.10:rc3:*:*:*:drupal:*:*",
+      "cpeNameId": "167ADF13-5A3C-402F-85F8-8E995361F9C9"
     }
   ]
 }
