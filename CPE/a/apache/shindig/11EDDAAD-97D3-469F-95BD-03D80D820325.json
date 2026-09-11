@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:apache:shindig:2.5.0:*:*:*:*:*:*:*",
   "cpeNameId": "11EDDAAD-97D3-469F-95BD-03D80D820325",
-  "lastModified": "2013-10-24T13:56:45.823",
+  "lastModified": "2026-09-11T14:02:16.547",
   "created": "2013-10-24T13:55:15.323",
   "titles": [
     {
@@ -13,6 +13,12 @@
   "refs": [
     {
       "ref": "http://shindig.apache.org/security.html"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:apache:shindig:2.5.0:-:*:*:*:*:*:*",
+      "cpeNameId": "96BFC0F6-D254-403F-AA54-BDC08AB4CA54"
     }
   ]
 }
