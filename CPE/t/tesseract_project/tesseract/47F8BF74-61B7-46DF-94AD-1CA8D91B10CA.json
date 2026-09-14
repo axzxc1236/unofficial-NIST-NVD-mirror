@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:tesseract_project:tesseract:2.04:*:*:*:*:*:*:*",
   "cpeNameId": "47F8BF74-61B7-46DF-94AD-1CA8D91B10CA",
-  "lastModified": "2021-08-16T15:12:22.407",
+  "lastModified": "2026-09-14T14:10:44.773",
   "created": "2019-11-15T15:50:02.193",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://nvd-admin.nist.gov/admin/consoles/client/index.webadmin.html#/cpe/request/130685?view=&newTab=true",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:tesseract-ocr:tesseract_ocr:2.04:*:*:*:*:*:*:*",
+      "cpeNameId": "8D4CDCAB-ADE5-4B9D-935C-C8C9832D6E11"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:tesseract_project:tesseract:4.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "99256D00-D0E4-4B1B-BB91-BA65E33E99A4",
-  "lastModified": "2021-07-30T19:07:13.780",
+  "lastModified": "2026-09-14T14:10:44.773",
   "created": "2021-07-30T15:05:30.593",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://opensource.google/projects/tesseract",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:tesseract-ocr:tesseract_ocr:4.0.0:-:*:*:*:*:*:*",
+      "cpeNameId": "2F7AE564-2863-4245-B642-2748EAC31D5F"
     }
   ]
 }

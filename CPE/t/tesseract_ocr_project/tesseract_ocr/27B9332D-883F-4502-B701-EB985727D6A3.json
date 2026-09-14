@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:tesseract_ocr_project:tesseract_ocr:1.04:-:*:*:*:*:*:*",
   "cpeNameId": "27B9332D-883F-4502-B701-EB985727D6A3",
-  "lastModified": "2022-09-13T14:46:28.340",
+  "lastModified": "2026-09-14T14:14:21.223",
   "created": "2022-09-12T19:25:50.957",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/tesseract-ocr/tesseract/releases?page=2",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:tesseract-ocr:tesseract_ocr:1.04:-:*:*:*:*:*:*",
+      "cpeNameId": "0D34532E-DFA3-48B5-A878-44F01C359560"
     }
   ]
 }
