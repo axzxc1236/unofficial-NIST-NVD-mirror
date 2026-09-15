@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:adobe:xd:16.0:*:*:*:*:*:*:*",
   "cpeNameId": "F7B2A41A-1ECB-4F78-959D-2CAFDC5F24BD",
-  "lastModified": "2019-05-24T12:30:36.907",
+  "lastModified": "2026-09-15T18:25:36.487",
   "created": "2019-05-24T12:30:36.907",
   "titles": [
     {
@@ -14,6 +14,16 @@
     {
       "ref": "https://helpx.adobe.com/security/products/xd/apsb19-22.html",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:adobe:xd:16.0:*:*:*:desktop:-:*:*",
+      "cpeNameId": "9EDC25FB-71FF-4F74-951B-C8BC2996E824"
+    },
+    {
+      "cpeName": "cpe:2.3:a:adobe:xd:17.0.12:*:*:*:desktop:-:*:*",
+      "cpeNameId": "23F14470-40FA-4CB6-9BF7-7A767E0C4298"
     }
   ]
 }
