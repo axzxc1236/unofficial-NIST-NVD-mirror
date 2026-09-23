@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:checkpoint:gaia_os:r81.10:*:*:*:*:*:*:*",
   "cpeNameId": "256C7D44-EA61-46ED-AD64-6A32BB2C0BA5",
-  "lastModified": "2026-01-15T15:35:14.840",
+  "lastModified": "2026-09-23T12:51:10.593",
   "created": "2026-01-15T15:35:14.840",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://support.checkpoint.com/results/sk/sk182743",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:checkpoint:gaia_os:r81.10:-:*:*:*:*:*:*",
+      "cpeNameId": "27BCAF1B-A7A5-48E9-A832-29300910F1FE"
     }
   ]
 }
