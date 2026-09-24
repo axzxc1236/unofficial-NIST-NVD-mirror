@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:drupal:quick_tabs:6.x-2.0:*:*:*:*:drupal:*:*",
   "cpeNameId": "0B2DB86D-5D8F-4E7F-A577-827020A73474",
-  "lastModified": "2019-12-12T18:31:41.303",
+  "lastModified": "2026-09-24T18:01:45.160",
   "created": "2019-12-12T18:31:41.303",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.drupal.org/project/quicktabs/releases",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:quick_tabs_project:quick_tabs:6.x-2.0:-:*:*:*:drupal:*:*",
+      "cpeNameId": "5E31A2E8-E9BE-42C5-9D48-F7E18EE82B99"
     }
   ]
 }

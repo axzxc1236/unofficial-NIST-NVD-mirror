@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:redhat:ansible_automation_platform:2.6:*:*:*:*:*:*:*",
   "cpeNameId": "849D5C3D-731E-4D19-801F-338FD159A1BB",
-  "lastModified": "2026-05-01T14:32:16.167",
+  "lastModified": "2026-09-24T18:12:11.080",
   "created": "2026-05-01T14:32:16.167",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://access.redhat.com/errata/RHSA-2025:21768",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:redhat:ansible_automation_platform:2.6:-:*:*:*:*:*:*",
+      "cpeNameId": "6E20AA6D-19B4-4296-967B-241F7811F6C0"
     }
   ]
 }
