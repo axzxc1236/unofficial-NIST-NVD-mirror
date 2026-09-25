@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:progress:whatsupgold:21.1.0:*:*:*:*:*:*:*",
   "cpeNameId": "41E82427-9F8D-408B-800E-17B249E96FE7",
-  "lastModified": "2022-03-17T16:56:02.707",
+  "lastModified": "2026-09-25T16:48:10.767",
   "created": "2021-10-05T15:02:02.727",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.progress.com/",
       "type": "Vendor"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:progress:whatsup_gold:21.1.0:*:*:*:*:*:*:*",
+      "cpeNameId": "6B39BA88-DC2D-4CB3-AB9F-04264F9F64AF"
     }
   ]
 }
