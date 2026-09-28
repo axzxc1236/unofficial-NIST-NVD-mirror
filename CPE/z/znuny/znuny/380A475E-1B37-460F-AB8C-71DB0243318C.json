@@ -2,11 +2,11 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:znuny:znuny:6.5.14:*:*:*:lts:*:*:*",
   "cpeNameId": "380A475E-1B37-460F-AB8C-71DB0243318C",
-  "lastModified": "2025-06-13T14:27:24.250",
+  "lastModified": "2026-09-28T14:57:39.680",
   "created": "2025-06-13T14:27:24.250",
   "titles": [
     {
-      "title": "Znuny 6.5.14 TLS Edition",
+      "title": "Znuny 6.5.14 LTS Edition",
       "lang": "en"
     }
   ],
@@ -22,6 +22,12 @@
     {
       "ref": "https://download.znuny.org/releases/",
       "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:znuny:znuny:6.5.14:*:*:*:-:*:*:*",
+      "cpeNameId": "BCC96E79-2BB1-4E39-9013-0F004A97C520"
     }
   ]
 }
