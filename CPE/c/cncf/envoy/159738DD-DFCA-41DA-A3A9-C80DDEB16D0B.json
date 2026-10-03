@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:cncf:envoy:1.13.0:*:*:*:*:*:*:*",
   "cpeNameId": "159738DD-DFCA-41DA-A3A9-C80DDEB16D0B",
-  "lastModified": "2020-03-05T14:41:19.457",
+  "lastModified": "2026-10-02T21:00:25.163",
   "created": "2020-03-05T14:41:19.457",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.envoyproxy.io/docs/envoy/v1.13.1/intro/version_history",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:envoyproxy:envoy:1.13.0:*:*:*:*:*:*:*",
+      "cpeNameId": "414AA93E-B366-4821-BE05-DEA279126D80"
     }
   ]
 }
