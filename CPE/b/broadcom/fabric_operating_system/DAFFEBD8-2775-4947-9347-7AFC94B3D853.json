@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:o:broadcom:fabric_operating_system:9.1.1:*:*:*:*:*:*:*",
   "cpeNameId": "DAFFEBD8-2775-4947-9347-7AFC94B3D853",
-  "lastModified": "2023-02-21T17:43:46.510",
+  "lastModified": "2026-10-13T18:25:34.177",
   "created": "2022-10-26T17:48:50.350",
   "titles": [
     {
@@ -18,6 +18,16 @@
     {
       "ref": "https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2022-2075",
       "type": "Advisory"
+    },
+    {
+      "ref": "https://www.broadcom.com/products/fibre-channel-networking/software/fabric-operating-system",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:brocade:fabric_operating_system:9.1.1:*:*:*:*:*:*:*",
+      "cpeNameId": "D8EB3449-6FFC-4970-BFFF-3FFF1F0414CC"
     }
   ]
 }

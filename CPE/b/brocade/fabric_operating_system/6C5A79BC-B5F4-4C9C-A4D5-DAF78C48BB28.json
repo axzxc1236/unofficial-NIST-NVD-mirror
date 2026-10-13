@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:brocade:fabric_operating_system:-:*:*:*:*:*:*:*",
   "cpeNameId": "6C5A79BC-B5F4-4C9C-A4D5-DAF78C48BB28",
-  "lastModified": "2021-09-23T19:36:14.477",
+  "lastModified": "2026-10-13T18:25:34.177",
   "created": "2021-09-03T17:13:38.907",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.broadcom.com/products/fibre-channel-networking/software/fabric-operating-system",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:broadcom:fabric_operating_system:-:*:*:*:*:*:*:*",
+      "cpeNameId": "126D959D-5227-48A3-9632-8A4460BDFFA3"
     }
   ]
 }
