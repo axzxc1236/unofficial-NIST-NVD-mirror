@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:lingotek:ray_enterprise_translation:6.x-1.31:*:*:*:*:drupal:*:*",
   "cpeNameId": "56828386-9316-48CB-B410-D7ECFF1F99DD",
-  "lastModified": "2026-08-07T17:28:18.230",
+  "lastModified": "2026-10-20T17:49:59.130",
   "created": "2026-08-07T17:28:18.230",
   "titles": [
     {
@@ -26,6 +26,12 @@
     {
       "ref": "https://www.drupal.org/project/lingotek",
       "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:lingotek:lingotek:6.x-1.31:*:*:*:*:*:*:*",
+      "cpeNameId": "0DF543F7-585C-470D-B406-EC7616F9DA91"
     }
   ]
 }
