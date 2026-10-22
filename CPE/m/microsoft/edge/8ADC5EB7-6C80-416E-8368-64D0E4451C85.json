@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:edge:97.0.4692.99:*:*:*:*:*:*:*",
   "cpeNameId": "8ADC5EB7-6C80-416E-8368-64D0E4451C85",
-  "lastModified": "2022-09-22T15:23:23.800",
+  "lastModified": "2026-10-22T15:12:28.383",
   "created": "2022-01-31T17:13:06.777",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.microsoft.com/en-us/windows/microsoft-edge",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:edge:97.0.4692.99:*:*:*:*:-:*:*",
+      "cpeNameId": "1B6C95F1-103A-43DD-AA60-CACD9258C2D3"
     }
   ]
 }

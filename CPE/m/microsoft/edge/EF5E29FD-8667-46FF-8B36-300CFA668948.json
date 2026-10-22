@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:edge:93.0.961.44:*:*:*:*:*:*:*",
   "cpeNameId": "EF5E29FD-8667-46FF-8B36-300CFA668948",
-  "lastModified": "2022-09-22T15:23:23.800",
+  "lastModified": "2026-10-22T15:12:28.383",
   "created": "2021-09-21T15:21:20.260",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://docs.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:edge:93.0.961.44:*:*:*:*:-:*:*",
+      "cpeNameId": "D0B5704B-63AB-46A3-9066-C5722414B617"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:microsoft:edge:81.0.416.68:*:*:*:*:*:*:*",
   "cpeNameId": "83AA78FA-7383-4984-87DC-F7448E3C4E08",
-  "lastModified": "2020-11-12T18:36:26.173",
+  "lastModified": "2026-10-22T15:12:28.383",
   "created": "2020-11-12T18:36:26.173",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://docs.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:microsoft:edge:81.0.416.68:*:*:*:*:-:*:*",
+      "cpeNameId": "7E52690F-1C6F-4AA0-B6CD-9617E5BA2714"
     }
   ]
 }
