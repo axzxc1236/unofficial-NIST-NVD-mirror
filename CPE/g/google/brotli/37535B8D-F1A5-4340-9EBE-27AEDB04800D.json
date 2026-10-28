@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:google:brotli:1.0.8:*:*:*:*:*:*:*",
   "cpeNameId": "37535B8D-F1A5-4340-9EBE-27AEDB04800D",
-  "lastModified": "2020-09-15T20:20:58.337",
+  "lastModified": "2026-10-28T14:58:56.820",
   "created": "2020-09-15T20:20:58.337",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://github.com/google/brotli",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:google:brotli:1.0.8:*:*:*:*:-:*:*",
+      "cpeNameId": "494E569E-5EB0-4836-B241-A97A95286DDA"
     }
   ]
 }
