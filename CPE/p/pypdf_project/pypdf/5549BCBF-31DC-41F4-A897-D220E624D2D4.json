@@ -1,13 +1,33 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:pypdf_project:pypdf:4.3.1:*:*:*:*:*:*:*",
   "cpeNameId": "5549BCBF-31DC-41F4-A897-D220E624D2D4",
-  "lastModified": "2025-08-21T19:19:08.720",
+  "lastModified": "2026-11-02T16:06:04.477",
   "created": "2025-08-21T19:19:08.720",
   "titles": [
     {
       "title": "Pypdf Project Pypdf 4.3.1",
       "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/py-pdf/pypdf/security/advisories/GHSA-7hfw-26vp-jp8m",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://pypi.org/project/pypdf/#history",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/py-pdf/pypdf/tags",
+      "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:py-pdf:pypdf:4.3.1:*:*:*:*:python:*:*",
+      "cpeNameId": "22EE15F8-D468-42CE-8F15-CE135014B107"
     }
   ]
 }

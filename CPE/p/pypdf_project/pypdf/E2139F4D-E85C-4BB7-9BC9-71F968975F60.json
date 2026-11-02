@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:pypdf_project:pypdf:6.7.0:*:*:*:*:*:*:*",
   "cpeNameId": "E2139F4D-E85C-4BB7-9BC9-71F968975F60",
-  "lastModified": "2026-02-27T17:26:28.120",
+  "lastModified": "2026-11-02T16:06:04.477",
   "created": "2026-02-27T17:26:28.120",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://github.com/py-pdf/pypdf",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:py-pdf:pypdf:6.7.0:*:*:*:*:python:*:*",
+      "cpeNameId": "199EEC2E-89BF-4F01-B7ED-B418E0762465"
     }
   ]
 }

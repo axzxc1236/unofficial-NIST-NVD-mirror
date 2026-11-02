@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:pypdf_project:pypdf:3.16.4:*:*:*:*:*:*:*",
   "cpeNameId": "0F4D7DDB-0AC9-48BE-B6EA-CE9AFE2EEF44",
-  "lastModified": "2023-11-07T18:36:52.863",
+  "lastModified": "2026-11-02T16:06:04.477",
   "created": "2023-11-07T18:36:52.863",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/py-pdf/pypdf/security/advisories/GHSA-wjcc-cq79-p63f",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:py-pdf:pypdf:3.16.4:*:*:*:*:python:*:*",
+      "cpeNameId": "598F5BED-4D39-4682-B46D-33A5E40F3E48"
     }
   ]
 }

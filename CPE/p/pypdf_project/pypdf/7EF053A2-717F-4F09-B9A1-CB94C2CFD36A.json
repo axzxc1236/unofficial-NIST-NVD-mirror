@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:pypdf_project:pypdf:6.8.0:*:*:*:*:*:*:*",
   "cpeNameId": "7EF053A2-717F-4F09-B9A1-CB94C2CFD36A",
-  "lastModified": "2026-04-24T13:07:09.180",
+  "lastModified": "2026-11-02T16:06:04.477",
   "created": "2026-04-24T13:07:09.180",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://pypi.org/project/pypdf/#history",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:py-pdf:pypdf:6.8.0:*:*:*:*:python:*:*",
+      "cpeNameId": "4C87F918-CD78-4A60-97E0-7B01764E5FCA"
     }
   ]
 }
