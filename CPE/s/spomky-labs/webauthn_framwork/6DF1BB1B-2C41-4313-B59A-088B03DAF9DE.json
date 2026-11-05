@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:spomky-labs:webauthn_framwork:3.3.0:*:*:*:*:*:*:*",
   "cpeNameId": "6DF1BB1B-2C41-4313-B59A-088B03DAF9DE",
-  "lastModified": "2021-10-05T13:33:06.107",
+  "lastModified": "2026-11-05T19:59:32.573",
   "created": "2021-10-05T12:59:20.730",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.fzi.de/en/news/news/detail-en/artikel/fsa-2021-1-fehlende-ueberpruefung-von-user-presence-in-webauthn-framework/",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:spomky-labs:webauthn_framework:3.3.0:*:*:*:*:*:*:*",
+      "cpeNameId": "472DAED6-45FA-450B-B118-27EEFBA3593F"
     }
   ]
 }

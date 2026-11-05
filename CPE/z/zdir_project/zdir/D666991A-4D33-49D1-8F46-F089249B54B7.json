@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:zdir_project:zdir:3.0.0:*:*:*:*:*:*:*",
   "cpeNameId": "D666991A-4D33-49D1-8F46-F089249B54B7",
-  "lastModified": "2023-01-31T15:03:01.180",
+  "lastModified": "2026-11-04T16:40:46.690",
   "created": "2023-01-30T14:22:06.587",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://github.com/helloxz/zdir",
       "type": "Project"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:zdir:zdir:3.0.0:*:*:*:*:*:*:*",
+      "cpeNameId": "77C369A2-18BC-46D7-8AB4-6F49F7E6948A"
     }
   ]
 }
