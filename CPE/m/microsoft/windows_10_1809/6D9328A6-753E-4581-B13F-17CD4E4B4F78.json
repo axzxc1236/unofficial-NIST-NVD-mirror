@@ -2,11 +2,11 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:o:microsoft:windows_10_1809:10.0.17763.8276:*:*:*:*:*:x64:*",
   "cpeNameId": "6D9328A6-753E-4581-B13F-17CD4E4B4F78",
-  "lastModified": "2026-01-15T19:22:14.243",
+  "lastModified": "2026-11-09T18:35:59.843",
   "created": "2026-01-15T19:22:14.243",
   "titles": [
     {
-      "title": "Microsoft Windows 10 1809 10.0.17763.8276 on on x86",
+      "title": "Microsoft Windows 10 1809 10.0.17763.8276 on x64",
       "lang": "en"
     }
   ],
@@ -14,6 +14,10 @@
     {
       "ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
       "type": "Version"
+    },
+    {
+      "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20805",
+      "type": "Advisory"
     }
   ]
 }
