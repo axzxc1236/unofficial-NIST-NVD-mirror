@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:h:sonicwall:nsv50:-:*:*:*:*:*:*:*",
   "cpeNameId": "7077D918-E9AC-4AE1-A031-C7624A1D9010",
-  "lastModified": "2022-05-16T03:02:01.230",
+  "lastModified": "2026-11-09T14:48:14.190",
   "created": "2022-05-06T12:57:14.037",
   "titles": [
     {
@@ -18,6 +18,12 @@
     {
       "ref": "https://www.sonicwall.com/products/firewalls/nsv-series/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:sonicwall:nsv_50:-:*:*:*:*:*:*:*",
+      "cpeNameId": "A8B5AF8D-4BC2-4741-8181-8DE33FE5B74D"
     }
   ]
 }

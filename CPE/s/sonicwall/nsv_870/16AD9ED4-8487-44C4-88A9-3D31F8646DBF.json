@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:h:sonicwall:nsv_870:-:*:*:*:*:*:*:*",
   "cpeNameId": "16AD9ED4-8487-44C4-88A9-3D31F8646DBF",
-  "lastModified": "2021-07-07T18:16:52.630",
+  "lastModified": "2026-11-09T14:43:41.437",
   "created": "2021-07-06T18:36:59.553",
   "titles": [
     {
@@ -22,6 +22,12 @@
     {
       "ref": "https://www.sonicwall.com/medialibrary/en/datasheet/datasheet-sonicwall-network-security-virtual-nsv-series.pdf",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:sonicwall:nsv_870:-:*:*:*:*:*:*:*",
+      "cpeNameId": "F791D37D-19FD-45B7-A4C2-52F3FEC9332D"
     }
   ]
 }
