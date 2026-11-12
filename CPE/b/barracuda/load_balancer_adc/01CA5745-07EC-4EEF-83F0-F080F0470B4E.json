@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:barracuda:load_balancer_adc:6.6.0.009:*:*:*:*:*:*:*",
   "cpeNameId": "01CA5745-07EC-4EEF-83F0-F080F0470B4E",
-  "lastModified": "2026-11-10T20:53:15.760",
+  "lastModified": "2026-11-12T14:57:33.517",
   "created": "2026-11-10T20:53:15.760",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://documentation.campus.barracuda.com/wiki/spaces/LBADCv50/pages/7405592/What+s+New+in+the+Barracuda+Load+Balancer+ADC",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:barracuda:load_balancer_adc_firmware:6.6.0.009:*:*:*:*:*:*:*",
+      "cpeNameId": "250D24D3-BDF3-4789-B697-D8E4CB433DF3"
     }
   ]
 }

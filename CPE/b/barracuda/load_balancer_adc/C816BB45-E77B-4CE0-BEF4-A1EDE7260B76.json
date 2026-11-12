@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:barracuda:load_balancer_adc:6.1.0.004:*:*:*:*:*:*:*",
   "cpeNameId": "C816BB45-E77B-4CE0-BEF4-A1EDE7260B76",
-  "lastModified": "2020-07-01T12:02:45.510",
+  "lastModified": "2026-11-12T14:57:33.517",
   "created": "2020-07-01T12:02:45.510",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://campus.barracuda.com/product/loadbalanceradc/article/ADC/ReleaseNotes610003/",
       "type": "Change Log"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:barracuda:load_balancer_adc_firmware:6.1.0.004:*:*:*:*:*:*:*",
+      "cpeNameId": "8A0F4CC2-C80C-4454-81F9-53F99FF9B4B5"
     }
   ]
 }
