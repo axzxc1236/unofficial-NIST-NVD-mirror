@@ -2,7 +2,7 @@
   "deprecated": false,
   "cpeName": "cpe:2.3:a:gnome:gnome_keyring:0.3.1:*:*:*:*:*:*:*",
   "cpeNameId": "AE7C0C80-DBA7-42FC-9B01-F6B8308897E3",
-  "lastModified": "2019-03-20T14:16:10.530",
+  "lastModified": "2026-11-19T19:43:47.007",
   "created": "2019-03-20T14:16:10.530",
   "titles": [
     {
@@ -12,12 +12,30 @@
   ],
   "refs": [
     {
-      "ref": "https://gitlab.gnome.org/GNOME/gnome-keyring/tags?sort=updated_desc",
+      "ref": "https://gitlab.gnome.org/GNOME/gnome-keyring",
+      "type": "Product"
+    },
+    {
+      "ref": "https://gitlab.gnome.org/GNOME/gnome-keyring/-/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://gitlab.gnome.org/GNOME/gnome-keyring/-/releases",
       "type": "Change Log"
     },
     {
-      "ref": "https://gitlab.gnome.org/GNOME/gnome-keyring",
+      "ref": "https://github.com/GNOME/gnome-keyring/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://wiki.gnome.org/Projects/GnomeKeyring",
       "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:gnome:gnome-keyring:0.3.1:*:*:*:*:*:*:*",
+      "cpeNameId": "55D5F4F5-464E-43D1-A09D-B1D7DD7DBCED"
     }
   ]
 }

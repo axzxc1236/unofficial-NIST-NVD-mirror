@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:a:gnome:gnome-keyring:3.3.1:*:*:*:*:*:*:*",
   "cpeNameId": "078E2285-43E7-4D97-A1CB-25D2FDD8F400",
-  "lastModified": "2019-10-16T18:47:10.787",
+  "lastModified": "2026-11-19T19:43:47.007",
   "created": "2019-10-16T18:47:10.787",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://gitlab.gnome.org/GNOME/gnome-keyring/tags?page=9&sort=updated_desc",
       "type": "Version"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:a:gnome:gnome_keyring:3.3.1:*:*:*:*:*:*:*",
+      "cpeNameId": "7E401DF3-D8C1-45BB-B165-9848FAEB32F5"
     }
   ]
 }
