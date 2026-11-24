@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:nokia:service_router_operating_system:25.7:r1:*:*:*:*:*:*",
   "cpeNameId": "4DB64F35-0F27-4655-83AA-6C2681B55A21",
-  "lastModified": "2026-07-07T12:54:14.210",
+  "lastModified": "2026-11-24T17:54:04.890",
   "created": "2026-07-07T12:54:14.210",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://documentation.nokia.com/sr/index.html",
       "type": "Advisory"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:nokia:sr_os:25.7:r1:*:*:*:*:*:*",
+      "cpeNameId": "78F629EE-B872-478B-9F17-E77960EC2319"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "deprecated": false,
+  "deprecated": true,
   "cpeName": "cpe:2.3:o:nokia:service_router_operating_system:-:*:*:*:*:*:*:*",
   "cpeNameId": "D1B04D6C-E495-4E5B-9C08-ED34755EBE50",
-  "lastModified": "2023-09-07T18:11:23.160",
+  "lastModified": "2026-11-24T17:54:04.890",
   "created": "2023-09-05T14:40:44.070",
   "titles": [
     {
@@ -14,6 +14,12 @@
     {
       "ref": "https://www.nokia.com/networks/technologies/service-router-operating-system/",
       "type": "Product"
+    }
+  ],
+  "deprecatedBy": [
+    {
+      "cpeName": "cpe:2.3:o:nokia:sr_os:-:*:*:*:*:*:*:*",
+      "cpeNameId": "89E754B5-C516-4428-84A0-A8B70381D237"
     }
   ]
 }
